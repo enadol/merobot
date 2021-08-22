@@ -1,0 +1,18 @@
+﻿1. Spieltag
+        Bor. Mönchengladbach  1-1  Bayern München
+        VfL Wolfsburg  1-0  VfL Bochum
+        1. FC Union Berlin  1-1  Bayer 04 Leverkusen
+        VfB Stuttgart  5-1  SpVgg Greuther Fürth
+        FC Augsburg  0-4  TSG Hoffenheim
+        Arminia Bielefeld  0-0  SC Freiburg
+        Borussia Dortmund  5-2  Eintracht Frankfurt
+        1. FSV Mainz 05  1-0  RB Leipzig
+        1. FC Köln  3-1  Hertha BSC
+2. Spieltag
+        RB Leipzig  4-0  VfB Stuttgart
+        Eintracht Frankfurt  0-0  FC Augsburg
+        SC Freiburg  2-1  Borussia Dortmund
+        Hertha BSC  1-2  VfL Wolfsburg
+        VfL Bochum  2-0  1. FSV Mainz 05
+        SpVgg Greuther Fürth  1-1  Arminia Bielefeld
+        Bayer 04 Leverkusen  4-0  Bor. Mönchengladbach
