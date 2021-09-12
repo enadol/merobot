@@ -28,3 +28,10 @@
         Bayern München  5-0  Hertha BSC
         1. FC Union Berlin  2-1  Bor. Mönchengladbach
         VfL Wolfsburg  1-0  RB Leipzig
+4. Spieltag
+        Bayer 04 Leverkusen  3-4  Borussia Dortmund
+        1. FC Union Berlin  0-0  FC Augsburg
+        SC Freiburg  1-1  1. FC Köln
+        TSG Hoffenheim  0-2  1. FSV Mainz 05
+        SpVgg Greuther Fürth  0-2  VfL Wolfsburg
+        RB Leipzig  1-4  Bayern München
