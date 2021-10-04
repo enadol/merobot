@@ -65,3 +65,6 @@
         VfB Stuttgart  3-1  TSG Hoffenheim
         Hertha BSC  1-2  SC Freiburg
         RB Leipzig  3-0  VfL Bochum
+        1. FSV Mainz 05  1-2  1. FC Union Berlin
+        Bayern München  1-2  Eintracht Frankfurt
+        Arminia Bielefeld  0-4  Bayer 04 Leverkusen
