@@ -76,3 +76,5 @@
         SC Freiburg  1-1  RB Leipzig
         SpVgg Greuther Fürth  0-1  VfL Bochum
         Bor. Mönchengladbach  1-1  VfB Stuttgart
+        Bayer 04 Leverkusen  1-5  Bayern München
+        FC Augsburg  1-1  Arminia Bielefeld

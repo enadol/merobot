@@ -24,8 +24,10 @@ lstGHomeH=[]
 lstGAwayH=[]
 lstIndexesH=[]
 lstIndexesA=[]
+#lstOdds=[]
 
 page= requests.get('https://kicker.de/bundesliga/spieltag/2021-22/-1')
+
 
 if page.status_code== 200:
     content = page.content
@@ -35,12 +37,16 @@ soup = BeautifulSoup(content, 'html.parser')
 #print(soup.prettify())
 clubes=soup.find_all("div", attrs={"class": "kick__v100-gameCell__team__name"})
 goles=soup.find_all("div", attrs={"class": "kick__v100-scoreBoard__scoreHolder__score"})
+#odds=soup.find_all("span", attrs={"class": "oddsServe-odd-value"})
 
 for club in clubes:
     lstClubes.append(club.text.strip())
 
 for gol in goles:
     lstGoles.append(gol.text.strip())
+
+#for odd in odds:
+#    lstOdds.append(odd.text.strip())
     
 for club in lstClubes:
     #count=2
