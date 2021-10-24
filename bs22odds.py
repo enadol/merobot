@@ -8,6 +8,7 @@ Created on Sun Apr 11 12:50:41 2021
 import requests
 from bs4 import BeautifulSoup
 import codecs
+import pandas as pd
 
 lstJornadas=[]
 lstClubes=[]
@@ -26,7 +27,7 @@ lstIndexesH=[]
 lstIndexesA=[]
 lstOdds=[]
 
-page= requests.get('https://www.kicker.de/bundesliga/spieltag/2021-22/9')
+page= requests.get('https://www.oddsportal.com/soccer/germany/bundesliga-2020-2021/results/#/page/7/')
 
 
 if page.status_code== 200:
@@ -34,10 +35,10 @@ if page.status_code== 200:
     
 
 soup = BeautifulSoup(content, 'html.parser')
-#print(soup.prettify())
+print(soup.prettify())
 #clubes=soup.find_all("div", attrs={"class": "kick__v100-gameCell__team__name"})
 #goles=soup.find_all("div", attrs={"class": "kick__v100-scoreBoard__scoreHolder__score"})
-odds=soup.find_all("span", attrs={"class": "oddsServe-odd-value"})
+odds=soup.find_all("a", attrs={"xparam": "odds_text"})
 
 #for club in clubes:
 #    lstClubes.append(club.text.strip())
@@ -48,6 +49,11 @@ odds=soup.find_all("span", attrs={"class": "oddsServe-odd-value"})
 for odd in odds:
     lstOdds.append(odd.text.strip())
     
+
+page2=pd.read_html('https://www.oddsportal.com/soccer/germany/bundesliga-2020-2021/results/#/page/7/')
+
+
+
 #for club in lstClubes:
     #count=2
 #    if count%2==0:
