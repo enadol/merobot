@@ -96,3 +96,5 @@
         SC Freiburg  3-1  SpVgg Greuther Fürth
         Arminia Bielefeld  1-2  1. FSV Mainz 05
         Eintracht Frankfurt  1-1  RB Leipzig
+        FC Augsburg  4-1  VfB Stuttgart
+        Bor. Mönchengladbach  2-1  VfL Bochum
