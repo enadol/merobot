@@ -98,3 +98,10 @@
         Eintracht Frankfurt  1-1  RB Leipzig
         FC Augsburg  4-1  VfB Stuttgart
         Bor. Mönchengladbach  2-1  VfL Bochum
+11. Spieltag
+        1. FSV Mainz 05  1-1  Bor. Mönchengladbach
+        Bayern München  2-1  SC Freiburg
+        VfL Wolfsburg  1-0  FC Augsburg
+        VfB Stuttgart  0-1  Arminia Bielefeld
+        VfL Bochum  2-0  TSG Hoffenheim
+        RB Leipzig  2-1  Borussia Dortmund
