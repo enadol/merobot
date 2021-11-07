@@ -35,6 +35,9 @@ print(page.status_code)
 
 if page.status_code== 200:
     content = page.content
+else:
+    with open("mw.html") as f:
+        content=f.readlines()
     
 
 soup = BeautifulSoup(content, 'html.parser')

@@ -31,6 +31,7 @@ page= requests.get('https://kicker.de/bundesliga/spieltag/2021-22/-1')
 
 if page.status_code== 200:
     content = page.content
+
     
 
 soup = BeautifulSoup(content, 'html.parser')

@@ -105,3 +105,6 @@
         VfB Stuttgart  0-1  Arminia Bielefeld
         VfL Bochum  2-0  TSG Hoffenheim
         RB Leipzig  2-1  Borussia Dortmund
+        Hertha BSC  1-1  Bayer 04 Leverkusen
+        1. FC Köln  2-2  1. FC Union Berlin
+        SpVgg Greuther Fürth  1-2  Eintracht Frankfurt
