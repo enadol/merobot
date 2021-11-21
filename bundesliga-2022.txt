@@ -110,3 +110,9 @@
         SpVgg Greuther Fürth  1-2  Eintracht Frankfurt
 12. Spieltag
         FC Augsburg  2-1  Bayern München
+        Borussia Dortmund  2-1  VfB Stuttgart
+        Bayer 04 Leverkusen  1-0  VfL Bochum
+        Bor. Mönchengladbach  4-0  SpVgg Greuther Fürth
+        TSG Hoffenheim  2-0  RB Leipzig
+        Arminia Bielefeld  2-2  VfL Wolfsburg
+        1. FC Union Berlin  2-0  Hertha BSC
