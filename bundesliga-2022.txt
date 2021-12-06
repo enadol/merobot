@@ -136,3 +136,5 @@
         FC Augsburg  2-3  VfL Bochum
         Arminia Bielefeld  1-1  1. FC Köln
         Borussia Dortmund  2-3  Bayern München
+        VfB Stuttgart  2-2  Hertha BSC
+        Bor. Mönchengladbach  0-6  SC Freiburg
