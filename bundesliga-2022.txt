@@ -138,3 +138,11 @@
         Borussia Dortmund  2-3  Bayern München
         VfB Stuttgart  2-2  Hertha BSC
         Bor. Mönchengladbach  0-6  SC Freiburg
+15. Spieltag
+        1. FC Köln  0-2  FC Augsburg
+        Bayern München  2-1  1. FSV Mainz 05
+        RB Leipzig  4-1  Bor. Mönchengladbach
+        SC Freiburg  1-2  TSG Hoffenheim
+        Hertha BSC  2-0  Arminia Bielefeld
+        VfL Bochum  1-1  Borussia Dortmund
+        VfL Wolfsburg  0-2  VfB Stuttgart
