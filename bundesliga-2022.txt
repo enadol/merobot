@@ -146,3 +146,5 @@
         Hertha BSC  2-0  Arminia Bielefeld
         VfL Bochum  1-1  Borussia Dortmund
         VfL Wolfsburg  0-2  VfB Stuttgart
+        SpVgg Greuther Fürth  1-0  1. FC Union Berlin
+        Eintracht Frankfurt  5-2  Bayer 04 Leverkusen
