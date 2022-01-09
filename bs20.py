@@ -21,6 +21,8 @@ lstGHome=[]
 lstGAway=[]
 lstGHomeH=[]
 lstGAwayH=[]
+lstIndexesH=[]
+lstIndexesA=[]
 
 page= requests.get('https://kicker.de/bundesliga/spieltag/2021-22/-1')
 
@@ -35,7 +37,7 @@ goles=soup.find_all("div", attrs={"class": "kick__v100-scoreBoard__scoreHolder__
 
 for club in clubes:
     lstClubes.append(club.text.strip())
-
+    
 for gol in goles:
     lstGoles.append(gol.text.strip())
     
@@ -64,26 +66,47 @@ def golesClass():
         goal=lstGoles[nbuffer]
         lstGAwayH.append(goal)
         nbuffer=nbuffer+1
-
+        
     
 jornadas=soup.find_all("h3", attrs={"class": "kick__section-headline"})
 
 for jornada in jornadas:
     lstJornadas.append(jornada.text.strip())
 
-for gol in lstGoles:
-    if count%2==0:
-        lstGHome.append(gol)
-        count=count+1
-    else:
-        lstGAway.append(gol)
-        count=count+1
+def getGAIndexes():
+    factor=2
+    while(factor<len(lstGoles)):
+        lstIndexesA.append(factor)
+        factor=factor+4
 
+def getGHIndexes():
+    factor=0
+    while(factor<len(lstGoles)):
+        lstIndexesH.append(factor)
+        factor=factor+4
+
+
+getGAIndexes()
+getGHIndexes()
+
+for index in lstIndexesA:
+    element=lstGoles[index-1]
+    lstGAway.append(element)
+
+
+for index in lstIndexesH:
+    element=lstGoles[index]
+    lstGHome.append(element)
 
 
 def matchIn():
     for i in range(0, len(lstGHome)):
-        if(len(lstGHome) <=len(lstHome)):
+        if(i <len(lstGHome)):
+            lstMatch.append("    "+ lstHome[i] + "  "+lstGHome[i]+"-"+lstGAway[i]+"  "+ lstAway[i]+"\n")
+        
+def matchIn():
+    for i in range(0, len(lstGHome)):
+        if(i <len(lstGHome)):
             lstMatch.append("    "+ lstHome[i] + "  "+lstGHome[i]+"-"+lstGAway[i]+"  "+ lstAway[i]+"\n")
         
 def mdIn():
@@ -103,17 +126,22 @@ def meRobot():
     
     with codecs.open("bundesliga-2022.txt", "w", "utf-8") as file:
         file.write("\ufeff")
-        count=0
+        countjornadas=0
+        count2=0
         for line in lstMatch:
             g=lstMatch.index(line)
             if g%9==0:
-                file.write(lstJornadas[count]+ "\n")
-                file.write("    "+line)
-                count=count+1
-                        
+                file.write(lstJornadas[countjornadas]+ "\n")
+                file.write("    "+ line)
+                countjornadas=countjornadas+1
             else:
-                file.write("    "+line)
+                if count2<=len(lstMatch):
+                    file.write("    "+line)
+            count2=count2+1
+                                
+            #else:
+                #file.write("    "+line)
     file.close() 
-
+    
 matchIn()
 meRobot()

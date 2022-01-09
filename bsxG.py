@@ -24,7 +24,7 @@ lstGAwayH=[]
 lstIndexesH=[]
 lstIndexesA=[]
 
-page= requests.get('https://kicker.de/bundesliga/spieltag/2021-22/-1')
+page= requests.get('https://footystats.org/germany/bundesliga/xg/')
 
 if page.status_code== 200:
     content = page.content
@@ -32,8 +32,8 @@ if page.status_code== 200:
 
 soup = BeautifulSoup(content, 'html.parser')
 #print(soup.prettify())
-clubes=soup.find_all("div", attrs={"class": "kick__v100-gameCell__team__name"})
-goles=soup.find_all("div", attrs={"class": "kick__v100-scoreBoard__scoreHolder__score"})
+clubes=soup.find_all(".ui-list li.list-row .main a")
+goles=soup.find_all("div", attrs={"class": "small-bubble "})
 
 for club in clubes:
     lstClubes.append(club.text.strip())

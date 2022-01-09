@@ -11,6 +11,7 @@ import codecs
 
 lstJornadas=[]
 lstClubes=[]
+lstClubes365=[]
 lstHome=[]
 lstAway=[]
 count=0
@@ -24,9 +25,9 @@ lstGHomeH=[]
 lstGAwayH=[]
 lstIndexesH=[]
 lstIndexesA=[]
-lstOdds=[]
+lstOdds365=[]
 
-page= requests.get('https://www.bet365.de/#/AC/B1/C1/D1002/E62233151/G40/H^1')
+page= requests.get('https://www.bet365.de/#/AC/B1/C1/D1002/E62233151/G40')
 
 
 if page.status_code== 200:
@@ -36,15 +37,15 @@ if page.status_code== 200:
 
 soup = BeautifulSoup(content, 'html.parser')
 #print(soup.prettify())
-clubes=soup.find_all("div", attrs={"class": "rcl-ParticipantFixtureDetailsTeam_TeamName "})
-odds=soup.find_all("span", attrs={"class": "sgl-ParticipantOddsOnly80_Odds"})
+clubes365=soup.find_all("div", attrs={"class": "rcl-ParticipantFixtureDetailsTeam_TeamName "})
+odds365=soup.find_all("span", attrs={"class": "sgl-ParticipantOddsOnly80_Odds"})
 #odds=soup.find_all("span", attrs={"class": "oddsServe-odd-value"})
 
-for club in clubes:
-    lstClubes.append(club.text.strip())
+for club in clubes365:
+    lstClubes365.append(club.text.strip())
 
-for odd in odds:
-    lstOdds.append(odd.text.strip())
+for odd in odds365:
+    lstOdds365.append(odd.text.strip())
 
 #for odd in odds:
 #    lstOdds.append(odd.text.strip())
@@ -157,5 +158,5 @@ def meRobot():
     
 
 
-matchIn()
-meRobot()
+#matchIn()
+#meRobot()
