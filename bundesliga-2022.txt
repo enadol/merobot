@@ -198,3 +198,13 @@
         VfL Bochum  2-2  1. FC Köln
         RB Leipzig  2-0  VfL Wolfsburg
         Hertha BSC  1-4  Bayern München
+21. Spieltag
+        Hertha BSC  1-1  VfL Bochum
+        VfB Stuttgart  2-3  Eintracht Frankfurt
+        1. FSV Mainz 05  2-0  TSG Hoffenheim
+        FC Augsburg  2-0  1. FC Union Berlin
+        Arminia Bielefeld  1-1  Bor. Mönchengladbach
+        1. FC Köln  1-0  SC Freiburg
+        Bayern München  3-2  RB Leipzig
+        Borussia Dortmund  2-5  Bayer 04 Leverkusen
+        VfL Wolfsburg  4-1  SpVgg Greuther Fürth
