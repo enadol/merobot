@@ -218,3 +218,13 @@
         Bayer 04 Leverkusen  4-2  VfB Stuttgart
         1. FC Union Berlin  0-3  Borussia Dortmund
         TSG Hoffenheim  2-0  Arminia Bielefeld
+23. Spieltag
+        1. FSV Mainz 05  3-2  Bayer 04 Leverkusen
+        VfL Wolfsburg  1-2  TSG Hoffenheim
+        VfB Stuttgart  1-1  VfL Bochum
+        FC Augsburg  1-2  SC Freiburg
+        Arminia Bielefeld  1-0  1. FC Union Berlin
+        1. FC Köln  1-0  Eintracht Frankfurt
+        Bayern München  4-1  SpVgg Greuther Fürth
+        Borussia Dortmund  6-0  Bor. Mönchengladbach
+        Hertha BSC  1-6  RB Leipzig
