@@ -236,3 +236,5 @@
         SC Freiburg  3-0  Hertha BSC
         SpVgg Greuther Fürth  1-1  1. FC Köln
         Eintracht Frankfurt  0-1  Bayern München
+        VfL Bochum  0-1  RB Leipzig
+        FC Augsburg  1-1  Borussia Dortmund
