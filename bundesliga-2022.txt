@@ -238,3 +238,12 @@
         Eintracht Frankfurt  0-1  Bayern München
         VfL Bochum  0-1  RB Leipzig
         FC Augsburg  1-1  Borussia Dortmund
+25. Spieltag
+        Arminia Bielefeld  0-1  FC Augsburg
+        Bayern München  1-1  Bayer 04 Leverkusen
+        RB Leipzig  1-1  SC Freiburg
+        VfL Wolfsburg  1-0  1. FC Union Berlin
+        Hertha BSC  1-4  Eintracht Frankfurt
+        VfL Bochum  2-1  SpVgg Greuther Fürth
+        VfB Stuttgart  3-2  Bor. Mönchengladbach
+        1. FC Köln  0-1  TSG Hoffenheim
