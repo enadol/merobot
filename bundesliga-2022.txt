@@ -247,3 +247,12 @@
         VfL Bochum  2-1  SpVgg Greuther Fürth
         VfB Stuttgart  3-2  Bor. Mönchengladbach
         1. FC Köln  0-1  TSG Hoffenheim
+        1. FSV Mainz 05  1-1  Borussia Dortmund
+26. Spieltag
+        1. FC Union Berlin  3-2  VfB Stuttgart
+        SC Freiburg  1-1  VfL Wolfsburg
+        TSG Hoffenheim  2-0  Bayern München
+        FC Augsburg  0-1  1. FSV Mainz 05
+        Bor. Mönchengladbach  1-0  Hertha BSC
+        Bayer 04 Leverkusen  2-1  1. FC Köln
+        Borussia Dortmund  1-6  Arminia Bielefeld
