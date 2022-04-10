@@ -8,6 +8,9 @@ Created on Sun Apr 11 12:50:41 2021
 import requests
 from bs4 import BeautifulSoup
 import codecs
+#import pandas as pd
+#import numpy as np
+
 
 lstJornadas=[]
 lstClubes=[]
@@ -33,19 +36,26 @@ if page.status_code== 200:
     content = page.content
 
     
+klass=["kick__v100-scoreBoard__scoreHolder__score", "kick__v100-scoreBoard__scoreHolder__text"]
 
 soup = BeautifulSoup(content, 'html.parser')
 #print(soup.prettify())
 clubes=soup.find_all("div", attrs={"class": "kick__v100-gameCell__team__name"})
-goles=soup.find_all("div", attrs={"class": "kick__v100-scoreBoard__scoreHolder__score"})
+goles=soup.find_all("div", attrs={"class": klass} )
 #odds=soup.find_all("span", attrs={"class": "oddsServe-odd-value"})
+
 
 for club in clubes:
     lstClubes.append(club.text.strip())
 
+
 for gol in goles:
     lstGoles.append(gol.text.strip())
 
+#ESTAS DOS LÍNEAS PARA ARREGAR LA LISTA EN 2021/2022 LUEGO BORRAR!    
+lstGoles[938]="0" 
+lstGoles.insert(939, "0")     
+    
 #for odd in odds:
 #    lstOdds.append(odd.text.strip())
     
@@ -57,6 +67,10 @@ for club in lstClubes:
     else:
         lstAway.append(club)
         count=count+1
+#por partido suspendido hasta el 6 de abril
+#del lstHome[233]
+#del lstAway[233]
+
         
 def golesClass():
     nbuffer=0
@@ -114,6 +128,8 @@ for index in lstIndexesA:
 for index in lstIndexesH:
     element=lstGoles[index]
     lstGHome.append(element)
+    
+    
 
 
 def matchIn():

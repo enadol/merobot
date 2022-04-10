@@ -247,12 +247,41 @@
         VfL Bochum  2-1  SpVgg Greuther Fürth
         VfB Stuttgart  3-2  Bor. Mönchengladbach
         1. FC Köln  0-1  TSG Hoffenheim
-        1. FSV Mainz 05  1-1  Borussia Dortmund
+        1. FSV Mainz 05  0-1  Borussia Dortmund
 26. Spieltag
-        1. FC Union Berlin  3-2  VfB Stuttgart
-        SC Freiburg  1-1  VfL Wolfsburg
-        TSG Hoffenheim  2-0  Bayern München
-        FC Augsburg  0-1  1. FSV Mainz 05
-        Bor. Mönchengladbach  1-0  Hertha BSC
-        Bayer 04 Leverkusen  2-1  1. FC Köln
-        Borussia Dortmund  1-6  Arminia Bielefeld
+        1. FC Union Berlin  1-1  VfB Stuttgart
+        SC Freiburg  3-2  VfL Wolfsburg
+        TSG Hoffenheim  1-1  Bayern München
+        Bor. Mönchengladbach  2-0  Hertha BSC
+        Bayer 04 Leverkusen  0-1  1. FC Köln
+        Borussia Dortmund  1-0  Arminia Bielefeld
+        Eintracht Frankfurt  2-1  VfL Bochum
+        SpVgg Greuther Fürth  1-6  RB Leipzig
+        FC Augsburg  2-1  1. FSV Mainz 05
+27. Spieltag
+        VfL Bochum  0-2  Bor. Mönchengladbach
+        VfB Stuttgart  3-2  FC Augsburg
+        1. FSV Mainz 05  4-0  Arminia Bielefeld
+        Hertha BSC  3-0  TSG Hoffenheim
+        SpVgg Greuther Fürth  0-0  SC Freiburg
+        Bayern München  4-0  1. FC Union Berlin
+        RB Leipzig  0-0  Eintracht Frankfurt
+        VfL Wolfsburg  0-2  Bayer 04 Leverkusen
+        1. FC Köln  1-1  Borussia Dortmund
+28. Spieltag
+        1. FC Union Berlin  1-0  1. FC Köln
+        Eintracht Frankfurt  0-0  SpVgg Greuther Fürth
+        Bayer 04 Leverkusen  2-1  Hertha BSC
+        SC Freiburg  1-4  Bayern München
+        TSG Hoffenheim  1-2  VfL Bochum
+        Arminia Bielefeld  1-1  VfB Stuttgart
+        Borussia Dortmund  1-4  RB Leipzig
+        FC Augsburg  3-0  VfL Wolfsburg
+        Bor. Mönchengladbach  1-1  1. FSV Mainz 05
+29. Spieltag
+        VfB Stuttgart  0-2  Borussia Dortmund
+        Bayern München  1-0  FC Augsburg
+        VfL Wolfsburg  4-0  Arminia Bielefeld
+        1. FC Köln  3-2  1. FSV Mainz 05
+        SpVgg Greuther Fürth  0-2  Bor. Mönchengladbach
+        Hertha BSC  1-4  1. FC Union Berlin
