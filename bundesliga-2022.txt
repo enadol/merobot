@@ -285,3 +285,6 @@
         1. FC Köln  3-2  1. FSV Mainz 05
         SpVgg Greuther Fürth  0-2  Bor. Mönchengladbach
         Hertha BSC  1-4  1. FC Union Berlin
+        VfL Bochum  0-0  Bayer 04 Leverkusen
+        Eintracht Frankfurt  1-2  SC Freiburg
+        RB Leipzig  3-0  TSG Hoffenheim
