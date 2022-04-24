@@ -298,3 +298,11 @@
         1. FC Union Berlin  2-0  Eintracht Frankfurt
         TSG Hoffenheim  0-0  SpVgg Greuther Fürth
         Bayer 04 Leverkusen  0-1  RB Leipzig
+31. Spieltag
+        VfL Wolfsburg  5-0  1. FSV Mainz 05
+        RB Leipzig  1-2  1. FC Union Berlin
+        Eintracht Frankfurt  2-2  TSG Hoffenheim
+        SC Freiburg  3-3  Bor. Mönchengladbach
+        1. FC Köln  3-1  Arminia Bielefeld
+        SpVgg Greuther Fürth  1-4  Bayer 04 Leverkusen
+        Bayern München  3-1  Borussia Dortmund
