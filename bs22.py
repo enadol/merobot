@@ -8,6 +8,7 @@ Created on Sun Apr 11 12:50:41 2021
 import requests
 from bs4 import BeautifulSoup
 import codecs
+
 #import pandas as pd
 #import numpy as np
 

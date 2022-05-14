@@ -1,4 +1,5 @@
 ﻿1. Spieltag
+[Fr. 13.8.]
         Bor. Mönchengladbach  1-1  Bayern München
         VfL Wolfsburg  1-0  VfL Bochum
         1. FC Union Berlin  1-1  Bayer 04 Leverkusen
@@ -9,6 +10,7 @@
         1. FSV Mainz 05  1-0  RB Leipzig
         1. FC Köln  3-1  Hertha BSC
 2. Spieltag
+[Fr. 20.8.]
         RB Leipzig  4-0  VfB Stuttgart
         Eintracht Frankfurt  0-0  FC Augsburg
         SC Freiburg  2-1  Borussia Dortmund
@@ -19,6 +21,7 @@
         TSG Hoffenheim  2-2  1. FC Union Berlin
         Bayern München  3-2  1. FC Köln
 3. Spieltag
+[Fr. 27.8.]
         Borussia Dortmund  3-2  TSG Hoffenheim
         VfB Stuttgart  2-3  SC Freiburg
         1. FSV Mainz 05  3-0  SpVgg Greuther Fürth
@@ -29,6 +32,7 @@
         1. FC Union Berlin  2-1  Bor. Mönchengladbach
         VfL Wolfsburg  1-0  RB Leipzig
 4. Spieltag
+[Sa. 11.9.]
         Bayer 04 Leverkusen  3-4  Borussia Dortmund
         1. FC Union Berlin  0-0  FC Augsburg
         SC Freiburg  1-1  1. FC Köln
@@ -39,6 +43,7 @@
         VfL Bochum  1-3  Hertha BSC
         Bor. Mönchengladbach  3-1  Arminia Bielefeld
 5. Spieltag
+[Fr. 17.9.]
         Hertha BSC  2-1  SpVgg Greuther Fürth
         Bayern München  7-0  VfL Bochum
         1. FSV Mainz 05  0-0  SC Freiburg
@@ -49,6 +54,7 @@
         Borussia Dortmund  4-2  1. FC Union Berlin
         VfL Wolfsburg  1-1  Eintracht Frankfurt
 6. Spieltag
+[Fr. 24.9.]
         SpVgg Greuther Fürth  1-3  Bayern München
         RB Leipzig  6-0  Hertha BSC
         Eintracht Frankfurt  1-1  1. FC Köln
@@ -59,6 +65,7 @@
         VfL Bochum  0-0  VfB Stuttgart
         SC Freiburg  3-0  FC Augsburg
 7. Spieltag
+[Fr. 1.10.]
         1. FC Köln  3-1  SpVgg Greuther Fürth
         Borussia Dortmund  2-1  FC Augsburg
         VfL Wolfsburg  1-3  Bor. Mönchengladbach
@@ -69,6 +76,7 @@
         Bayern München  1-2  Eintracht Frankfurt
         Arminia Bielefeld  0-4  Bayer 04 Leverkusen
 8. Spieltag
+[Fr. 15.10.]
         TSG Hoffenheim  5-0  1. FC Köln
         Borussia Dortmund  3-1  1. FSV Mainz 05
         Eintracht Frankfurt  1-2  Hertha BSC
@@ -79,6 +87,7 @@
         Bayer 04 Leverkusen  1-5  Bayern München
         FC Augsburg  1-1  Arminia Bielefeld
 9. Spieltag
+[Fr. 22.10.]
         1. FSV Mainz 05  4-1  FC Augsburg
         Bayern München  4-0  TSG Hoffenheim
         RB Leipzig  4-1  SpVgg Greuther Fürth
@@ -89,6 +98,7 @@
         VfB Stuttgart  1-1  1. FC Union Berlin
         VfL Bochum  2-0  Eintracht Frankfurt
 10. Spieltag
+[Fr. 29.10.]
         TSG Hoffenheim  2-0  Hertha BSC
         Borussia Dortmund  2-0  1. FC Köln
         Bayer 04 Leverkusen  0-2  VfL Wolfsburg
@@ -99,6 +109,7 @@
         FC Augsburg  4-1  VfB Stuttgart
         Bor. Mönchengladbach  2-1  VfL Bochum
 11. Spieltag
+[Fr. 5.11.]
         1. FSV Mainz 05  1-1  Bor. Mönchengladbach
         Bayern München  2-1  SC Freiburg
         VfL Wolfsburg  1-0  FC Augsburg
@@ -109,6 +120,7 @@
         1. FC Köln  2-2  1. FC Union Berlin
         SpVgg Greuther Fürth  1-2  Eintracht Frankfurt
 12. Spieltag
+[Fr. 19.11.]
         FC Augsburg  2-1  Bayern München
         Borussia Dortmund  2-1  VfB Stuttgart
         Bayer 04 Leverkusen  1-0  VfL Bochum
@@ -119,6 +131,7 @@
         SC Freiburg  0-2  Eintracht Frankfurt
         1. FSV Mainz 05  1-1  1. FC Köln
 13. Spieltag
+[Fr. 26.11.]
         VfB Stuttgart  2-1  1. FSV Mainz 05
         VfL Wolfsburg  1-3  Borussia Dortmund
         Hertha BSC  1-1  FC Augsburg
@@ -129,6 +142,7 @@
         Eintracht Frankfurt  2-1  1. FC Union Berlin
         RB Leipzig  1-3  Bayer 04 Leverkusen
 14. Spieltag
+[Fr. 3.12.]
         1. FC Union Berlin  2-1  RB Leipzig
         Bayer 04 Leverkusen  7-1  SpVgg Greuther Fürth
         TSG Hoffenheim  3-2  Eintracht Frankfurt
@@ -139,6 +153,7 @@
         VfB Stuttgart  2-2  Hertha BSC
         Bor. Mönchengladbach  0-6  SC Freiburg
 15. Spieltag
+[Fr. 11.12.]
         1. FC Köln  0-2  FC Augsburg
         Bayern München  2-1  1. FSV Mainz 05
         RB Leipzig  4-1  Bor. Mönchengladbach
@@ -149,6 +164,7 @@
         SpVgg Greuther Fürth  1-0  1. FC Union Berlin
         Eintracht Frankfurt  5-2  Bayer 04 Leverkusen
 16. Spieltag
+[Di. 14.12.]
         VfB Stuttgart  0-5  Bayern München
         VfL Wolfsburg  2-3  1. FC Köln
         1. FSV Mainz 05  4-0  Hertha BSC
@@ -159,6 +175,7 @@
         1. FC Union Berlin  0-0  SC Freiburg
         FC Augsburg  1-1  RB Leipzig
 17. Spieltag
+[Fr. 17.12.]
         Bayern München  4-0  VfL Wolfsburg
         RB Leipzig  0-2  Arminia Bielefeld
         Eintracht Frankfurt  1-0  1. FSV Mainz 05
@@ -169,6 +186,7 @@
         SC Freiburg  2-1  Bayer 04 Leverkusen
         1. FC Köln  1-0  VfB Stuttgart
 18. Spieltag
+[Fr. 7.1.]
         Bayern München  1-2  Bor. Mönchengladbach
         RB Leipzig  4-1  1. FSV Mainz 05
         Bayer 04 Leverkusen  2-2  1. FC Union Berlin
@@ -179,6 +197,7 @@
         Hertha BSC  1-3  1. FC Köln
         VfL Bochum  1-0  VfL Wolfsburg
 19. Spieltag
+[Fr. 14.1.]
         Borussia Dortmund  5-1  SC Freiburg
         VfL Wolfsburg  0-0  Hertha BSC
         1. FC Union Berlin  2-1  TSG Hoffenheim
@@ -189,6 +208,7 @@
         FC Augsburg  1-1  Eintracht Frankfurt
         Arminia Bielefeld  2-2  SpVgg Greuther Fürth
 20. Spieltag
+[Fr. 21.1.]
         Eintracht Frankfurt  0-2  Arminia Bielefeld
         Bayer 04 Leverkusen  5-1  FC Augsburg
         Bor. Mönchengladbach  1-2  1. FC Union Berlin
@@ -199,6 +219,7 @@
         RB Leipzig  2-0  VfL Wolfsburg
         Hertha BSC  1-4  Bayern München
 21. Spieltag
+[Fr. 4.2.]
         Hertha BSC  1-1  VfL Bochum
         VfB Stuttgart  2-3  Eintracht Frankfurt
         1. FSV Mainz 05  2-0  TSG Hoffenheim
@@ -209,6 +230,7 @@
         Borussia Dortmund  2-5  Bayer 04 Leverkusen
         VfL Wolfsburg  4-1  SpVgg Greuther Fürth
 22. Spieltag
+[Fr. 11.2.]
         RB Leipzig  3-1  1. FC Köln
         Eintracht Frankfurt  0-2  VfL Wolfsburg
         Bor. Mönchengladbach  3-2  FC Augsburg
@@ -219,6 +241,7 @@
         1. FC Union Berlin  0-3  Borussia Dortmund
         TSG Hoffenheim  2-0  Arminia Bielefeld
 23. Spieltag
+[Fr. 18.2.]
         1. FSV Mainz 05  3-2  Bayer 04 Leverkusen
         VfL Wolfsburg  1-2  TSG Hoffenheim
         VfB Stuttgart  1-1  VfL Bochum
@@ -229,6 +252,7 @@
         Borussia Dortmund  6-0  Bor. Mönchengladbach
         Hertha BSC  1-6  RB Leipzig
 24. Spieltag
+[Fr. 25.2.]
         TSG Hoffenheim  2-1  VfB Stuttgart
         Bayer 04 Leverkusen  3-0  Arminia Bielefeld
         1. FC Union Berlin  3-1  1. FSV Mainz 05
@@ -239,6 +263,7 @@
         VfL Bochum  0-1  RB Leipzig
         FC Augsburg  1-1  Borussia Dortmund
 25. Spieltag
+[Fr. 4.3.]
         Arminia Bielefeld  0-1  FC Augsburg
         Bayern München  1-1  Bayer 04 Leverkusen
         RB Leipzig  1-1  SC Freiburg
@@ -249,6 +274,7 @@
         1. FC Köln  0-1  TSG Hoffenheim
         1. FSV Mainz 05  0-1  Borussia Dortmund
 26. Spieltag
+[Fr. 11.3.]
         1. FC Union Berlin  1-1  VfB Stuttgart
         SC Freiburg  3-2  VfL Wolfsburg
         TSG Hoffenheim  1-1  Bayern München
@@ -259,6 +285,7 @@
         SpVgg Greuther Fürth  1-6  RB Leipzig
         FC Augsburg  2-1  1. FSV Mainz 05
 27. Spieltag
+[Fr. 18.3.]
         VfL Bochum  0-2  Bor. Mönchengladbach
         VfB Stuttgart  3-2  FC Augsburg
         1. FSV Mainz 05  4-0  Arminia Bielefeld
@@ -269,6 +296,7 @@
         VfL Wolfsburg  0-2  Bayer 04 Leverkusen
         1. FC Köln  1-1  Borussia Dortmund
 28. Spieltag
+[Fr. 1.4.]
         1. FC Union Berlin  1-0  1. FC Köln
         Eintracht Frankfurt  0-0  SpVgg Greuther Fürth
         Bayer 04 Leverkusen  2-1  Hertha BSC
@@ -279,6 +307,7 @@
         FC Augsburg  3-0  VfL Wolfsburg
         Bor. Mönchengladbach  1-1  1. FSV Mainz 05
 29. Spieltag
+[Fr. 8.4.]
         VfB Stuttgart  0-2  Borussia Dortmund
         Bayern München  1-0  FC Augsburg
         VfL Wolfsburg  4-0  Arminia Bielefeld
@@ -289,6 +318,7 @@
         Eintracht Frankfurt  1-2  SC Freiburg
         RB Leipzig  3-0  TSG Hoffenheim
 30. Spieltag
+[Fr. 15.4.]
         Borussia Dortmund  6-1  VfL Wolfsburg
         SC Freiburg  3-0  VfL Bochum
         1. FSV Mainz 05  0-0  VfB Stuttgart
@@ -299,6 +329,7 @@
         TSG Hoffenheim  0-0  SpVgg Greuther Fürth
         Bayer 04 Leverkusen  0-1  RB Leipzig
 31. Spieltag
+[Fr. 22.4.]
         VfL Wolfsburg  5-0  1. FSV Mainz 05
         RB Leipzig  1-2  1. FC Union Berlin
         Eintracht Frankfurt  2-2  TSG Hoffenheim
@@ -309,6 +340,7 @@
         VfL Bochum  0-2  FC Augsburg
         Hertha BSC  2-0  VfB Stuttgart
 32. Spieltag
+[Fr. 29.4.]
         1. FC Union Berlin  1-1  SpVgg Greuther Fürth
         Borussia Dortmund  3-4  VfL Bochum
         VfB Stuttgart  1-1  VfL Wolfsburg
@@ -319,6 +351,7 @@
         Bayer 04 Leverkusen  2-0  Eintracht Frankfurt
         Bor. Mönchengladbach  3-1  RB Leipzig
 33. Spieltag
+[Fr. 7.5.]
         VfL Bochum  2-1  Arminia Bielefeld
         SC Freiburg  1-4  1. FC Union Berlin
         TSG Hoffenheim  2-4  Bayer 04 Leverkusen
@@ -328,13 +361,3 @@
         Eintracht Frankfurt  1-1  Bor. Mönchengladbach
         Bayern München  2-2  VfB Stuttgart
         RB Leipzig  4-0  FC Augsburg
-34. Spieltag
-        Borussia Dortmund  2-1  Hertha BSC
-        VfL Wolfsburg  2-2  Bayern München
-        Bayer 04 Leverkusen  2-1  SC Freiburg
-        1. FC Union Berlin  3-2  VfL Bochum
-        Bor. Mönchengladbach  5-1  TSG Hoffenheim
-        VfB Stuttgart  2-1  1. FC Köln
-        1. FSV Mainz 05  2-2  Eintracht Frankfurt
-        FC Augsburg  2-1  SpVgg Greuther Fürth
-        Arminia Bielefeld  1-1  RB Leipzig

@@ -8,6 +8,7 @@ Created on Sun Apr 11 12:50:41 2021
 import requests
 from bs4 import BeautifulSoup
 import codecs
+from gdate import dateDef, lstDatesCumul
 #import pandas as pd
 #import numpy as np
 
@@ -152,7 +153,7 @@ def meRobot():
     #f.write("\n\n")    
     #f.close()
     
-    with codecs.open("bundesliga-2022.txt", "w", "utf-8") as file:
+    with codecs.open("bundesliga-2022a.txt", "w", "utf-8") as file:
         file.write("\ufeff")
         countjornadas=0
         count2=0
@@ -160,6 +161,7 @@ def meRobot():
             g=lstMatch.index(line)
             if g%9==0:
                 file.write(lstJornadas[countjornadas]+ "\n")
+                file.write(lstDatesCumul[countjornadas]+'\n')
                 file.write("    "+ line)
                 countjornadas=countjornadas+1
             else:
