@@ -13,6 +13,8 @@ from gdate import dateDef, lstDatesCumul
 #import numpy as np
 
 
+dates2=lstDatesCumul
+dates2.append(dateDef)
 lstJornadas=[]
 lstClubes=[]
 lstHome=[]
@@ -161,7 +163,7 @@ def meRobot():
             g=lstMatch.index(line)
             if g%9==0:
                 file.write(lstJornadas[countjornadas]+ "\n")
-                file.write(lstDatesCumul[countjornadas]+'\n')
+                file.write(dates2[countjornadas]+'\n')
                 file.write("    "+ line)
                 countjornadas=countjornadas+1
             else:

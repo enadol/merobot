@@ -351,7 +351,7 @@
         Bayer 04 Leverkusen  2-0  Eintracht Frankfurt
         Bor. Mönchengladbach  3-1  RB Leipzig
 33. Spieltag
-[Fr. 7.5.]
+[Fr. 6.5.]
         VfL Bochum  2-1  Arminia Bielefeld
         SC Freiburg  1-4  1. FC Union Berlin
         TSG Hoffenheim  2-4  Bayer 04 Leverkusen
@@ -361,3 +361,14 @@
         Eintracht Frankfurt  1-1  Bor. Mönchengladbach
         Bayern München  2-2  VfB Stuttgart
         RB Leipzig  4-0  FC Augsburg
+34. Spieltag
+[Fr. 13.5.]
+        Borussia Dortmund  2-1  Hertha BSC
+        VfL Wolfsburg  2-2  Bayern München
+        Bayer 04 Leverkusen  2-1  SC Freiburg
+        1. FC Union Berlin  3-2  VfL Bochum
+        Bor. Mönchengladbach  5-1  TSG Hoffenheim
+        VfB Stuttgart  2-1  1. FC Köln
+        1. FSV Mainz 05  2-2  Eintracht Frankfurt
+        FC Augsburg  2-1  SpVgg Greuther Fürth
+        Arminia Bielefeld  1-1  RB Leipzig

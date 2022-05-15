@@ -7,10 +7,8 @@ Created on Mon May  9 18:47:36 2022
 
 import requests
 from bs4 import BeautifulSoup
-import codecs
-import datetime
 
-md=33
+md=34
 lstDates=[]
 lstDatesCumul=['[Fr. 13.8.]',
  '[Fr. 20.8.]',
@@ -44,7 +42,7 @@ lstDatesCumul=['[Fr. 13.8.]',
  '[Fr. 15.4.]',
  '[Fr. 22.4.]',
  '[Fr. 29.4.]',
- '[Fr. 7.5.]']
+ '[Fr. 6.5.]']
 
 page= requests.get(f'https://kicker.de/bundesliga/spieltag/2021-22/{md}')
 
@@ -65,13 +63,14 @@ for date in dates:
 
 
 date1=lstDates[0][:2].strip()
-date2=lstDates[0].split(',')[1].split('.')[0].strip()
+date2=lstDates[0].split(',')[1].split('.')[0].strip().lstrip("0")
+date3=lstDates[0].split(',')[1].split('.')[1].lstrip("0")
 
-if int(date2)<=9:
-    date2=str(int(date2))
-else:
-    date2=date2
+#if int(date2)<=9:
+ #   date2=str(int(date2))
+#else:
+#    date2=date2
 
     
-dateDef=f'[{date1}.{date2}.]'
-print(dateDef.strip()) 
+dateDef=f'[{date1}. {date2}.{date3}.]'
+print(dateDef) 
