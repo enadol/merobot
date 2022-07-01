@@ -32,7 +32,7 @@ lstIndexesH=[]
 lstIndexesA=[]
 #lstOdds=[]
 
-page= requests.get('https://kicker.de/bundesliga/spieltag/2021-22/-1')
+page= requests.get('https://kicker.de/bundesliga/spieltag/2022-23/-1')
 
 
 if page.status_code== 200:
@@ -56,8 +56,8 @@ for gol in goles:
     lstGoles.append(gol.text.strip())
 
 #ESTAS DOS LÍNEAS PARA ARREGAR LA LISTA EN 2021/2022 LUEGO BORRAR!    
-lstGoles[938]="0" 
-lstGoles.insert(939, "0")     
+#lstGoles[938]="0" 
+#lstGoles.insert(939, "0")     
     
 #for odd in odds:
 #    lstOdds.append(odd.text.strip())
@@ -155,7 +155,7 @@ def meRobot():
     #f.write("\n\n")    
     #f.close()
     
-    with codecs.open("bundesliga-2022a.txt", "w", "utf-8") as file:
+    with codecs.open("bundesliga-2023.txt", "w", "utf-8") as file:
         file.write("\ufeff")
         countjornadas=0
         count2=0

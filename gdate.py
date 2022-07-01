@@ -73,4 +73,4 @@ date3=lstDates[0].split(',')[1].split('.')[1].lstrip("0")
 
     
 dateDef=f'[{date1}. {date2}.{date3}.]'
-print(dateDef) 
+#print(dateDef) 
