@@ -7,14 +7,14 @@ Created on Sun Apr 11 12:50:41 2021
 
 import requests
 from bs4 import BeautifulSoup
+from gdate import lstDatesCumul
 import codecs
-from gdate import dateDef, lstDatesCumul
+
+
 #import pandas as pd
 #import numpy as np
 
 
-dates2=lstDatesCumul
-dates2.append(dateDef)
 lstJornadas=[]
 lstClubes=[]
 lstHome=[]
@@ -32,7 +32,7 @@ lstIndexesH=[]
 lstIndexesA=[]
 #lstOdds=[]
 
-page= requests.get('https://kicker.de/bundesliga/spieltag/2021-22/-1')
+page= requests.get('https://kicker.de/bundesliga/spieltag/2022-23/-1')
 
 
 if page.status_code== 200:
@@ -138,8 +138,9 @@ for index in lstIndexesH:
 def matchIn():
     for i in range(0, len(lstGHome)):
         if(i <len(lstGHome)):
-            lstMatch.append("    "+ lstHome[i] + "  "+lstGHome[i]+"-"+lstGAway[i]+"  "+ lstAway[i]+"\n")
-        
+            #lstMatch.append("    "+ lstHome[i] + "  "+lstGHome[i]+"-"+lstGAway[i]+"  "+ lstAway[i]+"\n")
+            lstMatch.append(f'    {lstHome[i]}  {lstGHome[i]}-{lstGAway[i]}  {lstAway[i]}\n')
+            
 def mdIn():
 
     for j in range(1,35):
@@ -162,13 +163,12 @@ def meRobot():
         for line in lstMatch:
             g=lstMatch.index(line)
             if g%9==0:
-                file.write(lstJornadas[countjornadas]+ "\n")
-                file.write(dates2[countjornadas]+'\n')
-                file.write("    "+ line)
+                file.write(lstDatesCumul[countjornadas]+ "\n")
+                file.write(f'    {line}')
                 countjornadas=countjornadas+1
             else:
                 if count2<=len(lstMatch):
-                    file.write("    "+line)
+                    file.write(f'    {line}')
             count2=count2+1
                                 
             #else:

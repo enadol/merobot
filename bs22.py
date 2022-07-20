@@ -7,7 +7,9 @@ Created on Sun Apr 11 12:50:41 2021
 
 import requests
 from bs4 import BeautifulSoup
+from gdate import lstDatesCumul
 import codecs
+
 
 #import pandas as pd
 #import numpy as np
@@ -160,7 +162,7 @@ def meRobot():
         for line in lstMatch:
             g=lstMatch.index(line)
             if g%9==0:
-                file.write(lstJornadas[countjornadas]+ "\n")
+                file.write(lstDatesCumul[countjornadas]+ "\n")
                 file.write("    "+ line)
                 countjornadas=countjornadas+1
             else:
