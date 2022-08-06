@@ -160,9 +160,10 @@ def meRobot():
         file.write("\ufeff")
         countjornadas=0
         count2=0
-        for line in lstMatch:
-            g=lstMatch.index(line)
-            if g%9==0:
+        #for line in lstMatch:
+        for ind, line in enumerate(lstMatch):
+            #g=lstMatch.index(line)
+            if ind%9==0:
                 file.write(lstDatesCumul[countjornadas]+ "\n")
                 file.write(f'    {line}')
                 countjornadas=countjornadas+1
