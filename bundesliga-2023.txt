@@ -18,3 +18,5 @@
         Hertha BSC  1-1  Eintracht Frankfurt
         Werder Bremen  2-2  VfB Stuttgart
         FC Schalke 04  2-2  Bor. Mönchengladbach
+        1. FSV Mainz 05  0-0  1. FC Union Berlin
+        Bayern München  2-0  VfL Wolfsburg
