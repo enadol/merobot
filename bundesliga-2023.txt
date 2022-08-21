@@ -20,3 +20,12 @@
         FC Schalke 04  2-2  Bor. Mönchengladbach
         1. FSV Mainz 05  0-0  1. FC Union Berlin
         Bayern München  2-0  VfL Wolfsburg
+3. Spieltag
+[Fr. 19.8.]
+        Bor. Mönchengladbach  1-0  Hertha BSC
+        Borussia Dortmund  2-3  Werder Bremen
+        Bayer 04 Leverkusen  0-3  TSG Hoffenheim
+        VfL Wolfsburg  0-0  FC Schalke 04
+        FC Augsburg  1-2  1. FSV Mainz 05
+        VfB Stuttgart  0-1  SC Freiburg
+        1. FC Union Berlin  2-1  RB Leipzig
