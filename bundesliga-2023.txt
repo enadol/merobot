@@ -40,3 +40,5 @@
         Hertha BSC  0-1  Borussia Dortmund
         FC Schalke 04  1-6  1. FC Union Berlin
         Bayern München  1-1  Bor. Mönchengladbach
+        1. FC Köln  0-0  VfB Stuttgart
+        Werder Bremen  3-4  Eintracht Frankfurt
