@@ -51,3 +51,5 @@
         VfL Bochum  0-2  Werder Bremen
         VfB Stuttgart  1-1  FC Schalke 04
         Eintracht Frankfurt  4-0  RB Leipzig
+        FC Augsburg  0-2  Hertha BSC
+        Bor. Mönchengladbach  0-1  1. FSV Mainz 05
