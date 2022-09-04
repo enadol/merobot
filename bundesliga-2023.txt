@@ -42,3 +42,12 @@
         Bayern München  1-1  Bor. Mönchengladbach
         1. FC Köln  0-0  VfB Stuttgart
         Werder Bremen  3-4  Eintracht Frankfurt
+5. Spieltag
+[Fr. 2.9.]
+        Borussia Dortmund  1-0  TSG Hoffenheim
+        Bayer 04 Leverkusen  2-3  SC Freiburg
+        1. FC Union Berlin  1-1  Bayern München
+        VfL Wolfsburg  2-4  1. FC Köln
+        VfL Bochum  0-2  Werder Bremen
+        VfB Stuttgart  1-1  FC Schalke 04
+        Eintracht Frankfurt  4-0  RB Leipzig
