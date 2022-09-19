@@ -72,3 +72,6 @@
         FC Augsburg  1-0  Bayern München
         VfB Stuttgart  1-3  Eintracht Frankfurt
         Bor. Mönchengladbach  3-0  RB Leipzig
+        1. FC Union Berlin  2-0  VfL Wolfsburg
+        VfL Bochum  1-1  1. FC Köln
+        TSG Hoffenheim  0-0  SC Freiburg
