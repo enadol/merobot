@@ -84,3 +84,5 @@
         Eintracht Frankfurt  2-0  1. FC Union Berlin
         VfL Wolfsburg  3-2  VfB Stuttgart
         Werder Bremen  5-1  Bor. Mönchengladbach
+        Hertha BSC  1-1  TSG Hoffenheim
+        FC Schalke 04  2-3  FC Augsburg
