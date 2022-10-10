@@ -86,3 +86,14 @@
         Werder Bremen  5-1  Bor. Mönchengladbach
         Hertha BSC  1-1  TSG Hoffenheim
         FC Schalke 04  2-3  FC Augsburg
+9. Spieltag
+[Fr. 7.10.]
+        TSG Hoffenheim  1-2  Werder Bremen
+        Bayer 04 Leverkusen  4-0  FC Schalke 04
+        1. FSV Mainz 05  1-1  RB Leipzig
+        VfL Bochum  3-0  Eintracht Frankfurt
+        FC Augsburg  1-1  VfL Wolfsburg
+        Borussia Dortmund  2-2  Bayern München
+        Bor. Mönchengladbach  5-2  1. FC Köln
+        Hertha BSC  2-2  SC Freiburg
+        VfB Stuttgart  0-1  1. FC Union Berlin
