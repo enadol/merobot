@@ -105,3 +105,6 @@
         VfB Stuttgart  4-1  VfL Bochum
         Werder Bremen  0-2  1. FSV Mainz 05
         RB Leipzig  3-2  Hertha BSC
+        1. FC Köln  3-2  FC Augsburg
+        1. FC Union Berlin  2-0  Borussia Dortmund
+        Bayern München  5-0  SC Freiburg
