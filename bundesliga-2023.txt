@@ -127,3 +127,6 @@
         VfL Wolfsburg  4-0  VfL Bochum
         VfB Stuttgart  2-1  FC Augsburg
         Eintracht Frankfurt  1-2  Borussia Dortmund
+        1. FC Union Berlin  2-1  Bor. Mönchengladbach
+        FC Schalke 04  0-2  SC Freiburg
+        1. FC Köln  1-1  TSG Hoffenheim
