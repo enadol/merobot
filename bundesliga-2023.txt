@@ -139,3 +139,27 @@
         FC Augsburg  1-2  Eintracht Frankfurt
         Hertha BSC  2-3  Bayern München
         Werder Bremen  2-1  FC Schalke 04
+        Bayer 04 Leverkusen  5-0  1. FC Union Berlin
+        SC Freiburg  2-0  1. FC Köln
+14. Spieltag
+[Di. 8.11.]
+        VfL Wolfsburg  2-0  Borussia Dortmund
+        Bayern München  6-1  Werder Bremen
+        VfL Bochum  2-1  Bor. Mönchengladbach
+        VfB Stuttgart  2-1  Hertha BSC
+        1. FC Köln  1-2  Bayer 04 Leverkusen
+        RB Leipzig  3-1  SC Freiburg
+        1. FC Union Berlin  2-2  FC Augsburg
+        Eintracht Frankfurt  4-2  TSG Hoffenheim
+        FC Schalke 04  1-0  1. FSV Mainz 05
+15. Spieltag
+[Fr. 11.11.]
+        Bor. Mönchengladbach  4-2  Borussia Dortmund
+        Bayer 04 Leverkusen  2-0  VfB Stuttgart
+        TSG Hoffenheim  1-2  VfL Wolfsburg
+        FC Augsburg  0-1  VfL Bochum
+        Hertha BSC  2-0  1. FC Köln
+        Werder Bremen  1-2  RB Leipzig
+        FC Schalke 04  0-2  Bayern München
+        1. FSV Mainz 05  1-1  Eintracht Frankfurt
+        SC Freiburg  4-1  1. FC Union Berlin
