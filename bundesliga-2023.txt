@@ -172,3 +172,5 @@
         VfL Bochum  3-1  Hertha BSC
         VfB Stuttgart  1-1  1. FSV Mainz 05
         1. FC Köln  7-1  Werder Bremen
+        Borussia Dortmund  4-3  FC Augsburg
+        Bor. Mönchengladbach  2-3  Bayer 04 Leverkusen
