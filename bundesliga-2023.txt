@@ -194,3 +194,5 @@
         Hertha BSC  0-2  1. FC Union Berlin
         Werder Bremen  2-1  VfL Wolfsburg
         Bayern München  1-1  Eintracht Frankfurt
+        FC Schalke 04  0-0  1. FC Köln
+        Bayer 04 Leverkusen  0-2  Borussia Dortmund
