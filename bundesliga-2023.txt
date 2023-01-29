@@ -174,3 +174,23 @@
         1. FC Köln  7-1  Werder Bremen
         Borussia Dortmund  4-3  FC Augsburg
         Bor. Mönchengladbach  2-3  Bayer 04 Leverkusen
+17. Spieltag
+[Di. 24.1.]
+        FC Schalke 04  1-6  RB Leipzig
+        Bayern München  1-1  1. FC Köln
+        TSG Hoffenheim  2-2  VfB Stuttgart
+        Hertha BSC  0-5  VfL Wolfsburg
+        1. FSV Mainz 05  1-2  Borussia Dortmund
+        Bayer 04 Leverkusen  2-0  VfL Bochum
+        SC Freiburg  1-1  Eintracht Frankfurt
+        FC Augsburg  1-0  Bor. Mönchengladbach
+        Werder Bremen  1-2  1. FC Union Berlin
+18. Spieltag
+[Fr. 27.1.]
+        RB Leipzig  2-1  VfB Stuttgart
+        SC Freiburg  3-1  FC Augsburg
+        1. FSV Mainz 05  5-2  VfL Bochum
+        TSG Hoffenheim  1-4  Bor. Mönchengladbach
+        Hertha BSC  0-2  1. FC Union Berlin
+        Werder Bremen  2-1  VfL Wolfsburg
+        Bayern München  1-1  Eintracht Frankfurt
