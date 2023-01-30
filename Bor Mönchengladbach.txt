@@ -1,527 +1,480 @@
-Jugador : Jan Olschowsky
-Nacimiento : 18.11.2001
-Edad : 21
-Nación : Deutschland
-Altura : 182
-Peso : 79
-PJ : 2
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.07.2009
-De : SV Glehn
-BL : 2
-Número : 41
-
-Jugador : Jonas Omlin
-Nacimiento : 10.01.1994
-Edad : 29
-Nación : Schweiz
-Altura : 189
-Peso : 80
-PJ : 3
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 19.01.2023
-De : Montpellier HSC
-BL : 3
-Número : 1
-
-Jugador : Tobias Sippel
-Nacimiento : 22.03.1988
-Edad : 34
-Nación : Deutschland
-Altura : 183
-Peso : 80
-PJ : 3
-Goles : 0
-Asistencias : 0
-TA : 1
-TAR : 0
-TR : 0
-Desde : 01.07.2015
-De : 1. FC Kaiserslautern
-BL : 51
-Número : 21
-
-Jugador : Ramy Bensebaini
-Nacimiento : 16.04.1995
-Edad : 27
-Nación : Algerien
-Altura : 186
-Peso : 82
-PJ : 17
-Goles : 5
-Asistencias : 0
-TA : 3
-TAR : 0
-TR : 0
-Desde : 14.08.2019
-De : Stade Rennes
-BL : 84
-Número : 25
-
-Jugador : Mamadou Doucouré
-Nacimiento : 16.04.1995
-Edad : 27
-Nación : Algerien
-Altura : 186
-Peso : 82
-PJ : 17
-Goles : 5
-Asistencias : 0
-TA : 3
-TAR : 0
-TR : 0
-Desde : 14.08.2019
-De : Stade Rennes
-BL : 84
-Número : 25
-
-Jugador : Nico Elvedi
-Nacimiento : 30.09.1996
-Edad : 26
-Nación : Schweiz
-Altura : 189
-Peso : 81
-PJ : 16
-Goles : 2
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.07.2015
-De : FC Zürich
-BL : 214
-Número : 30
-
-Jugador : Marvin Friedrich
-Nacimiento : 13.12.1995
-Edad : 27
-Nación : Deutschland
-Altura : 192
-Peso : 83
-PJ : 15
-Goles : 1
-Asistencias : 0
-TA : 1
-TAR : 0
-TR : 0
-Desde : 11.01.2022
-De : 1. FC Union Berlin
-BL : 108
-Número : 5
-
-Jugador : Tony Jantschke
-Nacimiento : 07.04.1990
-Edad : 32
-Nación : Deutschland
-Altura : 177
-Peso : 76
-PJ : 5
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.07.2006
-De : SC Borea Dresden
-BL : 240
-Número : 24
-
-Jugador : Stefan Lainer
-Nacimiento : 27.08.1992
-Edad : 30
-Nación : Österreich
-Altura : 175
-Peso : 73
-PJ : 7
-Goles : 0
-Asistencias : 0
-TA : 1
-TAR : 0
-TR : 0
-Desde : 01.07.2019
-De : RB Salzburg
-BL : 92
-Número : 18
-
-Jugador : Luca Netz
-Nacimiento : 15.05.2003
-Edad : 19
-Nación : Deutschland
-Altura : 180
-Peso : 85
-PJ : 8
-Goles : 0
-Asistencias : 1
-TA : 0
-TAR : 0
-TR : 0
-Desde : 06.08.2021
-De : Hertha BSC
-BL : 43
-Número : 20
-
-Jugador : Joe Scally
-Nacimiento : 15.05.2003
-Edad : 19
-Nación : Deutschland
-Altura : 180
-Peso : 85
-PJ : 8
-Goles : 0
-Asistencias : 1
-TA : 0
-TAR : 0
-TR : 0
-Desde : 06.08.2021
-De : Hertha BSC
-BL : 43
-Número : 20
-
-Jugador : Oscar Fraulo
-Nacimiento : 06.12.2003
-Edad : 19
-Nación : Dänemark
-Altura : 180
-Peso : 77
-PJ : 0
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.07.2022
-De : FC Midtjylland
-BL : 0
-Número : 22
-
-Jugador : Jonas Hofmann
-Nacimiento : 14.07.1992
-Edad : 30
-Nación : Deutschland
-Altura : 176
-Peso : 73
-PJ : 15
-Goles : 7
-Asistencias : 7
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.01.2016
-De : Borussia Dortmund
-BL : 216
-Número : 23
-
-Jugador : Ko Itakura
-Nacimiento : 27.01.1997
-Edad : 26
-Nación : Japan
-Altura : 186
-Peso : 75
-PJ : 9
-Goles : 0
-Asistencias : 2
-TA : 0
-TAR : 0
-TR : 1
-Desde : 02.07.2022
-De : FC Schalke 04
-BL : 9
-Número : 3
-
-Jugador : Kouadio Koné
-Nacimiento : 27.01.1997
-Edad : 26
-Nación : Japan
-Altura : 186
-Peso : 75
-PJ : 9
-Goles : 0
-Asistencias : 2
-TA : 0
-TAR : 0
-TR : 1
-Desde : 02.07.2022
-De : FC Schalke 04
-BL : 9
-Número : 3
-
-Jugador : Christoph Kramer
-Nacimiento : 19.02.1991
-Edad : 31
-Nación : Deutschland
-Altura : 191
-Peso : 76
-PJ : 17
-Goles : 0
-Asistencias : 1
-TA : 3
-TAR : 0
-TR : 0
-Desde : 01.07.2016
-De : Bayer 04 Leverkusen
-BL : 245
-Número : 6
-
-Jugador : Torben Müsel
-Nacimiento : 25.07.1999
-Edad : 23
-Nación : Deutschland
-Altura : 185
-Peso : 76
-PJ : 0
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.07.2022
-De : KAS Eupen
-BL : 2
-Número : 26
-
-Jugador : Florian Neuhaus
-Nacimiento : 16.03.1997
-Edad : 25
-Nación : Deutschland
-Altura : 185
-Peso : 77
-PJ : 8
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.07.2018
-De : Fortuna Düsseldorf
-BL : 132
-Número : 32
-
-Jugador : Nathan Ngoumou
-Nacimiento : 14.03.2000
-Edad : 22
-Nación : Frankreich
-Altura : 183
-Peso : 74
-PJ : 10
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 30.08.2022
-De : FC Toulouse
-BL : 10
-Número : 19
-
-Jugador : Conor Noß
-Nacimiento : 14.03.2000
-Edad : 22
-Nación : Frankreich
-Altura : 183
-Peso : 74
-PJ : 10
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 30.08.2022
-De : FC Toulouse
-BL : 10
-Número : 19
-
-Jugador : Lars Stindl
-Nacimiento : 26.08.1988
-Edad : 34
-Nación : Deutschland
-Altura : 181
-Peso : 80
-PJ : 13
-Goles : 4
-Asistencias : 6
-TA : 5
-TAR : 0
-TR : 0
-Desde : 01.07.2015
-De : Hannover 96
-BL : 360
-Número : 13
-
-Jugador : Julian Weigl
-Nacimiento : 08.09.1995
-Edad : 27
-Nación : Deutschland
-Altura : 186
-Peso : 71
-PJ : 14
-Goles : 0
-Asistencias : 1
-TA : 4
-TAR : 0
-TR : 0
-Desde : 01.09.2022
-De : Benfica Lissabon
-BL : 130
-Número : 8
-
-Jugador : Hannes Wolf
-Nacimiento : 16.04.1999
-Edad : 23
-Nación : Österreich
-Altura : 179
-Peso : 69
-PJ : 7
-Goles : 1
-Asistencias : 1
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.07.2022
-De : Swansea City
-BL : 51
-Número : 11
-
-Jugador : Yvandro Borges Sanches
-Nacimiento : 24.05.2004
-Edad : 18
-Nación : Luxemburg
-Altura : 176
-Peso : 66
-PJ : 3
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.07.2020
-De : RFC Union Luxemburg
-BL : 3
-Número : 38
-
-Jugador : Patrick Herrmann
-Nacimiento : 16.03.1988
-Edad : 34
-Nación : Deutschland
-Altura : 180
-Peso : 80
-PJ : 0
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 05.08.2021
-De : SV Darmstadt 98
-BL : 0
-Número : 4
-
-Jugador : Jacob Italiano
-Nacimiento : 30.07.2001
-Edad : 21
-Nación : Australien
-Altura : 177
-Peso : 71
-PJ : 0
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 01.07.2019
-De : Perth Glory
-BL : 0
-Número : 35
-
-Jugador : Alassane Plea
-Nacimiento : 10.03.1993
-Edad : 29
-Nación : Frankreich
-Altura : 181
-Peso : 79
-PJ : 14
-Goles : 2
-Asistencias : 7
-TA : 3
-TAR : 0
-TR : 0
-Desde : 13.07.2018
-De : OGC Nizza
-BL : 137
-Número : 14
-
-Jugador : Marcus Thuram
-Nacimiento : 06.08.1997
-Edad : 25
-Nación : Frankreich
-Altura : 192
-Peso : 88
-PJ : 17
-Goles : 10
-Asistencias : 4
-TA : 2
-TAR : 0
-TR : 0
-Desde : 22.07.2019
-De : EA Guingamp
-BL : 98
-Número : 10
-
-Jugador : Yann Sommer
-Nacimiento : 17.12.1988
-Edad : 34
-Nación : Schweiz
-Altura : 183
-Peso : 79
-PJ : 13
-Goles : 0
-Asistencias : 0
-TA : 1
-TAR : 0
-TR : 0
-Desde : 19.01.2023
-De : Bor. Mönchengladbach
-BL : 275
-Número : 1
-
-Jugador : Rocco Reitz
-Nacimiento : 29.05.2002
-Edad : 20
-Nación : Deutschland
-Altura : 176
-Peso : 75
-PJ : 1
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 17.01.2023
-De : Bor. Mönchengladbach
-BL : 3
-Número : 27
-
-Jugador : Semir Telalovic
-Nacimiento : 23.12.1999
-Edad : 23
-Nación : Deutschland
-Altura : No consignado
-Peso : No consignado
-PJ : 1
-Goles : 0
-Asistencias : 0
-TA : 0
-TAR : 0
-TR : 0
-Desde : 20.01.2022
-De : FV Illertissen
-BL : 1
-Número : 0
-
+Jugador : Jan Olschowsky,
+Nacimiento : 18.11.2001,
+Edad : 21,
+Nación : Deutschland,
+Altura : 182,
+Peso : 79,
+PJ : 2,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2009,
+De : SV Glehn,
+BL : 2,
+Número : 41,
+Jugador : Jonas Omlin,
+Nacimiento : 10.01.1994,
+Edad : 29,
+Nación : Schweiz,
+Altura : 189,
+Peso : 80,
+PJ : 3,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 19.01.2023,
+De : Montpellier HSC,
+BL : 3,
+Número : 1,
+Jugador : Tobias Sippel,
+Nacimiento : 22.03.1988,
+Edad : 34,
+Nación : Deutschland,
+Altura : 183,
+Peso : 80,
+PJ : 3,
+Goles : 0,
+Asistencias : 0,
+TA : 1,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2015,
+De : 1. FC Kaiserslautern,
+BL : 51,
+Número : 21,
+Jugador : Ramy Bensebaini,
+Nacimiento : 16.04.1995,
+Edad : 27,
+Nación : Algerien,
+Altura : 186,
+Peso : 82,
+PJ : 17,
+Goles : 5,
+Asistencias : 0,
+TA : 3,
+TAR : 0,
+TR : 0,
+Desde : 14.08.2019,
+De : Stade Rennes,
+BL : 84,
+Número : 25,
+Jugador : Mamadou Doucouré,
+Nacimiento : 21.05.1998,
+Edad : 24,
+Nación : Frankreich,
+Altura : 183,
+Peso : 78,
+PJ : 0,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2016,
+De : Paris St. Germain,
+BL : 0,
+Número : 4,
+Jugador : Nico Elvedi,
+Nacimiento : 30.09.1996,
+Edad : 26,
+Nación : Schweiz,
+Altura : 189,
+Peso : 81,
+PJ : 16,
+Goles : 2,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2015,
+De : FC Zürich,
+BL : 214,
+Número : 30,
+Jugador : Marvin Friedrich,
+Nacimiento : 13.12.1995,
+Edad : 27,
+Nación : Deutschland,
+Altura : 192,
+Peso : 83,
+PJ : 15,
+Goles : 1,
+Asistencias : 0,
+TA : 1,
+TAR : 0,
+TR : 0,
+Desde : 11.01.2022,
+De : 1. FC Union Berlin,
+BL : 108,
+Número : 5,
+Jugador : Tony Jantschke,
+Nacimiento : 07.04.1990,
+Edad : 32,
+Nación : Deutschland,
+Altura : 177,
+Peso : 76,
+PJ : 5,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2006,
+De : SC Borea Dresden,
+BL : 240,
+Número : 24,
+Jugador : Stefan Lainer,
+Nacimiento : 27.08.1992,
+Edad : 30,
+Nación : Österreich,
+Altura : 175,
+Peso : 73,
+PJ : 7,
+Goles : 0,
+Asistencias : 0,
+TA : 1,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2019,
+De : RB Salzburg,
+BL : 92,
+Número : 18,
+Jugador : Luca Netz,
+Nacimiento : 15.05.2003,
+Edad : 19,
+Nación : Deutschland,
+Altura : 180,
+Peso : 85,
+PJ : 8,
+Goles : 0,
+Asistencias : 1,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 06.08.2021,
+De : Hertha BSC,
+BL : 43,
+Número : 20,
+Jugador : Joe Scally,
+Nacimiento : 15.05.2003,
+Edad : 19,
+Nación : Deutschland,
+Altura : 180,
+Peso : 85,
+PJ : 8,
+Goles : 0,
+Asistencias : 1,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 06.08.2021,
+De : Hertha BSC,
+BL : 43,
+Número : 20,
+Jugador : Oscar Fraulo,
+Nacimiento : 06.12.2003,
+Edad : 19,
+Nación : Dänemark,
+Altura : 180,
+Peso : 77,
+PJ : 0,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2022,
+De : FC Midtjylland,
+BL : 0,
+Número : 22,
+Jugador : Jonas Hofmann,
+Nacimiento : 14.07.1992,
+Edad : 30,
+Nación : Deutschland,
+Altura : 176,
+Peso : 73,
+PJ : 15,
+Goles : 7,
+Asistencias : 7,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.01.2016,
+De : Borussia Dortmund,
+BL : 216,
+Número : 23,
+Jugador : Ko Itakura,
+Nacimiento : 27.01.1997,
+Edad : 26,
+Nación : Japan,
+Altura : 186,
+Peso : 75,
+PJ : 9,
+Goles : 0,
+Asistencias : 2,
+TA : 0,
+TAR : 0,
+TR : 1,
+Desde : 02.07.2022,
+De : FC Schalke 04,
+BL : 9,
+Número : 3,
+Jugador : Kouadio Koné,
+Nacimiento : 27.01.1997,
+Edad : 26,
+Nación : Japan,
+Altura : 186,
+Peso : 75,
+PJ : 9,
+Goles : 0,
+Asistencias : 2,
+TA : 0,
+TAR : 0,
+TR : 1,
+Desde : 02.07.2022,
+De : FC Schalke 04,
+BL : 9,
+Número : 3,
+Jugador : Christoph Kramer,
+Nacimiento : 19.02.1991,
+Edad : 31,
+Nación : Deutschland,
+Altura : 191,
+Peso : 76,
+PJ : 17,
+Goles : 0,
+Asistencias : 1,
+TA : 3,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2016,
+De : Bayer 04 Leverkusen,
+BL : 245,
+Número : 6,
+Jugador : Florian Neuhaus,
+Nacimiento : 16.03.1997,
+Edad : 25,
+Nación : Deutschland,
+Altura : 185,
+Peso : 77,
+PJ : 8,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2018,
+De : Fortuna Düsseldorf,
+BL : 132,
+Número : 32,
+Jugador : Nathan Ngoumou,
+Nacimiento : 14.03.2000,
+Edad : 22,
+Nación : Frankreich,
+Altura : 183,
+Peso : 74,
+PJ : 10,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 30.08.2022,
+De : FC Toulouse,
+BL : 10,
+Número : 19,
+Jugador : Conor Noß,
+Nacimiento : 14.03.2000,
+Edad : 22,
+Nación : Frankreich,
+Altura : 183,
+Peso : 74,
+PJ : 10,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 30.08.2022,
+De : FC Toulouse,
+BL : 10,
+Número : 19,
+Jugador : Lars Stindl,
+Nacimiento : 26.08.1988,
+Edad : 34,
+Nación : Deutschland,
+Altura : 181,
+Peso : 80,
+PJ : 13,
+Goles : 4,
+Asistencias : 6,
+TA : 5,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2015,
+De : Hannover 96,
+BL : 360,
+Número : 13,
+Jugador : Julian Weigl,
+Nacimiento : 08.09.1995,
+Edad : 27,
+Nación : Deutschland,
+Altura : 186,
+Peso : 71,
+PJ : 14,
+Goles : 0,
+Asistencias : 1,
+TA : 4,
+TAR : 0,
+TR : 0,
+Desde : 01.09.2022,
+De : Benfica Lissabon,
+BL : 130,
+Número : 8,
+Jugador : Hannes Wolf,
+Nacimiento : 16.04.1999,
+Edad : 23,
+Nación : Österreich,
+Altura : 179,
+Peso : 69,
+PJ : 7,
+Goles : 1,
+Asistencias : 1,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2022,
+De : Swansea City,
+BL : 51,
+Número : 11,
+Jugador : Yvandro Borges Sanches,
+Nacimiento : 24.05.2004,
+Edad : 18,
+Nación : Luxemburg,
+Altura : 176,
+Peso : 66,
+PJ : 3,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2020,
+De : RFC Union Luxemburg,
+BL : 3,
+Número : 38,
+Jugador : Patrick Herrmann,
+Nacimiento : 16.03.1988,
+Edad : 34,
+Nación : Deutschland,
+Altura : 180,
+Peso : 80,
+PJ : 0,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 05.08.2021,
+De : SV Darmstadt 98,
+BL : 0,
+Número : 4,
+Jugador : Jacob Italiano,
+Nacimiento : 30.07.2001,
+Edad : 21,
+Nación : Australien,
+Altura : 177,
+Peso : 71,
+PJ : 0,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 01.07.2019,
+De : Perth Glory,
+BL : 0,
+Número : 35,
+Jugador : Alassane Plea,
+Nacimiento : 10.03.1993,
+Edad : 29,
+Nación : Frankreich,
+Altura : 181,
+Peso : 79,
+PJ : 14,
+Goles : 2,
+Asistencias : 7,
+TA : 3,
+TAR : 0,
+TR : 0,
+Desde : 13.07.2018,
+De : OGC Nizza,
+BL : 137,
+Número : 14,
+Jugador : Marcus Thuram,
+Nacimiento : 06.08.1997,
+Edad : 25,
+Nación : Frankreich,
+Altura : 192,
+Peso : 88,
+PJ : 17,
+Goles : 10,
+Asistencias : 4,
+TA : 2,
+TAR : 0,
+TR : 0,
+Desde : 22.07.2019,
+De : EA Guingamp,
+BL : 98,
+Número : 10,
+Jugador : Yann Sommer,
+Nacimiento : 17.12.1988,
+Edad : 34,
+Nación : Schweiz,
+Altura : 183,
+Peso : 79,
+PJ : 13,
+Goles : 0,
+Asistencias : 0,
+TA : 1,
+TAR : 0,
+TR : 0,
+Desde : 19.01.2023,
+De : Bor. Mönchengladbach,
+BL : 275,
+Número : 1,
+Jugador : Rocco Reitz,
+Nacimiento : 29.05.2002,
+Edad : 20,
+Nación : Deutschland,
+Altura : 176,
+Peso : 75,
+PJ : 1,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 17.01.2023,
+De : Bor. Mönchengladbach,
+BL : 3,
+Número : 27,
+Jugador : Semir Telalovic,
+Nacimiento : 23.12.1999,
+Edad : 23,
+Nación : Deutschland,
+Altura : No consignado,
+Peso : No consignado,
+PJ : 1,
+Goles : 0,
+Asistencias : 0,
+TA : 0,
+TAR : 0,
+TR : 0,
+Desde : 20.01.2022,
+De : FV Illertissen,
+BL : 1,
+Número : 0,

@@ -373,21 +373,21 @@ BL : 185
 Número : 18
 
 Jugador : Leroy Sané
-Nacimiento : 17.03.1994
-Edad : 28
-Nación : Österreich
-Altura : 178
-Peso : 76
-PJ : 15
-Goles : 1
-Asistencias : 1
-TA : 2
+Nacimiento : 11.01.1996
+Edad : 27
+Nación : Deutschland
+Altura : 183
+Peso : 80
+PJ : 16
+Goles : 6
+Asistencias : 4
+TA : 3
 TAR : 0
 TR : 0
-Desde : 30.08.2021
-De : RB Leipzig
-BL : 185
-Número : 18
+Desde : 15.07.2020
+De : Manchester City
+BL : 127
+Número : 10
 
 Jugador : Paul Wanner
 Nacimiento : 23.12.2005
@@ -424,21 +424,21 @@ BL : 259
 Número : 13
 
 Jugador : Sadio Mané
-Nacimiento : 23.03.1989
-Edad : 33
-Nación : Kamerun
-Altura : 191
-Peso : 90
-PJ : 13
-Goles : 7
-Asistencias : 2
-TA : 0
+Nacimiento : 10.04.1992
+Edad : 30
+Nación : Senegal
+Altura : 175
+Peso : 69
+PJ : 14
+Goles : 6
+Asistencias : 3
+TA : 1
 TAR : 0
 TR : 0
-Desde : 01.09.2020
-De : Paris St. Germain
-BL : 259
-Número : 13
+Desde : 01.07.2022
+De : FC Liverpool
+BL : 14
+Número : 17
 
 Jugador : Mathys Tel
 Nacimiento : 27.04.2005
