@@ -3,7 +3,7 @@
         "Jugador": "Jan Olschowsky",
         "Nacimiento": "18.11.2001",
         "Edad": "21",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "79",
         "PJ": "2",
@@ -15,13 +15,13 @@
         "Desde": "01.07.2009",
         "De": "SV Glehn",
         "BL": "2",
-        "N\u00famero": "41"
+        "Número": "41"
     },
     {
         "Jugador": "Jonas Omlin",
         "Nacimiento": "10.01.1994",
         "Edad": "29",
-        "Naci\u00f3n": "Schweiz",
+        "Nación": "Schweiz",
         "Altura": "189",
         "Peso": "80",
         "PJ": "3",
@@ -33,13 +33,13 @@
         "Desde": "19.01.2023",
         "De": "Montpellier HSC",
         "BL": "3",
-        "N\u00famero": "1"
+        "Número": "1"
     },
     {
         "Jugador": "Tobias Sippel",
         "Nacimiento": "22.03.1988",
         "Edad": "34",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "183",
         "Peso": "80",
         "PJ": "3",
@@ -51,13 +51,13 @@
         "Desde": "01.07.2015",
         "De": "1. FC Kaiserslautern",
         "BL": "51",
-        "N\u00famero": "21"
+        "Número": "21"
     },
     {
         "Jugador": "Ramy Bensebaini",
         "Nacimiento": "16.04.1995",
         "Edad": "27",
-        "Naci\u00f3n": "Algerien",
+        "Nación": "Algerien",
         "Altura": "186",
         "Peso": "82",
         "PJ": "17",
@@ -69,13 +69,13 @@
         "Desde": "14.08.2019",
         "De": "Stade Rennes",
         "BL": "84",
-        "N\u00famero": "25"
+        "Número": "25"
     },
     {
-        "Jugador": "Mamadou Doucour\u00e9",
+        "Jugador": "Mamadou Doucouré",
         "Nacimiento": "21.05.1998",
         "Edad": "24",
-        "Naci\u00f3n": "Frankreich",
+        "Nación": "Frankreich",
         "Altura": "183",
         "Peso": "78",
         "PJ": 0,
@@ -87,13 +87,13 @@
         "Desde": "01.07.2016",
         "De": "Paris St. Germain",
         "BL": 0,
-        "N\u00famero": "4"
+        "Número": "4"
     },
     {
         "Jugador": "Nico Elvedi",
         "Nacimiento": "30.09.1996",
         "Edad": "26",
-        "Naci\u00f3n": "Schweiz",
+        "Nación": "Schweiz",
         "Altura": "189",
         "Peso": "81",
         "PJ": "16",
@@ -103,15 +103,15 @@
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2015",
-        "De": "FC Z\u00fcrich",
+        "De": "FC Zürich",
         "BL": "214",
-        "N\u00famero": "30"
+        "Número": "30"
     },
     {
         "Jugador": "Marvin Friedrich",
         "Nacimiento": "13.12.1995",
         "Edad": "27",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "192",
         "Peso": "83",
         "PJ": "15",
@@ -123,13 +123,13 @@
         "Desde": "11.01.2022",
         "De": "1. FC Union Berlin",
         "BL": "108",
-        "N\u00famero": "5"
+        "Número": "5"
     },
     {
         "Jugador": "Tony Jantschke",
         "Nacimiento": "07.04.1990",
         "Edad": "32",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "177",
         "Peso": "76",
         "PJ": "5",
@@ -141,13 +141,13 @@
         "Desde": "01.07.2006",
         "De": "SC Borea Dresden",
         "BL": "240",
-        "N\u00famero": "24"
+        "Número": "24"
     },
     {
         "Jugador": "Stefan Lainer",
         "Nacimiento": "27.08.1992",
         "Edad": "30",
-        "Naci\u00f3n": "\u00d6sterreich",
+        "Nación": "Österreich",
         "Altura": "175",
         "Peso": "73",
         "PJ": "7",
@@ -159,13 +159,13 @@
         "Desde": "01.07.2019",
         "De": "RB Salzburg",
         "BL": "92",
-        "N\u00famero": "18"
+        "Número": "18"
     },
     {
         "Jugador": "Luca Netz",
         "Nacimiento": "15.05.2003",
         "Edad": "19",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "180",
         "Peso": "85",
         "PJ": "8",
@@ -177,31 +177,31 @@
         "Desde": "06.08.2021",
         "De": "Hertha BSC",
         "BL": "43",
-        "N\u00famero": "20"
+        "Número": "20"
     },
     {
         "Jugador": "Joe Scally",
-        "Nacimiento": "15.05.2003",
-        "Edad": "19",
-        "Naci\u00f3n": "Deutschland",
-        "Altura": "180",
-        "Peso": "85",
-        "PJ": "8",
+        "Nacimiento": "31.12.2002",
+        "Edad": "20",
+        "Nación": "USA",
+        "Altura": "184",
+        "Peso": "80",
+        "PJ": "17",
         "Goles": "0",
-        "Asistencias": "1",
-        "TA": "0",
+        "Asistencias": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
-        "Desde": "06.08.2021",
-        "De": "Hertha BSC",
-        "BL": "43",
-        "N\u00famero": "20"
+        "Desde": "02.01.2021",
+        "De": "New York City FC",
+        "BL": "47",
+        "Número": "29"
     },
     {
         "Jugador": "Oscar Fraulo",
         "Nacimiento": "06.12.2003",
         "Edad": "19",
-        "Naci\u00f3n": "D\u00e4nemark",
+        "Nación": "Dänemark",
         "Altura": "180",
         "Peso": "77",
         "PJ": 0,
@@ -213,13 +213,13 @@
         "Desde": "01.07.2022",
         "De": "FC Midtjylland",
         "BL": 0,
-        "N\u00famero": "22"
+        "Número": "22"
     },
     {
         "Jugador": "Jonas Hofmann",
         "Nacimiento": "14.07.1992",
         "Edad": "30",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "176",
         "Peso": "73",
         "PJ": "15",
@@ -231,13 +231,13 @@
         "Desde": "01.01.2016",
         "De": "Borussia Dortmund",
         "BL": "216",
-        "N\u00famero": "23"
+        "Número": "23"
     },
     {
         "Jugador": "Ko Itakura",
         "Nacimiento": "27.01.1997",
         "Edad": "26",
-        "Naci\u00f3n": "Japan",
+        "Nación": "Japan",
         "Altura": "186",
         "Peso": "75",
         "PJ": "9",
@@ -249,31 +249,31 @@
         "Desde": "02.07.2022",
         "De": "FC Schalke 04",
         "BL": "9",
-        "N\u00famero": "3"
+        "Número": "3"
     },
     {
-        "Jugador": "Kouadio Kon\u00e9",
-        "Nacimiento": "27.01.1997",
-        "Edad": "26",
-        "Naci\u00f3n": "Japan",
-        "Altura": "186",
-        "Peso": "75",
-        "PJ": "9",
-        "Goles": "0",
-        "Asistencias": "2",
-        "TA": "0",
+        "Jugador": "Kouadio Koné",
+        "Nacimiento": "17.05.2001",
+        "Edad": "21",
+        "Nación": "Frankreich",
+        "Altura": "185",
+        "Peso": "80",
+        "PJ": "17",
+        "Goles": "1",
+        "Asistencias": "1",
+        "TA": "7",
         "TAR": "0",
-        "TR": "1",
-        "Desde": "02.07.2022",
-        "De": "FC Schalke 04",
-        "BL": "9",
-        "N\u00famero": "3"
+        "TR": "0",
+        "Desde": "01.07.2021",
+        "De": "FC Toulouse",
+        "BL": "44",
+        "Número": "17"
     },
     {
         "Jugador": "Christoph Kramer",
         "Nacimiento": "19.02.1991",
         "Edad": "31",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "191",
         "Peso": "76",
         "PJ": "17",
@@ -285,13 +285,13 @@
         "Desde": "01.07.2016",
         "De": "Bayer 04 Leverkusen",
         "BL": "245",
-        "N\u00famero": "6"
+        "Número": "6"
     },
     {
         "Jugador": "Florian Neuhaus",
         "Nacimiento": "16.03.1997",
         "Edad": "25",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "185",
         "Peso": "77",
         "PJ": "8",
@@ -301,15 +301,15 @@
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2018",
-        "De": "Fortuna D\u00fcsseldorf",
+        "De": "Fortuna Düsseldorf",
         "BL": "132",
-        "N\u00famero": "32"
+        "Número": "32"
     },
     {
         "Jugador": "Nathan Ngoumou",
         "Nacimiento": "14.03.2000",
         "Edad": "22",
-        "Naci\u00f3n": "Frankreich",
+        "Nación": "Frankreich",
         "Altura": "183",
         "Peso": "74",
         "PJ": "10",
@@ -321,31 +321,31 @@
         "Desde": "30.08.2022",
         "De": "FC Toulouse",
         "BL": "10",
-        "N\u00famero": "19"
+        "Número": "19"
     },
     {
-        "Jugador": "Conor No\u00df",
-        "Nacimiento": "14.03.2000",
+        "Jugador": "Conor Noß",
+        "Nacimiento": "01.01.2001",
         "Edad": "22",
-        "Naci\u00f3n": "Frankreich",
-        "Altura": "183",
-        "Peso": "74",
-        "PJ": "10",
+        "Nación": "Irland",
+        "Altura": "181",
+        "Peso": "72",
+        "PJ": "0",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
         "TAR": "0",
         "TR": "0",
-        "Desde": "30.08.2022",
-        "De": "FC Toulouse",
-        "BL": "10",
-        "N\u00famero": "19"
+        "Desde": "01.07.2009",
+        "De": "Sportfreunde Vorst",
+        "BL": "3",
+        "Número": "34"
     },
     {
         "Jugador": "Lars Stindl",
         "Nacimiento": "26.08.1988",
         "Edad": "34",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "181",
         "Peso": "80",
         "PJ": "13",
@@ -357,13 +357,13 @@
         "Desde": "01.07.2015",
         "De": "Hannover 96",
         "BL": "360",
-        "N\u00famero": "13"
+        "Número": "13"
     },
     {
         "Jugador": "Julian Weigl",
         "Nacimiento": "08.09.1995",
         "Edad": "27",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "71",
         "PJ": "14",
@@ -375,13 +375,13 @@
         "Desde": "01.09.2022",
         "De": "Benfica Lissabon",
         "BL": "130",
-        "N\u00famero": "8"
+        "Número": "8"
     },
     {
         "Jugador": "Hannes Wolf",
         "Nacimiento": "16.04.1999",
         "Edad": "23",
-        "Naci\u00f3n": "\u00d6sterreich",
+        "Nación": "Österreich",
         "Altura": "179",
         "Peso": "69",
         "PJ": "7",
@@ -393,13 +393,13 @@
         "Desde": "01.07.2022",
         "De": "Swansea City",
         "BL": "51",
-        "N\u00famero": "11"
+        "Número": "11"
     },
     {
         "Jugador": "Yvandro Borges Sanches",
         "Nacimiento": "24.05.2004",
         "Edad": "18",
-        "Naci\u00f3n": "Luxemburg",
+        "Nación": "Luxemburg",
         "Altura": "176",
         "Peso": "66",
         "PJ": "3",
@@ -411,31 +411,31 @@
         "Desde": "01.07.2020",
         "De": "RFC Union Luxemburg",
         "BL": "3",
-        "N\u00famero": "38"
+        "Número": "38"
     },
     {
         "Jugador": "Patrick Herrmann",
-        "Nacimiento": "16.03.1988",
-        "Edad": "34",
-        "Naci\u00f3n": "Deutschland",
-        "Altura": "180",
-        "Peso": "80",
-        "PJ": 0,
-        "Goles": 0,
-        "Asistencias": 0,
-        "TA": 0,
-        "TAR": 0,
-        "TR": 0,
-        "Desde": "05.08.2021",
-        "De": "SV Darmstadt 98",
-        "BL": 0,
-        "N\u00famero": "4"
+        "Nacimiento": "12.02.1991",
+        "Edad": "31",
+        "Nación": "Deutschland",
+        "Altura": "179",
+        "Peso": "71",
+        "PJ": "15",
+        "Goles": "1",
+        "Asistencias": "0",
+        "TA": "2",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "01.07.2008",
+        "De": "1. FC Saarbrücken",
+        "BL": "337",
+        "Número": "7"
     },
     {
         "Jugador": "Jacob Italiano",
         "Nacimiento": "30.07.2001",
         "Edad": "21",
-        "Naci\u00f3n": "Australien",
+        "Nación": "Australien",
         "Altura": "177",
         "Peso": "71",
         "PJ": 0,
@@ -447,13 +447,13 @@
         "Desde": "01.07.2019",
         "De": "Perth Glory",
         "BL": 0,
-        "N\u00famero": "35"
+        "Número": "35"
     },
     {
         "Jugador": "Alassane Plea",
         "Nacimiento": "10.03.1993",
         "Edad": "29",
-        "Naci\u00f3n": "Frankreich",
+        "Nación": "Frankreich",
         "Altura": "181",
         "Peso": "79",
         "PJ": "14",
@@ -465,13 +465,13 @@
         "Desde": "13.07.2018",
         "De": "OGC Nizza",
         "BL": "137",
-        "N\u00famero": "14"
+        "Número": "14"
     },
     {
         "Jugador": "Marcus Thuram",
         "Nacimiento": "06.08.1997",
         "Edad": "25",
-        "Naci\u00f3n": "Frankreich",
+        "Nación": "Frankreich",
         "Altura": "192",
         "Peso": "88",
         "PJ": "17",
@@ -483,13 +483,13 @@
         "Desde": "22.07.2019",
         "De": "EA Guingamp",
         "BL": "98",
-        "N\u00famero": "10"
+        "Número": "10"
     },
     {
         "Jugador": "Yann Sommer",
         "Nacimiento": "17.12.1988",
         "Edad": "34",
-        "Naci\u00f3n": "Schweiz",
+        "Nación": "Schweiz",
         "Altura": "183",
         "Peso": "79",
         "PJ": "13",
@@ -499,15 +499,15 @@
         "TAR": "0",
         "TR": "0",
         "Desde": "19.01.2023",
-        "De": "Bor. M\u00f6nchengladbach",
+        "De": "Bor. Mönchengladbach",
         "BL": "275",
-        "N\u00famero": "1"
+        "Número": "1"
     },
     {
         "Jugador": "Rocco Reitz",
         "Nacimiento": "29.05.2002",
         "Edad": "20",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "176",
         "Peso": "75",
         "PJ": "1",
@@ -517,15 +517,15 @@
         "TAR": "0",
         "TR": "0",
         "Desde": "17.01.2023",
-        "De": "Bor. M\u00f6nchengladbach",
+        "De": "Bor. Mönchengladbach",
         "BL": "3",
-        "N\u00famero": "27"
+        "Número": "27"
     },
     {
         "Jugador": "Semir Telalovic",
         "Nacimiento": "23.12.1999",
         "Edad": "23",
-        "Naci\u00f3n": "Deutschland",
+        "Nación": "Deutschland",
         "Altura": "No consignado",
         "Peso": "No consignado",
         "PJ": "1",
@@ -537,6 +537,6 @@
         "Desde": "20.01.2022",
         "De": "FV Illertissen",
         "BL": "1",
-        "N\u00famero": 0
+        "Número": 0
     }
 ]
