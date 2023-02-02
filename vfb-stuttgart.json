@@ -288,6 +288,24 @@
         "Número": "22"
     },
     {
+        "Jugador": "Gil Dias",
+        "Nacimiento": "28.09.1996",
+        "Edad": "26",
+        "Nación": "Portugal",
+        "Altura": "183",
+        "Peso": "78",
+        "PJ": "0",
+        "Goles": "0",
+        "Asistencias": "0",
+        "TA": "0",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "30.01.2023",
+        "De": "Benfica Lissabon",
+        "BL": "0",
+        "Número": "31"
+    },
+    {
         "Jugador": "Genki Haraguchi",
         "Nacimiento": "09.05.1991",
         "Edad": "31",
@@ -358,6 +376,24 @@
         "De": "SV Sandhausen",
         "BL": "14",
         "Número": "28"
+    },
+    {
+        "Jugador": "Silas Katompa Mvumpa",
+        "Nacimiento": "06.10.1998",
+        "Edad": "24",
+        "Nación": "DR Kongo",
+        "Altura": "189",
+        "Peso": "82",
+        "PJ": "16",
+        "Goles": "3",
+        "Asistencias": "3",
+        "TA": "2",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "13.08.2019",
+        "De": "FC Paris",
+        "BL": "50",
+        "Número": "14"
     },
     {
         "Jugador": "Laurin Ulrich",
@@ -466,6 +502,24 @@
         "De": "FC Midtjylland",
         "BL": "12",
         "Número": "20"
+    },
+    {
+        "Jugador": "Tiago Tomas",
+        "Nacimiento": "16.06.2002",
+        "Edad": "20",
+        "Nación": "Portugal",
+        "Altura": "180",
+        "Peso": "78",
+        "PJ": "15",
+        "Goles": "2",
+        "Asistencias": "2",
+        "TA": "1",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "30.01.2022",
+        "De": "Sporting Lissabon",
+        "BL": "29",
+        "Número": "10"
     },
     {
         "Jugador": "Naouirou Ahamada",
