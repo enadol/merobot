@@ -6,7 +6,7 @@
         "Nación": "Deutschland",
         "Altura": "197",
         "Peso": "98",
-        "PJ": "1",
+        "PJ": "2",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -14,7 +14,7 @@
         "TR": "0",
         "Desde": "01.07.2020",
         "De": "Brann Bergen",
-        "BL": "219",
+        "BL": "220",
         "Número": "1"
     },
     {
@@ -78,7 +78,7 @@
         "Nación": "Schweiz",
         "Altura": "180",
         "Peso": "75",
-        "PJ": "15",
+        "PJ": "16",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "2",
@@ -86,7 +86,7 @@
         "TR": "0",
         "Desde": "07.07.2022",
         "De": "Arminia Bielefeld",
-        "BL": "73",
+        "BL": "74",
         "Número": "27"
     },
     {
@@ -132,15 +132,15 @@
         "Nación": "Deutschland",
         "Altura": "190",
         "Peso": "86",
-        "PJ": "1",
+        "PJ": "2",
         "Goles": "0",
         "Asistencias": "0",
-        "TA": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "26.01.2023",
         "De": "Celtic Glasgow",
-        "BL": "1",
+        "BL": "2",
         "Número": "25"
     },
     {
@@ -160,24 +160,6 @@
         "De": "VfB Stuttgart",
         "BL": "56",
         "Número": "35"
-    },
-    {
-        "Jugador": "Timothee Kolodziejczak",
-        "Nacimiento": "01.10.1991",
-        "Edad": "31",
-        "Nación": "Frankreich",
-        "Altura": "185",
-        "Peso": "75",
-        "PJ": "1",
-        "Goles": "0",
-        "Asistencias": "0",
-        "TA": "0",
-        "TAR": "0",
-        "TR": "0",
-        "Desde": "21.10.2022",
-        "De": "AS St. Etienne",
-        "BL": "2",
-        "Número": "15"
     },
     {
         "Jugador": "Henning Matriciani",
@@ -204,7 +186,7 @@
         "Nación": "Niederlande",
         "Altura": "178",
         "Peso": "77",
-        "PJ": "10",
+        "PJ": "11",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -212,7 +194,7 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "Udinese Calcio",
-        "BL": "10",
+        "BL": "11",
         "Número": "2"
     },
     {
@@ -222,7 +204,7 @@
         "Nación": "Finnland",
         "Altura": "177",
         "Peso": "74",
-        "PJ": "3",
+        "PJ": "4",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -230,7 +212,7 @@
         "TR": "0",
         "Desde": "07.01.2023",
         "De": "Stade Brest",
-        "BL": "3",
+        "BL": "4",
         "Número": "18"
     },
     {
@@ -258,7 +240,7 @@
         "Nación": "Japan",
         "Altura": "189",
         "Peso": "90",
-        "PJ": "18",
+        "PJ": "19",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "3",
@@ -266,7 +248,7 @@
         "TR": "0",
         "Desde": "05.07.2022",
         "De": "Sampdoria Genua",
-        "BL": "18",
+        "BL": "19",
         "Número": "4"
     },
     {
@@ -276,7 +258,7 @@
         "Nación": "Deutschland",
         "Altura": "179",
         "Peso": "76",
-        "PJ": "8",
+        "PJ": "9",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -284,7 +266,7 @@
         "TR": "0",
         "Desde": "01.07.2014",
         "De": "Bor. Mönchengladbach",
-        "BL": "14",
+        "BL": "15",
         "Número": "23"
     },
     {
@@ -294,34 +276,16 @@
         "Nación": "Kolumbien",
         "Altura": "181",
         "Peso": "84",
-        "PJ": "0",
+        "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
-        "TA": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "31.01.2023",
         "De": "Club Brügge",
-        "BL": "0",
+        "BL": "1",
         "Número": "33"
-    },
-    {
-        "Jugador": "Nassim Boujellab",
-        "Nacimiento": "20.06.1999",
-        "Edad": "23",
-        "Nación": "Marokko",
-        "Altura": "182",
-        "Peso": "77",
-        "PJ": "0",
-        "Goles": "0",
-        "Asistencias": "0",
-        "TA": "0",
-        "TAR": "0",
-        "TR": "0",
-        "Desde": "01.01.2023",
-        "De": "HJK Helsinki",
-        "BL": "0",
-        "Número": "0"
     },
     {
         "Jugador": "Dominick Drexler",
@@ -330,7 +294,7 @@
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "71",
-        "PJ": "14",
+        "PJ": "15",
         "Goles": "2",
         "Asistencias": "3",
         "TA": "2",
@@ -338,7 +302,7 @@
         "TR": "1",
         "Desde": "21.07.2021",
         "De": "1. FC Köln",
-        "BL": "68",
+        "BL": "69",
         "Número": "24"
     },
     {
@@ -348,7 +312,7 @@
         "Nación": "Tschechien",
         "Altura": "187",
         "Peso": "74",
-        "PJ": "13",
+        "PJ": "14",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -356,7 +320,7 @@
         "TR": "0",
         "Desde": "14.07.2022",
         "De": "West Ham United",
-        "BL": "13",
+        "BL": "14",
         "Número": "30"
     },
     {
@@ -366,7 +330,7 @@
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "72",
-        "PJ": "18",
+        "PJ": "19",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "3",
@@ -374,7 +338,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "1. FC Nürnberg",
-        "BL": "19",
+        "BL": "20",
         "Número": "6"
     },
     {
@@ -420,7 +384,7 @@
         "Nación": "Deutschland",
         "Altura": "180",
         "Peso": "70",
-        "PJ": "4",
+        "PJ": "5",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -428,7 +392,7 @@
         "TR": "0",
         "Desde": "23.01.2023",
         "De": "1. FC Union Berlin",
-        "BL": "4",
+        "BL": "5",
         "Número": "20"
     },
     {
@@ -474,7 +438,7 @@
         "Nación": "Deutschland",
         "Altura": "188",
         "Peso": "85",
-        "PJ": "18",
+        "PJ": "19",
         "Goles": "3",
         "Asistencias": "1",
         "TA": "4",
@@ -482,7 +446,7 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "1. FC Union Berlin",
-        "BL": "76",
+        "BL": "77",
         "Número": "11"
     },
     {
@@ -492,7 +456,7 @@
         "Nación": "Schweiz",
         "Altura": "189",
         "Peso": "86",
-        "PJ": "3",
+        "PJ": "4",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -500,7 +464,7 @@
         "TR": "0",
         "Desde": "20.01.2023",
         "De": "Royal Antwerp FC",
-        "BL": "3",
+        "BL": "4",
         "Número": "26"
     },
     {
@@ -528,15 +492,15 @@
         "Nación": "Japan",
         "Altura": "180",
         "Peso": "72",
-        "PJ": "3",
+        "PJ": "4",
         "Goles": "1",
         "Asistencias": "0",
-        "TA": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "26.08.2022",
         "De": "1. FC Düren",
-        "BL": "3",
+        "BL": "4",
         "Número": "38"
     },
     {
@@ -564,7 +528,7 @@
         "Nación": "Deutschland",
         "Altura": "192",
         "Peso": "83",
-        "PJ": "18",
+        "PJ": "19",
         "Goles": "3",
         "Asistencias": "0",
         "TA": "4",
@@ -572,8 +536,26 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "Hamburger SV",
-        "BL": "76",
+        "BL": "77",
         "Número": "9"
+    },
+    {
+        "Jugador": "Timothee Kolodziejczak",
+        "Nacimiento": "01.10.1991",
+        "Edad": "31",
+        "Nación": "Frankreich",
+        "Altura": "185",
+        "Peso": "75",
+        "PJ": "1",
+        "Goles": "0",
+        "Asistencias": "0",
+        "TA": "0",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "21.10.2022",
+        "De": "AS St. Etienne",
+        "BL": "2",
+        "Número": "15"
     },
     {
         "Jugador": "Malick Thiaw",
