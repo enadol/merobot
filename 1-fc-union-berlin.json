@@ -42,7 +42,7 @@
         "Nación": "Dänemark",
         "Altura": "190",
         "Peso": "81",
-        "PJ": "14",
+        "PJ": "15",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -50,7 +50,7 @@
         "TR": "0",
         "Desde": "20.07.2021",
         "De": "FC Schalke 04",
-        "BL": "43",
+        "BL": "44",
         "Número": "1"
     },
     {
@@ -78,7 +78,7 @@
         "Nación": "Portugal",
         "Altura": "190",
         "Peso": "82",
-        "PJ": "15",
+        "PJ": "16",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -86,7 +86,7 @@
         "TR": "1",
         "Desde": "16.07.2022",
         "De": "FC Porto",
-        "BL": "15",
+        "BL": "16",
         "Número": "4"
     },
     {
@@ -96,7 +96,7 @@
         "Nación": "Niederlande",
         "Altura": "190",
         "Peso": "83",
-        "PJ": "9",
+        "PJ": "10",
         "Goles": "4",
         "Asistencias": "2",
         "TA": "0",
@@ -104,7 +104,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "Vitesse Arnhem",
-        "BL": "9",
+        "BL": "10",
         "Número": "5"
     },
     {
@@ -114,7 +114,7 @@
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "76",
-        "PJ": "14",
+        "PJ": "15",
         "Goles": "0",
         "Asistencias": "2",
         "TA": "3",
@@ -122,7 +122,7 @@
         "TR": "0",
         "Desde": "15.07.2020",
         "De": "Fortuna Düsseldorf",
-        "BL": "110",
+        "BL": "111",
         "Número": "23"
     },
     {
@@ -168,7 +168,7 @@
         "Nación": "Deutschland",
         "Altura": "190",
         "Peso": "83",
-        "PJ": "17",
+        "PJ": "18",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "2",
@@ -176,7 +176,7 @@
         "TR": "0",
         "Desde": "04.08.2020",
         "De": "VfL Wolfsburg",
-        "BL": "267",
+        "BL": "268",
         "Número": "31"
     },
     {
@@ -186,7 +186,7 @@
         "Nación": "Frankreich",
         "Altura": "172",
         "Peso": "82",
-        "PJ": "6",
+        "PJ": "7",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -194,7 +194,7 @@
         "TR": "0",
         "Desde": "12.01.2023",
         "De": "VfL Wolfsburg",
-        "BL": "109",
+        "BL": "110",
         "Número": "26"
     },
     {
@@ -204,7 +204,7 @@
         "Nación": "Österreich",
         "Altura": "189",
         "Peso": "78",
-        "PJ": "15",
+        "PJ": "16",
         "Goles": "0",
         "Asistencias": "5",
         "TA": "1",
@@ -212,7 +212,7 @@
         "TR": "0",
         "Desde": "01.07.2014",
         "De": "Rapid Wien",
-        "BL": "103",
+        "BL": "104",
         "Número": "28"
     },
     {
@@ -222,7 +222,7 @@
         "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "80",
-        "PJ": "16",
+        "PJ": "17",
         "Goles": "4",
         "Asistencias": "1",
         "TA": "0",
@@ -230,7 +230,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "SC Freiburg",
-        "BL": "174",
+        "BL": "175",
         "Número": "19"
     },
     {
@@ -258,7 +258,7 @@
         "Nación": "Deutschland",
         "Altura": "188",
         "Peso": "85",
-        "PJ": "17",
+        "PJ": "18",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "6",
@@ -266,7 +266,7 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "FC Augsburg",
-        "BL": "187",
+        "BL": "188",
         "Número": "8"
     },
     {
@@ -276,7 +276,7 @@
         "Nación": "Tunesien",
         "Altura": "181",
         "Peso": "75",
-        "PJ": "0",
+        "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -284,7 +284,7 @@
         "TR": "0",
         "Desde": "27.01.2023",
         "De": "Ferencvaros Budapest",
-        "BL": "0",
+        "BL": "1",
         "Número": "20"
     },
     {
@@ -384,15 +384,15 @@
         "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "79",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "1",
-        "Asistencias": "2",
-        "TA": "3",
+        "Asistencias": "3",
+        "TA": "4",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "SpVgg Greuther Fürth",
-        "BL": "64",
+        "BL": "65",
         "Número": "14"
     },
     {
@@ -402,15 +402,15 @@
         "Nación": "Norwegen",
         "Altura": "188",
         "Peso": "83",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "1",
-        "Asistencias": "0",
+        "Asistencias": "1",
         "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "19.07.2022",
         "De": "Sampdoria Genua",
-        "BL": "11",
+        "BL": "12",
         "Número": "2"
     },
     {
@@ -420,7 +420,7 @@
         "Nación": "Surinam",
         "Altura": "180",
         "Peso": "78",
-        "PJ": "18",
+        "PJ": "19",
         "Goles": "7",
         "Asistencias": "5",
         "TA": "1",
@@ -428,25 +428,25 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "ADO Den Haag",
-        "BL": "77",
+        "BL": "78",
         "Número": "27"
     },
     {
         "Jugador": "Kevin Behrens",
         "Nacimiento": "03.02.1991",
-        "Edad": "31",
+        "Edad": "32",
         "Nación": "Deutschland",
         "Altura": "185",
         "Peso": "85",
-        "PJ": "18",
-        "Goles": "3",
+        "PJ": "19",
+        "Goles": "4",
         "Asistencias": "2",
         "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "SV Sandhausen",
-        "BL": "42",
+        "BL": "43",
         "Número": "17"
     },
     {
@@ -456,7 +456,7 @@
         "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "85",
-        "PJ": "8",
+        "PJ": "9",
         "Goles": "1",
         "Asistencias": "1",
         "TA": "1",
@@ -464,7 +464,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "SpVgg Greuther Fürth",
-        "BL": "41",
+        "BL": "42",
         "Número": "40"
     },
     {
@@ -528,7 +528,7 @@
         "Nación": "Japan",
         "Altura": "176",
         "Peso": "70",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -536,7 +536,7 @@
         "TR": "0",
         "Desde": "30.01.2023",
         "De": "1. FC Union Berlin",
-        "BL": "160",
+        "BL": "161",
         "Número": "24"
     },
     {
@@ -546,7 +546,7 @@
         "Nación": "Deutschland",
         "Altura": "180",
         "Peso": "70",
-        "PJ": "4",
+        "PJ": "5",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -554,7 +554,7 @@
         "TR": "0",
         "Desde": "23.01.2023",
         "De": "1. FC Union Berlin",
-        "BL": "4",
+        "BL": "5",
         "Número": "21"
     }
 ]
