@@ -205,3 +205,5 @@
         Eintracht Frankfurt  3-0  Hertha BSC
         VfL Bochum  5-2  TSG Hoffenheim
         Bor. Mönchengladbach  0-0  FC Schalke 04
+        VfB Stuttgart  0-2  Werder Bremen
+        VfL Wolfsburg  2-4  Bayern München
