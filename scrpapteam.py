@@ -107,6 +107,11 @@ for nombre in kadernames:
             nachname="Katompa Mvumpa"
             kader.append(vorname+" "+nachname)
 
+        if(apellido=="Jordan"):
+            if(club=="1 FC Union Berlin"):
+                vorname=apellido
+                nachname="Siebatcheu"
+                kader.append(vorname+" "+nachname)
                 
         #     vorname="Joseph"
         #     nachname=apellido
