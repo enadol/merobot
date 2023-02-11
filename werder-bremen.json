@@ -15,12 +15,14 @@
         "Desde": "01.07.2018",
         "De": "Alemannia Aachen",
         "BL": "0",
-        "Número": "37"
+        "Número": "37",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Eduardo Dos Santos Haesler",
         "Nacimiento": "10.02.1999",
-        "Edad": "23",
+        "Edad": "24",
         "Nación": "Deutschland",
         "Altura": "196",
         "Peso": "85",
@@ -33,7 +35,9 @@
         "Desde": "01.07.2022",
         "De": "FC Nordsjaelland",
         "BL": "0",
-        "Número": "38"
+        "Número": "38",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Jiri Pavlenka",
@@ -42,7 +46,7 @@
         "Nación": "Tschechien",
         "Altura": "196",
         "Peso": "85",
-        "PJ": "18",
+        "PJ": "20",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -50,8 +54,10 @@
         "TR": "0",
         "Desde": "01.07.2017",
         "De": "Slavia Prag",
-        "BL": "153",
-        "Número": "1"
+        "BL": "155",
+        "Número": "1",
+        "Contrato": "No definido",
+        "Selección": "16"
     },
     {
         "Jugador": "Michael Zetterer",
@@ -69,7 +75,9 @@
         "Desde": "30.01.2021",
         "De": "PEC Zwolle",
         "BL": "1",
-        "Número": "30"
+        "Número": "30",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Felix Agu",
@@ -87,7 +95,9 @@
         "Desde": "01.07.2020",
         "De": "VfL Osnabrück",
         "BL": "18",
-        "Número": "27"
+        "Número": "27",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Lee Buchanan",
@@ -96,7 +106,7 @@
         "Nación": "England",
         "Altura": "175",
         "Peso": "71",
-        "PJ": "12",
+        "PJ": "13",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "1",
@@ -104,8 +114,10 @@
         "TR": "0",
         "Desde": "04.07.2022",
         "De": "Derby County",
-        "BL": "12",
-        "Número": "26"
+        "BL": "13",
+        "Número": "26",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Fabio Chiarodia",
@@ -123,7 +135,9 @@
         "Desde": "01.07.2014",
         "De": "VfL Oldenburg",
         "BL": "1",
-        "Número": "39"
+        "Número": "39",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Marco Friedl",
@@ -141,7 +155,9 @@
         "Desde": "01.07.2018",
         "De": "TSV Rain/Lech",
         "BL": "0",
-        "Número": "0"
+        "Número": "0",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Anthony Jung",
@@ -150,7 +166,7 @@
         "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "83",
-        "PJ": "18",
+        "PJ": "20",
         "Goles": "2",
         "Asistencias": "2",
         "TA": "0",
@@ -158,8 +174,10 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "Bröndby IF",
-        "BL": "34",
-        "Número": "3"
+        "BL": "36",
+        "Número": "3",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Amos Pieper",
@@ -168,16 +186,18 @@
         "Nación": "Deutschland",
         "Altura": "192",
         "Peso": "83",
-        "PJ": "17",
+        "PJ": "19",
         "Goles": "1",
         "Asistencias": "1",
-        "TA": "6",
+        "TA": "7",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "Arminia Bielefeld",
-        "BL": "74",
-        "Número": "5"
+        "BL": "76",
+        "Número": "5",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Niklas Stark",
@@ -186,7 +206,7 @@
         "Nación": "Deutschland",
         "Altura": "190",
         "Peso": "84",
-        "PJ": "13",
+        "PJ": "15",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "4",
@@ -194,8 +214,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "Hertha BSC",
-        "BL": "213",
-        "Número": "4"
+        "BL": "215",
+        "Número": "4",
+        "Contrato": "No definido",
+        "Selección": "2"
     },
     {
         "Jugador": "Milos Veljkovic",
@@ -204,7 +226,7 @@
         "Nación": "Serbien",
         "Altura": "188",
         "Peso": "83",
-        "PJ": "15",
+        "PJ": "17",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "1",
@@ -212,8 +234,10 @@
         "TR": "0",
         "Desde": "01.02.2016",
         "De": "Tottenham Hotspur",
-        "BL": "144",
-        "Número": "13"
+        "BL": "146",
+        "Número": "13",
+        "Contrato": "No definido",
+        "Selección": "24"
     },
     {
         "Jugador": "Mitchell Weiser",
@@ -222,7 +246,7 @@
         "Nación": "Deutschland",
         "Altura": "177",
         "Peso": "71",
-        "PJ": "18",
+        "PJ": "19",
         "Goles": "1",
         "Asistencias": "8",
         "TA": "5",
@@ -230,8 +254,10 @@
         "TR": "0",
         "Desde": "15.07.2022",
         "De": "Bayer 04 Leverkusen",
-        "BL": "158",
-        "Número": "8"
+        "BL": "159",
+        "Número": "8",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Leonardo Bittencourt",
@@ -240,25 +266,27 @@
         "Nación": "Deutschland",
         "Altura": "170",
         "Peso": "72",
-        "PJ": "12",
+        "PJ": "14",
         "Goles": "2",
         "Asistencias": "0",
-        "TA": "3",
+        "TA": "5",
         "TAR": "0",
         "TR": "0",
         "Desde": "02.09.2019",
         "De": "TSG Hoffenheim",
-        "BL": "218",
-        "Número": "10"
+        "BL": "220",
+        "Número": "10",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Christian Groß",
         "Nacimiento": "08.02.1989",
-        "Edad": "33",
+        "Edad": "34",
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "78",
-        "PJ": "15",
+        "PJ": "17",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "1",
@@ -266,8 +294,10 @@
         "TR": "0",
         "Desde": "01.07.2018",
         "De": "VfL Osnabrück",
-        "BL": "52",
-        "Número": "36"
+        "BL": "54",
+        "Número": "36",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Ilia Gruev",
@@ -276,7 +306,7 @@
         "Nación": "Bulgarien",
         "Altura": "185",
         "Peso": "74",
-        "PJ": "16",
+        "PJ": "18",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -284,8 +314,10 @@
         "TR": "0",
         "Desde": "01.07.2015",
         "De": "Rot-Weiß Erfurt",
-        "BL": "17",
-        "Número": "28"
+        "BL": "19",
+        "Número": "28",
+        "Contrato": "No definido",
+        "Selección": "4"
     },
     {
         "Jugador": "Jean-Manuel Mbom",
@@ -303,7 +335,9 @@
         "Desde": "16.07.2020",
         "De": "KFC Uerdingen 05",
         "BL": "21",
-        "Número": "34"
+        "Número": "34",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Maximilian Philipp",
@@ -312,7 +346,7 @@
         "Nación": "Deutschland",
         "Altura": "183",
         "Peso": "76",
-        "PJ": "3",
+        "PJ": "4",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -320,8 +354,10 @@
         "TR": "0",
         "Desde": "30.01.2023",
         "De": "VfL Wolfsburg",
-        "BL": "137",
-        "Número": "17"
+        "BL": "138",
+        "Número": "17",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Dikeni Salifou",
@@ -330,7 +366,7 @@
         "Nación": "Togo",
         "Altura": "191",
         "Peso": "82",
-        "PJ": "0",
+        "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -338,8 +374,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "FC Augsburg",
-        "BL": "0",
-        "Número": "19"
+        "BL": "1",
+        "Número": "19",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Romano Schmid",
@@ -348,7 +386,7 @@
         "Nación": "Österreich",
         "Altura": "168",
         "Peso": "70",
-        "PJ": "14",
+        "PJ": "15",
         "Goles": "0",
         "Asistencias": "3",
         "TA": "1",
@@ -356,8 +394,10 @@
         "TR": "0",
         "Desde": "01.07.2020",
         "De": "Wolfsberger AC",
-        "BL": "36",
-        "Número": "20"
+        "BL": "37",
+        "Número": "20",
+        "Contrato": "No definido",
+        "Selección": "3"
     },
     {
         "Jugador": "Niklas Schmidt",
@@ -366,16 +406,18 @@
         "Nación": "Deutschland",
         "Altura": "184",
         "Peso": "80",
-        "PJ": "10",
+        "PJ": "12",
         "Goles": "1",
         "Asistencias": "0",
-        "TA": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "VfL Osnabrück",
-        "BL": "11",
-        "Número": "22"
+        "BL": "13",
+        "Número": "22",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Jens Stage",
@@ -384,16 +426,18 @@
         "Nación": "Dänemark",
         "Altura": "187",
         "Peso": "81",
-        "PJ": "17",
-        "Goles": "0",
+        "PJ": "19",
+        "Goles": "1",
         "Asistencias": "1",
-        "TA": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "FC Kopenhagen",
-        "BL": "17",
-        "Número": "6"
+        "BL": "19",
+        "Número": "6",
+        "Contrato": "No definido",
+        "Selección": "1"
     },
     {
         "Jugador": "Eren Dinkci",
@@ -402,7 +446,7 @@
         "Nación": "Deutschland",
         "Altura": "187",
         "Peso": "73",
-        "PJ": "6",
+        "PJ": "7",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -410,8 +454,10 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "SC Borgfeld",
-        "BL": "14",
-        "Número": "21"
+        "BL": "15",
+        "Número": "21",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Marvin Ducksch",
@@ -420,34 +466,38 @@
         "Nación": "Deutschland",
         "Altura": "188",
         "Peso": "79",
-        "PJ": "18",
-        "Goles": "3",
+        "PJ": "20",
+        "Goles": "4",
         "Asistencias": "7",
         "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "25.08.2021",
         "De": "Hannover 96",
-        "BL": "49",
-        "Número": "7"
+        "BL": "51",
+        "Número": "7",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Niclas Füllkrug",
         "Nacimiento": "09.02.1993",
-        "Edad": "29",
+        "Edad": "30",
         "Nación": "Deutschland",
         "Altura": "189",
         "Peso": "84",
-        "PJ": "17",
+        "PJ": "19",
         "Goles": "13",
-        "Asistencias": "3",
+        "Asistencias": "4",
         "TA": "4",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "Hannover 96",
-        "BL": "115",
-        "Número": "11"
+        "BL": "117",
+        "Número": "11",
+        "Contrato": "No definido",
+        "Selección": "4"
     },
     {
         "Jugador": "Nicolai Rapp",
@@ -465,7 +515,9 @@
         "Desde": "02.01.2023",
         "De": "Werder Bremen",
         "BL": "7",
-        "Número": "23"
+        "Número": "23",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Oliver Burke",
@@ -483,6 +535,8 @@
         "Desde": "30.01.2023",
         "De": "Werder Bremen",
         "BL": "40",
-        "Número": "9"
+        "Número": "9",
+        "Contrato": "No definido",
+        "Selección": "13"
     }
 ]
