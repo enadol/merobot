@@ -23,7 +23,7 @@ exclude=["Michael Langer"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse"]
 
-club="Werder Bremen"
+club="Eintracht Frankfurt"
 torneo="2022-23"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -169,10 +169,13 @@ for knombre in kader:
     lfilter1=soup.find_all("tbody")
     lfilter2=soup.find_all("span", attrs={"class": klasslaender})
     
-    if lfilter1[1].text.strip().startswith("Länderspiele"):
-        laenderspiele=lfilter2[0].text
+    if len(lfilter1)>1:
+        if lfilter1[1].text.strip().startswith("Länderspiele"):
+            laenderspiele=lfilter2[0].text
+        else:
+            laenderspiele="No"
     else:
-        laenderspiele="No"   
+        laenderspiele="No"
     
     
     if(knombre in vereinslos):
