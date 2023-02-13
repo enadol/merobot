@@ -23,7 +23,7 @@ exclude=["Michael Langer"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse"]
 
-club="1 FC Köln"
+club="Eintracht Frankfurt"
 torneo="2022-23"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -137,6 +137,9 @@ for knombre in kader:
     
     if(knombre=="Vasilios Lampropoulos"):
         player3="vassilis-lampropoulos"
+        
+    if(knombre=="Aurelio Buta"):
+        player3="buta"
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
