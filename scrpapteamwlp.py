@@ -140,6 +140,9 @@ for knombre in kader:
         
     if(knombre=="Aurelio Buta"):
         player3="buta"
+        
+    if(knombre=="Jan Schröder"):
+        player3="jan-alex-wilson-schroeder"
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
