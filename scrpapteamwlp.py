@@ -17,13 +17,13 @@ team=[]
 nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias"]
 #player="Sadio Mane"
 brasilexceptions=["Paulinho"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 exclude=["Michael Langer"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse"]
 
-club="Eintracht Frankfurt"
+club="Werder Bremen"
 torneo="2022-23"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
