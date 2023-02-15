@@ -6,7 +6,7 @@
         "Nación": "Deutschland",
         "Altura": "197",
         "Peso": "98",
-        "PJ": "2",
+        "PJ": "3",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -14,8 +14,10 @@
         "TR": "0",
         "Desde": "01.07.2020",
         "De": "Brann Bergen",
-        "BL": "220",
-        "Número": "1"
+        "BL": "221",
+        "Número": "1",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Justin Heekeren",
@@ -33,7 +35,9 @@
         "Desde": "01.07.2022",
         "De": "Rot-Weiß Oberhausen",
         "BL": "0",
-        "Número": "28"
+        "Número": "28",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Michael Langer",
@@ -51,7 +55,9 @@
         "Desde": "04.08.2017",
         "De": "IFK Norrköping",
         "BL": "0",
-        "Número": "34"
+        "Número": "34",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Alexander Schwolow",
@@ -69,7 +75,9 @@
         "Desde": "01.07.2022",
         "De": "Hertha BSC",
         "BL": "193",
-        "Número": "13"
+        "Número": "13",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Cedric Brunner",
@@ -78,7 +86,7 @@
         "Nación": "Schweiz",
         "Altura": "180",
         "Peso": "75",
-        "PJ": "16",
+        "PJ": "17",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "2",
@@ -86,8 +94,10 @@
         "TR": "0",
         "Desde": "07.07.2022",
         "De": "Arminia Bielefeld",
-        "BL": "74",
-        "Número": "27"
+        "BL": "75",
+        "Número": "27",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Ibrahima Cissé",
@@ -105,7 +115,9 @@
         "Desde": "08.09.2022",
         "De": "RFC Seraing",
         "BL": "0",
-        "Número": "0"
+        "Número": "0",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Leo Greiml",
@@ -123,7 +135,9 @@
         "Desde": "01.07.2022",
         "De": "Rapid Wien",
         "BL": "4",
-        "Número": "3"
+        "Número": "3",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Moritz Jenz",
@@ -132,7 +146,7 @@
         "Nación": "Deutschland",
         "Altura": "190",
         "Peso": "86",
-        "PJ": "2",
+        "PJ": "3",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -140,8 +154,10 @@
         "TR": "0",
         "Desde": "26.01.2023",
         "De": "Celtic Glasgow",
-        "BL": "2",
-        "Número": "25"
+        "BL": "3",
+        "Número": "25",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Marcin Kaminski",
@@ -159,7 +175,9 @@
         "Desde": "01.07.2021",
         "De": "VfB Stuttgart",
         "BL": "56",
-        "Número": "35"
+        "Número": "35",
+        "Contrato": "30.06.2023",
+        "Selección": "7"
     },
     {
         "Jugador": "Henning Matriciani",
@@ -177,7 +195,9 @@
         "Desde": "01.07.2020",
         "De": "SV Lippstadt 08",
         "BL": "11",
-        "Número": "41"
+        "Número": "41",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Thomas Ouwejan",
@@ -195,7 +215,9 @@
         "Desde": "01.07.2021",
         "De": "Udinese Calcio",
         "BL": "11",
-        "Número": "2"
+        "Número": "2",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Jere Uronen",
@@ -204,7 +226,7 @@
         "Nación": "Finnland",
         "Altura": "177",
         "Peso": "74",
-        "PJ": "4",
+        "PJ": "5",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -212,8 +234,10 @@
         "TR": "0",
         "Desde": "07.01.2023",
         "De": "Stade Brest",
-        "BL": "4",
-        "Número": "18"
+        "BL": "5",
+        "Número": "18",
+        "Contrato": "No definido",
+        "Selección": "61"
     },
     {
         "Jugador": "Sepp van den Berg",
@@ -231,7 +255,9 @@
         "Desde": "30.08.2022",
         "De": "FC Liverpool",
         "BL": "4",
-        "Número": "5"
+        "Número": "5",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Maya Yoshida",
@@ -240,7 +266,7 @@
         "Nación": "Japan",
         "Altura": "189",
         "Peso": "90",
-        "PJ": "19",
+        "PJ": "20",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "3",
@@ -248,17 +274,19 @@
         "TR": "0",
         "Desde": "05.07.2022",
         "De": "Sampdoria Genua",
-        "BL": "19",
-        "Número": "4"
+        "BL": "20",
+        "Número": "4",
+        "Contrato": "30.06.2023",
+        "Selección": "126"
     },
     {
         "Jugador": "Mehmet Aydin",
         "Nacimiento": "09.02.2002",
-        "Edad": "20",
+        "Edad": "21",
         "Nación": "Deutschland",
         "Altura": "179",
         "Peso": "76",
-        "PJ": "9",
+        "PJ": "10",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -266,8 +294,10 @@
         "TR": "0",
         "Desde": "01.07.2014",
         "De": "Bor. Mönchengladbach",
-        "BL": "15",
-        "Número": "23"
+        "BL": "16",
+        "Número": "23",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Eder Balanta",
@@ -285,7 +315,9 @@
         "Desde": "31.01.2023",
         "De": "Club Brügge",
         "BL": "1",
-        "Número": "33"
+        "Número": "33",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Dominick Drexler",
@@ -294,7 +326,7 @@
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "71",
-        "PJ": "15",
+        "PJ": "16",
         "Goles": "2",
         "Asistencias": "3",
         "TA": "2",
@@ -302,8 +334,10 @@
         "TR": "1",
         "Desde": "21.07.2021",
         "De": "1. FC Köln",
-        "BL": "69",
-        "Número": "24"
+        "BL": "70",
+        "Número": "24",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Alex Kral",
@@ -312,7 +346,7 @@
         "Nación": "Tschechien",
         "Altura": "187",
         "Peso": "74",
-        "PJ": "14",
+        "PJ": "15",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -320,8 +354,10 @@
         "TR": "0",
         "Desde": "14.07.2022",
         "De": "West Ham United",
-        "BL": "14",
-        "Número": "30"
+        "BL": "15",
+        "Número": "30",
+        "Contrato": "30.06.2023",
+        "Selección": "34"
     },
     {
         "Jugador": "Tom Krauß",
@@ -330,7 +366,7 @@
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "72",
-        "PJ": "19",
+        "PJ": "20",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "3",
@@ -338,8 +374,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "1. FC Nürnberg",
-        "BL": "20",
-        "Número": "6"
+        "BL": "21",
+        "Número": "6",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Danny Latza",
@@ -357,7 +395,9 @@
         "Desde": "01.07.2021",
         "De": "1. FSV Mainz 05",
         "BL": "168",
-        "Número": "8"
+        "Número": "8",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Tobias Mohr",
@@ -375,7 +415,9 @@
         "Desde": "01.07.2022",
         "De": "1. FC Heidenheim",
         "BL": "12",
-        "Número": "29"
+        "Número": "29",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Tim Skarke",
@@ -384,7 +426,7 @@
         "Nación": "Deutschland",
         "Altura": "180",
         "Peso": "70",
-        "PJ": "5",
+        "PJ": "6",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -392,8 +434,10 @@
         "TR": "0",
         "Desde": "23.01.2023",
         "De": "1. FC Union Berlin",
-        "BL": "5",
-        "Número": "20"
+        "BL": "6",
+        "Número": "20",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Niklas Tauer",
@@ -411,7 +455,9 @@
         "Desde": "01.01.2023",
         "De": "1. FSV Mainz 05",
         "BL": "19",
-        "Número": "21"
+        "Número": "21",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Rodrigo Zalazar",
@@ -420,16 +466,18 @@
         "Nación": "Uruguay",
         "Altura": "178",
         "Peso": "78",
-        "PJ": "9",
+        "PJ": "10",
         "Goles": "1",
         "Asistencias": "0",
-        "TA": "2",
+        "TA": "3",
         "TAR": "0",
         "TR": "0",
         "Desde": "04.08.2021",
         "De": "Eintracht Frankfurt",
-        "BL": "9",
-        "Número": "10"
+        "BL": "10",
+        "Número": "10",
+        "Contrato": "30.06.2026",
+        "Selección": "No"
     },
     {
         "Jugador": "Marius Bülter",
@@ -438,7 +486,7 @@
         "Nación": "Deutschland",
         "Altura": "188",
         "Peso": "85",
-        "PJ": "19",
+        "PJ": "20",
         "Goles": "3",
         "Asistencias": "1",
         "TA": "4",
@@ -446,8 +494,10 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "1. FC Union Berlin",
-        "BL": "77",
-        "Número": "11"
+        "BL": "78",
+        "Número": "11",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Michael Frey",
@@ -456,7 +506,7 @@
         "Nación": "Schweiz",
         "Altura": "189",
         "Peso": "86",
-        "PJ": "4",
+        "PJ": "5",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -464,8 +514,10 @@
         "TR": "0",
         "Desde": "20.01.2023",
         "De": "Royal Antwerp FC",
-        "BL": "4",
-        "Número": "26"
+        "BL": "5",
+        "Número": "26",
+        "Contrato": "30.06.2023",
+        "Selección": "0"
     },
     {
         "Jugador": "Kenan Karaman",
@@ -483,7 +535,9 @@
         "Desde": "01.09.2022",
         "De": "Besiktas JK",
         "BL": "112",
-        "Número": "19"
+        "Número": "19",
+        "Contrato": "30.06.2025",
+        "Selección": "31"
     },
     {
         "Jugador": "Soichiro Kozuki",
@@ -492,7 +546,7 @@
         "Nación": "Japan",
         "Altura": "180",
         "Peso": "72",
-        "PJ": "4",
+        "PJ": "5",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "1",
@@ -500,8 +554,10 @@
         "TR": "0",
         "Desde": "26.08.2022",
         "De": "1. FC Düren",
-        "BL": "4",
-        "Número": "38"
+        "BL": "5",
+        "Número": "38",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Sebastian Polter",
@@ -519,7 +575,9 @@
         "Desde": "01.07.2022",
         "De": "VfL Bochum",
         "BL": "111",
-        "Número": "40"
+        "Número": "40",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Simon Terodde",
@@ -528,7 +586,7 @@
         "Nación": "Deutschland",
         "Altura": "192",
         "Peso": "83",
-        "PJ": "19",
+        "PJ": "20",
         "Goles": "3",
         "Asistencias": "0",
         "TA": "4",
@@ -536,8 +594,10 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "Hamburger SV",
-        "BL": "77",
-        "Número": "9"
+        "BL": "78",
+        "Número": "9",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Timothee Kolodziejczak",
@@ -555,7 +615,9 @@
         "Desde": "21.10.2022",
         "De": "AS St. Etienne",
         "BL": "2",
-        "Número": "15"
+        "Número": "15",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Malick Thiaw",
@@ -573,7 +635,9 @@
         "Desde": "29.08.2022",
         "De": "FC Schalke 04",
         "BL": "26",
-        "Número": "33"
+        "Número": "33",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Kerim Calhanoglu",
@@ -591,7 +655,9 @@
         "Desde": "01.01.2023",
         "De": "FC Schalke 04",
         "BL": "7",
-        "Número": "42"
+        "Número": "42",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Florian Flick",
@@ -609,7 +675,9 @@
         "Desde": "01.01.2023",
         "De": "FC Schalke 04",
         "BL": "12",
-        "Número": "17"
+        "Número": "17",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Andreas Ivan",
@@ -627,7 +695,9 @@
         "Desde": "01.07.2022",
         "De": "Rot Weiss Ahlen",
         "BL": "1",
-        "Número": "37"
+        "Número": "37",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Florent Mollet",
@@ -645,7 +715,9 @@
         "Desde": "18.01.2023",
         "De": "FC Schalke 04",
         "BL": "9",
-        "Número": "20"
+        "Número": "20",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Jordan Larsson",
@@ -663,7 +735,9 @@
         "Desde": "28.01.2023",
         "De": "FC Schalke 04",
         "BL": "11",
-        "Número": "7"
+        "Número": "7",
+        "Contrato": "No definido",
+        "Selección": "6"
     },
     {
         "Jugador": "Sidi Sané",
@@ -681,6 +755,8 @@
         "Desde": "01.07.2011",
         "De": "Bayer 04 Leverkusen",
         "BL": "1",
-        "Número": "44"
+        "Número": "44",
+        "Contrato": "No definido",
+        "Selección": "No"
     }
 ]
