@@ -23,7 +23,7 @@ exclude=["Michael Langer"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse"]
 
-club="FC Schalke 04"
+club="Eintracht Frankfurt"
 torneo="2022-23"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -113,6 +113,13 @@ for nombre in kadernames:
                 vorname=apellido
                 nachname="Siebatcheu"
                 kader.append(vorname+" "+nachname)
+        
+        if(apellido=="Tuta"):
+#            if(club=="1 FC Union Berlin"):
+            vorname="Lucas"
+            nachname="Silva Melo"
+            kader.append(vorname+" "+nachname)
+
                 
         #     vorname="Joseph"
         #     nachname=apellido
@@ -140,6 +147,9 @@ for knombre in kader:
         
     if(knombre=="Aurelio Buta"):
         player3="buta"
+    
+    if(knombre=="Lucas Silva Melo"):
+        player3="tuta"
         
     if(knombre=="Jan Schröder"):
         player3="jan-alex-wilson-schroeder"
