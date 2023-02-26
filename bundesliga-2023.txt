@@ -218,3 +218,23 @@
         RB Leipzig  1-2  1. FC Union Berlin
         Hertha BSC  4-1  Bor. Mönchengladbach
         1. FC Köln  3-0  Eintracht Frankfurt
+21. Spieltag
+[Fr. 17.2.]
+        FC Augsburg  1-0  TSG Hoffenheim
+        Bor. Mönchengladbach  3-2  Bayern München
+        VfL Wolfsburg  0-3  RB Leipzig
+        VfL Bochum  0-2  SC Freiburg
+        VfB Stuttgart  3-0  1. FC Köln
+        Eintracht Frankfurt  2-0  Werder Bremen
+        1. FC Union Berlin  0-0  FC Schalke 04
+        Borussia Dortmund  4-1  Hertha BSC
+        Bayer 04 Leverkusen  2-3  1. FSV Mainz 05
+22. Spieltag
+[Fr. 24.2.]
+        1. FSV Mainz 05  4-0  Bor. Mönchengladbach
+        RB Leipzig  2-1  Eintracht Frankfurt
+        1. FC Köln  0-2  VfL Wolfsburg
+        TSG Hoffenheim  0-1  Borussia Dortmund
+        Hertha BSC  2-0  FC Augsburg
+        Werder Bremen  3-0  VfL Bochum
+        FC Schalke 04  2-1  VfB Stuttgart
