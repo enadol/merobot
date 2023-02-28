@@ -238,3 +238,5 @@
         Hertha BSC  2-0  FC Augsburg
         Werder Bremen  3-0  VfL Bochum
         FC Schalke 04  2-1  VfB Stuttgart
+        SC Freiburg  1-1  Bayer 04 Leverkusen
+        Bayern München  3-0  1. FC Union Berlin
