@@ -15,9 +15,7 @@
         "Desde": "01.07.2015",
         "De": "Freiburger FC",
         "BL": "0",
-        "Número": "21",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "Número": "21"
     },
     {
         "Jugador": "Mark Flekken",
@@ -26,7 +24,7 @@
         "Nación": "Niederlande",
         "Altura": "194",
         "Peso": "87",
-        "PJ": "20",
+        "PJ": "22",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -34,10 +32,8 @@
         "TR": "0",
         "Desde": "01.07.2018",
         "De": "MSV Duisburg",
-        "BL": "66",
-        "Número": "26",
-        "Contrato": "No definido",
-        "Selección": "4"
+        "BL": "68",
+        "Número": "26"
     },
     {
         "Jugador": "Benjamin Uphoff",
@@ -55,9 +51,7 @@
         "Desde": "05.08.2020",
         "De": "Karlsruher SC",
         "BL": "2",
-        "Número": "1",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "Número": "1"
     },
     {
         "Jugador": "Kimberly Ezekwem",
@@ -75,9 +69,7 @@
         "Desde": "01.07.2018",
         "De": "Bayern München",
         "BL": "0",
-        "Número": "24",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "Número": "24"
     },
     {
         "Jugador": "Matthias Ginter",
@@ -86,7 +78,7 @@
         "Nación": "Deutschland",
         "Altura": "191",
         "Peso": "86",
-        "PJ": "20",
+        "PJ": "22",
         "Goles": "3",
         "Asistencias": "1",
         "TA": "2",
@@ -94,15 +86,13 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "Bor. Mönchengladbach",
-        "BL": "311",
-        "Número": "28",
-        "Contrato": "No definido",
-        "Selección": "48"
+        "BL": "313",
+        "Número": "28"
     },
     {
         "Jugador": "Manuel Gulde",
         "Nacimiento": "12.02.1991",
-        "Edad": "31",
+        "Edad": "32",
         "Nación": "Deutschland",
         "Altura": "184",
         "Peso": "83",
@@ -115,29 +105,25 @@
         "Desde": "01.07.2016",
         "De": "Karlsruher SC",
         "BL": "136",
-        "Número": "5",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "Número": "5"
     },
     {
         "Jugador": "Christian Günter",
         "Nacimiento": "28.02.1993",
-        "Edad": "29",
+        "Edad": "30",
         "Nación": "Deutschland",
         "Altura": "185",
         "Peso": "87",
-        "PJ": "20",
+        "PJ": "21",
         "Goles": "0",
-        "Asistencias": "2",
-        "TA": "4",
+        "Asistencias": "3",
+        "TA": "5",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2007",
         "De": "FV Tennenbronn",
-        "BL": "289",
-        "Número": "30",
-        "Contrato": "No definido",
-        "Selección": "7"
+        "BL": "290",
+        "Número": "30"
     },
     {
         "Jugador": "Lukas Kübler",
@@ -146,7 +132,7 @@
         "Nación": "Deutschland",
         "Altura": "181",
         "Peso": "75",
-        "PJ": "9",
+        "PJ": "11",
         "Goles": "2",
         "Asistencias": "0",
         "TA": "0",
@@ -154,10 +140,8 @@
         "TR": "0",
         "Desde": "01.07.2015",
         "De": "SV Sandhausen",
-        "BL": "109",
-        "Número": "17",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "BL": "111",
+        "Número": "17"
     },
     {
         "Jugador": "Philipp Lienhart",
@@ -166,18 +150,16 @@
         "Nación": "Österreich",
         "Altura": "189",
         "Peso": "83",
-        "PJ": "20",
+        "PJ": "22",
         "Goles": "1",
         "Asistencias": "0",
-        "TA": "1",
+        "TA": "2",
         "TAR": "0",
         "TR": "0",
         "Desde": "05.07.2017",
         "De": "Real Madrid",
-        "BL": "133",
-        "Número": "3",
-        "Contrato": "No definido",
-        "Selección": "11"
+        "BL": "135",
+        "Número": "3"
     },
     {
         "Jugador": "Jonathan Schmid",
@@ -195,9 +177,7 @@
         "Desde": "01.07.2019",
         "De": "FC Augsburg",
         "BL": "296",
-        "Número": "7",
-        "Contrato": "30.06.2023",
-        "Selección": "No"
+        "Número": "7"
     },
     {
         "Jugador": "Kenneth Schmidt",
@@ -215,9 +195,7 @@
         "Desde": "01.07.2017",
         "De": "FC Emmendingen",
         "BL": "0",
-        "Número": "35",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "Número": "35"
     },
     {
         "Jugador": "Kiliann Sildillia",
@@ -226,7 +204,7 @@
         "Nación": "Frankreich",
         "Altura": "186",
         "Peso": "79",
-        "PJ": "18",
+        "PJ": "19",
         "Goles": "0",
         "Asistencias": "2",
         "TA": "2",
@@ -234,10 +212,8 @@
         "TR": "0",
         "Desde": "01.07.2020",
         "De": "FC Metz",
-        "BL": "25",
-        "Número": "25",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "BL": "26",
+        "Número": "25"
     },
     {
         "Jugador": "Ritsu Doan",
@@ -246,7 +222,7 @@
         "Nación": "Japan",
         "Altura": "172",
         "Peso": "70",
-        "PJ": "20",
+        "PJ": "22",
         "Goles": "2",
         "Asistencias": "5",
         "TA": "2",
@@ -254,10 +230,8 @@
         "TR": "0",
         "Desde": "05.07.2022",
         "De": "PSV Eindhoven",
-        "BL": "54",
-        "Número": "42",
-        "Contrato": "No definido",
-        "Selección": "33"
+        "BL": "56",
+        "Número": "42"
     },
     {
         "Jugador": "Maximilian Eggestein",
@@ -266,7 +240,7 @@
         "Nación": "Deutschland",
         "Altura": "181",
         "Peso": "77",
-        "PJ": "19",
+        "PJ": "21",
         "Goles": "0",
         "Asistencias": "2",
         "TA": "4",
@@ -274,10 +248,8 @@
         "TR": "0",
         "Desde": "18.08.2021",
         "De": "Werder Bremen",
-        "BL": "206",
-        "Número": "8",
-        "Contrato": "No definido",
-        "Selección": "0"
+        "BL": "208",
+        "Número": "8"
     },
     {
         "Jugador": "Vincenzo Grifo",
@@ -286,18 +258,16 @@
         "Nación": "Italien",
         "Altura": "180",
         "Peso": "80",
-        "PJ": "19",
-        "Goles": "11",
-        "Asistencias": "4",
+        "PJ": "21",
+        "Goles": "12",
+        "Asistencias": "5",
         "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "02.09.2019",
         "De": "TSG Hoffenheim",
-        "BL": "193",
-        "Número": "32",
-        "Contrato": "30.06.2024",
-        "Selección": "8"
+        "BL": "195",
+        "Número": "32"
     },
     {
         "Jugador": "Nicolas Höfler",
@@ -306,7 +276,7 @@
         "Nación": "Deutschland",
         "Altura": "181",
         "Peso": "81",
-        "PJ": "19",
+        "PJ": "21",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "6",
@@ -314,10 +284,8 @@
         "TR": "0",
         "Desde": "01.07.2013",
         "De": "Erzgebirge Aue",
-        "BL": "219",
-        "Número": "27",
-        "Contrato": "30.06.2023",
-        "Selección": "No"
+        "BL": "221",
+        "Número": "27"
     },
     {
         "Jugador": "Woo-Yeong Jeong",
@@ -326,7 +294,7 @@
         "Nación": "Südkorea",
         "Altura": "179",
         "Peso": "70",
-        "PJ": "17",
+        "PJ": "19",
         "Goles": "1",
         "Asistencias": "2",
         "TA": "2",
@@ -334,19 +302,17 @@
         "TR": "0",
         "Desde": "15.07.2020",
         "De": "Bayern München",
-        "BL": "76",
-        "Número": "29",
-        "Contrato": "No definido",
-        "Selección": "9"
+        "BL": "78",
+        "Número": "29"
     },
     {
         "Jugador": "Yannik Keitel",
         "Nacimiento": "15.02.2000",
-        "Edad": "22",
+        "Edad": "23",
         "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "85",
-        "PJ": "14",
+        "PJ": "15",
         "Goles": "0",
         "Asistencias": "2",
         "TA": "3",
@@ -354,10 +320,8 @@
         "TR": "0",
         "Desde": "01.07.2011",
         "De": "SV Breisach",
-        "BL": "41",
-        "Número": "14",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "BL": "42",
+        "Número": "14"
     },
     {
         "Jugador": "Daniel-Kofi Kyereh",
@@ -375,9 +339,7 @@
         "Desde": "01.07.2022",
         "De": "FC St. Pauli",
         "BL": "12",
-        "Número": "11",
-        "Contrato": "No definido",
-        "Selección": "18"
+        "Número": "11"
     },
     {
         "Jugador": "Merlin Röhl",
@@ -395,9 +357,7 @@
         "Desde": "17.08.2022",
         "De": "FC Ingolstadt 04",
         "BL": "0",
-        "Número": "34",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "Número": "34"
     },
     {
         "Jugador": "Roland Sallai",
@@ -406,18 +366,16 @@
         "Nación": "Ungarn",
         "Altura": "182",
         "Peso": "78",
-        "PJ": "10",
+        "PJ": "12",
         "Goles": "0",
         "Asistencias": "0",
-        "TA": "3",
+        "TA": "4",
         "TAR": "0",
         "TR": "0",
         "Desde": "31.08.2018",
         "De": "APOEL Nikosia",
-        "BL": "100",
-        "Número": "22",
-        "Contrato": "No definido",
-        "Selección": "38"
+        "BL": "102",
+        "Número": "22"
     },
     {
         "Jugador": "Robert Wagner",
@@ -435,9 +393,7 @@
         "Desde": "01.07.2013",
         "De": "TSV Emmelshausen",
         "BL": "0",
-        "Número": "0",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "Número": "0"
     },
     {
         "Jugador": "Noah Weißhaupt",
@@ -446,7 +402,7 @@
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "74",
-        "PJ": "9",
+        "PJ": "10",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -454,10 +410,8 @@
         "TR": "0",
         "Desde": "01.07.2012",
         "De": "V Ebnet",
-        "BL": "19",
-        "Número": "33",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "BL": "20",
+        "Número": "33"
     },
     {
         "Jugador": "Michael Gregoritsch",
@@ -466,18 +420,16 @@
         "Nación": "Österreich",
         "Altura": "193",
         "Peso": "87",
-        "PJ": "20",
-        "Goles": "7",
+        "PJ": "22",
+        "Goles": "8",
         "Asistencias": "5",
-        "TA": "3",
+        "TA": "4",
         "TAR": "0",
         "TR": "0",
         "Desde": "08.07.2022",
         "De": "FC Augsburg",
-        "BL": "208",
-        "Número": "38",
-        "Contrato": "No definido",
-        "Selección": "43"
+        "BL": "210",
+        "Número": "38"
     },
     {
         "Jugador": "Lucas Höler",
@@ -486,18 +438,16 @@
         "Nación": "Deutschland",
         "Altura": "184",
         "Peso": "83",
-        "PJ": "12",
-        "Goles": "2",
+        "PJ": "14",
+        "Goles": "3",
         "Asistencias": "0",
         "TA": "0",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.01.2018",
         "De": "SV Sandhausen",
-        "BL": "153",
-        "Número": "9",
-        "Contrato": "30.06.2024",
-        "Selección": "No"
+        "BL": "155",
+        "Número": "9"
     },
     {
         "Jugador": "Nils Petersen",
@@ -506,7 +456,7 @@
         "Nación": "Deutschland",
         "Altura": "188",
         "Peso": "83",
-        "PJ": "16",
+        "PJ": "18",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -514,10 +464,8 @@
         "TR": "0",
         "Desde": "01.01.2015",
         "De": "Werder Bremen",
-        "BL": "284",
-        "Número": "18",
-        "Contrato": "No definido",
-        "Selección": "2"
+        "BL": "286",
+        "Número": "18"
     },
     {
         "Jugador": "Keven Schlotterbeck",
@@ -526,18 +474,16 @@
         "Nación": "Deutschland",
         "Altura": "189",
         "Peso": "85",
-        "PJ": "6",
+        "PJ": "8",
         "Goles": "1",
         "Asistencias": "0",
-        "TA": "1",
+        "TA": "3",
         "TAR": "0",
         "TR": "0",
         "Desde": "02.01.2023",
         "De": "SC Freiburg",
-        "BL": "74",
-        "Número": "31",
-        "Contrato": "30.06.2023",
-        "Selección": "No"
+        "BL": "76",
+        "Número": "31"
     },
     {
         "Jugador": "Hugo Siquet",
@@ -555,9 +501,7 @@
         "Desde": "14.01.2023",
         "De": "SC Freiburg",
         "BL": "3",
-        "Número": "2",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "Número": "2"
     },
     {
         "Jugador": "Kevin Schade",
@@ -575,8 +519,6 @@
         "Desde": "04.01.2023",
         "De": "SC Freiburg",
         "BL": "29",
-        "Número": "20",
-        "Contrato": "No definido",
-        "Selección": "No"
+        "Número": "20"
     }
 ]
