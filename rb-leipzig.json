@@ -15,7 +15,9 @@
         "Desde": "01.07.2022",
         "De": "Heracles Almelo",
         "BL": "16",
-        "Número": "21"
+        "Número": "21",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Peter Gulacsi",
@@ -33,7 +35,9 @@
         "Desde": "01.07.2015",
         "De": "RB Salzburg",
         "BL": "203",
-        "Número": "1"
+        "Número": "1",
+        "Contrato": "30.06.2025",
+        "Selección": "51"
     },
     {
         "Jugador": "Jonas Nickisch",
@@ -51,7 +55,9 @@
         "Desde": "01.07.2017",
         "De": "occer for Kids Dresden",
         "BL": "0",
-        "Número": "34"
+        "Número": "34",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Örjan Nyland",
@@ -69,7 +75,9 @@
         "Desde": "09.10.2022",
         "De": "FC Reading",
         "BL": "19",
-        "Número": "13"
+        "Número": "13",
+        "Contrato": "30.06.2023",
+        "Selección": "42"
     },
     {
         "Jugador": "Timo Schlieck",
@@ -87,7 +95,9 @@
         "Desde": "01.07.2021",
         "De": "Borussia Dortmund",
         "BL": "0",
-        "Número": "36"
+        "Número": "36",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Sanoussy Ba",
@@ -105,7 +115,9 @@
         "Desde": "01.07.2016",
         "De": "SpVgg Bayern Hof",
         "BL": "1",
-        "Número": "25"
+        "Número": "25",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Abdou Diallo",
@@ -123,7 +135,9 @@
         "Desde": "01.09.2022",
         "De": "Paris St. Germain",
         "BL": "60",
-        "Número": "37"
+        "Número": "37",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Josko Gvardiol",
@@ -141,7 +155,9 @@
         "Desde": "01.07.2021",
         "De": "Dinamo Zagreb",
         "BL": "50",
-        "Número": "32"
+        "Número": "32",
+        "Contrato": "30.06.2027",
+        "Selección": "19"
     },
     {
         "Jugador": "Marcel Halstenberg",
@@ -159,7 +175,9 @@
         "Desde": "30.08.2015",
         "De": "FC St. Pauli",
         "BL": "154",
-        "Número": "23"
+        "Número": "23",
+        "Contrato": "No definido",
+        "Selección": "9"
     },
     {
         "Jugador": "Benjamin Henrichs",
@@ -177,7 +195,9 @@
         "Desde": "15.07.2020",
         "De": "AS Monaco",
         "BL": "117",
-        "Número": "39"
+        "Número": "39",
+        "Contrato": "30.06.2025",
+        "Selección": "7"
     },
     {
         "Jugador": "Lukas Klostermann",
@@ -195,7 +215,9 @@
         "Desde": "22.08.2014",
         "De": "VfL Bochum",
         "BL": "136",
-        "Número": "16"
+        "Número": "16",
+        "Contrato": "30.06.2024",
+        "Selección": "21"
     },
     {
         "Jugador": "Willi Orban",
@@ -213,7 +235,9 @@
         "Desde": "01.07.2015",
         "De": "1. FC Kaiserslautern",
         "BL": "173",
-        "Número": "4"
+        "Número": "4",
+        "Contrato": "30.06.2025",
+        "Selección": "37"
     },
     {
         "Jugador": "David Raum",
@@ -231,7 +255,9 @@
         "Desde": "31.07.2022",
         "De": "TSG Hoffenheim",
         "BL": "53",
-        "Número": "22"
+        "Número": "22",
+        "Contrato": "30.06.2027",
+        "Selección": "15"
     },
     {
         "Jugador": "Mohamed Simakan",
@@ -249,7 +275,9 @@
         "Desde": "01.07.2021",
         "De": "Racing Straßburg",
         "BL": "42",
-        "Número": "2"
+        "Número": "2",
+        "Contrato": "30.06.2027",
+        "Selección": "No"
     },
     {
         "Jugador": "Dani Olmo",
@@ -267,7 +295,9 @@
         "Desde": "25.01.2020",
         "De": "Dinamo Zagreb",
         "BL": "76",
-        "Número": "7"
+        "Número": "7",
+        "Contrato": "30.06.2024",
+        "Selección": "29"
     },
     {
         "Jugador": "Emil Forsberg",
@@ -285,7 +315,9 @@
         "Desde": "07.01.2015",
         "De": "Malmö FF",
         "BL": "173",
-        "Número": "10"
+        "Número": "10",
+        "Contrato": "30.06.2025",
+        "Selección": "78"
     },
     {
         "Jugador": "Amadou Haidara",
@@ -303,7 +335,9 @@
         "Desde": "01.01.2019",
         "De": "RB Salzburg",
         "BL": "100",
-        "Número": "8"
+        "Número": "8",
+        "Contrato": "30.06.2025",
+        "Selección": "33"
     },
     {
         "Jugador": "Kevin Kampl",
@@ -321,7 +355,9 @@
         "Desde": "31.08.2017",
         "De": "Bayer 04 Leverkusen",
         "BL": "204",
-        "Número": "44"
+        "Número": "44",
+        "Contrato": "30.06.2024",
+        "Selección": "28"
     },
     {
         "Jugador": "Konrad Laimer",
@@ -339,7 +375,9 @@
         "Desde": "01.07.2017",
         "De": "RB Salzburg",
         "BL": "120",
-        "Número": "27"
+        "Número": "27",
+        "Contrato": "30.06.2023",
+        "Selección": "24"
     },
     {
         "Jugador": "Xaver Schlager",
@@ -357,7 +395,9 @@
         "Desde": "01.07.2022",
         "De": "VfL Wolfsburg",
         "BL": "88",
-        "Número": "24"
+        "Número": "24",
+        "Contrato": "30.06.2026",
+        "Selección": "33"
     },
     {
         "Jugador": "Dominik Szoboszlai",
@@ -375,7 +415,9 @@
         "Desde": "02.01.2021",
         "De": "RB Salzburg",
         "BL": "52",
-        "Número": "17"
+        "Número": "17",
+        "Contrato": "30.06.2026",
+        "Selección": "28"
     },
     {
         "Jugador": "Christopher Nkunku",
@@ -393,7 +435,9 @@
         "Desde": "18.07.2019",
         "De": "Paris St. Germain",
         "BL": "112",
-        "Número": "18"
+        "Número": "18",
+        "Contrato": "No definido",
+        "Selección": "8"
     },
     {
         "Jugador": "Yussuf Poulsen",
@@ -411,7 +455,9 @@
         "Desde": "01.07.2013",
         "De": "Lyngby BK",
         "BL": "178",
-        "Número": "9"
+        "Número": "9",
+        "Contrato": "30.06.2024",
+        "Selección": "68"
     },
     {
         "Jugador": "André Silva",
@@ -429,7 +475,9 @@
         "Desde": "02.07.2021",
         "De": "Eintracht Frankfurt",
         "BL": "113",
-        "Número": "19"
+        "Número": "19",
+        "Contrato": "30.06.2026",
+        "Selección": "53"
     },
     {
         "Jugador": "Timo Werner",
@@ -447,7 +495,9 @@
         "Desde": "09.08.2022",
         "De": "FC Chelsea",
         "BL": "239",
-        "Número": "11"
+        "Número": "11",
+        "Contrato": "30.06.2026",
+        "Selección": "55"
     },
     {
         "Jugador": "Hugo Novoa",
@@ -465,7 +515,9 @@
         "Desde": "04.01.2023",
         "De": "RB Leipzig",
         "BL": "15",
-        "Número": "38"
+        "Número": "38",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Alexander Sörloth",
@@ -483,6 +535,8 @@
         "Desde": "29.08.2022",
         "De": "RB Leipzig",
         "BL": "30",
-        "Número": "35"
+        "Número": "35",
+        "Contrato": "No definido",
+        "Selección": "45"
     }
 ]

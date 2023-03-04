@@ -15,7 +15,9 @@
         "Desde": "01.07.2021",
         "De": "VfB Stuttgart",
         "BL": "97",
-        "Número": "1"
+        "Número": "1",
+        "Contrato": "30.06.2026",
+        "Selección": "4"
     },
     {
         "Jugador": "Marcel Lotka",
@@ -33,7 +35,9 @@
         "Desde": "01.07.2022",
         "De": "Hertha BSC",
         "BL": "10",
-        "Número": "35"
+        "Número": "35",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Alexander Meyer",
@@ -51,7 +55,9 @@
         "Desde": "01.07.2022",
         "De": "Jahn Regensburg",
         "BL": "5",
-        "Número": "33"
+        "Número": "33",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Luca Unbehaun",
@@ -69,7 +75,9 @@
         "Desde": "01.07.2016",
         "De": "VfL Bochum",
         "BL": "0",
-        "Número": "38"
+        "Número": "38",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Soumaila Coulibaly",
@@ -87,7 +95,9 @@
         "Desde": "01.07.2021",
         "De": "Paris St. Germain",
         "BL": "0",
-        "Número": "44"
+        "Número": "44",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Raphael Guerreiro",
@@ -105,7 +115,9 @@
         "Desde": "11.07.2016",
         "De": "FC Lorient",
         "BL": "152",
-        "Número": "13"
+        "Número": "13",
+        "Contrato": "30.06.2023",
+        "Selección": "61"
     },
     {
         "Jugador": "Mats Hummels",
@@ -123,7 +135,9 @@
         "Desde": "01.07.2019",
         "De": "Bayern München",
         "BL": "406",
-        "Número": "15"
+        "Número": "15",
+        "Contrato": "30.06.2023",
+        "Selección": "76"
     },
     {
         "Jugador": "Thomas Meunier",
@@ -141,7 +155,9 @@
         "Desde": "01.07.2020",
         "De": "Paris St. Germain",
         "BL": "47",
-        "Número": "24"
+        "Número": "24",
+        "Contrato": "30.06.2024",
+        "Selección": "62"
     },
     {
         "Jugador": "Mateu Morey",
@@ -159,7 +175,9 @@
         "Desde": "01.07.2019",
         "De": "FC Barcelona",
         "BL": "0",
-        "Número": "2"
+        "Número": "2",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Antonios Papadopoulos",
@@ -177,7 +195,9 @@
         "Desde": "01.07.2021",
         "De": "Hallescher FC",
         "BL": "3",
-        "Número": "47"
+        "Número": "47",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Felix Passlack",
@@ -195,7 +215,9 @@
         "Desde": "01.07.2020",
         "De": "Fortuna Sittard",
         "BL": "35",
-        "Número": "30"
+        "Número": "30",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Tom Rothe",
@@ -213,7 +235,9 @@
         "Desde": "01.07.2021",
         "De": "FC St. Pauli",
         "BL": "3",
-        "Número": "36"
+        "Número": "36",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Julian Ryerson",
@@ -231,7 +255,9 @@
         "Desde": "17.01.2023",
         "De": "1. FC Union Berlin",
         "BL": "85",
-        "Número": "26"
+        "Número": "26",
+        "Contrato": "30.06.2026",
+        "Selección": "15"
     },
     {
         "Jugador": "Nico Schlotterbeck",
@@ -249,7 +275,9 @@
         "Desde": "01.07.2022",
         "De": "SC Freiburg",
         "BL": "88",
-        "Número": "4"
+        "Número": "4",
+        "Contrato": "30.06.2027",
+        "Selección": "8"
     },
     {
         "Jugador": "Nico Schulz",
@@ -267,7 +295,9 @@
         "Desde": "01.07.2019",
         "De": "TSG Hoffenheim",
         "BL": "162",
-        "Número": "14"
+        "Número": "14",
+        "Contrato": "30.06.2024",
+        "Selección": "12"
     },
     {
         "Jugador": "Niklas Süle",
@@ -285,7 +315,9 @@
         "Desde": "01.07.2022",
         "De": "Bayern München",
         "BL": "242",
-        "Número": "25"
+        "Número": "25",
+        "Contrato": "No definido",
+        "Selección": "45"
     },
     {
         "Jugador": "Jude Bellingham",
@@ -303,7 +335,9 @@
         "Desde": "23.07.2020",
         "De": "Birmingham City",
         "BL": "83",
-        "Número": "22"
+        "Número": "22",
+        "Contrato": "30.06.2025",
+        "Selección": "22"
     },
     {
         "Jugador": "Julian Brandt",
@@ -321,7 +355,9 @@
         "Desde": "01.07.2019",
         "De": "Bayer 04 Leverkusen",
         "BL": "283",
-        "Número": "19"
+        "Número": "19",
+        "Contrato": "30.06.2024",
+        "Selección": "39"
     },
     {
         "Jugador": "Emre Can",
@@ -339,7 +375,9 @@
         "Desde": "31.01.2020",
         "De": "Juventus Turin",
         "BL": "114",
-        "Número": "23"
+        "Número": "23",
+        "Contrato": "30.06.2024",
+        "Selección": "37"
     },
     {
         "Jugador": "Mahmoud Dahoud",
@@ -357,7 +395,9 @@
         "Desde": "01.07.2017",
         "De": "Bor. Mönchengladbach",
         "BL": "159",
-        "Número": "8"
+        "Número": "8",
+        "Contrato": "30.06.2023",
+        "Selección": "2"
     },
     {
         "Jugador": "Göktan Gürpüz",
@@ -375,7 +415,9 @@
         "Desde": "01.07.2016",
         "De": "FC Schalke 04",
         "BL": "0",
-        "Número": "42"
+        "Número": "42",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Abdoulaye Kamara",
@@ -393,7 +435,9 @@
         "Desde": "20.07.2021",
         "De": "Paris St. Germain",
         "BL": "0",
-        "Número": "32"
+        "Número": "32",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Salih Özcan",
@@ -411,7 +455,9 @@
         "Desde": "01.07.2022",
         "De": "1. FC Köln",
         "BL": "114",
-        "Número": "6"
+        "Número": "6",
+        "Contrato": "30.06.2026",
+        "Selección": "7"
     },
     {
         "Jugador": "Marco Reus",
@@ -429,7 +475,9 @@
         "Desde": "01.07.2012",
         "De": "Bor. Mönchengladbach",
         "BL": "355",
-        "Número": "11"
+        "Número": "11",
+        "Contrato": "30.06.2023",
+        "Selección": "48"
     },
     {
         "Jugador": "Giovanni Reyna",
@@ -447,7 +495,9 @@
         "Desde": "01.07.2019",
         "De": "New York City FC",
         "BL": "71",
-        "Número": "7"
+        "Número": "7",
+        "Contrato": "30.06.2025",
+        "Selección": "16"
     },
     {
         "Jugador": "Marius Wolf",
@@ -465,7 +515,9 @@
         "Desde": "01.07.2021",
         "De": "1. FC Köln",
         "BL": "144",
-        "Número": "17"
+        "Número": "17",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Karim Adeyemi",
@@ -483,7 +535,9 @@
         "Desde": "01.07.2022",
         "De": "RB Salzburg",
         "BL": "16",
-        "Número": "27"
+        "Número": "27",
+        "Contrato": "30.06.2027",
+        "Selección": "4"
     },
     {
         "Jugador": "Jamie Bynoe-Gittens",
@@ -501,7 +555,9 @@
         "Desde": "24.09.2020",
         "De": "Manchester City",
         "BL": "16",
-        "Número": "43"
+        "Número": "43",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Julien Duranville",
@@ -519,7 +575,9 @@
         "Desde": "27.01.2023",
         "De": "RSC Anderlecht",
         "BL": "0",
-        "Número": "16"
+        "Número": "16",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Sebastien Haller",
@@ -537,7 +595,9 @@
         "Desde": "06.07.2022",
         "De": "Ajax Amsterdam",
         "BL": "68",
-        "Número": "9"
+        "Número": "9",
+        "Contrato": "30.06.2026",
+        "Selección": "No"
     },
     {
         "Jugador": "Donyell Malen",
@@ -555,7 +615,9 @@
         "Desde": "27.07.2021",
         "De": "PSV Eindhoven",
         "BL": "42",
-        "Número": "21"
+        "Número": "21",
+        "Contrato": "30.06.2026",
+        "Selección": "19"
     },
     {
         "Jugador": "Anthony Modeste",
@@ -573,7 +635,9 @@
         "Desde": "08.08.2022",
         "De": "1. FC Köln",
         "BL": "205",
-        "Número": "20"
+        "Número": "20",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Youssoufa Moukoko",
@@ -591,7 +655,9 @@
         "Desde": "02.08.2016",
         "De": "FC St. Pauli",
         "BL": "48",
-        "Número": "18"
+        "Número": "18",
+        "Contrato": "30.06.2026",
+        "Selección": "2"
     },
     {
         "Jugador": "Thorgan Hazard",
@@ -609,7 +675,9 @@
         "Desde": "31.01.2023",
         "De": "Borussia Dortmund",
         "BL": "233",
-        "Número": "10"
+        "Número": "10",
+        "Contrato": "No definido",
+        "Selección": "47"
     },
     {
         "Jugador": "Justin Njinmah",
@@ -627,7 +695,9 @@
         "Desde": "06.01.2022",
         "De": "Werder Bremen",
         "BL": "1",
-        "Número": "49"
+        "Número": "49",
+        "Contrato": "No definido",
+        "Selección": "No"
     },
     {
         "Jugador": "Marco Pasalic",
@@ -645,6 +715,8 @@
         "Desde": "01.07.2021",
         "De": "VfB Stuttgart",
         "BL": "1",
-        "Número": "46"
+        "Número": "46",
+        "Contrato": "No definido",
+        "Selección": "No"
     }
 ]
