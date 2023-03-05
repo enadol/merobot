@@ -249,3 +249,5 @@
         VfL Bochum  0-2  FC Schalke 04
         FC Augsburg  2-1  Werder Bremen
         VfB Stuttgart  1-2  Bayern München
+        Bayer 04 Leverkusen  4-1  Hertha BSC
+        VfL Wolfsburg  2-2  Eintracht Frankfurt
