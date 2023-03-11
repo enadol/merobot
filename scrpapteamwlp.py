@@ -23,7 +23,7 @@ exclude=["Michael Langer"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse"]
 
-club="Werder Bremen"
+club="RB Leipzig"
 torneo="2022-23"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
