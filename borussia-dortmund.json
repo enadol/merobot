@@ -36,7 +36,7 @@
         "De": "Hertha BSC",
         "BL": "10",
         "Número": "35",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -56,7 +56,7 @@
         "De": "Jahn Regensburg",
         "BL": "6",
         "Número": "33",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -96,7 +96,7 @@
         "De": "Paris St. Germain",
         "BL": "0",
         "Número": "44",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -236,7 +236,7 @@
         "De": "FC St. Pauli",
         "BL": "3",
         "Número": "36",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -316,7 +316,7 @@
         "De": "Bayern München",
         "BL": "242",
         "Número": "25",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "45"
     },
     {
@@ -416,7 +416,7 @@
         "De": "FC Schalke 04",
         "BL": "0",
         "Número": "42",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -436,7 +436,7 @@
         "De": "Paris St. Germain",
         "BL": "0",
         "Número": "32",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -516,7 +516,7 @@
         "De": "1. FC Köln",
         "BL": "145",
         "Número": "17",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -576,7 +576,7 @@
         "De": "RSC Anderlecht",
         "BL": "0",
         "Número": "16",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -676,7 +676,7 @@
         "De": "Borussia Dortmund",
         "BL": "233",
         "Número": "10",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "47"
     },
     {
@@ -684,8 +684,8 @@
         "Nacimiento": "15.11.2000",
         "Edad": "22",
         "Nación": "Deutschland",
-        "Altura": "No consignado",
-        "Peso": "No consignado",
+        "Altura": "N.D.",
+        "Peso": "N.D.",
         "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
@@ -696,7 +696,7 @@
         "De": "Werder Bremen",
         "BL": "1",
         "Número": "49",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -716,7 +716,7 @@
         "De": "VfB Stuttgart",
         "BL": "1",
         "Número": "46",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     }
 ]

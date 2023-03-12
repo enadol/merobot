@@ -216,7 +216,7 @@
         "De": "Ajax Amsterdam",
         "BL": "12",
         "Número": "40",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "20"
     },
     {
@@ -356,7 +356,7 @@
         "De": "FC Schalke 04",
         "BL": "231",
         "Número": "8",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "48"
     },
     {
@@ -476,7 +476,7 @@
         "De": "FV Ravensburg",
         "BL": "6",
         "Número": "14",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -544,8 +544,8 @@
         "Nacimiento": "11.12.2005",
         "Edad": "17",
         "Nación": "Deutschland",
-        "Altura": "No consignado",
-        "Peso": "No consignado",
+        "Altura": "N.D.",
+        "Peso": "N.D.",
         "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
@@ -556,7 +556,7 @@
         "De": "1. FC Nürnberg",
         "BL": "1",
         "Número": "46",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -576,7 +576,7 @@
         "De": "Bayern München",
         "BL": "185",
         "Número": "18",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "68"
     },
     {
@@ -596,7 +596,7 @@
         "De": "Bayern München",
         "BL": "4",
         "Número": "28",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     }
 ]

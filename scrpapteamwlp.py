@@ -23,7 +23,7 @@ exclude=["Michael Langer"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse"]
 
-club="FC Bayern München"
+club="Borussia Dortmund"
 torneo="2022-23"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -205,14 +205,14 @@ for knombre in kader:
             vertrag=desde[1].text
         else:
             ageinclub=desde[0].text
-            vertrag="No definido"
+            vertrag="N.D."
     fromclub=pastclub[indicepc].text[4:].split("\n")[0]
     if len(altura)<1:
-        alturatxt="No consignado"
+        alturatxt="N.D."
     else:  
         alturatxt=altura[0].text.split(" ")[1]
     if len(altura)<2:
-        pesotxt="No consignado"
+        pesotxt="N.D."
     else:
         pesotxt=altura[1].text.split(" ")[1]
     naciontxt=nacion[0].text.split("\r\n")[1].strip()
