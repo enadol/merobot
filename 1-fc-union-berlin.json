@@ -16,7 +16,7 @@
         "De": "Sandefjord Fotball",
         "BL": "0",
         "Número": "12",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -46,7 +46,7 @@
         "Nación": "Dänemark",
         "Altura": "190",
         "Peso": "81",
-        "PJ": "19",
+        "PJ": "20",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -54,7 +54,7 @@
         "TR": "0",
         "Desde": "20.07.2021",
         "De": "FC Schalke 04",
-        "BL": "48",
+        "BL": "49",
         "Número": "1",
         "Contrato": "30.06.2024",
         "Selección": "8"
@@ -66,7 +66,7 @@
         "Nación": "Deutschland",
         "Altura": "192",
         "Peso": "88",
-        "PJ": "5",
+        "PJ": "6",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -74,7 +74,7 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "PSV Eindhoven",
-        "BL": "116",
+        "BL": "117",
         "Número": "25",
         "Contrato": "30.06.2023",
         "Selección": "No"
@@ -86,15 +86,15 @@
         "Nación": "Portugal",
         "Altura": "190",
         "Peso": "82",
-        "PJ": "19",
+        "PJ": "20",
         "Goles": "0",
         "Asistencias": "1",
-        "TA": "2",
+        "TA": "3",
         "TAR": "0",
         "TR": "1",
         "Desde": "16.07.2022",
         "De": "FC Porto",
-        "BL": "19",
+        "BL": "20",
         "Número": "4",
         "Contrato": "30.06.2023",
         "Selección": "No"
@@ -106,7 +106,7 @@
         "Nación": "Niederlande",
         "Altura": "190",
         "Peso": "86",
-        "PJ": "14",
+        "PJ": "15",
         "Goles": "4",
         "Asistencias": "2",
         "TA": "0",
@@ -114,9 +114,9 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "Vitesse Arnhem",
-        "BL": "14",
+        "BL": "15",
         "Número": "5",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -126,7 +126,7 @@
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "76",
-        "PJ": "18",
+        "PJ": "19",
         "Goles": "0",
         "Asistencias": "2",
         "TA": "4",
@@ -134,7 +134,7 @@
         "TR": "0",
         "Desde": "15.07.2020",
         "De": "Fortuna Düsseldorf",
-        "BL": "114",
+        "BL": "115",
         "Número": "23",
         "Contrato": "30.06.2023",
         "Selección": "No"
@@ -156,7 +156,7 @@
         "De": "SpVgg Greuther Fürth",
         "BL": "39",
         "Número": "3",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -166,17 +166,17 @@
         "Nación": "Kroatien",
         "Altura": "173",
         "Peso": "68",
-        "PJ": "3",
-        "Goles": "0",
+        "PJ": "4",
+        "Goles": "1",
         "Asistencias": "1",
         "TA": "0",
         "TAR": "0",
         "TR": "0",
         "Desde": "22.01.2023",
         "De": "Celtic Glasgow",
-        "BL": "3",
+        "BL": "4",
         "Número": "18",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "27"
     },
     {
@@ -186,7 +186,7 @@
         "Nación": "Deutschland",
         "Altura": "190",
         "Peso": "83",
-        "PJ": "22",
+        "PJ": "23",
         "Goles": "2",
         "Asistencias": "0",
         "TA": "3",
@@ -194,9 +194,9 @@
         "TR": "0",
         "Desde": "04.08.2020",
         "De": "VfL Wolfsburg",
-        "BL": "272",
+        "BL": "273",
         "Número": "31",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "0"
     },
     {
@@ -206,7 +206,7 @@
         "Nación": "Frankreich",
         "Altura": "172",
         "Peso": "82",
-        "PJ": "10",
+        "PJ": "11",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -214,9 +214,9 @@
         "TR": "0",
         "Desde": "12.01.2023",
         "De": "VfL Wolfsburg",
-        "BL": "113",
+        "BL": "114",
         "Número": "26",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -236,7 +236,7 @@
         "De": "Rapid Wien",
         "BL": "107",
         "Número": "28",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "25"
     },
     {
@@ -246,7 +246,7 @@
         "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "80",
-        "PJ": "21",
+        "PJ": "22",
         "Goles": "5",
         "Asistencias": "1",
         "TA": "0",
@@ -254,9 +254,9 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "SC Freiburg",
-        "BL": "179",
+        "BL": "180",
         "Número": "19",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -276,7 +276,7 @@
         "De": "SC Berliner Amateure",
         "BL": "0",
         "Número": "36",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -286,17 +286,17 @@
         "Nación": "Deutschland",
         "Altura": "188",
         "Peso": "85",
-        "PJ": "22",
+        "PJ": "23",
         "Goles": "0",
         "Asistencias": "0",
-        "TA": "6",
+        "TA": "7",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "FC Augsburg",
-        "BL": "192",
+        "BL": "193",
         "Número": "8",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -306,17 +306,17 @@
         "Nación": "Tunesien",
         "Altura": "181",
         "Peso": "75",
-        "PJ": "5",
+        "PJ": "6",
         "Goles": "0",
-        "Asistencias": "0",
+        "Asistencias": "1",
         "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "27.01.2023",
         "De": "Ferencvaros Budapest",
-        "BL": "5",
+        "BL": "6",
         "Número": "20",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -336,7 +336,7 @@
         "De": "Austria Klagenfurt",
         "BL": "0",
         "Número": "16",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -356,7 +356,7 @@
         "De": "Werder Bremen",
         "BL": "67",
         "Número": "30",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -376,7 +376,7 @@
         "De": "1. FSV Mainz 05",
         "BL": "190",
         "Número": "7",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -396,7 +396,7 @@
         "De": "VfL Bochum",
         "BL": "37",
         "Número": "32",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -416,7 +416,7 @@
         "De": "DAC Dunajska Streda",
         "BL": "21",
         "Número": "13",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "22"
     },
     {
@@ -426,7 +426,7 @@
         "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "79",
-        "PJ": "16",
+        "PJ": "17",
         "Goles": "1",
         "Asistencias": "3",
         "TA": "4",
@@ -434,9 +434,9 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "SpVgg Greuther Fürth",
-        "BL": "69",
+        "BL": "70",
         "Número": "14",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -446,17 +446,17 @@
         "Nación": "Norwegen",
         "Altura": "188",
         "Peso": "83",
-        "PJ": "16",
+        "PJ": "17",
         "Goles": "1",
         "Asistencias": "1",
-        "TA": "2",
+        "TA": "3",
         "TAR": "0",
         "TR": "0",
         "Desde": "19.07.2022",
         "De": "Sampdoria Genua",
-        "BL": "16",
+        "BL": "17",
         "Número": "2",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "17"
     },
     {
@@ -466,7 +466,7 @@
         "Nación": "Surinam",
         "Altura": "180",
         "Peso": "78",
-        "PJ": "23",
+        "PJ": "24",
         "Goles": "7",
         "Asistencias": "5",
         "TA": "1",
@@ -474,9 +474,9 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "ADO Den Haag",
-        "BL": "82",
+        "BL": "83",
         "Número": "27",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "5"
     },
     {
@@ -486,15 +486,15 @@
         "Nación": "Deutschland",
         "Altura": "185",
         "Peso": "85",
-        "PJ": "23",
+        "PJ": "24",
         "Goles": "4",
         "Asistencias": "2",
-        "TA": "2",
+        "TA": "3",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "SV Sandhausen",
-        "BL": "47",
+        "BL": "48",
         "Número": "17",
         "Contrato": "30.06.2024",
         "Selección": "No"
@@ -516,7 +516,7 @@
         "De": "Young Boys Bern",
         "BL": "21",
         "Número": "45",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "9"
     },
     {
@@ -536,7 +536,7 @@
         "De": "SpVgg Greuther Fürth",
         "BL": "43",
         "Número": "40",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -546,7 +546,7 @@
         "Nación": "Deutschland",
         "Altura": "179",
         "Peso": "80",
-        "PJ": "15",
+        "PJ": "16",
         "Goles": "3",
         "Asistencias": "0",
         "TA": "2",
@@ -554,7 +554,7 @@
         "TR": "0",
         "Desde": "31.01.2022",
         "De": "SC Paderborn 07",
-        "BL": "57",
+        "BL": "58",
         "Número": "11",
         "Contrato": "30.06.2024",
         "Selección": "No"
@@ -576,7 +576,7 @@
         "De": "1. FC Union Berlin",
         "BL": "1",
         "Número": "26",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "12"
     },
     {
@@ -586,7 +586,7 @@
         "Nación": "Norwegen",
         "Altura": "183",
         "Peso": "81",
-        "PJ": "19",
+        "PJ": "20",
         "Goles": "1",
         "Asistencias": "1",
         "TA": "4",
@@ -594,7 +594,7 @@
         "TR": "0",
         "Desde": "17.01.2023",
         "De": "1. FC Union Berlin",
-        "BL": "85",
+        "BL": "86",
         "Número": "6",
         "Contrato": "30.06.2026",
         "Selección": "15"
@@ -606,15 +606,15 @@
         "Nación": "Japan",
         "Altura": "176",
         "Peso": "70",
-        "PJ": "16",
+        "PJ": "17",
         "Goles": "0",
-        "Asistencias": "1",
+        "Asistencias": "2",
         "TA": "0",
         "TAR": "0",
         "TR": "0",
         "Desde": "30.01.2023",
         "De": "1. FC Union Berlin",
-        "BL": "165",
+        "BL": "166",
         "Número": "24",
         "Contrato": "30.06.2024",
         "Selección": "74"

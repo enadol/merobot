@@ -116,7 +116,7 @@
         "De": "RFC Seraing",
         "BL": "0",
         "Número": "0",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -236,7 +236,7 @@
         "De": "Stade Brest",
         "BL": "6",
         "Número": "18",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "61"
     },
     {
@@ -456,7 +456,7 @@
         "De": "1. FSV Mainz 05",
         "BL": "19",
         "Número": "21",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -616,7 +616,7 @@
         "De": "AS St. Etienne",
         "BL": "2",
         "Número": "15",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -636,7 +636,7 @@
         "De": "FC Schalke 04",
         "BL": "26",
         "Número": "33",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -656,7 +656,7 @@
         "De": "FC Schalke 04",
         "BL": "7",
         "Número": "42",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -676,7 +676,7 @@
         "De": "FC Schalke 04",
         "BL": "12",
         "Número": "17",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -684,8 +684,8 @@
         "Nacimiento": "10.01.1995",
         "Edad": "28",
         "Nación": "Rumänien",
-        "Altura": "No consignado",
-        "Peso": "No consignado",
+        "Altura": "N.D.",
+        "Peso": "N.D.",
         "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
@@ -696,7 +696,7 @@
         "De": "Rot Weiss Ahlen",
         "BL": "1",
         "Número": "37",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -716,7 +716,7 @@
         "De": "FC Schalke 04",
         "BL": "9",
         "Número": "20",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -736,7 +736,7 @@
         "De": "FC Schalke 04",
         "BL": "11",
         "Número": "7",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "6"
     },
     {
@@ -744,8 +744,8 @@
         "Nacimiento": "21.04.2003",
         "Edad": "19",
         "Nación": "Deutschland",
-        "Altura": "No consignado",
-        "Peso": "No consignado",
+        "Altura": "N.D.",
+        "Peso": "N.D.",
         "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
@@ -756,7 +756,7 @@
         "De": "Bayer 04 Leverkusen",
         "BL": "1",
         "Número": "44",
-        "Contrato": "No definido",
+        "Contrato": "N.D.",
         "Selección": "No"
     }
 ]
