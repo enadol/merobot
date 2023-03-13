@@ -6,7 +6,7 @@
         "Nación": "Polen",
         "Altura": "190",
         "Peso": "81",
-        "PJ": "14",
+        "PJ": "20",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "2",
@@ -14,8 +14,10 @@
         "TR": "0",
         "Desde": "01.07.2020",
         "De": "1. FC Union Berlin",
-        "BL": "117",
-        "Número": "1"
+        "BL": "123",
+        "Número": "1",
+        "Contrato": "30.06.2023",
+        "Selección": "0"
     },
     {
         "Jugador": "Daniel Klein",
@@ -33,7 +35,9 @@
         "Desde": "01.01.2005",
         "De": "Borussia Neunkirchen",
         "BL": "0",
-        "Número": "0"
+        "Número": "0",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "Tomas Koubek",
@@ -51,12 +55,14 @@
         "Desde": "06.08.2019",
         "De": "Stade Rennes",
         "BL": "28",
-        "Número": "40"
+        "Número": "40",
+        "Contrato": "30.06.2024",
+        "Selección": "12"
     },
     {
         "Jugador": "Benjamin Leneis",
         "Nacimiento": "08.03.1999",
-        "Edad": "23",
+        "Edad": "24",
         "Nación": "Deutschland",
         "Altura": "195",
         "Peso": "92",
@@ -69,16 +75,18 @@
         "Desde": "01.07.2022",
         "De": "1. FC Magdeburg",
         "BL": "0",
-        "Número": "39"
+        "Número": "39",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "Maximilian Bauer",
         "Nacimiento": "09.02.2000",
-        "Edad": "22",
+        "Edad": "23",
         "Nación": "Deutschland",
         "Altura": "189",
         "Peso": "84",
-        "PJ": "15",
+        "PJ": "18",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "6",
@@ -86,8 +94,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "SpVgg Greuther Fürth",
-        "BL": "41",
-        "Número": "23"
+        "BL": "44",
+        "Número": "23",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "David Colina",
@@ -95,8 +105,8 @@
         "Edad": "22",
         "Nación": "Kroatien",
         "Altura": "174",
-        "Peso": "No consignado",
-        "PJ": "2",
+        "Peso": "68",
+        "PJ": "3",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "0",
@@ -104,8 +114,10 @@
         "TR": "0",
         "Desde": "14.01.2023",
         "De": "Hajduk Split",
-        "BL": "2",
-        "Número": "38"
+        "BL": "3",
+        "Número": "38",
+        "Contrato": "30.06.2027",
+        "Selección": "No"
     },
     {
         "Jugador": "Jeffrey Gouweleeuw",
@@ -114,16 +126,18 @@
         "Nación": "Niederlande",
         "Altura": "188",
         "Peso": "78",
-        "PJ": "17",
+        "PJ": "23",
         "Goles": "0",
-        "Asistencias": "1",
-        "TA": "7",
+        "Asistencias": "2",
+        "TA": "8",
         "TAR": "0",
         "TR": "0",
         "Desde": "09.01.2016",
         "De": "AZ Alkmaar",
-        "BL": "180",
-        "Número": "6"
+        "BL": "186",
+        "Número": "6",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Robert Gumny",
@@ -132,16 +146,18 @@
         "Nación": "Polen",
         "Altura": "177",
         "Peso": "61",
-        "PJ": "14",
+        "PJ": "20",
         "Goles": "1",
-        "Asistencias": "1",
-        "TA": "2",
+        "Asistencias": "2",
+        "TA": "4",
         "TAR": "0",
         "TR": "0",
         "Desde": "02.09.2020",
         "De": "Lech Posen",
-        "BL": "66",
-        "Número": "2"
+        "BL": "72",
+        "Número": "2",
+        "Contrato": "30.06.2025",
+        "Selección": "5"
     },
     {
         "Jugador": "Reece Oxford",
@@ -159,7 +175,9 @@
         "Desde": "02.08.2019",
         "De": "West Ham United",
         "BL": "84",
-        "Número": "4"
+        "Número": "4",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Mads Pedersen",
@@ -168,16 +186,18 @@
         "Nación": "Dänemark",
         "Altura": "178",
         "Peso": "74",
-        "PJ": "15",
+        "PJ": "19",
         "Goles": "0",
         "Asistencias": "0",
-        "TA": "2",
+        "TA": "4",
         "TAR": "0",
         "TR": "0",
         "Desde": "15.07.2020",
         "De": "FC Zürich",
-        "BL": "61",
-        "Número": "3"
+        "BL": "65",
+        "Número": "3",
+        "Contrato": "30.06.2024",
+        "Selección": "0"
     },
     {
         "Jugador": "Felix Uduokhai",
@@ -186,7 +206,7 @@
         "Nación": "Deutschland",
         "Altura": "192",
         "Peso": "78",
-        "PJ": "10",
+        "PJ": "13",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -194,8 +214,10 @@
         "TR": "0",
         "Desde": "28.08.2019",
         "De": "VfL Wolfsburg",
-        "BL": "108",
-        "Número": "19"
+        "BL": "111",
+        "Número": "19",
+        "Contrato": "30.06.2024",
+        "Selección": "0"
     },
     {
         "Jugador": "Aaron Zehnter",
@@ -204,7 +226,7 @@
         "Nación": "Deutschland",
         "Altura": "180",
         "Peso": "69",
-        "PJ": "0",
+        "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -212,8 +234,10 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "Würzburger Kickers",
-        "BL": "0",
-        "Número": "42"
+        "BL": "1",
+        "Número": "42",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Julian Baumgartlinger",
@@ -222,7 +246,7 @@
         "Nación": "Österreich",
         "Altura": "184",
         "Peso": "84",
-        "PJ": "7",
+        "PJ": "11",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -230,8 +254,10 @@
         "TR": "0",
         "Desde": "16.08.2022",
         "De": "Bayer 04 Leverkusen",
-        "BL": "246",
-        "Número": "14"
+        "BL": "250",
+        "Número": "14",
+        "Contrato": "30.06.2023",
+        "Selección": "84"
     },
     {
         "Jugador": "Daniel Caligiuri",
@@ -240,7 +266,7 @@
         "Nación": "Italien",
         "Altura": "182",
         "Peso": "80",
-        "PJ": "10",
+        "PJ": "12",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "1",
@@ -248,8 +274,10 @@
         "TR": "0",
         "Desde": "01.07.2020",
         "De": "FC Schalke 04",
-        "BL": "369",
-        "Número": "20"
+        "BL": "371",
+        "Número": "20",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Niklas Dorsch",
@@ -258,7 +286,7 @@
         "Nación": "Deutschland",
         "Altura": "178",
         "Peso": "76",
-        "PJ": "2",
+        "PJ": "6",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -266,8 +294,10 @@
         "TR": "0",
         "Desde": "08.07.2021",
         "De": "KAA Gent",
-        "BL": "33",
-        "Número": "30"
+        "BL": "37",
+        "Número": "30",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "Arne Engels",
@@ -276,16 +306,18 @@
         "Nación": "Belgien",
         "Altura": "184",
         "Peso": "71",
-        "PJ": "3",
+        "PJ": "9",
         "Goles": "0",
-        "Asistencias": "1",
-        "TA": "1",
+        "Asistencias": "2",
+        "TA": "3",
         "TAR": "0",
         "TR": "0",
         "Desde": "03.01.2023",
         "De": "Club Brügge",
-        "BL": "3",
-        "Número": "27"
+        "BL": "9",
+        "Número": "27",
+        "Contrato": "30.06.2027",
+        "Selección": "No"
     },
     {
         "Jugador": "André Hahn",
@@ -303,7 +335,9 @@
         "Desde": "01.07.2018",
         "De": "Hamburger SV",
         "BL": "250",
-        "Número": "28"
+        "Número": "28",
+        "Contrato": "30.06.2023",
+        "Selección": "1"
     },
     {
         "Jugador": "Fredrik Jensen",
@@ -312,16 +346,18 @@
         "Nación": "Finnland",
         "Altura": "183",
         "Peso": "80",
-        "PJ": "13",
-        "Goles": "1",
+        "PJ": "17",
+        "Goles": "2",
         "Asistencias": "1",
         "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2018",
         "De": "Twente Enschede",
-        "BL": "54",
-        "Número": "24"
+        "BL": "58",
+        "Número": "24",
+        "Contrato": "30.06.2025",
+        "Selección": "26"
     },
     {
         "Jugador": "Arne Maier",
@@ -330,16 +366,18 @@
         "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "82",
-        "PJ": "14",
-        "Goles": "1",
+        "PJ": "20",
+        "Goles": "2",
         "Asistencias": "0",
-        "TA": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "09.08.2021",
         "De": "Hertha BSC",
-        "BL": "117",
-        "Número": "10"
+        "BL": "123",
+        "Número": "10",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Elvis Rexhbecaj",
@@ -348,7 +386,7 @@
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "75",
-        "PJ": "17",
+        "PJ": "21",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "5",
@@ -356,8 +394,10 @@
         "TR": "0",
         "Desde": "27.07.2022",
         "De": "VfL Wolfsburg",
-        "BL": "120",
-        "Número": "13"
+        "BL": "124",
+        "Número": "13",
+        "Contrato": "30.06.2026",
+        "Selección": "No"
     },
     {
         "Jugador": "Noah Joel Sarenren Bazee",
@@ -366,7 +406,7 @@
         "Nación": "Deutschland",
         "Altura": "182",
         "Peso": "70",
-        "PJ": "0",
+        "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -374,8 +414,10 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "Hannover 96",
-        "BL": "44",
-        "Número": "17"
+        "BL": "45",
+        "Número": "17",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Tobias Strobl",
@@ -393,7 +435,9 @@
         "Desde": "01.07.2020",
         "De": "Bor. Mönchengladbach",
         "BL": "186",
-        "Número": "5"
+        "Número": "5",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Ruben Vargas",
@@ -402,34 +446,38 @@
         "Nación": "Schweiz",
         "Altura": "178",
         "Peso": "68",
-        "PJ": "12",
+        "PJ": "15",
         "Goles": "1",
-        "Asistencias": "2",
-        "TA": "1",
+        "Asistencias": "3",
+        "TA": "2",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "FC Luzern",
-        "BL": "104",
-        "Número": "16"
+        "BL": "107",
+        "Número": "16",
+        "Contrato": "30.06.2025",
+        "Selección": "31"
     },
     {
         "Jugador": "Dion Drena Beljo",
         "Nacimiento": "01.03.2002",
-        "Edad": "20",
+        "Edad": "21",
         "Nación": "Kroatien",
         "Altura": "195",
         "Peso": "84",
-        "PJ": "3",
-        "Goles": "0",
+        "PJ": "8",
+        "Goles": "1",
         "Asistencias": "1",
-        "TA": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "13.01.2023",
         "De": "NK Osijek",
-        "BL": "3",
-        "Número": "7"
+        "BL": "8",
+        "Número": "7",
+        "Contrato": "30.06.2027",
+        "Selección": "No"
     },
     {
         "Jugador": "Mergim Berisha",
@@ -438,16 +486,18 @@
         "Nación": "Deutschland",
         "Altura": "188",
         "Peso": "81",
-        "PJ": "12",
-        "Goles": "5",
+        "PJ": "18",
+        "Goles": "8",
         "Asistencias": "4",
-        "TA": "6",
+        "TA": "7",
         "TAR": "1",
         "TR": "0",
         "Desde": "31.08.2022",
         "De": "Fenerbahce SK",
-        "BL": "12",
-        "Número": "11"
+        "BL": "18",
+        "Número": "11",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Irvin Cardona",
@@ -456,34 +506,18 @@
         "Nación": "Frankreich",
         "Altura": "185",
         "Peso": "76",
-        "PJ": "1",
-        "Goles": "0",
-        "Asistencias": "0",
+        "PJ": "2",
+        "Goles": "1",
+        "Asistencias": "1",
         "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "18.01.2023",
         "De": "Stade Brest",
-        "BL": "1",
-        "Número": "48"
-    },
-    {
-        "Jugador": "Sergio Cordova",
-        "Nacimiento": "09.08.1997",
-        "Edad": "25",
-        "Nación": "Venezuela",
-        "Altura": "188",
-        "Peso": "87",
-        "PJ": "0",
-        "Goles": "0",
-        "Asistencias": "0",
-        "TA": "0",
-        "TAR": "0",
-        "TR": "0",
-        "Desde": "01.01.2023",
-        "De": "Real Salt Lake",
-        "BL": "0",
-        "Número": "33"
+        "BL": "2",
+        "Número": "48",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "Ermedin Demirovic",
@@ -492,16 +526,18 @@
         "Nación": "Bosnien-Herzegowina",
         "Altura": "185",
         "Peso": "85",
-        "PJ": "18",
-        "Goles": "6",
-        "Asistencias": "4",
+        "PJ": "23",
+        "Goles": "7",
+        "Asistencias": "5",
         "TA": "5",
         "TAR": "0",
         "TR": "0",
         "Desde": "08.07.2022",
         "De": "SC Freiburg",
-        "BL": "79",
-        "Número": "9"
+        "BL": "84",
+        "Número": "9",
+        "Contrato": "30.06.2026",
+        "Selección": "15"
     },
     {
         "Jugador": "Nathanael Mbuku",
@@ -510,7 +546,7 @@
         "Nación": "Frankreich",
         "Altura": "170",
         "Peso": "65",
-        "PJ": "0",
+        "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -518,8 +554,10 @@
         "TR": "0",
         "Desde": "30.01.2023",
         "De": "Stade Reims",
-        "BL": "0",
-        "Número": "0"
+        "BL": "1",
+        "Número": "34",
+        "Contrato": "30.06.2027",
+        "Selección": "No"
     },
     {
         "Jugador": "Kelvin Yeboah",
@@ -528,7 +566,7 @@
         "Nación": "Italien",
         "Altura": "182",
         "Peso": "73",
-        "PJ": "3",
+        "PJ": "8",
         "Goles": "0",
         "Asistencias": "2",
         "TA": "0",
@@ -536,8 +574,10 @@
         "TR": "0",
         "Desde": "18.01.2023",
         "De": "CFC Genua 1893",
-        "BL": "3",
-        "Número": "45"
+        "BL": "8",
+        "Número": "45",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "Raphael Framberger",
@@ -555,7 +595,9 @@
         "Desde": "11.01.2023",
         "De": "FC Augsburg",
         "BL": "84",
-        "Número": "32"
+        "Número": "32",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Frederik Winther",
@@ -573,7 +615,9 @@
         "Desde": "31.01.2023",
         "De": "FC Augsburg",
         "BL": "5",
-        "Número": "26"
+        "Número": "26",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "Carlos Gruezo",
@@ -591,7 +635,9 @@
         "Desde": "31.01.2023",
         "De": "FC Augsburg",
         "BL": "87",
-        "Número": "8"
+        "Número": "8",
+        "Contrato": "N.D.",
+        "Selección": "47"
     },
     {
         "Jugador": "Lukas Petkov",
@@ -609,7 +655,9 @@
         "Desde": "31.01.2023",
         "De": "FC Augsburg",
         "BL": "8",
-        "Número": "21"
+        "Número": "21",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Florian Niederlechner",
@@ -618,16 +666,18 @@
         "Nación": "Deutschland",
         "Altura": "187",
         "Peso": "86",
-        "PJ": "15",
+        "PJ": "21",
         "Goles": "4",
         "Asistencias": "1",
-        "TA": "1",
+        "TA": "2",
         "TAR": "0",
         "TR": "0",
         "Desde": "18.01.2023",
         "De": "FC Augsburg",
-        "BL": "182",
-        "Número": "7"
+        "BL": "188",
+        "Número": "7",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "Ricardo Pepi",
@@ -645,6 +695,8 @@
         "Desde": "31.08.2022",
         "De": "FC Augsburg",
         "BL": "15",
-        "Número": "18"
+        "Número": "18",
+        "Contrato": "N.D.",
+        "Selección": "12"
     }
 ]

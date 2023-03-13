@@ -15,7 +15,9 @@
         "Desde": "01.07.2009",
         "De": "SV Glehn",
         "BL": "2",
-        "Número": "41"
+        "Número": "41",
+        "Contrato": "30.06.2027",
+        "Selección": "No"
     },
     {
         "Jugador": "Jonas Omlin",
@@ -24,7 +26,7 @@
         "Nación": "Schweiz",
         "Altura": "189",
         "Peso": "80",
-        "PJ": "3",
+        "PJ": "7",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -32,8 +34,10 @@
         "TR": "0",
         "Desde": "19.01.2023",
         "De": "Montpellier HSC",
-        "BL": "3",
-        "Número": "1"
+        "BL": "7",
+        "Número": "1",
+        "Contrato": "30.06.2027",
+        "Selección": "4"
     },
     {
         "Jugador": "Tobias Sippel",
@@ -42,7 +46,7 @@
         "Nación": "Deutschland",
         "Altura": "183",
         "Peso": "80",
-        "PJ": "3",
+        "PJ": "6",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -50,8 +54,10 @@
         "TR": "0",
         "Desde": "01.07.2015",
         "De": "1. FC Kaiserslautern",
-        "BL": "51",
-        "Número": "21"
+        "BL": "54",
+        "Número": "21",
+        "Contrato": "30.06.2023",
+        "Selección": "0"
     },
     {
         "Jugador": "Ramy Bensebaini",
@@ -60,16 +66,18 @@
         "Nación": "Algerien",
         "Altura": "186",
         "Peso": "82",
-        "PJ": "17",
+        "PJ": "21",
         "Goles": "5",
         "Asistencias": "0",
         "TA": "3",
-        "TAR": "0",
+        "TAR": "1",
         "TR": "0",
         "Desde": "14.08.2019",
         "De": "Stade Rennes",
-        "BL": "84",
-        "Número": "25"
+        "BL": "88",
+        "Número": "25",
+        "Contrato": "30.06.2023",
+        "Selección": "51"
     },
     {
         "Jugador": "Mamadou Doucouré",
@@ -87,7 +95,9 @@
         "Desde": "01.07.2016",
         "De": "Paris St. Germain",
         "BL": "0",
-        "Número": "4"
+        "Número": "4",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Nico Elvedi",
@@ -96,16 +106,18 @@
         "Nación": "Schweiz",
         "Altura": "189",
         "Peso": "81",
-        "PJ": "16",
-        "Goles": "2",
+        "PJ": "22",
+        "Goles": "3",
         "Asistencias": "0",
-        "TA": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2015",
         "De": "FC Zürich",
-        "BL": "214",
-        "Número": "30"
+        "BL": "220",
+        "Número": "30",
+        "Contrato": "30.06.2024",
+        "Selección": "43"
     },
     {
         "Jugador": "Marvin Friedrich",
@@ -123,7 +135,9 @@
         "Desde": "11.01.2022",
         "De": "1. FC Union Berlin",
         "BL": "108",
-        "Número": "5"
+        "Número": "5",
+        "Contrato": "30.06.2026",
+        "Selección": "No"
     },
     {
         "Jugador": "Tony Jantschke",
@@ -132,7 +146,7 @@
         "Nación": "Deutschland",
         "Altura": "177",
         "Peso": "76",
-        "PJ": "5",
+        "PJ": "6",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -140,8 +154,10 @@
         "TR": "0",
         "Desde": "01.07.2006",
         "De": "SC Borea Dresden",
-        "BL": "240",
-        "Número": "24"
+        "BL": "241",
+        "Número": "24",
+        "Contrato": "30.06.2023",
+        "Selección": "No"
     },
     {
         "Jugador": "Stefan Lainer",
@@ -150,7 +166,7 @@
         "Nación": "Österreich",
         "Altura": "175",
         "Peso": "73",
-        "PJ": "7",
+        "PJ": "10",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -158,8 +174,10 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "RB Salzburg",
-        "BL": "92",
-        "Número": "18"
+        "BL": "95",
+        "Número": "18",
+        "Contrato": "30.06.2024",
+        "Selección": "38"
     },
     {
         "Jugador": "Luca Netz",
@@ -168,16 +186,18 @@
         "Nación": "Deutschland",
         "Altura": "180",
         "Peso": "85",
-        "PJ": "8",
+        "PJ": "11",
         "Goles": "0",
-        "Asistencias": "1",
+        "Asistencias": "2",
         "TA": "0",
         "TAR": "0",
         "TR": "0",
         "Desde": "06.08.2021",
         "De": "Hertha BSC",
-        "BL": "43",
-        "Número": "20"
+        "BL": "46",
+        "Número": "20",
+        "Contrato": "30.06.2026",
+        "Selección": "No"
     },
     {
         "Jugador": "Joe Scally",
@@ -186,7 +206,7 @@
         "Nación": "USA",
         "Altura": "184",
         "Peso": "80",
-        "PJ": "17",
+        "PJ": "22",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -194,8 +214,10 @@
         "TR": "0",
         "Desde": "02.01.2021",
         "De": "New York City FC",
-        "BL": "47",
-        "Número": "29"
+        "BL": "52",
+        "Número": "29",
+        "Contrato": "N.D.",
+        "Selección": "3"
     },
     {
         "Jugador": "Oscar Fraulo",
@@ -204,7 +226,7 @@
         "Nación": "Dänemark",
         "Altura": "180",
         "Peso": "77",
-        "PJ": "0",
+        "PJ": "1",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -212,8 +234,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "FC Midtjylland",
-        "BL": "0",
-        "Número": "22"
+        "BL": "1",
+        "Número": "22",
+        "Contrato": "30.06.2026",
+        "Selección": "No"
     },
     {
         "Jugador": "Jonas Hofmann",
@@ -222,16 +246,18 @@
         "Nación": "Deutschland",
         "Altura": "176",
         "Peso": "73",
-        "PJ": "15",
-        "Goles": "7",
-        "Asistencias": "7",
-        "TA": "0",
+        "PJ": "21",
+        "Goles": "8",
+        "Asistencias": "9",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.01.2016",
         "De": "Borussia Dortmund",
-        "BL": "216",
-        "Número": "23"
+        "BL": "222",
+        "Número": "23",
+        "Contrato": "30.06.2025",
+        "Selección": "19"
     },
     {
         "Jugador": "Ko Itakura",
@@ -240,7 +266,7 @@
         "Nación": "Japan",
         "Altura": "186",
         "Peso": "75",
-        "PJ": "9",
+        "PJ": "15",
         "Goles": "0",
         "Asistencias": "2",
         "TA": "0",
@@ -248,8 +274,10 @@
         "TR": "1",
         "Desde": "02.07.2022",
         "De": "FC Schalke 04",
-        "BL": "9",
-        "Número": "3"
+        "BL": "15",
+        "Número": "3",
+        "Contrato": "30.06.2026",
+        "Selección": "16"
     },
     {
         "Jugador": "Kouadio Koné",
@@ -258,25 +286,27 @@
         "Nación": "Frankreich",
         "Altura": "185",
         "Peso": "80",
-        "PJ": "17",
+        "PJ": "23",
         "Goles": "1",
         "Asistencias": "1",
-        "TA": "7",
+        "TA": "9",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "FC Toulouse",
-        "BL": "44",
-        "Número": "17"
+        "BL": "50",
+        "Número": "17",
+        "Contrato": "30.06.2025",
+        "Selección": "No"
     },
     {
         "Jugador": "Christoph Kramer",
         "Nacimiento": "19.02.1991",
-        "Edad": "31",
+        "Edad": "32",
         "Nación": "Deutschland",
         "Altura": "191",
         "Peso": "76",
-        "PJ": "17",
+        "PJ": "23",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "3",
@@ -284,8 +314,10 @@
         "TR": "0",
         "Desde": "01.07.2016",
         "De": "Bayer 04 Leverkusen",
-        "BL": "245",
-        "Número": "6"
+        "BL": "251",
+        "Número": "6",
+        "Contrato": "30.06.2025",
+        "Selección": "12"
     },
     {
         "Jugador": "Florian Neuhaus",
@@ -294,7 +326,7 @@
         "Nación": "Deutschland",
         "Altura": "185",
         "Peso": "77",
-        "PJ": "8",
+        "PJ": "14",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -302,8 +334,10 @@
         "TR": "0",
         "Desde": "01.07.2018",
         "De": "Fortuna Düsseldorf",
-        "BL": "132",
-        "Número": "32"
+        "BL": "138",
+        "Número": "32",
+        "Contrato": "30.06.2024",
+        "Selección": "10"
     },
     {
         "Jugador": "Nathan Ngoumou",
@@ -312,7 +346,7 @@
         "Nación": "Frankreich",
         "Altura": "183",
         "Peso": "74",
-        "PJ": "10",
+        "PJ": "12",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -320,8 +354,10 @@
         "TR": "0",
         "Desde": "30.08.2022",
         "De": "FC Toulouse",
-        "BL": "10",
-        "Número": "19"
+        "BL": "12",
+        "Número": "19",
+        "Contrato": "30.06.2027",
+        "Selección": "No"
     },
     {
         "Jugador": "Conor Noß",
@@ -339,7 +375,9 @@
         "Desde": "01.07.2009",
         "De": "Sportfreunde Vorst",
         "BL": "3",
-        "Número": "34"
+        "Número": "34",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Lars Stindl",
@@ -348,16 +386,18 @@
         "Nación": "Deutschland",
         "Altura": "181",
         "Peso": "80",
-        "PJ": "13",
-        "Goles": "4",
+        "PJ": "19",
+        "Goles": "5",
         "Asistencias": "6",
-        "TA": "5",
+        "TA": "7",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2015",
         "De": "Hannover 96",
-        "BL": "360",
-        "Número": "13"
+        "BL": "366",
+        "Número": "13",
+        "Contrato": "30.06.2023",
+        "Selección": "11"
     },
     {
         "Jugador": "Julian Weigl",
@@ -366,16 +406,18 @@
         "Nación": "Deutschland",
         "Altura": "186",
         "Peso": "71",
-        "PJ": "14",
+        "PJ": "16",
         "Goles": "0",
         "Asistencias": "1",
-        "TA": "4",
+        "TA": "5",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.09.2022",
         "De": "Benfica Lissabon",
-        "BL": "130",
-        "Número": "8"
+        "BL": "132",
+        "Número": "8",
+        "Contrato": "30.06.2023",
+        "Selección": "6"
     },
     {
         "Jugador": "Hannes Wolf",
@@ -384,7 +426,7 @@
         "Nación": "Österreich",
         "Altura": "179",
         "Peso": "69",
-        "PJ": "7",
+        "PJ": "12",
         "Goles": "1",
         "Asistencias": "1",
         "TA": "0",
@@ -392,8 +434,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "Swansea City",
-        "BL": "51",
-        "Número": "11"
+        "BL": "56",
+        "Número": "11",
+        "Contrato": "30.06.2024",
+        "Selección": "0"
     },
     {
         "Jugador": "Yvandro Borges Sanches",
@@ -411,16 +455,18 @@
         "Desde": "01.07.2020",
         "De": "RFC Union Luxemburg",
         "BL": "3",
-        "Número": "38"
+        "Número": "38",
+        "Contrato": "N.D.",
+        "Selección": "16"
     },
     {
         "Jugador": "Patrick Herrmann",
         "Nacimiento": "12.02.1991",
-        "Edad": "31",
+        "Edad": "32",
         "Nación": "Deutschland",
         "Altura": "179",
         "Peso": "71",
-        "PJ": "15",
+        "PJ": "18",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "2",
@@ -428,8 +474,10 @@
         "TR": "0",
         "Desde": "01.07.2008",
         "De": "1. FC Saarbrücken",
-        "BL": "337",
-        "Número": "7"
+        "BL": "340",
+        "Número": "7",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
     },
     {
         "Jugador": "Jacob Italiano",
@@ -447,25 +495,29 @@
         "Desde": "01.07.2019",
         "De": "Perth Glory",
         "BL": "0",
-        "Número": "35"
+        "Número": "35",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "Alassane Plea",
         "Nacimiento": "10.03.1993",
-        "Edad": "29",
+        "Edad": "30",
         "Nación": "Frankreich",
         "Altura": "181",
         "Peso": "79",
-        "PJ": "14",
+        "PJ": "20",
         "Goles": "2",
-        "Asistencias": "7",
-        "TA": "3",
+        "Asistencias": "8",
+        "TA": "4",
         "TAR": "0",
         "TR": "0",
         "Desde": "13.07.2018",
         "De": "OGC Nizza",
-        "BL": "137",
-        "Número": "14"
+        "BL": "143",
+        "Número": "14",
+        "Contrato": "30.06.2025",
+        "Selección": "1"
     },
     {
         "Jugador": "Marcus Thuram",
@@ -474,16 +526,18 @@
         "Nación": "Frankreich",
         "Altura": "192",
         "Peso": "88",
-        "PJ": "17",
-        "Goles": "10",
+        "PJ": "23",
+        "Goles": "11",
         "Asistencias": "4",
-        "TA": "2",
+        "TA": "3",
         "TAR": "0",
         "TR": "0",
         "Desde": "22.07.2019",
         "De": "EA Guingamp",
-        "BL": "98",
-        "Número": "10"
+        "BL": "104",
+        "Número": "10",
+        "Contrato": "30.06.2023",
+        "Selección": "9"
     },
     {
         "Jugador": "Yann Sommer",
@@ -492,7 +546,7 @@
         "Nación": "Schweiz",
         "Altura": "183",
         "Peso": "79",
-        "PJ": "13",
+        "PJ": "19",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -500,8 +554,10 @@
         "TR": "0",
         "Desde": "19.01.2023",
         "De": "Bor. Mönchengladbach",
-        "BL": "275",
-        "Número": "1"
+        "BL": "281",
+        "Número": "1",
+        "Contrato": "30.06.2025",
+        "Selección": "80"
     },
     {
         "Jugador": "Rocco Reitz",
@@ -519,16 +575,18 @@
         "Desde": "17.01.2023",
         "De": "Bor. Mönchengladbach",
         "BL": "3",
-        "Número": "27"
+        "Número": "27",
+        "Contrato": "N.D.",
+        "Selección": "No"
     },
     {
         "Jugador": "Semir Telalovic",
         "Nacimiento": "23.12.1999",
         "Edad": "23",
         "Nación": "Deutschland",
-        "Altura": "No consignado",
-        "Peso": "No consignado",
-        "PJ": "1",
+        "Altura": "N.D.",
+        "Peso": "N.D.",
+        "PJ": "2",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -536,7 +594,9 @@
         "TR": "0",
         "Desde": "20.01.2022",
         "De": "FV Illertissen",
-        "BL": "1",
-        "Número": "0"
+        "BL": "2",
+        "Número": "48",
+        "Contrato": "N.D.",
+        "Selección": "No"
     }
 ]
