@@ -117,7 +117,7 @@
         "BL": "154",
         "Número": "13",
         "Contrato": "30.06.2023",
-        "Selección": "61"
+        "Selección": "62"
     },
     {
         "Jugador": "Mats Hummels",
@@ -257,7 +257,7 @@
         "BL": "87",
         "Número": "26",
         "Contrato": "30.06.2026",
-        "Selección": "15"
+        "Selección": "17"
     },
     {
         "Jugador": "Nico Schlotterbeck",
@@ -277,7 +277,7 @@
         "BL": "90",
         "Número": "4",
         "Contrato": "30.06.2027",
-        "Selección": "8"
+        "Selección": "9"
     },
     {
         "Jugador": "Nico Schulz",
@@ -337,7 +337,7 @@
         "BL": "85",
         "Número": "22",
         "Contrato": "30.06.2025",
-        "Selección": "22"
+        "Selección": "24"
     },
     {
         "Jugador": "Julian Brandt",
@@ -377,7 +377,7 @@
         "BL": "115",
         "Número": "23",
         "Contrato": "30.06.2024",
-        "Selección": "37"
+        "Selección": "39"
     },
     {
         "Jugador": "Mahmoud Dahoud",
@@ -457,7 +457,7 @@
         "BL": "114",
         "Número": "6",
         "Contrato": "30.06.2026",
-        "Selección": "7"
+        "Selección": "9"
     },
     {
         "Jugador": "Marco Reus",
@@ -497,7 +497,7 @@
         "BL": "73",
         "Número": "7",
         "Contrato": "30.06.2025",
-        "Selección": "16"
+        "Selección": "18"
     },
     {
         "Jugador": "Marius Wolf",
@@ -517,7 +517,7 @@
         "BL": "146",
         "Número": "17",
         "Contrato": "N.D.",
-        "Selección": "No"
+        "Selección": "2"
     },
     {
         "Jugador": "Karim Adeyemi",
@@ -617,7 +617,7 @@
         "BL": "44",
         "Número": "21",
         "Contrato": "30.06.2026",
-        "Selección": "19"
+        "Selección": "21"
     },
     {
         "Jugador": "Anthony Modeste",
@@ -662,7 +662,7 @@
     {
         "Jugador": "Thorgan Hazard",
         "Nacimiento": "29.03.1993",
-        "Edad": "29",
+        "Edad": "30",
         "Nación": "Belgien",
         "Altura": "175",
         "Peso": "68",

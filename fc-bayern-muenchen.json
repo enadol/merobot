@@ -22,7 +22,7 @@
     {
         "Jugador": "Manuel Neuer",
         "Nacimiento": "27.03.1986",
-        "Edad": "36",
+        "Edad": "37",
         "Nación": "Deutschland",
         "Altura": "193",
         "Peso": "93",
@@ -77,7 +77,7 @@
         "BL": "282",
         "Número": "27",
         "Contrato": "30.06.2025",
-        "Selección": "80"
+        "Selección": "82"
     },
     {
         "Jugador": "Sven Ulreich",
@@ -117,7 +117,7 @@
         "BL": "4",
         "Número": "23",
         "Contrato": "30.06.2023",
-        "Selección": "99"
+        "Selección": "101"
     },
     {
         "Jugador": "Alphonso Davies",
@@ -137,7 +137,7 @@
         "BL": "102",
         "Número": "19",
         "Contrato": "30.06.2025",
-        "Selección": "38"
+        "Selección": "40"
     },
     {
         "Jugador": "Matthijs de Ligt",
@@ -157,7 +157,7 @@
         "BL": "22",
         "Número": "4",
         "Contrato": "30.06.2027",
-        "Selección": "40"
+        "Selección": "41"
     },
     {
         "Jugador": "Lucas Hernandez",
@@ -197,7 +197,7 @@
         "BL": "6",
         "Número": "22",
         "Contrato": "30.06.2023",
-        "Selección": "41"
+        "Selección": "42"
     },
     {
         "Jugador": "Noussair Mazraoui",
@@ -217,12 +217,12 @@
         "BL": "12",
         "Número": "40",
         "Contrato": "N.D.",
-        "Selección": "20"
+        "Selección": "22"
     },
     {
         "Jugador": "Benjamin Pavard",
         "Nacimiento": "28.03.1996",
-        "Edad": "26",
+        "Edad": "27",
         "Nación": "Frankreich",
         "Altura": "186",
         "Peso": "81",
@@ -237,7 +237,7 @@
         "BL": "166",
         "Número": "5",
         "Contrato": "30.06.2024",
-        "Selección": "47"
+        "Selección": "48"
     },
     {
         "Jugador": "Bouna Sarr",
@@ -277,7 +277,7 @@
         "BL": "25",
         "Número": "44",
         "Contrato": "30.06.2026",
-        "Selección": "8"
+        "Selección": "9"
     },
     {
         "Jugador": "Dayot Upamecano",
@@ -297,7 +297,7 @@
         "BL": "163",
         "Número": "2",
         "Contrato": "30.06.2026",
-        "Selección": "12"
+        "Selección": "14"
     },
     {
         "Jugador": "Kingsley Coman",
@@ -317,7 +317,7 @@
         "BL": "175",
         "Número": "11",
         "Contrato": "30.06.2027",
-        "Selección": "46"
+        "Selección": "47"
     },
     {
         "Jugador": "Serge Gnabry",
@@ -337,7 +337,7 @@
         "BL": "196",
         "Número": "7",
         "Contrato": "30.06.2026",
-        "Selección": "39"
+        "Selección": "41"
     },
     {
         "Jugador": "Leon Goretzka",
@@ -357,7 +357,7 @@
         "BL": "232",
         "Número": "8",
         "Contrato": "N.D.",
-        "Selección": "48"
+        "Selección": "50"
     },
     {
         "Jugador": "Ryan Gravenberch",
@@ -397,7 +397,7 @@
         "BL": "225",
         "Número": "6",
         "Contrato": "30.06.2025",
-        "Selección": "74"
+        "Selección": "76"
     },
     {
         "Jugador": "Thomas Müller",
@@ -463,7 +463,7 @@
         "Jugador": "Paul Wanner",
         "Nacimiento": "23.12.2005",
         "Edad": "17",
-        "Nación": "Österreich",
+        "Nación": "Deutschland",
         "Altura": "185",
         "Peso": "72",
         "PJ": "2",
@@ -482,7 +482,7 @@
     {
         "Jugador": "Eric Maxim Choupo-Moting",
         "Nacimiento": "23.03.1989",
-        "Edad": "33",
+        "Edad": "34",
         "Nación": "Kamerun",
         "Altura": "191",
         "Peso": "90",
@@ -517,7 +517,7 @@
         "BL": "18",
         "Número": "17",
         "Contrato": "30.06.2025",
-        "Selección": "93"
+        "Selección": "95"
     },
     {
         "Jugador": "Mathys Tel",
@@ -577,7 +577,7 @@
         "BL": "185",
         "Número": "18",
         "Contrato": "N.D.",
-        "Selección": "68"
+        "Selección": "69"
     },
     {
         "Jugador": "Gabriel Vidovic",
