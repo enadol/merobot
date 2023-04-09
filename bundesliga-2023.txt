@@ -292,3 +292,6 @@
         1. FSV Mainz 05  2-2  Werder Bremen
         FC Augsburg  1-3  1. FC Köln
         Hertha BSC  0-1  RB Leipzig
+        Bor. Mönchengladbach  2-0  VfL Wolfsburg
+        VfL Bochum  2-3  VfB Stuttgart
+        TSG Hoffenheim  2-0  FC Schalke 04
