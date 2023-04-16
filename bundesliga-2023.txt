@@ -303,3 +303,6 @@
         1. FC Köln  1-1  1. FSV Mainz 05
         VfB Stuttgart  3-3  Borussia Dortmund
         Eintracht Frankfurt  1-1  Bor. Mönchengladbach
+        Werder Bremen  1-2  SC Freiburg
+        1. FC Union Berlin  1-1  VfL Bochum
+        VfL Wolfsburg  0-0  Bayer 04 Leverkusen
