@@ -314,3 +314,6 @@
         VfL Bochum  1-5  VfL Wolfsburg
         Hertha BSC  2-4  Werder Bremen
         Borussia Dortmund  4-0  Eintracht Frankfurt
+        SC Freiburg  4-0  FC Schalke 04
+        Bayer 04 Leverkusen  2-0  RB Leipzig
+        Bor. Mönchengladbach  0-1  1. FC Union Berlin
