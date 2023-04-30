@@ -317,3 +317,14 @@
         SC Freiburg  4-0  FC Schalke 04
         Bayer 04 Leverkusen  2-0  RB Leipzig
         Bor. Mönchengladbach  0-1  1. FC Union Berlin
+30. Spieltag
+[Fr. 28.4.]
+        VfL Bochum  1-1  Borussia Dortmund
+        RB Leipzig  1-0  TSG Hoffenheim
+        1. FC Union Berlin  0-0  Bayer 04 Leverkusen
+        1. FC Köln  0-1  SC Freiburg
+        Eintracht Frankfurt  1-1  FC Augsburg
+        VfB Stuttgart  2-1  Bor. Mönchengladbach
+        FC Schalke 04  2-1  Werder Bremen
+        Bayern München  2-0  Hertha BSC
+        VfL Wolfsburg  3-0  1. FSV Mainz 05
