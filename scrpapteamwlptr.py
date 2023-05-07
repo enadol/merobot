@@ -26,7 +26,7 @@ revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
-club="1 FC Köln"
+club="Borussia Dortmund"
 torneo="2022-23"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
