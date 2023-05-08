@@ -328,3 +328,14 @@
         FC Schalke 04  2-1  Werder Bremen
         Bayern München  2-0  Hertha BSC
         VfL Wolfsburg  3-0  1. FSV Mainz 05
+31. Spieltag
+[Fr. 5.5.]
+        Bayer 04 Leverkusen  1-2  1. FC Köln
+        1. FSV Mainz 05  2-3  FC Schalke 04
+        SC Freiburg  0-1  RB Leipzig
+        TSG Hoffenheim  3-1  Eintracht Frankfurt
+        Bor. Mönchengladbach  2-0  VfL Bochum
+        FC Augsburg  1-0  1. FC Union Berlin
+        Hertha BSC  2-1  VfB Stuttgart
+        Werder Bremen  1-2  Bayern München
+        Borussia Dortmund  6-0  VfL Wolfsburg
