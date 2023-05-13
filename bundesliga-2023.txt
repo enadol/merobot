@@ -339,3 +339,12 @@
         Hertha BSC  2-1  VfB Stuttgart
         Werder Bremen  1-2  Bayern München
         Borussia Dortmund  6-0  VfL Wolfsburg
+32. Spieltag
+[Fr. 12.5.]
+        1. FC Köln  5-2  Hertha BSC
+        Bayern München  6-0  FC Schalke 04
+        1. FC Union Berlin  4-2  SC Freiburg
+        Eintracht Frankfurt  3-0  1. FSV Mainz 05
+        VfL Wolfsburg  2-1  TSG Hoffenheim
+        VfL Bochum  3-2  FC Augsburg
+        Borussia Dortmund  5-2  Bor. Mönchengladbach
