@@ -348,3 +348,5 @@
         VfL Wolfsburg  2-1  TSG Hoffenheim
         VfL Bochum  3-2  FC Augsburg
         Borussia Dortmund  5-2  Bor. Mönchengladbach
+        VfB Stuttgart  1-1  Bayer 04 Leverkusen
+        RB Leipzig  2-1  Werder Bremen
