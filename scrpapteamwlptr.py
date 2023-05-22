@@ -19,7 +19,7 @@ team=[]
 nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias"]
 #player="Sadio Mane"
 brasilexceptions=["Paulinho", "Aaron"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Aaron"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 exclude=["Michael Langer"]
 revert=["Dikeni Salifou"]
@@ -88,6 +88,8 @@ for nombre in kadernames:
 #base apellidos para nombres compuestos o apellidos compuestos
 #kicker pone Dani Olmo como apellido
     vertrag=""
+
+        
     apellidos=nombre.find("strong") 
     for apellido in apellidos:
         if(apellido in nameexceptions):
@@ -95,7 +97,6 @@ for nombre in kadernames:
             vorname=partido[0]
             nachname=partido[1]
             kader.append(vorname+" "+nachname)
-        
         else:
             nombres=nombre.find("span")
             if( nombres is not None):
@@ -143,6 +144,9 @@ for knombre in kader:
         
     if("Paulinho" in knombre):
         player3=knombre.strip()+"-12"
+    
+    if("Aaron" in knombre):
+        player3="aaron-2"
         
     if(knombre=="Kelian Nsona"):
         player3=player3+"-wa-saka"
@@ -159,9 +163,6 @@ for knombre in kader:
     if(knombre=="Jan Schröder"):
         player3="jan-alex-wilson-schroeder"
     
-    if(vorname=="Aaron"):
-        player3="aaron"
-
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
