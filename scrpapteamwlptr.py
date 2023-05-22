@@ -18,8 +18,8 @@ kader=[]
 team=[]
 nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias"]
 #player="Sadio Mane"
-brasilexceptions=["Paulinho"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl"]
+brasilexceptions=["Paulinho", "Aaron"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Aaron"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 exclude=["Michael Langer"]
 revert=["Dikeni Salifou"]
@@ -59,6 +59,8 @@ def modPlayer(player):
         playerminus=playerminus.replace("joe", "joseph")
     if("kouadio" in playerminus):
            playerminus=playerminus.replace("kone", "manu-kone")
+#    if("Aaron" in playerminus):
+ #      playerminus=playerminus.replace(" ", "")    
     elif("ä" in playerminus):
         playerminus=playerminus.replace("ä", "ae")
     playerdef=playerminus
@@ -156,6 +158,10 @@ for knombre in kader:
         
     if(knombre=="Jan Schröder"):
         player3="jan-alex-wilson-schroeder"
+    
+    if(vorname=="Aaron"):
+        player3="aaron"
+
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
