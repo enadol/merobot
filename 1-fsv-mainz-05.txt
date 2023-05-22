@@ -55,7 +55,7 @@ Número : 27,
 Contrato : 30.06.2025,
 Selección : No,
 
-Jugador : Aaron  ,
+Jugador : Aaron,
 Nacimiento : 22.04.1997,
 Edad : 26,
 Nación : España,
