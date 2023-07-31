@@ -2,7 +2,7 @@
     {
         "Jugador": "Gregor Kobel",
         "Nacimiento": "06.12.1997",
-        "Edad": "",
+        "Edad": "25",
         "Nación": "Suiza",
         "Altura": "195",
         "Peso": "88",
@@ -22,7 +22,7 @@
     {
         "Jugador": "Marcel Lotka",
         "Nacimiento": "25.05.2001",
-        "Edad": "",
+        "Edad": "22",
         "Nación": "Polonia",
         "Altura": "191",
         "Peso": "85",
@@ -42,7 +42,7 @@
     {
         "Jugador": "Alexander Meyer",
         "Nacimiento": "13.04.1991",
-        "Edad": "",
+        "Edad": "32",
         "Nación": "Alemania",
         "Altura": "195",
         "Peso": "88",
@@ -62,7 +62,7 @@
     {
         "Jugador": "Silas Ostrzinski",
         "Nacimiento": "19.11.2003",
-        "Edad": "",
+        "Edad": "19",
         "Nación": "Alemania",
         "Altura": "198",
         "Peso": "93",
@@ -82,7 +82,7 @@
     {
         "Jugador": "Ramy Bensebaini",
         "Nacimiento": "16.04.1995",
-        "Edad": "",
+        "Edad": "28",
         "Nación": "Argelia",
         "Altura": "186",
         "Peso": "82",
@@ -102,7 +102,7 @@
     {
         "Jugador": "Soumaila Coulibaly",
         "Nacimiento": "14.10.2003",
-        "Edad": "",
+        "Edad": "19",
         "Nación": "Francia",
         "Altura": "190",
         "Peso": "87",
@@ -122,7 +122,7 @@
     {
         "Jugador": "Mats Hummels",
         "Nacimiento": "16.12.1988",
-        "Edad": "",
+        "Edad": "34",
         "Nación": "Alemania",
         "Altura": "191",
         "Peso": "94",
@@ -142,7 +142,7 @@
     {
         "Jugador": "Thomas Meunier",
         "Nacimiento": "12.09.1991",
-        "Edad": "",
+        "Edad": "31",
         "Nación": "Bélgica",
         "Altura": "191",
         "Peso": "90",
@@ -162,7 +162,7 @@
     {
         "Jugador": "Mateu Morey",
         "Nacimiento": "02.03.2000",
-        "Edad": "",
+        "Edad": "23",
         "Nación": "España",
         "Altura": "173",
         "Peso": "67",
@@ -182,7 +182,7 @@
     {
         "Jugador": "Antonios Papadopoulos",
         "Nacimiento": "10.09.1999",
-        "Edad": "",
+        "Edad": "23",
         "Nación": "Alemania",
         "Altura": "185",
         "Peso": "83",
@@ -202,7 +202,7 @@
     {
         "Jugador": "Julian Ryerson",
         "Nacimiento": "17.11.1997",
-        "Edad": "",
+        "Edad": "25",
         "Nación": "Noruega",
         "Altura": "183",
         "Peso": "81",
@@ -222,7 +222,7 @@
     {
         "Jugador": "Nico Schlotterbeck",
         "Nacimiento": "01.12.1999",
-        "Edad": "",
+        "Edad": "23",
         "Nación": "Alemania",
         "Altura": "191",
         "Peso": "89",
@@ -242,7 +242,7 @@
     {
         "Jugador": "Niklas Süle",
         "Nacimiento": "03.09.1995",
-        "Edad": "",
+        "Edad": "27",
         "Nación": "Alemania",
         "Altura": "195",
         "Peso": "99",
@@ -262,7 +262,7 @@
     {
         "Jugador": "Julian Brandt",
         "Nacimiento": "02.05.1996",
-        "Edad": "",
+        "Edad": "27",
         "Nación": "Alemania",
         "Altura": "185",
         "Peso": "83",
@@ -282,7 +282,7 @@
     {
         "Jugador": "Emre Can",
         "Nacimiento": "12.01.1994",
-        "Edad": "",
+        "Edad": "29",
         "Nación": "Alemania",
         "Altura": "186",
         "Peso": "86",
@@ -302,7 +302,7 @@
     {
         "Jugador": "Thorgan Hazard",
         "Nacimiento": "29.03.1993",
-        "Edad": "",
+        "Edad": "30",
         "Nación": "Bélgica",
         "Altura": "175",
         "Peso": "68",
@@ -322,7 +322,7 @@
     {
         "Jugador": "Abdoulaye Kamara",
         "Nacimiento": "06.11.2004",
-        "Edad": "",
+        "Edad": "18",
         "Nación": "Guinea",
         "Altura": "183",
         "Peso": "82",
@@ -342,7 +342,7 @@
     {
         "Jugador": "Felix Nmecha",
         "Nacimiento": "10.10.2000",
-        "Edad": "",
+        "Edad": "22",
         "Nación": "Alemania",
         "Altura": "188",
         "Peso": "73",
@@ -362,7 +362,7 @@
     {
         "Jugador": "Salih Özcan",
         "Nacimiento": "11.01.1998",
-        "Edad": "",
+        "Edad": "25",
         "Nación": "Turquía",
         "Altura": "182",
         "Peso": "75",
@@ -382,7 +382,7 @@
     {
         "Jugador": "Ole Pohlmann",
         "Nacimiento": "05.04.2001",
-        "Edad": "",
+        "Edad": "22",
         "Nación": "Alemania",
         "Altura": "183",
         "Peso": "80",
@@ -402,7 +402,7 @@
     {
         "Jugador": "Marco Reus",
         "Nacimiento": "31.05.1989",
-        "Edad": "",
+        "Edad": "34",
         "Nación": "Alemania",
         "Altura": "180",
         "Peso": "71",
@@ -422,7 +422,7 @@
     {
         "Jugador": "Giovanni Reyna",
         "Nacimiento": "13.11.2002",
-        "Edad": "",
+        "Edad": "20",
         "Nación": "Estados Unidos",
         "Altura": "185",
         "Peso": "79",
@@ -442,7 +442,7 @@
     {
         "Jugador": "Marcel Sabitzer",
         "Nacimiento": "17.03.1994",
-        "Edad": "",
+        "Edad": "29",
         "Nación": "Austria",
         "Altura": "178",
         "Peso": "76",
@@ -462,7 +462,7 @@
     {
         "Jugador": "Marius Wolf",
         "Nacimiento": "27.05.1995",
-        "Edad": "",
+        "Edad": "28",
         "Nación": "Alemania",
         "Altura": "188",
         "Peso": "81",
@@ -482,7 +482,7 @@
     {
         "Jugador": "Karim Adeyemi",
         "Nacimiento": "18.01.2002",
-        "Edad": "",
+        "Edad": "21",
         "Nación": "Alemania",
         "Altura": "180",
         "Peso": "75",
@@ -502,7 +502,7 @@
     {
         "Jugador": "Jamie Bynoe-Gittens",
         "Nacimiento": "08.08.2004",
-        "Edad": "",
+        "Edad": "18",
         "Nación": "Inglaterra",
         "Altura": "175",
         "Peso": "75",
@@ -522,7 +522,7 @@
     {
         "Jugador": "Julien Duranville",
         "Nacimiento": "05.05.2006",
-        "Edad": "",
+        "Edad": "17",
         "Nación": "Bélgica",
         "Altura": "170",
         "Peso": "59",
@@ -542,7 +542,7 @@
     {
         "Jugador": "Sebastien Haller",
         "Nacimiento": "22.06.1994",
-        "Edad": "",
+        "Edad": "29",
         "Nación": "Costa de Marfil",
         "Altura": "190",
         "Peso": "91",
@@ -562,7 +562,7 @@
     {
         "Jugador": "Donyell Malen",
         "Nacimiento": "19.01.1999",
-        "Edad": "",
+        "Edad": "24",
         "Nación": "Países Bajos",
         "Altura": "176",
         "Peso": "68",
@@ -582,7 +582,7 @@
     {
         "Jugador": "Youssoufa Moukoko",
         "Nacimiento": "20.11.2004",
-        "Edad": "",
+        "Edad": "18",
         "Nación": "Alemania",
         "Altura": "179",
         "Peso": "72",

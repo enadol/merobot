@@ -28,7 +28,7 @@ vereinslos=["Max Kruse"]
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
 #Bor Mönchengladbach para Gladbach
-club="1 FC Koeln"
+club="Borussia Dortmund"
 torneo="2023-24"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -38,7 +38,7 @@ klassnation=["kick__vita__header__person-detail-kvpair--nation"]
 klasscompfilter=["kick__vita__liglog"]
 klasstrikot=["kick__player__number"]
 klasslaender=["kick__bubble__prime"]
-
+klassages=["kick__table-small-txt"]
 def modPlayer(player):
     playerdef=""
     if(player in revert):
@@ -182,6 +182,7 @@ for knombre in kader:
     
        
     soup = BeautifulSoup(content, 'html.parser')
+    ages=soup.find_all("span", attrs={"class": klassages})
     dates=soup.find_all("div", attrs={"class": klassvita})
     desde=soup.find_all("span", attrs={"class": klassfrom})
     pastclub=soup.find_all("a", attrs={"class": klasspastclub})
@@ -207,11 +208,12 @@ for knombre in kader:
     
     
     if(knombre in vereinslos):
-       age="35"
+       age=""
        ageinclub=""
        vertrag=""
     else:
-        age=dates[1].text.split(" ")[45][1:3]     
+        age=ages[0].text[1:3]
+        #age=dates[1].text.split(" ")[45][1:3]     
         if len(desde)>=2:
             ageinclub=desde[0].text
             vertrag=desde[1].text
