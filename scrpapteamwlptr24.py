@@ -19,8 +19,9 @@ team=[]
 nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias"]
 #player="Sadio Mane"
 brasilexceptions=["Paulinho", "Aaron"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
+sextuples=["Andreas Müller"]
 exclude=["Michael Langer", "Alexander Nübel", "Malik Tillman"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse"]
@@ -28,7 +29,7 @@ vereinslos=["Max Kruse"]
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
 #Bor Mönchengladbach para Gladbach
-club="Borussia Dortmund"
+club="SV Darmstadt 98"
 torneo="2023-24"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -39,13 +40,14 @@ klasscompfilter=["kick__vita__liglog"]
 klasstrikot=["kick__player__number"]
 klasslaender=["kick__bubble__prime"]
 klassages=["kick__table-small-txt"]
+
 def modPlayer(player):
     playerdef=""
     if(player in revert):
         partido=player.split(" ")
         vorname=partido[1]
         nachname=partido[0]
-        player=vorname+" "+nachname
+        player=f"{vorname} {nachname}"
 
     playerlow=player.lower()
     playerminus=playerlow.replace(" ", "-")
@@ -69,10 +71,10 @@ def modPlayer(player):
     
     return playerdef
 
-def find_indices(ltc, itf):
-    array=np.array(ltc)
-    indices=np.where(array == itf)[0]
-    return list(indices)
+#def find_indices(ltc, itf):
+ #   array=np.array(ltc)
+  #  indices=np.where(array == itf)[0]
+  #  return list(indices)
 
 club3=modPlayer(club)
 
@@ -98,7 +100,7 @@ for nombre in kadernames:
             partido=apellido.split(" ")
             vorname=partido[0]
             nachname=partido[1]
-            kader.append(vorname+" "+nachname)
+            kader.append(f"{vorname} {nachname}")
         else:
             nombres=nombre.find("span")
             if( nombres is not None):
@@ -109,24 +111,24 @@ for nombre in kadernames:
         if(apellido in brasilexceptions):
             vorname=apellido
             nachname=" "
-            kader.append(vorname+" "+nachname)
+            kader.append(f"{vorname} {nachname}")
         
         if(apellido=="Silas"):
             vorname=apellido
             nachname="Katompa Mvumpa"
-            kader.append(vorname+" "+nachname)
+            kader.append(f"{vorname} {nachname}")
 
         if(apellido=="Jordan"):
             if(club=="1 FC Union Berlin"):
                 vorname=apellido
                 nachname="Siebatcheu"
-                kader.append(vorname+" "+nachname)
+                kader.append(f"{vorname} {nachname}")
         
         if(apellido=="Tuta"):
 #            if(club=="1 FC Union Berlin"):
             vorname="Lucas"
             nachname="Silva Melo"
-            kader.append(vorname+" "+nachname)
+            kader.append(f"{vorname} {nachname}")
 
                 
         #     vorname="Joseph"
@@ -136,13 +138,17 @@ for nombre in kadernames:
 for knombre in kader:
     player3=modPlayer(knombre)
     if(knombre in duplicates):
-        player3=player3+"-2"
+        player3=f"{player3}-2"
     
     if(knombre in triplicates):
-        player3=player3+"-3"
+        player3=f"{player3}-3"
+        
+    if(knombre in sextuples):
+        player3=f"{player3}-6"
+
         
     if("Perea" in knombre):
-        player3=player3+"-mendoza"
+        player3=f"{player3}-mendoza"
         
     if("Paulinho" in knombre):
         player3=knombre.strip()+"-12"
@@ -151,7 +157,7 @@ for knombre in kader:
         player3="aaron-2"
         
     if(knombre=="Kelian Nsona"):
-        player3=player3+"-wa-saka"
+        player3=f"{player3}-wa-saka"
     
     if(knombre=="Vasilios Lampropoulos"):
         player3="vassilis-lampropoulos"
