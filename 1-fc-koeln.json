@@ -40,6 +40,26 @@
         "Selección": "No"
     },
     {
+        "Jugador": "Philipp Pentke",
+        "Nacimiento": "01.05.1985",
+        "Edad": "38",
+        "Nación": "Alemania",
+        "Altura": "191",
+        "Peso": "84",
+        "PJ": "0",
+        "Goles": "0",
+        "Asistencias": "0",
+        "TA": "0",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "01.08.2023",
+        "De": "TSG Hoffenheim",
+        "BL": "8",
+        "Número": "20",
+        "Contrato": "30.06.2024",
+        "Selección": "No"
+    },
+    {
         "Jugador": "Marvin Schwäbe",
         "Nacimiento": "25.04.1995",
         "Edad": "28",
@@ -77,6 +97,26 @@
         "BL": "55",
         "Número": "1",
         "Contrato": "30.06.2027",
+        "Selección": "No"
+    },
+    {
+        "Jugador": "Rasmus Carstensen",
+        "Nacimiento": "10.11.2000",
+        "Edad": "22",
+        "Nación": "Dinamarca",
+        "Altura": "183",
+        "Peso": "75",
+        "PJ": "0",
+        "Goles": "0",
+        "Asistencias": "0",
+        "TA": "0",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "04.08.2023",
+        "De": "KRC Genk",
+        "BL": "0",
+        "Número": "18",
+        "Contrato": "30.06.2024",
         "Selección": "No"
     },
     {
@@ -135,7 +175,7 @@
         "Desde": "01.07.2023",
         "De": "Hamburger SV",
         "BL": "0",
-        "Número": "0",
+        "Número": "30",
         "Contrato": "N.D.",
         "Selección": "No"
     },
@@ -182,7 +222,7 @@
     {
         "Jugador": "Kristian Pedersen",
         "Nacimiento": "04.08.1994",
-        "Edad": "28",
+        "Edad": "29",
         "Nación": "Dinamarca",
         "Altura": "189",
         "Peso": "80",
@@ -482,7 +522,7 @@
     {
         "Jugador": "Florian Dietz",
         "Nacimiento": "03.08.1998",
-        "Edad": "24",
+        "Edad": "25",
         "Nación": "Alemania",
         "Altura": "190",
         "Peso": "83",
