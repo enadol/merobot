@@ -6,7 +6,7 @@ Created on Mon May  9 18:47:36 2022
 """
 import requests
 from bs4 import BeautifulSoup
-import numpy as np
+#import numpy as np
 import codecs
 import json
 import translators as ts
@@ -16,10 +16,10 @@ vornamen=[]
 nachnamen=[]
 kader=[]
 team=[]
-nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias"]
+nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias","Fabio Carvalho"]
 #player="Sadio Mane"
 brasilexceptions=["Paulinho", "Aaron"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 sextuples=["Andreas Müller"]
 exclude=["Michael Langer", "Alexander Nübel", "Malik Tillman"]
