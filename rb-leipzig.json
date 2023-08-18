@@ -2,7 +2,7 @@
     {
         "Jugador": "Janis Blaswich",
         "Nacimiento": "02.05.1991",
-        "Edad": "",
+        "Edad": "32",
         "Nación": "Alemania",
         "Altura": "193",
         "Peso": "89",
@@ -22,7 +22,7 @@
     {
         "Jugador": "Peter Gulacsi",
         "Nacimiento": "06.05.1990",
-        "Edad": "",
+        "Edad": "33",
         "Nación": "Hungría",
         "Altura": "191",
         "Peso": "86",
@@ -42,7 +42,7 @@
     {
         "Jugador": "Timo Schlieck",
         "Nacimiento": "02.03.2006",
-        "Edad": "",
+        "Edad": "17",
         "Nación": "Alemania",
         "Altura": "193",
         "Peso": "82",
@@ -62,7 +62,7 @@
     {
         "Jugador": "Leopold Zingerle",
         "Nacimiento": "10.04.1994",
-        "Edad": "",
+        "Edad": "29",
         "Nación": "Alemania",
         "Altura": "185",
         "Peso": "78",
@@ -82,7 +82,7 @@
     {
         "Jugador": "El Chadaille Bitshiabu",
         "Nacimiento": "16.05.2005",
-        "Edad": "",
+        "Edad": "18",
         "Nación": "Francia",
         "Altura": "196",
         "Peso": "100",
@@ -100,29 +100,9 @@
         "Selección": "No"
     },
     {
-        "Jugador": "Josko Gvardiol",
-        "Nacimiento": "23.01.2002",
-        "Edad": "",
-        "Nación": "Croacia",
-        "Altura": "185",
-        "Peso": "80",
-        "PJ": "30",
-        "Goles": "1",
-        "Asistencias": "0",
-        "TA": "2",
-        "TAR": "0",
-        "TR": "0",
-        "Desde": "01.07.2021",
-        "De": "Dinamo Zagreb",
-        "BL": "59",
-        "Número": "32",
-        "Contrato": "30.06.2027",
-        "Selección": "21"
-    },
-    {
         "Jugador": "Benjamin Henrichs",
         "Nacimiento": "23.02.1997",
-        "Edad": "",
+        "Edad": "26",
         "Nación": "Alemania",
         "Altura": "185",
         "Peso": "79",
@@ -140,29 +120,9 @@
         "Selección": "10"
     },
     {
-        "Jugador": "Frederik Jäkel",
-        "Nacimiento": "07.03.2001",
-        "Edad": "",
-        "Nación": "Alemania",
-        "Altura": "194",
-        "Peso": "84",
-        "PJ": "0",
-        "Goles": "0",
-        "Asistencias": "0",
-        "TA": "0",
-        "TAR": "0",
-        "TR": "0",
-        "Desde": "01.07.2023",
-        "De": "Arminia Bielefeld",
-        "BL": "0",
-        "Número": "0",
-        "Contrato": "N.D.",
-        "Selección": "No"
-    },
-    {
         "Jugador": "Lukas Klostermann",
         "Nacimiento": "03.06.1996",
-        "Edad": "",
+        "Edad": "27",
         "Nación": "Alemania",
         "Altura": "189",
         "Peso": "88",
@@ -180,9 +140,29 @@
         "Selección": "22"
     },
     {
+        "Jugador": "Castello Lukeba",
+        "Nacimiento": "17.12.2002",
+        "Edad": "20",
+        "Nación": "Francia",
+        "Altura": "184",
+        "Peso": "73",
+        "PJ": "0",
+        "Goles": "0",
+        "Asistencias": "0",
+        "TA": "0",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "11.08.2023",
+        "De": "Olympique Lyon",
+        "BL": "0",
+        "Número": "23",
+        "Contrato": "30.06.2028",
+        "Selección": "No"
+    },
+    {
         "Jugador": "Willi Orban",
         "Nacimiento": "03.11.1992",
-        "Edad": "",
+        "Edad": "30",
         "Nación": "Hungría",
         "Altura": "186",
         "Peso": "88",
@@ -202,7 +182,7 @@
     {
         "Jugador": "David Raum",
         "Nacimiento": "22.04.1998",
-        "Edad": "",
+        "Edad": "25",
         "Nación": "Alemania",
         "Altura": "180",
         "Peso": "75",
@@ -222,7 +202,7 @@
     {
         "Jugador": "Mohamed Simakan",
         "Nacimiento": "03.05.2000",
-        "Edad": "",
+        "Edad": "23",
         "Nación": "Francia",
         "Altura": "187",
         "Peso": "82",
@@ -242,7 +222,7 @@
     {
         "Jugador": "Christoph Baumgartner",
         "Nacimiento": "01.08.1999",
-        "Edad": "",
+        "Edad": "24",
         "Nación": "Austria",
         "Altura": "180",
         "Peso": "73",
@@ -262,7 +242,7 @@
     {
         "Jugador": "Caden Clark",
         "Nacimiento": "27.05.2003",
-        "Edad": "",
+        "Edad": "20",
         "Nación": "Estados Unidos",
         "Altura": "180",
         "Peso": "72",
@@ -282,7 +262,7 @@
     {
         "Jugador": "Dani Olmo",
         "Nacimiento": "07.05.1998",
-        "Edad": "",
+        "Edad": "25",
         "Nación": "España",
         "Altura": "179",
         "Peso": "72",
@@ -302,7 +282,7 @@
     {
         "Jugador": "Emil Forsberg",
         "Nacimiento": "23.10.1991",
-        "Edad": "",
+        "Edad": "31",
         "Nación": "Suecia",
         "Altura": "177",
         "Peso": "76",
@@ -322,7 +302,7 @@
     {
         "Jugador": "Amadou Haidara",
         "Nacimiento": "31.01.1998",
-        "Edad": "",
+        "Edad": "25",
         "Nación": "Malí",
         "Altura": "175",
         "Peso": "72",
@@ -342,7 +322,7 @@
     {
         "Jugador": "Kevin Kampl",
         "Nacimiento": "09.10.1990",
-        "Edad": "",
+        "Edad": "32",
         "Nación": "Eslovenia",
         "Altura": "178",
         "Peso": "66",
@@ -362,7 +342,7 @@
     {
         "Jugador": "Xaver Schlager",
         "Nacimiento": "28.09.1997",
-        "Edad": "",
+        "Edad": "25",
         "Nación": "Austria",
         "Altura": "174",
         "Peso": "78",
@@ -382,7 +362,7 @@
     {
         "Jugador": "Nicolas Seiwald",
         "Nacimiento": "04.05.2001",
-        "Edad": "",
+        "Edad": "22",
         "Nación": "Austria",
         "Altura": "179",
         "Peso": "70",
@@ -402,7 +382,7 @@
     {
         "Jugador": "Xavi Simons",
         "Nacimiento": "21.04.2003",
-        "Edad": "",
+        "Edad": "20",
         "Nación": "Países Bajos",
         "Altura": "179",
         "Peso": "70",
@@ -422,7 +402,7 @@
     {
         "Jugador": "Hugo Novoa",
         "Nacimiento": "24.01.2003",
-        "Edad": "",
+        "Edad": "20",
         "Nación": "España",
         "Altura": "182",
         "Peso": "68",
@@ -442,7 +422,7 @@
     {
         "Jugador": "Lois Openda",
         "Nacimiento": "16.02.2000",
-        "Edad": "",
+        "Edad": "23",
         "Nación": "Bélgica",
         "Altura": "177",
         "Peso": "79",
@@ -462,7 +442,7 @@
     {
         "Jugador": "Yussuf Poulsen",
         "Nacimiento": "15.06.1994",
-        "Edad": "",
+        "Edad": "29",
         "Nación": "Dinamarca",
         "Altura": "192",
         "Peso": "84",
@@ -482,7 +462,7 @@
     {
         "Jugador": "Benjamin Sesko",
         "Nacimiento": "31.05.2003",
-        "Edad": "",
+        "Edad": "20",
         "Nación": "Eslovenia",
         "Altura": "195",
         "Peso": "87",
@@ -500,29 +480,9 @@
         "Selección": "21"
     },
     {
-        "Jugador": "André Silva",
-        "Nacimiento": "06.11.1995",
-        "Edad": "",
-        "Nación": "Portugal",
-        "Altura": "185",
-        "Peso": "82",
-        "PJ": "31",
-        "Goles": "4",
-        "Asistencias": "7",
-        "TA": "3",
-        "TAR": "0",
-        "TR": "0",
-        "Desde": "02.07.2021",
-        "De": "Eintracht Frankfurt",
-        "BL": "121",
-        "Número": "19",
-        "Contrato": "30.06.2026",
-        "Selección": "53"
-    },
-    {
         "Jugador": "Timo Werner",
         "Nacimiento": "06.03.1996",
-        "Edad": "",
+        "Edad": "27",
         "Nación": "Alemania",
         "Altura": "180",
         "Peso": "76",
