@@ -170,6 +170,9 @@ for knombre in kader:
         
     if(knombre=="Jan Schröder"):
         player3="jan-alex-wilson-schroeder"
+        
+    if(knombre=="Elias Bakatukanda"):
+        player3="elias-geoffrey-bakatukanda"
     
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
