@@ -29,7 +29,8 @@ vereinslos=["Max Kruse"]
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
 #Bor Mönchengladbach para Gladbach
-club="1 FC Köln"
+#Bayer 04 Leverkusen
+club="Bayer 04 Leverkusen"
 torneo="2023-24"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
