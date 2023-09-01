@@ -18,7 +18,7 @@ kader=[]
 team=[]
 nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias","Fabio Carvalho"]
 #player="Sadio Mane"
-brasilexceptions=["Paulinho", "Aaron"]
+brasilexceptions=["Paulinho", "Aaron", "Jordan"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 sextuples=["Andreas Müller"]
@@ -30,7 +30,7 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen
-club="Eintracht Frankfurt"
+club="Bor Mönchengladbach"
 torneo="2023-24"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -120,7 +120,7 @@ for nombre in kadernames:
             kader.append(f"{vorname} {nachname}")
 
         if(apellido=="Jordan"):
-            if(club=="1 FC Union Berlin"):
+            if(club=="Bor Moenchengladbach"):
                 vorname=apellido
                 nachname="Siebatcheu"
                 kader.append(f"{vorname} {nachname}")
