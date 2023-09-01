@@ -200,26 +200,6 @@
         "Selección": "24"
     },
     {
-        "Jugador": "Benjamin Pavard",
-        "Nacimiento": "28.03.1996",
-        "Edad": "27",
-        "Nación": "Francia",
-        "Altura": "186",
-        "Peso": "81",
-        "PJ": "0",
-        "Goles": "0",
-        "Asistencias": "0",
-        "TA": "0",
-        "TAR": "0",
-        "TR": "0",
-        "Desde": "01.07.2019",
-        "De": "VfB Stuttgart",
-        "BL": "174",
-        "Número": "5",
-        "Contrato": "30.06.2024",
-        "Selección": "No"
-    },
-    {
         "Jugador": "Bouna Sarr",
         "Nacimiento": "31.01.1992",
         "Edad": "31",
@@ -537,26 +517,6 @@
         "BL": "24",
         "Número": "39",
         "Contrato": "30.06.2027",
-        "Selección": "No"
-    },
-    {
-        "Jugador": "Gabriel Vidovic",
-        "Nacimiento": "01.12.2003",
-        "Edad": "19",
-        "Nación": "Croacia",
-        "Altura": "180",
-        "Peso": "76",
-        "PJ": "1",
-        "Goles": "0",
-        "Asistencias": "1",
-        "TA": "0",
-        "TAR": "0",
-        "TR": "0",
-        "Desde": "01.07.2023",
-        "De": "Vitesse Arnhem",
-        "BL": "4",
-        "Número": "32",
-        "Contrato": "N.D.",
         "Selección": "No"
     }
 ]
