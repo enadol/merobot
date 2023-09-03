@@ -20,3 +20,14 @@
         Bor. Mönchengladbach  0-3  Bayer 04 Leverkusen
         1. FSV Mainz 05  1-1  Eintracht Frankfurt
         Bayern München  3-1  FC Augsburg
+3. Spieltag
+[Fr. 1.9.]
+        Borussia Dortmund  2-2  1. FC Heidenheim
+        Bayer 04 Leverkusen  5-1  SV Darmstadt 98
+        TSG Hoffenheim  3-1  VfL Wolfsburg
+        Werder Bremen  4-0  1. FSV Mainz 05
+        FC Augsburg  2-2  VfL Bochum
+        VfB Stuttgart  5-0  SC Freiburg
+        Bor. Mönchengladbach  1-2  Bayern München
+        Eintracht Frankfurt  1-1  1. FC Köln
+        1. FC Union Berlin  0-3  RB Leipzig
