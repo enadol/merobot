@@ -30,7 +30,7 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen
-club="Eintracht Frankfurt"
+club="VfL Bochum"
 torneo="2023-24"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -174,6 +174,9 @@ for knombre in kader:
         
     if(knombre=="Elias Bakatukanda"):
         player3="elias-geoffrey-bakatukanda"
+        
+    if(knombre=="Moritz-Broni Kwarteng"):
+        player3="moritz-kwarteng"
     
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
