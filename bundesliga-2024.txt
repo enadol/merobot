@@ -42,3 +42,12 @@
         VfL Bochum  1-1  Eintracht Frankfurt
         1. FC Heidenheim  4-2  Werder Bremen
         SV Darmstadt 98  3-3  Bor. Mönchengladbach
+5. Spieltag
+[Fr. 22.9.]
+        VfB Stuttgart  3-1  SV Darmstadt 98
+        Bayern München  7-0  VfL Bochum
+        Borussia Dortmund  1-0  VfL Wolfsburg
+        1. FC Union Berlin  0-2  TSG Hoffenheim
+        Bor. Mönchengladbach  0-1  RB Leipzig
+        FC Augsburg  2-1  1. FSV Mainz 05
+        Werder Bremen  2-1  1. FC Köln
