@@ -37,7 +37,7 @@
         "BL": "203",
         "Número": "1",
         "Contrato": "30.06.2025",
-        "Selección": "No"
+        "Selección": "51"
     },
     {
         "Jugador": "Timo Schlieck",
@@ -137,7 +137,7 @@
         "BL": "148",
         "Número": "16",
         "Contrato": "30.06.2024",
-        "Selección": "No"
+        "Selección": "22"
     },
     {
         "Jugador": "Christopher Lenz",
@@ -362,7 +362,7 @@
     {
         "Jugador": "Xaver Schlager",
         "Nacimiento": "28.09.1997",
-        "Edad": "25",
+        "Edad": "26",
         "Nación": "Austria",
         "Altura": "174",
         "Peso": "78",
