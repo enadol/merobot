@@ -16,7 +16,7 @@ vornamen=[]
 nachnamen=[]
 kader=[]
 team=[]
-nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias","Fabio Carvalho"]
+nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias","Fabio Carvalho", "Ilaix Moriba"]
 #player="Sadio Mane"
 brasilexceptions=["Paulinho", "Aaron", "Jordan"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho"]
@@ -131,6 +131,10 @@ for nombre in kadernames:
             nachname="Silva Melo"
             kader.append(f"{vorname} {nachname}")
 
+        if(apellido=="Xavi"):
+            vorname=apellido
+            nachname="Simons"
+            kader.append(f"{vorname} {nachname}")
                 
         #     vorname="Joseph"
         #     nachname=apellido
@@ -177,6 +181,7 @@ for knombre in kader:
         
     if(knombre=="Moritz-Broni Kwarteng"):
         player3="moritz-kwarteng"
+        
     
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
