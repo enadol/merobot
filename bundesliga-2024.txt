@@ -64,3 +64,14 @@
         RB Leipzig  2-2  Bayern München
         SV Darmstadt 98  4-2  Werder Bremen
         SC Freiburg  2-0  FC Augsburg
+7. Spieltag
+[Fr. 6.10.]
+        Bor. Mönchengladbach  2-2  1. FSV Mainz 05
+        Borussia Dortmund  4-2  1. FC Union Berlin
+        RB Leipzig  0-0  VfL Bochum
+        FC Augsburg  1-2  SV Darmstadt 98
+        VfB Stuttgart  3-1  VfL Wolfsburg
+        Werder Bremen  2-3  TSG Hoffenheim
+        Bayer 04 Leverkusen  3-0  1. FC Köln
+        Bayern München  3-0  SC Freiburg
+        Eintracht Frankfurt  2-0  1. FC Heidenheim
