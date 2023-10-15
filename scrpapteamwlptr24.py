@@ -158,8 +158,8 @@ for knombre in kader:
     if("Paulinho" in knombre):
         player3=knombre.strip()+"-12"
     
-    if("Aaron" in knombre):
-        player3="aaron-2"
+    #if("Aaron" in knombre):
+      #  player3="aaron-2"
         
     if(knombre=="Kelian Nsona"):
         player3=f"{player3}-wa-saka"

@@ -157,7 +157,7 @@
         "BL": "7",
         "Número": "6",
         "Contrato": "30.06.2028",
-        "Selección": "18"
+        "Selección": "19"
     },
     {
         "Jugador": "Paul Jaeckel",
@@ -261,23 +261,23 @@
     },
     {
         "Jugador": "Brenden Aaronson",
-        "Nacimiento": "22.04.1997",
-        "Edad": "26",
-        "Nación": "España",
+        "Nacimiento": "22.10.2000",
+        "Edad": "22",
+        "Nación": "Estados Unidos",
         "Altura": "178",
-        "Peso": "70",
-        "PJ": "0",
+        "Peso": "68",
+        "PJ": "5",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
-        "TAR": "0",
+        "TAR": "1",
         "TR": "0",
-        "Desde": "03.07.2023",
-        "De": "1. FSV Mainz 05",
-        "BL": "0",
-        "Número": "3",
-        "Contrato": "N.D.",
-        "Selección": "No"
+        "Desde": "09.07.2023",
+        "De": "Leeds United",
+        "BL": "5",
+        "Número": "7",
+        "Contrato": "30.06.2024",
+        "Selección": "35"
     },
     {
         "Jugador": "Laurenz Dehl",
@@ -477,7 +477,7 @@
         "BL": "64",
         "Número": "17",
         "Contrato": "30.06.2024",
-        "Selección": "No"
+        "Selección": "0"
     },
     {
         "Jugador": "David Datro Fofana",
