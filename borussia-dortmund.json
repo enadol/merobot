@@ -6,7 +6,7 @@
         "Nación": "Suiza",
         "Altura": "195",
         "Peso": "88",
-        "PJ": "7",
+        "PJ": "8",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -14,7 +14,7 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "VfB Stuttgart",
-        "BL": "113",
+        "BL": "114",
         "Número": "1",
         "Contrato": "30.06.2028",
         "Selección": "5"
@@ -86,7 +86,7 @@
         "Nación": "Argelia",
         "Altura": "186",
         "Peso": "82",
-        "PJ": "6",
+        "PJ": "7",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "2",
@@ -94,10 +94,10 @@
         "TR": "0",
         "Desde": "01.07.2023",
         "De": "Bor. Mönchengladbach",
-        "BL": "101",
+        "BL": "102",
         "Número": "5",
         "Contrato": "30.06.2027",
-        "Selección": "55"
+        "Selección": "57"
     },
     {
         "Jugador": "Mats Hummels",
@@ -106,7 +106,7 @@
         "Nación": "Alemania",
         "Altura": "191",
         "Peso": "94",
-        "PJ": "6",
+        "PJ": "7",
         "Goles": "2",
         "Asistencias": "0",
         "TA": "2",
@@ -114,10 +114,10 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "Bayern München",
-        "BL": "423",
+        "BL": "424",
         "Número": "15",
         "Contrato": "30.06.2024",
-        "Selección": "76"
+        "Selección": "77"
     },
     {
         "Jugador": "Thomas Meunier",
@@ -186,7 +186,7 @@
         "Nación": "Noruega",
         "Altura": "183",
         "Peso": "81",
-        "PJ": "5",
+        "PJ": "6",
         "Goles": "2",
         "Asistencias": "0",
         "TA": "0",
@@ -194,10 +194,10 @@
         "TR": "0",
         "Desde": "17.01.2023",
         "De": "1. FC Union Berlin",
-        "BL": "101",
+        "BL": "102",
         "Número": "26",
         "Contrato": "30.06.2026",
-        "Selección": "19"
+        "Selección": "21"
     },
     {
         "Jugador": "Nico Schlotterbeck",
@@ -206,7 +206,7 @@
         "Nación": "Alemania",
         "Altura": "191",
         "Peso": "89",
-        "PJ": "6",
+        "PJ": "7",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "0",
@@ -214,7 +214,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "SC Freiburg",
-        "BL": "99",
+        "BL": "100",
         "Número": "4",
         "Contrato": "30.06.2027",
         "Selección": "11"
@@ -237,7 +237,7 @@
         "BL": "256",
         "Número": "25",
         "Contrato": "30.06.2026",
-        "Selección": "47"
+        "Selección": "49"
     },
     {
         "Jugador": "Julian Brandt",
@@ -246,18 +246,18 @@
         "Nación": "Alemania",
         "Altura": "185",
         "Peso": "83",
-        "PJ": "7",
-        "Goles": "2",
+        "PJ": "8",
+        "Goles": "3",
         "Asistencias": "4",
         "TA": "0",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "Bayer 04 Leverkusen",
-        "BL": "299",
+        "BL": "300",
         "Número": "19",
         "Contrato": "30.06.2026",
-        "Selección": "44"
+        "Selección": "45"
     },
     {
         "Jugador": "Emre Can",
@@ -266,15 +266,15 @@
         "Nación": "Alemania",
         "Altura": "186",
         "Peso": "86",
-        "PJ": "7",
+        "PJ": "8",
         "Goles": "1",
-        "Asistencias": "1",
+        "Asistencias": "2",
         "TA": "3",
         "TAR": "0",
         "TR": "0",
         "Desde": "31.01.2020",
         "De": "Juventus Turin",
-        "BL": "131",
+        "BL": "132",
         "Número": "23",
         "Contrato": "30.06.2026",
         "Selección": "43"
@@ -302,19 +302,19 @@
     {
         "Jugador": "Felix Nmecha",
         "Nacimiento": "10.10.2000",
-        "Edad": "22",
+        "Edad": "23",
         "Nación": "Alemania",
         "Altura": "188",
         "Peso": "73",
-        "PJ": "7",
+        "PJ": "8",
         "Goles": "0",
         "Asistencias": "2",
-        "TA": "1",
+        "TA": "2",
         "TAR": "0",
         "TR": "0",
         "Desde": "03.07.2023",
         "De": "VfL Wolfsburg",
-        "BL": "53",
+        "BL": "54",
         "Número": "8",
         "Contrato": "30.06.2028",
         "Selección": "1"
@@ -337,7 +337,7 @@
         "BL": "125",
         "Número": "6",
         "Contrato": "30.06.2026",
-        "Selección": "12"
+        "Selección": "14"
     },
     {
         "Jugador": "Ole Pohlmann",
@@ -366,7 +366,7 @@
         "Nación": "Alemania",
         "Altura": "180",
         "Peso": "71",
-        "PJ": "5",
+        "PJ": "6",
         "Goles": "3",
         "Asistencias": "3",
         "TA": "1",
@@ -374,7 +374,7 @@
         "TR": "0",
         "Desde": "01.07.2012",
         "De": "Bor. Mönchengladbach",
-        "BL": "370",
+        "BL": "371",
         "Número": "11",
         "Contrato": "30.06.2024",
         "Selección": "48"
@@ -386,7 +386,7 @@
         "Nación": "Estados Unidos",
         "Altura": "185",
         "Peso": "79",
-        "PJ": "1",
+        "PJ": "2",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -394,7 +394,7 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "New York City FC",
-        "BL": "80",
+        "BL": "81",
         "Número": "7",
         "Contrato": "30.06.2025",
         "Selección": "No"
@@ -406,7 +406,7 @@
         "Nación": "Austria",
         "Altura": "178",
         "Peso": "76",
-        "PJ": "4",
+        "PJ": "5",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -414,10 +414,10 @@
         "TR": "0",
         "Desde": "24.07.2023",
         "De": "Bayern München",
-        "BL": "189",
+        "BL": "190",
         "Número": "20",
         "Contrato": "30.06.2027",
-        "Selección": "73"
+        "Selección": "75"
     },
     {
         "Jugador": "Marius Wolf",
@@ -426,7 +426,7 @@
         "Nación": "Alemania",
         "Altura": "188",
         "Peso": "81",
-        "PJ": "6",
+        "PJ": "7",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -434,7 +434,7 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "1. FC Köln",
-        "BL": "159",
+        "BL": "160",
         "Número": "17",
         "Contrato": "30.06.2024",
         "Selección": "5"
@@ -446,7 +446,7 @@
         "Nación": "Alemania",
         "Altura": "180",
         "Peso": "75",
-        "PJ": "5",
+        "PJ": "6",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -454,7 +454,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "RB Salzburg",
-        "BL": "29",
+        "BL": "30",
         "Número": "27",
         "Contrato": "30.06.2027",
         "Selección": "4"
@@ -506,7 +506,7 @@
         "Nación": "Alemania",
         "Altura": "189",
         "Peso": "84",
-        "PJ": "7",
+        "PJ": "8",
         "Goles": "2",
         "Asistencias": "1",
         "TA": "0",
@@ -514,10 +514,10 @@
         "TR": "0",
         "Desde": "31.08.2023",
         "De": "Werder Bremen",
-        "BL": "133",
+        "BL": "134",
         "Número": "14",
         "Contrato": "30.06.2026",
-        "Selección": "9"
+        "Selección": "11"
     },
     {
         "Jugador": "Sebastien Haller",
@@ -526,7 +526,7 @@
         "Nación": "Costa de Marfil",
         "Altura": "190",
         "Peso": "91",
-        "PJ": "7",
+        "PJ": "8",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -534,7 +534,7 @@
         "TR": "0",
         "Desde": "06.07.2022",
         "De": "Ajax Amsterdam",
-        "BL": "86",
+        "BL": "87",
         "Número": "9",
         "Contrato": "30.06.2026",
         "Selección": "No"
@@ -546,7 +546,7 @@
         "Nación": "Países Bajos",
         "Altura": "176",
         "Peso": "68",
-        "PJ": "7",
+        "PJ": "8",
         "Goles": "3",
         "Asistencias": "1",
         "TA": "1",
@@ -554,10 +554,10 @@
         "TR": "0",
         "Desde": "27.07.2021",
         "De": "PSV Eindhoven",
-        "BL": "60",
+        "BL": "61",
         "Número": "21",
         "Contrato": "30.06.2026",
-        "Selección": "24"
+        "Selección": "26"
     },
     {
         "Jugador": "Youssoufa Moukoko",
