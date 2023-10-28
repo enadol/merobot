@@ -182,6 +182,8 @@ for knombre in kader:
     if(knombre=="Moritz-Broni Kwarteng"):
         player3="moritz-kwarteng"
         
+    if(knombre=="Madi Monamay"):
+        player3="madi-monomay"
     
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
