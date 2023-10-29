@@ -95,3 +95,5 @@
         FC Augsburg  3-2  VfL Wolfsburg
         VfB Stuttgart  2-3  TSG Hoffenheim
         RB Leipzig  6-0  1. FC Köln
+        Eintracht Frankfurt  3-3  Borussia Dortmund
+        Bayer 04 Leverkusen  2-1  SC Freiburg
