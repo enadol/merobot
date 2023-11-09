@@ -30,7 +30,7 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
-club="SC Freiburg"
+club="SV Darmstadt 98"
 torneo="2023-24"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -184,6 +184,9 @@ for knombre in kader:
         
     if(knombre=="Madi Monamay"):
         player3="madi-monomay"
+        
+    if(knombre == "Thomas Isherwood"):
+        player3="thomas-poppler-isherwood"
     
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
