@@ -30,7 +30,7 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
-club="VfB Stuttgart"
+club="Eintracht Frankfurt"
 torneo="2023-24"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -187,6 +187,9 @@ for knombre in kader:
         
     if(knombre == "Thomas Isherwood"):
         player3="thomas-poppler-isherwood"
+        
+    if(knombre== "Willian Pacho"):
+        player3="william-pacho"
     
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
