@@ -119,3 +119,14 @@
         Bayer 04 Leverkusen  4-0  1. FC Union Berlin
         Werder Bremen  2-2  Eintracht Frankfurt
         RB Leipzig  3-1  SC Freiburg
+12. Spieltag
+[Fr. 24.11.]
+        1. FC Köln  0-1  Bayern München
+        Borussia Dortmund  4-2  Bor. Mönchengladbach
+        1. FC Union Berlin  1-1  FC Augsburg
+        SC Freiburg  1-1  SV Darmstadt 98
+        VfL Wolfsburg  2-1  RB Leipzig
+        Werder Bremen  0-3  Bayer 04 Leverkusen
+        Eintracht Frankfurt  1-2  VfB Stuttgart
+        1. FC Heidenheim  0-0  VfL Bochum
+        TSG Hoffenheim  1-1  1. FSV Mainz 05
