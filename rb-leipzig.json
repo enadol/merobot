@@ -6,7 +6,7 @@
         "Nación": "Alemania",
         "Altura": "193",
         "Peso": "89",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -14,10 +14,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "Heracles Almelo",
-        "BL": "37",
+        "BL": "38",
         "Número": "21",
         "Contrato": "30.06.2026",
-        "Selección": "No"
+        "Selección": "0"
     },
     {
         "Jugador": "Peter Gulacsi",
@@ -106,7 +106,7 @@
         "Nación": "Alemania",
         "Altura": "185",
         "Peso": "79",
-        "PJ": "10",
+        "PJ": "11",
         "Goles": "1",
         "Asistencias": "3",
         "TA": "1",
@@ -114,10 +114,10 @@
         "TR": "0",
         "Desde": "15.07.2020",
         "De": "AS Monaco",
-        "BL": "137",
+        "BL": "138",
         "Número": "39",
         "Contrato": "30.06.2025",
-        "Selección": "11"
+        "Selección": "13"
     },
     {
         "Jugador": "Lukas Klostermann",
@@ -166,7 +166,7 @@
         "Nación": "Francia",
         "Altura": "184",
         "Peso": "73",
-        "PJ": "10",
+        "PJ": "11",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "2",
@@ -174,7 +174,7 @@
         "TR": "0",
         "Desde": "11.08.2023",
         "De": "Olympique Lyon",
-        "BL": "10",
+        "BL": "11",
         "Número": "23",
         "Contrato": "30.06.2028",
         "Selección": "No"
@@ -206,7 +206,7 @@
         "Nación": "Alemania",
         "Altura": "180",
         "Peso": "75",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "2",
         "Asistencias": "2",
         "TA": "2",
@@ -214,7 +214,7 @@
         "TR": "0",
         "Desde": "31.07.2022",
         "De": "TSG Hoffenheim",
-        "BL": "71",
+        "BL": "72",
         "Número": "22",
         "Contrato": "30.06.2027",
         "Selección": "19"
@@ -226,7 +226,7 @@
         "Nación": "Francia",
         "Altura": "187",
         "Peso": "82",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "2",
@@ -234,7 +234,7 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "Racing Straßburg",
-        "BL": "63",
+        "BL": "64",
         "Número": "2",
         "Contrato": "30.06.2027",
         "Selección": "No"
@@ -246,7 +246,7 @@
         "Nación": "Austria",
         "Altura": "180",
         "Peso": "73",
-        "PJ": "10",
+        "PJ": "11",
         "Goles": "2",
         "Asistencias": "3",
         "TA": "1",
@@ -254,10 +254,10 @@
         "TR": "0",
         "Desde": "01.07.2023",
         "De": "TSG Hoffenheim",
-        "BL": "131",
+        "BL": "132",
         "Número": "14",
         "Contrato": "30.06.2028",
-        "Selección": "32"
+        "Selección": "34"
     },
     {
         "Jugador": "Dani Olmo",
@@ -286,7 +286,7 @@
         "Nación": "Portugal",
         "Altura": "170",
         "Peso": "62",
-        "PJ": "6",
+        "PJ": "7",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -294,7 +294,7 @@
         "TR": "0",
         "Desde": "01.07.2023",
         "De": "FC Liverpool",
-        "BL": "6",
+        "BL": "7",
         "Número": "18",
         "Contrato": "N.D.",
         "Selección": "No"
@@ -306,7 +306,7 @@
         "Nación": "Suecia",
         "Altura": "177",
         "Peso": "76",
-        "PJ": "9",
+        "PJ": "10",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "0",
@@ -314,10 +314,10 @@
         "TR": "0",
         "Desde": "07.01.2015",
         "De": "Malmö FF",
-        "BL": "192",
+        "BL": "193",
         "Número": "10",
         "Contrato": "30.06.2025",
-        "Selección": "84"
+        "Selección": "86"
     },
     {
         "Jugador": "Amadou Haidara",
@@ -326,7 +326,7 @@
         "Nación": "Malí",
         "Altura": "175",
         "Peso": "72",
-        "PJ": "5",
+        "PJ": "6",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -334,10 +334,10 @@
         "TR": "0",
         "Desde": "01.01.2019",
         "De": "RB Salzburg",
-        "BL": "115",
+        "BL": "116",
         "Número": "8",
         "Contrato": "30.06.2025",
-        "Selección": "35"
+        "Selección": "36"
     },
     {
         "Jugador": "Ilaix Moriba",
@@ -386,7 +386,7 @@
         "Nación": "Austria",
         "Altura": "174",
         "Peso": "78",
-        "PJ": "10",
+        "PJ": "11",
         "Goles": "0",
         "Asistencias": "1",
         "TA": "1",
@@ -394,10 +394,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "VfL Wolfsburg",
-        "BL": "101",
+        "BL": "102",
         "Número": "24",
         "Contrato": "30.06.2026",
-        "Selección": "39"
+        "Selección": "41"
     },
     {
         "Jugador": "Nicolas Seiwald",
@@ -406,7 +406,7 @@
         "Nación": "Austria",
         "Altura": "179",
         "Peso": "70",
-        "PJ": "4",
+        "PJ": "5",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -414,10 +414,10 @@
         "TR": "0",
         "Desde": "01.07.2023",
         "De": "RB Salzburg",
-        "BL": "4",
+        "BL": "5",
         "Número": "13",
         "Contrato": "30.06.2028",
-        "Selección": "18"
+        "Selección": "20"
     },
     {
         "Jugador": "Xavi Simons",
@@ -426,18 +426,18 @@
         "Nación": "Países Bajos",
         "Altura": "179",
         "Peso": "70",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "4",
         "Asistencias": "8",
-        "TA": "1",
+        "TA": "2",
         "TAR": "0",
         "TR": "0",
         "Desde": "19.07.2023",
         "De": "PSV Eindhoven",
-        "BL": "11",
+        "BL": "12",
         "Número": "20",
         "Contrato": "30.06.2024",
-        "Selección": "9"
+        "Selección": "11"
     },
     {
         "Jugador": "Lois Openda",
@@ -446,18 +446,18 @@
         "Nación": "Bélgica",
         "Altura": "177",
         "Peso": "79",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "9",
-        "Asistencias": "2",
-        "TA": "2",
+        "Asistencias": "3",
+        "TA": "3",
         "TAR": "0",
         "TR": "0",
         "Desde": "14.07.2023",
         "De": "RC Lens",
-        "BL": "11",
+        "BL": "12",
         "Número": "17",
         "Contrato": "30.06.2028",
-        "Selección": "12"
+        "Selección": "14"
     },
     {
         "Jugador": "Yussuf Poulsen",
@@ -466,18 +466,18 @@
         "Nación": "Dinamarca",
         "Altura": "192",
         "Peso": "84",
-        "PJ": "10",
-        "Goles": "0",
+        "PJ": "11",
+        "Goles": "1",
         "Asistencias": "1",
         "TA": "0",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2013",
         "De": "Lyngby BK",
-        "BL": "193",
+        "BL": "194",
         "Número": "9",
         "Contrato": "30.06.2026",
-        "Selección": "73"
+        "Selección": "75"
     },
     {
         "Jugador": "Benjamin Sesko",
@@ -497,7 +497,7 @@
         "BL": "9",
         "Número": "30",
         "Contrato": "30.06.2028",
-        "Selección": "24"
+        "Selección": "26"
     },
     {
         "Jugador": "Timo Werner",

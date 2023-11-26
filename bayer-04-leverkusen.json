@@ -2,11 +2,11 @@
     {
         "Jugador": "Lukas Hradecky",
         "Nacimiento": "24.11.1989",
-        "Edad": "33",
+        "Edad": "34",
         "Nación": "Finlandia",
         "Altura": "192",
         "Peso": "85",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -14,10 +14,10 @@
         "TR": "0",
         "Desde": "01.07.2018",
         "De": "Eintracht Frankfurt",
-        "BL": "272",
+        "BL": "273",
         "Número": "1",
         "Contrato": "30.06.2026",
-        "Selección": "89"
+        "Selección": "90"
     },
     {
         "Jugador": "Matej Kovar",
@@ -86,15 +86,15 @@
         "Nación": "Países Bajos",
         "Altura": "175",
         "Peso": "70",
-        "PJ": "11",
-        "Goles": "3",
+        "PJ": "12",
+        "Goles": "4",
         "Asistencias": "6",
         "TA": "2",
         "TAR": "0",
         "TR": "0",
         "Desde": "27.01.2021",
         "De": "Celtic Glasgow",
-        "BL": "80",
+        "BL": "81",
         "Número": "30",
         "Contrato": "30.06.2028",
         "Selección": "1"
@@ -106,15 +106,15 @@
         "Nación": "España",
         "Altura": "171",
         "Peso": "69",
-        "PJ": "11",
-        "Goles": "6",
+        "PJ": "12",
+        "Goles": "7",
         "Asistencias": "5",
-        "TA": "0",
+        "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "01.07.2023",
         "De": "Benfica Lissabon",
-        "BL": "11",
+        "BL": "12",
         "Número": "20",
         "Contrato": "N.D.",
         "Selección": "No"
@@ -126,18 +126,18 @@
         "Nación": "Ecuador",
         "Altura": "184",
         "Peso": "66",
-        "PJ": "5",
+        "PJ": "6",
         "Goles": "0",
-        "Asistencias": "0",
+        "Asistencias": "1",
         "TA": "0",
         "TAR": "0",
         "TR": "0",
         "Desde": "16.08.2021",
         "De": "Talleres Cordoba",
-        "BL": "62",
+        "BL": "63",
         "Número": "3",
         "Contrato": "30.06.2027",
-        "Selección": "29"
+        "Selección": "30"
     },
     {
         "Jugador": "Odilon Kossounou",
@@ -146,7 +146,7 @@
         "Nación": "Costa de Marfil",
         "Altura": "190",
         "Peso": "78",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "0",
@@ -154,7 +154,7 @@
         "TR": "0",
         "Desde": "22.07.2021",
         "De": "Club Brügge",
-        "BL": "62",
+        "BL": "63",
         "Número": "6",
         "Contrato": "30.06.2025",
         "Selección": "18"
@@ -197,7 +197,7 @@
         "BL": "33",
         "Número": "2",
         "Contrato": "30.06.2024",
-        "Selección": "14"
+        "Selección": "16"
     },
     {
         "Jugador": "Jonathan Tah",
@@ -217,7 +217,7 @@
         "BL": "254",
         "Número": "4",
         "Contrato": "30.06.2025",
-        "Selección": "19"
+        "Selección": "21"
     },
     {
         "Jugador": "Edmond Tapsoba",
@@ -237,7 +237,7 @@
         "BL": "110",
         "Número": "12",
         "Contrato": "30.06.2028",
-        "Selección": "37"
+        "Selección": "38"
     },
     {
         "Jugador": "Nadiem Amiri",
@@ -246,7 +246,7 @@
         "Nación": "Alemania",
         "Altura": "180",
         "Peso": "73",
-        "PJ": "4",
+        "PJ": "5",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -254,7 +254,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "CFC Genua 1893",
-        "BL": "207",
+        "BL": "208",
         "Número": "11",
         "Contrato": "30.06.2024",
         "Selección": "5"
@@ -266,7 +266,7 @@
         "Nación": "Alemania",
         "Altura": "187",
         "Peso": "85",
-        "PJ": "8",
+        "PJ": "9",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -274,10 +274,10 @@
         "TR": "0",
         "Desde": "16.08.2021",
         "De": "1. FC Union Berlin",
-        "BL": "122",
+        "BL": "123",
         "Número": "8",
         "Contrato": "30.06.2026",
-        "Selección": "0"
+        "Selección": "1"
     },
     {
         "Jugador": "Ayman Aourir",
@@ -306,15 +306,15 @@
         "Nación": "Alemania",
         "Altura": "176",
         "Peso": "73",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "5",
-        "Asistencias": "6",
+        "Asistencias": "7",
         "TA": "2",
         "TAR": "0",
         "TR": "0",
         "Desde": "05.07.2023",
         "De": "Bor. Mönchengladbach",
-        "BL": "243",
+        "BL": "244",
         "Número": "7",
         "Contrato": "30.06.2027",
         "Selección": "23"
@@ -346,7 +346,7 @@
         "Nación": "Argentina",
         "Altura": "178",
         "Peso": "71",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "2",
         "Asistencias": "2",
         "TA": "3",
@@ -354,10 +354,10 @@
         "TR": "0",
         "Desde": "01.01.2020",
         "De": "River Plate",
-        "BL": "71",
+        "BL": "72",
         "Número": "25",
         "Contrato": "30.06.2028",
-        "Selección": "27"
+        "Selección": "28"
     },
     {
         "Jugador": "Gustavo Puerta",
@@ -366,7 +366,7 @@
         "Nación": "Colombia",
         "Altura": "171",
         "Peso": "70",
-        "PJ": "2",
+        "PJ": "3",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -374,7 +374,7 @@
         "TR": "0",
         "Desde": "01.07.2023",
         "De": "1. FC Nürnberg",
-        "BL": "2",
+        "BL": "3",
         "Número": "32",
         "Contrato": "N.D.",
         "Selección": "No"
@@ -386,7 +386,7 @@
         "Nación": "Alemania",
         "Altura": "176",
         "Peso": "69",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "3",
         "Asistencias": "5",
         "TA": "1",
@@ -394,10 +394,10 @@
         "TR": "0",
         "Desde": "31.01.2020",
         "De": "1. FC Köln",
-        "BL": "88",
+        "BL": "89",
         "Número": "10",
         "Contrato": "30.06.2027",
-        "Selección": "12"
+        "Selección": "14"
     },
     {
         "Jugador": "Granit Xhaka",
@@ -406,7 +406,7 @@
         "Nación": "Suiza",
         "Altura": "185",
         "Peso": "82",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "0",
         "Asistencias": "0",
         "TA": "3",
@@ -414,10 +414,10 @@
         "TR": "0",
         "Desde": "06.07.2023",
         "De": "FC Arsenal",
-        "BL": "119",
+        "BL": "120",
         "Número": "34",
         "Contrato": "30.06.2028",
-        "Selección": "118"
+        "Selección": "121"
     },
     {
         "Jugador": "Amine Adli",
@@ -426,18 +426,18 @@
         "Nación": "Marruecos",
         "Altura": "174",
         "Peso": "60",
-        "PJ": "8",
+        "PJ": "9",
         "Goles": "1",
-        "Asistencias": "2",
+        "Asistencias": "3",
         "TA": "1",
         "TAR": "0",
         "TR": "0",
         "Desde": "26.08.2021",
         "De": "FC Toulouse",
-        "BL": "59",
+        "BL": "60",
         "Número": "21",
         "Contrato": "30.06.2026",
-        "Selección": "3"
+        "Selección": "4"
     },
     {
         "Jugador": "Victor Boniface",
@@ -446,7 +446,7 @@
         "Nación": "Nigeria",
         "Altura": "189",
         "Peso": "85",
-        "PJ": "11",
+        "PJ": "12",
         "Goles": "7",
         "Asistencias": "5",
         "TA": "2",
@@ -454,10 +454,10 @@
         "TR": "0",
         "Desde": "22.07.2023",
         "De": "Union Saint-Gilloise",
-        "BL": "11",
+        "BL": "12",
         "Número": "22",
         "Contrato": "30.06.2028",
-        "Selección": "3"
+        "Selección": "5"
     },
     {
         "Jugador": "Adam Hlozek",
@@ -466,7 +466,7 @@
         "Nación": "Chequia",
         "Altura": "188",
         "Peso": "74",
-        "PJ": "10",
+        "PJ": "11",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "0",
@@ -474,10 +474,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "Sparta Prag",
-        "BL": "39",
+        "BL": "40",
         "Número": "23",
         "Contrato": "30.06.2027",
-        "Selección": "27"
+        "Selección": "29"
     },
     {
         "Jugador": "Patrik Schick",
@@ -506,7 +506,7 @@
         "Nación": "Nigeria",
         "Altura": "173",
         "Peso": "70",
-        "PJ": "6",
+        "PJ": "7",
         "Goles": "1",
         "Asistencias": "0",
         "TA": "0",
@@ -514,7 +514,7 @@
         "TR": "0",
         "Desde": "27.08.2023",
         "De": "FC Southampton",
-        "BL": "6",
+        "BL": "7",
         "Número": "19",
         "Contrato": "30.06.2028",
         "Selección": "No"
