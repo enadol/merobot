@@ -30,7 +30,7 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
-club="RB Leipzig"
+club="Werder Bremen"
 torneo="2023-24"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -190,6 +190,9 @@ for knombre in kader:
         
     if(knombre== "Willian Pacho"):
         player3="william-pacho"
+        
+    if(knombre== "Olivier Deman"):
+        player3 = "oliver-deman"
     
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
