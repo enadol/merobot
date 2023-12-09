@@ -16,9 +16,10 @@ vornamen=[]
 nachnamen=[]
 kader=[]
 team=[]
-nameexceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", "Gil Dias","Fabio Carvalho", "Ilaix Moriba"]
+name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
+                 "Gil Dias","Fabio Carvalho", "Ilaix Moriba"]
 #player="Sadio Mane"
-brasilexceptions=["Paulinho", "Aaron", "Jordan"]
+brasil_exceptions=["Paulinho", "Aaron", "Jordan"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 sextuples=["Andreas Müller"]
@@ -30,7 +31,7 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
-club="Werder Bremen"
+club="1 FC Union Berlin"
 torneo="2023-24"
 klassvita=["kick__vita__header__person-detail-kvpair-info"]
 klassfrom=["kick__vita__header__team-detail__prime"]
@@ -42,42 +43,42 @@ klasstrikot=["kick__player__number"]
 klasslaender=["kick__bubble__prime"]
 klassages=["kick__table-small-txt"]
 
-def modPlayer(player):
-    playerdef=""
+def mod_player(player):
+    player_def=""
     if(player in revert):
         partido=player.split(" ")
         vorname=partido[1]
         nachname=partido[0]
         player=f"{vorname} {nachname}"
 
-    playerlow=player.lower()
-    playerminus=playerlow.replace(" ", "-")
-    if("ü" in playerminus):
-        playerminus=playerminus.replace("ü", "ue")
-    if("ö" in playerminus):
-        playerminus=playerminus.replace("ö", "oe")
-    if("é" in playerminus):
-        playerminus=playerminus.replace("é", "e")
-    if("ß" in playerminus):
-        playerminus=playerminus.replace("ß", "ss")
-    if("scally" in playerminus):
-        playerminus=playerminus.replace("joe", "joseph")
-    if("kouadio" in playerminus):
-           playerminus=playerminus.replace("kone", "manu-kone")
+    player_low=player.lower()
+    player_minus=player_low.replace(" ", "-")
+    if("ü" in player_minus):
+        player_minus=player_minus.replace("ü", "ue")
+    if("ö" in player_minus):
+        player_minus=player_minus.replace("ö", "oe")
+    if("é" in player_minus):
+        player_minus=player_minus.replace("é", "e")
+    if("ß" in player_minus):
+        player_minus=player_minus.replace("ß", "ss")
+    if("scally" in player_minus):
+        player_minus=player_minus.replace("joe", "joseph")
+    if("kouadio" in player_minus):
+           player_minus=player_minus.replace("kone", "manu-kone")
 #    if("Aaron" in playerminus):
  #      playerminus=playerminus.replace(" ", "")    
-    elif("ä" in playerminus):
-        playerminus=playerminus.replace("ä", "ae")
-    playerdef=playerminus
+    elif("ä" in player_minus):
+        player_minus=player_minus.replace("ä", "ae")
+    player_def=player_minus
     
-    return playerdef
+    return player_def
 
 #def find_indices(ltc, itf):
  #   array=np.array(ltc)
   #  indices=np.where(array == itf)[0]
   #  return list(indices)
 
-club3=modPlayer(club)
+club3=mod_player(club)
 
 urlkader=f"https://www.kicker.de/{club3}/kader/bundesliga/{torneo}" 
 kaderpage= requests.get(urlkader)
@@ -97,7 +98,7 @@ for nombre in kadernames:
         
     apellidos=nombre.find("strong") 
     for apellido in apellidos:
-        if(apellido in nameexceptions):
+        if(apellido in name_exceptions):
             partido=apellido.split(" ")
             vorname=partido[0]
             nachname=partido[1]
@@ -109,7 +110,7 @@ for nombre in kadernames:
                 nachnamen.append(apellidos.text)
                 kader.append(nombres.text+" "+apellidos.text)
         #para nombres brasis p.ej. Thiago sin apellido
-        if(apellido in brasilexceptions):
+        if(apellido in brasil_exceptions):
             vorname=apellido
             nachname=" "
             kader.append(f"{vorname} {nachname}")
@@ -141,7 +142,7 @@ for nombre in kadernames:
         #     kader.append(vorname+" "+nachname)
     
 for knombre in kader:
-    player3=modPlayer(knombre)
+    player3=mod_player(knombre)
     if(knombre in duplicates):
         player3=f"{player3}-2"
     
@@ -185,14 +186,14 @@ for knombre in kader:
     if(knombre=="Madi Monamay"):
         player3="madi-monomay"
         
-    if(knombre == "Thomas Isherwood"):
+    if(knombre=="Thomas Isherwood"):
         player3="thomas-poppler-isherwood"
         
-    if(knombre== "Willian Pacho"):
+    if(knombre=="Willian Pacho"):
         player3="william-pacho"
         
-    if(knombre== "Olivier Deman"):
-        player3 = "oliver-deman"
+    if(knombre=="Olivier Deman"):
+        player3="oliver-deman"
     
     
     url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
@@ -214,13 +215,13 @@ for knombre in kader:
     ages=soup.find_all("span", attrs={"class": klassages})
     dates=soup.find_all("div", attrs={"class": klassvita})
     desde=soup.find_all("span", attrs={"class": klassfrom})
-    pastclub=soup.find_all("a", attrs={"class": klasspastclub})
+    past_club=soup.find_all("a", attrs={"class": klasspastclub})
     altura=soup.find_all("div", attrs={"class": klassalturapeso})
     nacion=soup.find_all("div", attrs={"class": klassnation})
     trikot=soup.find_all("span", attrs={"class": klasstrikot})
         
     
-    indicepc=past_club_index(pastclub)
+    indicepc=past_club_index(past_club)
 
     born1=dates[1].text.split(" ")[1][:10]
     
@@ -249,7 +250,7 @@ for knombre in kader:
         else:
             ageinclub=desde[0].text
             vertrag="N.D."
-    fromclub=pastclub[indicepc].text[4:].split("\n")[0]
+    fromclub=past_club[indicepc].text[4:].split("\n")[0]
     if len(altura)<1:
         alturatxt="N.D."
     else:  
@@ -298,33 +299,33 @@ for knombre in kader:
             rot="0"
 
         else:
-            playedindex=elementix2[1]+1        
-            pplayed=soup2[playedindex].text.strip().split("/")[0]            
-            blgamesindex=elementindex[0]+1
-            partidosbl=soup2[blgamesindex].text.strip().split("\n")[0]
-            golesindex=elementindex[1]+3
-            golesbl=soup2[golesindex].text.strip()
-            assistindex=elementindex[1]+5
-            assists=soup2[assistindex].text.strip()
-            gelbindex=elementindex[1]+9
-            gelbe=soup2[gelbindex].text.strip()
+            played_index=elementix2[1]+1        
+            pplayed=soup2[played_index].text.strip().split("/")[0]            
+            blgames_index=elementindex[0]+1
+            partidosbl=soup2[blgames_index].text.strip().split("\n")[0]
+            goles_index=elementindex[1]+3
+            golesbl=soup2[goles_index].text.strip()
+            assist_index=elementindex[1]+5
+            assists=soup2[assist_index].text.strip()
+            gelb_index=elementindex[1]+9
+            gelbe=soup2[gelb_index].text.strip()
 #gelbe=datosbl2[gelbindex].text.split("\r\n")[1]
 
-            gelbrotindex=gelbindex+1
-            gelbrot=soup2[gelbrotindex].text.strip()
+            gelb_rot_index=gelb_index+1
+            gelb_rot=soup2[gelb_rot_index].text.strip()
 #gelbrot=datosbl2[gelbrotindex].text.split("\r\n")[1]
 
-            rotindex=gelbrotindex+1
-            rot=soup2[rotindex].text.strip()
+            rot_index=gelb_rot_index+1
+            rot=soup2[rot_index].text.strip()
 
 #para número no asignado de camiseta    
     if(len(trikot)>0):
         numero=trikot[0].text
     else:
         numero="0"
-    playerdict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
+    player_dict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
-    team.append(playerdict)
+    team.append(player_dict)
 
 with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club3}.txt", "w", "utf-8") as file:
     for item in team:
@@ -338,9 +339,9 @@ with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club3}.txt", "w", 
         file.write('\n')
 file.close()
 
-teamjson=json.dumps(team, indent=4, ensure_ascii=False)
+team_json=json.dumps(team, indent=4, ensure_ascii=False)
 
 with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club3}.json", "w", "utf-8") as jsonfile:
     
-    jsonfile.write(teamjson)
+    jsonfile.write(team_json)
 jsonfile.close()
