@@ -31,17 +31,17 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
-club="1 FC Union Berlin"
+club="SC Freiburg"
 torneo="2023-24"
-klassvita=["kick__vita__header__person-detail-kvpair-info"]
-klassfrom=["kick__vita__header__team-detail__prime"]
-klasspastclub=["kick__vita__stationline-team"]
-klassalturapeso=["kick__vita__header__person-detail-kvpair-info kick__vita__header__person-detail-kvpair-info-s"]
-klassnation=["kick__vita__header__person-detail-kvpair--nation"]
-klasscompfilter=["kick__vita__liglog"]
-klasstrikot=["kick__player__number"]
-klasslaender=["kick__bubble__prime"]
-klassages=["kick__table-small-txt"]
+klassvita="kick__vita__header__person-detail-kvpair-info"
+klassfrom="kick__vita__header__team-detail__prime"
+klasspastclub="kick__vita__stationline-team"
+klassalturapeso="kick__vita__header__person-detail-kvpair-info kick__vita__header__person-detail-kvpair-info-s"
+klassnation="kick__vita__header__person-detail-kvpair--nation"
+klasscompfilter="kick__vita__liglog"
+klasstrikot="kick__player__number"
+klasslaender="kick__bubble__prime"
+klassages="kick__table-small-txt"
 
 def mod_player(player):
     player_def=""
@@ -78,19 +78,19 @@ def mod_player(player):
   #  indices=np.where(array == itf)[0]
   #  return list(indices)
 
-club3=mod_player(club)
+club_for_url=mod_player(club)
 
-urlkader=f"https://www.kicker.de/{club3}/kader/bundesliga/{torneo}" 
-kaderpage= requests.get(urlkader)
+url_kader=f"https://www.kicker.de/{club_for_url}/kader/bundesliga/{torneo}" 
+kaderpage= requests.get(url_kader)
 if kaderpage.status_code== 200:
     kadercontent = kaderpage.content
 
 soupnames = BeautifulSoup(kadercontent, 'html.parser')
-klassnames=["kick__table--ranking__index kick__t__a__l kick__respt-m-w-190"]
+klass_names="kick__table--ranking__index kick__t__a__l kick__respt-m-w-190"
 
-kadernames=soupnames.find_all("td", attrs={"class": klassnames})
+kader_names=soupnames.find_all("td", attrs={"class": klass_names})
 
-for nombre in kadernames:
+for nombre in kader_names:
 #base apellidos para nombres compuestos o apellidos compuestos
 #kicker pone Dani Olmo como apellido
     vertrag=""
@@ -142,63 +142,63 @@ for nombre in kadernames:
         #     kader.append(vorname+" "+nachname)
     
 for knombre in kader:
-    player3=mod_player(knombre)
+    player_for_url=mod_player(knombre)
     if(knombre in duplicates):
-        player3=f"{player3}-2"
+        player_for_url=f"{player_for_url}-2"
     
     if(knombre in triplicates):
-        player3=f"{player3}-3"
+        player_for_url=f"{player_for_url}-3"
         
     if(knombre in sextuples):
-        player3=f"{player3}-6"
+        player_for_url=f"{player_for_url}-6"
 
         
     if("Perea" in knombre):
-        player3=f"{player3}-mendoza"
+        player_for_url=f"{player_for_url}-mendoza"
         
     if("Paulinho" in knombre):
-        player3=knombre.strip()+"-12"
+        player_for_url=knombre.strip()+"-12"
     
     #if("Aaron" in knombre):
       #  player3="aaron-2"
         
     if(knombre=="Kelian Nsona"):
-        player3=f"{player3}-wa-saka"
+        player_for_url=f"{player_for_url}-wa-saka"
     
     if(knombre=="Vasilios Lampropoulos"):
-        player3="vassilis-lampropoulos"
+        player_for_url="vassilis-lampropoulos"
         
     if(knombre=="Aurelio Buta"):
-        player3="buta"
+        player_for_url="buta"
     
     if(knombre=="Lucas Silva Melo"):
-        player3="tuta"
+        player_for_url="tuta"
         
     if(knombre=="Jan Schröder"):
-        player3="jan-alex-wilson-schroeder"
+        player_for_url="jan-alex-wilson-schroeder"
         
     if(knombre=="Elias Bakatukanda"):
-        player3="elias-geoffrey-bakatukanda"
+        player_for_url="elias-geoffrey-bakatukanda"
         
     if(knombre=="Moritz-Broni Kwarteng"):
-        player3="moritz-kwarteng"
+        player_for_url="moritz-kwarteng"
         
     if(knombre=="Madi Monamay"):
-        player3="madi-monomay"
+        player_for_url="madi-monomay"
         
     if(knombre=="Thomas Isherwood"):
-        player3="thomas-poppler-isherwood"
+        player_for_url="thomas-poppler-isherwood"
         
     if(knombre=="Willian Pacho"):
-        player3="william-pacho"
+        player_for_url="william-pacho"
         
     if(knombre=="Olivier Deman"):
-        player3="oliver-deman"
+        player_for_url="oliver-deman"
     
     
-    url=f"https://kicker.de/{player3}/spieler/bundesliga/{torneo}/{club3}"
+    url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
-    mdpage= requests.get(url)
+    mdpage= requests.get(url_player)
     if mdpage.status_code== 200:
         content = mdpage.content
 
@@ -327,7 +327,7 @@ for knombre in kader:
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
     team.append(player_dict)
 
-with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club3}.txt", "w", "utf-8") as file:
+with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt", "w", "utf-8") as file:
     for item in team:
         #file.write('\n')    
         for key, value in item.items():
@@ -341,7 +341,7 @@ file.close()
 
 team_json=json.dumps(team, indent=4, ensure_ascii=False)
 
-with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club3}.json", "w", "utf-8") as jsonfile:
+with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json", "w", "utf-8") as jsonfile:
     
     jsonfile.write(team_json)
 jsonfile.close()
