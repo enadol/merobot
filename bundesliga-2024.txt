@@ -140,14 +140,14 @@
         1. FSV Mainz 05  0-1  SC Freiburg
         Bayer 04 Leverkusen  1-1  Borussia Dortmund
         FC Augsburg  2-1  Eintracht Frankfurt
-        Bayern München  3-1  1. FC Union Berlin
+        TSG Hoffenheim  3-1  VfL Bochum
 14. Spieltag
 [Fr. 8.12.]
-        TSG Hoffenheim  3-1  VfL Bochum
-        1. FC Union Berlin  5-1  Bor. Mönchengladbach
-        Eintracht Frankfurt  0-1  Bayern München
-        VfL Wolfsburg  2-0  SC Freiburg
-        Werder Bremen  3-2  FC Augsburg
-        1. FC Heidenheim  2-3  SV Darmstadt 98
-        Borussia Dortmund  1-1  RB Leipzig
-        VfB Stuttgart  0-0  Bayer 04 Leverkusen
+        1. FC Union Berlin  3-1  Bor. Mönchengladbach
+        Eintracht Frankfurt  5-1  Bayern München
+        VfL Wolfsburg  0-1  SC Freiburg
+        Werder Bremen  2-0  FC Augsburg
+        1. FC Heidenheim  3-2  SV Darmstadt 98
+        Borussia Dortmund  2-3  RB Leipzig
+        VfB Stuttgart  1-1  Bayer 04 Leverkusen
+        1. FC Köln  0-0  1. FSV Mainz 05
