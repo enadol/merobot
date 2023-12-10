@@ -31,7 +31,7 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
-club="SC Freiburg"
+club="vfl Wolfsburg"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -331,7 +331,6 @@ with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt"
     for item in team:
         #file.write('\n')    
         for key, value in item.items():
-                
             file.write(key)
             file.write(" : ")
             file.write(str(value))
