@@ -31,7 +31,7 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
-club="TSG Hoffenheim"
+club="Eintracht Frankfurt"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -81,11 +81,11 @@ def mod_player(player):
 club_for_url=mod_player(club)
 
 url_kader=f"https://www.kicker.de/{club_for_url}/kader/bundesliga/{torneo}" 
-kaderpage= requests.get(url_kader)
-if kaderpage.status_code== 200:
-    kadercontent = kaderpage.content
+kader_page= requests.get(url_kader)
+if kader_page.status_code== 200:
+    kader_content = kader_page.content
 
-soupnames = BeautifulSoup(kadercontent, 'html.parser')
+soupnames = BeautifulSoup(kader_content, 'html.parser')
 klass_names="kick__table--ranking__index kick__t__a__l kick__respt-m-w-190"
 
 kader_names=soupnames.find_all("td", attrs={"class": klass_names})
@@ -239,28 +239,28 @@ for knombre in kader:
     
     if(knombre in vereinslos):
        age=""
-       ageinclub=""
+       age_in_club=""
        vertrag=""
     else:
         age=ages[0].text[1:3]
         #age=dates[1].text.split(" ")[45][1:3]     
         if len(desde)>=2:
-            ageinclub=desde[0].text
+            age_in_club=desde[0].text
             vertrag=desde[1].text
         else:
-            ageinclub=desde[0].text
+            age_in_club=desde[0].text
             vertrag="N.D."
     fromclub=past_club[indicepc].text[4:].split("\n")[0]
     if len(altura)<1:
-        alturatxt="N.D."
+        altura_txt="N.D."
     else:  
-        alturatxt=altura[0].text.split(" ")[1]
+        altura_txt=altura[0].text.split(" ")[1]
     if len(altura)<2:
-        pesotxt="N.D."
+        peso_txt="N.D."
     else:
-        pesotxt=altura[1].text.split(" ")[1]
+        peso_txt=altura[1].text.split(" ")[1]
     pais=nacion[0].text.split("\r\n")[1].strip()
-    naciontxt=ts.translate_text(pais, from_language="de", to_language="es")
+    nacion_txt=ts.translate_text(pais, from_language="de", to_language="es")
 
     
         
@@ -323,7 +323,7 @@ for knombre in kader:
         numero=trikot[0].text
     else:
         numero="0"
-    player_dict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
+    player_dict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": nacion_txt, "Altura": altura_txt, "Peso": peso_txt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": age_in_club, "De": fromclub, "BL": partidosbl, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
     team.append(player_dict)
 

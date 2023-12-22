@@ -151,3 +151,25 @@
         Borussia Dortmund  2-3  RB Leipzig
         VfB Stuttgart  1-1  Bayer 04 Leverkusen
         1. FC Köln  0-0  1. FSV Mainz 05
+        Bor. Mönchengladbach  2-2  Werder Bremen
+15. Spieltag
+[Fr. 15.12.]
+        1. FSV Mainz 05  0-1  1. FC Heidenheim
+        VfL Bochum  3-0  1. FC Union Berlin
+        FC Augsburg  1-1  Borussia Dortmund
+        SV Darmstadt 98  0-1  VfL Wolfsburg
+        RB Leipzig  3-1  TSG Hoffenheim
+        SC Freiburg  2-0  1. FC Köln
+        Bayer 04 Leverkusen  3-0  Eintracht Frankfurt
+        Bayern München  3-0  VfB Stuttgart
+        Werder Bremen  1-1  RB Leipzig
+16. Spieltag
+[Di. 19.12.]
+        Borussia Dortmund  1-1  1. FSV Mainz 05
+        TSG Hoffenheim  3-3  SV Darmstadt 98
+        1. FC Union Berlin  2-0  1. FC Köln
+        Bayer 04 Leverkusen  4-0  VfL Bochum
+        Eintracht Frankfurt  2-1  Bor. Mönchengladbach
+        VfL Wolfsburg  1-2  Bayern München
+        VfB Stuttgart  3-0  FC Augsburg
+        1. FC Heidenheim  3-2  SC Freiburg
