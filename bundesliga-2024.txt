@@ -140,57 +140,58 @@
         1. FSV Mainz 05  0-1  SC Freiburg
         Bayer 04 Leverkusen  1-1  Borussia Dortmund
         FC Augsburg  2-1  Eintracht Frankfurt
-        TSG Hoffenheim  3-1  VfL Bochum
+        TSG Hoffenheim  1-0  VfL Bochum
 14. Spieltag
 [Fr. 8.12.]
         1. FC Union Berlin  3-1  Bor. Mönchengladbach
-        Eintracht Frankfurt  5-1  Bayern München
-        VfL Wolfsburg  0-1  SC Freiburg
-        Werder Bremen  2-0  FC Augsburg
-        1. FC Heidenheim  3-2  SV Darmstadt 98
-        Borussia Dortmund  2-3  RB Leipzig
-        VfB Stuttgart  1-1  Bayer 04 Leverkusen
-        1. FC Köln  0-0  1. FSV Mainz 05
-        Bor. Mönchengladbach  2-2  Werder Bremen
+        Eintracht Frankfurt  3-1  Bayern München
+        VfL Wolfsburg  5-1  SC Freiburg
+        Werder Bremen  0-1  FC Augsburg
+        1. FC Heidenheim  2-0  SV Darmstadt 98
+        Borussia Dortmund  3-2  RB Leipzig
+        VfB Stuttgart  2-3  Bayer 04 Leverkusen
+        1. FC Köln  1-1  1. FSV Mainz 05
+        Bor. Mönchengladbach  0-0  Werder Bremen
 15. Spieltag
 [Fr. 15.12.]
-        1. FSV Mainz 05  0-1  1. FC Heidenheim
-        VfL Bochum  3-0  1. FC Union Berlin
-        FC Augsburg  1-1  Borussia Dortmund
-        SV Darmstadt 98  0-1  VfL Wolfsburg
-        RB Leipzig  3-1  TSG Hoffenheim
-        SC Freiburg  2-0  1. FC Köln
-        Bayer 04 Leverkusen  3-0  Eintracht Frankfurt
+        1. FSV Mainz 05  2-2  1. FC Heidenheim
+        VfL Bochum  0-1  1. FC Union Berlin
+        FC Augsburg  3-0  Borussia Dortmund
+        SV Darmstadt 98  1-1  VfL Wolfsburg
+        RB Leipzig  0-1  TSG Hoffenheim
+        SC Freiburg  3-1  1. FC Köln
+        Bayer 04 Leverkusen  2-0  Eintracht Frankfurt
         Bayern München  3-0  VfB Stuttgart
-        Werder Bremen  1-1  RB Leipzig
+        Werder Bremen  3-0  RB Leipzig
 16. Spieltag
 [Di. 19.12.]
         Borussia Dortmund  1-1  1. FSV Mainz 05
-        TSG Hoffenheim  3-3  SV Darmstadt 98
-        1. FC Union Berlin  2-0  1. FC Köln
-        Bayer 04 Leverkusen  4-0  VfL Bochum
-        Eintracht Frankfurt  2-1  Bor. Mönchengladbach
-        VfL Wolfsburg  1-2  Bayern München
-        VfB Stuttgart  3-0  FC Augsburg
-        1. FC Heidenheim  3-2  SC Freiburg
-        Bayern München  3-0  TSG Hoffenheim
+        TSG Hoffenheim  1-1  SV Darmstadt 98
+        1. FC Union Berlin  3-3  1. FC Köln
+        Bayer 04 Leverkusen  2-0  VfL Bochum
+        Eintracht Frankfurt  4-0  Bor. Mönchengladbach
+        VfL Wolfsburg  2-1  Bayern München
+        VfB Stuttgart  1-2  FC Augsburg
+        1. FC Heidenheim  3-0  SC Freiburg
+        Bayern München  3-2  TSG Hoffenheim
 17. Spieltag
 [Fr. 12.1.]
-        RB Leipzig  0-1  Eintracht Frankfurt
-        SC Freiburg  0-0  1. FC Union Berlin
-        1. FSV Mainz 05  1-1  VfL Wolfsburg
+        RB Leipzig  3-0  Eintracht Frankfurt
+        SC Freiburg  0-1  1. FC Union Berlin
+        1. FSV Mainz 05  0-0  VfL Wolfsburg
         1. FC Köln  1-1  1. FC Heidenheim
-        FC Augsburg  0-1  Bayer 04 Leverkusen
-        SV Darmstadt 98  0-3  Borussia Dortmund
-        VfL Bochum  1-1  Werder Bremen
-        Bor. Mönchengladbach  3-1  VfB Stuttgart
-        1. FSV Mainz 05  3-2  1. FC Union Berlin
+        FC Augsburg  1-1  Bayer 04 Leverkusen
+        SV Darmstadt 98  0-1  Borussia Dortmund
+        VfL Bochum  0-3  Werder Bremen
+        Bor. Mönchengladbach  1-1  VfB Stuttgart
+        SC Freiburg  3-1  TSG Hoffenheim
 18. Spieltag
-[Fr. 19.1.]
-        SC Freiburg  0-4  TSG Hoffenheim
-        1. FC Köln  1-0  Borussia Dortmund
-        VfL Bochum  1-1  VfB Stuttgart
-        1. FC Heidenheim  2-2  VfL Wolfsburg
-        SV Darmstadt 98  2-3  Eintracht Frankfurt
-        RB Leipzig  0-1  Bayer 04 Leverkusen
-        Bayern München  1-2  Werder Bremen
+[Sa. 20.1.]
+        1. FC Köln  3-2  Borussia Dortmund
+        VfL Bochum  0-4  VfB Stuttgart
+        1. FC Heidenheim  1-0  VfL Wolfsburg
+        SV Darmstadt 98  1-1  Eintracht Frankfurt
+        RB Leipzig  2-2  Bayer 04 Leverkusen
+        Bayern München  2-3  Werder Bremen
+        Bor. Mönchengladbach  0-1  FC Augsburg
+        1. FSV Mainz 05  1-2  1. FC Union Berlin
