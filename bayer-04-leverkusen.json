@@ -237,7 +237,7 @@
         "BL": "114",
         "Número": "12",
         "Contrato": "30.06.2028",
-        "Selección": "40"
+        "Selección": "41"
     },
     {
         "Jugador": "Nadiem Amiri",
@@ -437,7 +437,7 @@
         "BL": "62",
         "Número": "21",
         "Contrato": "30.06.2026",
-        "Selección": "6"
+        "Selección": "7"
     },
     {
         "Jugador": "Victor Boniface",
@@ -482,7 +482,7 @@
     {
         "Jugador": "Patrik Schick",
         "Nacimiento": "24.01.1996",
-        "Edad": "27",
+        "Edad": "28",
         "Nación": "Chequia",
         "Altura": "191",
         "Peso": "85",
