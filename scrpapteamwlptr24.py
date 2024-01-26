@@ -19,7 +19,7 @@ team=[]
 name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                  "Gil Dias","Fabio Carvalho", "Ilaix Moriba"]
 #player="Sadio Mane"
-brasil_exceptions=["Paulinho", "Aaron", "Jordan"]
+brasil_exceptions=["Paulinho", "Aaron"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 sextuples=["Andreas Müller"]
