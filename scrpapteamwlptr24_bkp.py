@@ -260,8 +260,8 @@ for knombre in kader:
     else:
         peso_txt=altura[1].text.split(" ")[1]
     pais=nacion[0].text.split("\r\n")[1].strip()
-    nacion_txt=ts.translate_text(pais, translator='alibaba', from_language='de' , to_language='es')
-    #nacion_txt=pais
+    nacion_txt=ts.translate_text(pais, translator='google', from_language='de' , to_language='es')
+
     
         
     for i in soup:
