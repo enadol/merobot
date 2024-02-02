@@ -330,9 +330,9 @@ for knombre in kader:
     player_dict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": nacion_txt, "Altura": altura_txt, "Peso": peso_txt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": age_in_club, "De": fromclub, "BL": partidosbl, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
     team.append(player_dict)
-  
-with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json", "w", "utf-8") as jsonfile:
-       for item in team:
+
+with codecs.open(f"D:{club_for_url}.txt", "w", "utf-8") as file:
+    for item in team:
         #file.write('\n')    
         for key, value in item.items():
             file.write(key)
@@ -342,3 +342,9 @@ with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json
         file.write('\n')
 file.close()
 
+team_json=json.dumps(team, indent=4, ensure_ascii=False)
+
+with codecs.open(f"D:/{club_for_url}.json", "w", "utf-8") as jsonfile:
+    
+    jsonfile.write(team_json)
+jsonfile.close()
