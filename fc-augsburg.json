@@ -443,7 +443,11 @@
         "Jugador": "Ermedin Demirovic",
         "Nacimiento": "25.03.1998",
         "Edad": "25",
+<<<<<<< HEAD
         "Nación": "Bosnia-Herzegovina",
+=======
+        "Nación": "Bosnia Herzegovina",
+>>>>>>> 262824f30d5dd3effe3c4544ec952d710d39c900
         "Altura": "185",
         "Peso": "85",
         "PJ": "19",
@@ -503,7 +507,11 @@
         "Jugador": "Masaya Okugawa",
         "Nacimiento": "14.04.1996",
         "Edad": "27",
+<<<<<<< HEAD
         "Nación": "Japón",
+=======
+        "Nación": "Japona Japón",
+>>>>>>> 262824f30d5dd3effe3c4544ec952d710d39c900
         "Altura": "177",
         "Peso": "66",
         "PJ": "2",
