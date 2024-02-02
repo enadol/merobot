@@ -13,10 +13,8 @@ import translators as ts
 #from googletrans import Translator
 
 #ts.translator="google"
-<<<<<<< HEAD
-=======
+
 #translator=Translator()
->>>>>>> 262824f30d5dd3effe3c4544ec952d710d39c900
 vornamen=[]
 nachnamen=[]
 kader=[]
@@ -36,11 +34,8 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
-<<<<<<< HEAD
-club="FC Augsburg"
-=======
-club="Eintracht Frankfurt"
->>>>>>> 262824f30d5dd3effe3c4544ec952d710d39c900
+
+club="SC Freiburg"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -271,14 +266,10 @@ for knombre in kader:
     else:
         peso_txt=altura[1].text.split(" ")[1]
     pais=nacion[0].text.split("\r\n")[1].strip()
-<<<<<<< HEAD
     nacion_txt=ts.translate_text(pais, translator='alibaba', from_language='de' , to_language='es')
     #nacion_txt=pais
-=======
-    nacion_txt=ts.translate_text(pais, translator='google', from_language="de", to_language="es")
     #nacion_txt=translator.translate(pais, dest='es', src='de')
->>>>>>> 262824f30d5dd3effe3c4544ec952d710d39c900
-    
+   
         
     for i in soup:
         soup2=soup.find_all("td")
@@ -343,7 +334,7 @@ for knombre in kader:
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
     team.append(player_dict)
 
-with codecs.open(f"D:{club_for_url}.txt", "w", "utf-8") as file:
+with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt", "w", "utf-8") as file:
     for item in team:
         #file.write('\n')    
         for key, value in item.items():
@@ -356,7 +347,7 @@ file.close()
 
 team_json=json.dumps(team, indent=4, ensure_ascii=False)
 
-with codecs.open(f"D:/{club_for_url}.json", "w", "utf-8") as jsonfile:
+with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json", "w", "utf-8") as jsonfile:
     
     jsonfile.write(team_json)
 jsonfile.close()

@@ -558,5 +558,25 @@
         "Número": "35",
         "Contrato": "N.D.",
         "Selección": "No"
+    },
+    {
+        "Jugador": "Maximilian Breunig",
+        "Nacimiento": "14.08.2000",
+        "Edad": "23",
+        "Nación": "Alemania",
+        "Altura": "194",
+        "Peso": "76",
+        "PJ": "1",
+        "Goles": "0",
+        "Asistencias": "0",
+        "TA": "0",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "01.07.2022",
+        "De": "Würzburger Kickers",
+        "BL": "1",
+        "Número": "44",
+        "Contrato": "N.D.",
+        "Selección": "No"
     }
 ]
