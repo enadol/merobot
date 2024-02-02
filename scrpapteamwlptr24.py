@@ -10,8 +10,10 @@ from bs4 import BeautifulSoup
 import codecs
 import json
 import translators as ts
+#from googletrans import Translator
 
-ts.translator="google"
+#ts.translator="google"
+#translator=Translator()
 vornamen=[]
 nachnamen=[]
 kader=[]
@@ -19,7 +21,7 @@ team=[]
 name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                  "Gil Dias","Fabio Carvalho", "Ilaix Moriba"]
 #player="Sadio Mane"
-brasil_exceptions=["Paulinho", "Aaron"]
+brasil_exceptions=["Paulinho", "Aaron", "Tuta"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 sextuples=["Andreas Müller"]
@@ -31,7 +33,7 @@ vereinslos=["Max Kruse"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
-club="TSG Hoffenheim"
+club="Eintracht Frankfurt"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -126,11 +128,11 @@ for nombre in kader_names:
                 nachname="Siebatcheu"
                 kader.append(f"{vorname} {nachname}")
         
-        if(apellido=="Tuta"):
+        #if(apellido=="Tuta"):
 #            if(club=="1 FC Union Berlin"):
-            vorname="Lucas"
-            nachname="Silva Melo"
-            kader.append(f"{vorname} {nachname}")
+            #vorname="Lucas"
+           # nachname="Silva Melo"
+           # kader.append(f"{vorname} {nachname}")
 
         if(apellido=="Xavi"):
             vorname=apellido
@@ -158,6 +160,8 @@ for knombre in kader:
         
     if("Paulinho" in knombre):
         player_for_url=knombre.strip()+"-12"
+    if("Tuta" in knombre):
+        player_for_url="tuta"
     
     #if("Aaron" in knombre):
       #  player3="aaron-2"
@@ -171,8 +175,8 @@ for knombre in kader:
     if(knombre=="Aurelio Buta"):
         player_for_url="buta"
     
-    if(knombre=="Lucas Silva Melo"):
-        player_for_url="tuta"
+    #if(knombre=="Lucas Silva Melo"):
+        #player_for_url="tuta"
         
     if(knombre=="Jan Schröder"):
         player_for_url="jan-alex-wilson-schroeder"
@@ -260,8 +264,8 @@ for knombre in kader:
     else:
         peso_txt=altura[1].text.split(" ")[1]
     pais=nacion[0].text.split("\r\n")[1].strip()
-    nacion_txt=ts.translate_text(pais, from_language="de", to_language="es")
-
+    nacion_txt=ts.translate_text(pais, translator='google', from_language="de", to_language="es")
+    #nacion_txt=translator.translate(pais, dest='es', src='de')
     
         
     for i in soup:
@@ -326,9 +330,9 @@ for knombre in kader:
     player_dict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": nacion_txt, "Altura": altura_txt, "Peso": peso_txt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": age_in_club, "De": fromclub, "BL": partidosbl, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
     team.append(player_dict)
-
-with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt", "w", "utf-8") as file:
-    for item in team:
+  
+with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json", "w", "utf-8") as jsonfile:
+       for item in team:
         #file.write('\n')    
         for key, value in item.items():
             file.write(key)
@@ -338,9 +342,3 @@ with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt"
         file.write('\n')
 file.close()
 
-team_json=json.dumps(team, indent=4, ensure_ascii=False)
-
-with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json", "w", "utf-8") as jsonfile:
-    
-    jsonfile.write(team_json)
-jsonfile.close()
