@@ -195,9 +195,10 @@
         RB Leipzig  2-3  Bayer 04 Leverkusen
         Bayern München  0-1  Werder Bremen
         Bor. Mönchengladbach  1-2  FC Augsburg
-        Eintracht Frankfurt  1-0  1. FSV Mainz 05
+        1. FSV Mainz 05  1-1  1. FC Union Berlin
 19. Spieltag
 [Fr. 26.1.]
+        Eintracht Frankfurt  1-0  1. FSV Mainz 05
         VfL Wolfsburg  1-1  1. FC Köln
         TSG Hoffenheim  1-1  1. FC Heidenheim
         Werder Bremen  3-1  SC Freiburg
@@ -206,9 +207,9 @@
         Bayer 04 Leverkusen  0-0  Bor. Mönchengladbach
         1. FC Union Berlin  1-0  SV Darmstadt 98
         Borussia Dortmund  3-1  VfL Bochum
-        1. FC Heidenheim  0-0  Borussia Dortmund
 20. Spieltag
 [Fr. 2.2.]
+        1. FC Heidenheim  0-0  Borussia Dortmund
         Bayern München  3-1  Bor. Mönchengladbach
         SC Freiburg  1-3  VfB Stuttgart
         1. FSV Mainz 05  0-1  Werder Bremen
