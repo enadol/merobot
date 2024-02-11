@@ -35,7 +35,7 @@ vereinslos=["Max Kruse"]
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="Borussia Dortmund"
+club="Eintracht Frankfurt"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -234,7 +234,7 @@ for knombre in kader:
     lfilter1=soup.find_all("tbody")
     lfilter2=soup.find_all("span", attrs={"class": klasslaender})
     
-    if len(lfilter1)>1:
+    if len(lfilter1)>=1:
         if lfilter1[1].text.strip().startswith("Länderspiele"):
             laenderspiele=lfilter2[0].text
         else:
