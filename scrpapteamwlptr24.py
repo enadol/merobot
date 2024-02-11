@@ -35,7 +35,7 @@ vereinslos=["Max Kruse"]
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="Eintracht Frankfurt"
+club="Borussia Dortmund"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -46,6 +46,7 @@ klasscompfilter="kick__vita__liglog"
 klasstrikot="kick__player__number"
 klasslaender="kick__bubble__prime"
 klassages="kick__table-small-txt"
+klasstarjetas="kick__site-padding kick__gameinfo-block"
 
 def mod_player(player):
     player_def=""
@@ -225,22 +226,36 @@ for knombre in kader:
     altura=soup.find_all("div", attrs={"class": klassalturapeso})
     nacion=soup.find_all("div", attrs={"class": klassnation})
     trikot=soup.find_all("span", attrs={"class": klasstrikot})
-        
+    cards=soup.find_all("div", attrs={"class": klasstarjetas})  
     
     indicepc=past_club_index(past_club)
 
     born1=dates[1].text.split(" ")[1][:10]
     
     lfilter1=soup.find_all("tbody")
-    lfilter2=soup.find_all("span", attrs={"class": klasslaender})
+    #lfilter2=soup.find_all("span", attrs={"class": klasslaender})
     
-    if len(lfilter1)>=1:
-        if lfilter1[1].text.strip().startswith("Länderspiele"):
-            laenderspiele=lfilter2[0].text
-        else:
-            laenderspiele="No"
-    else:
-        laenderspiele="No"
+    for card in cards:
+        if "Karrieredaten" in card.text:
+            card_selected=card
+            if "Länderspiele" in card_selected.text:
+                lfilter2=soup.find_all("span", attrs={"class": klasslaender})
+                laenderspiele_text=lfilter2[0].text
+                laenderspiele=laenderspiele_text
+            else:
+                laenderspiele="No"
+ #   if len(lfilter1)>1:
+ #       if lfilter1[1].text.strip().startswith("Länderspiele"):
+ #           laenderspiele_text=lfilter2[0].text
+ #       else:
+ #           laenderspiele_text="No"
+ #   elif len(lfilter1)==1:
+ #       if lfilter1[1].text.strip().startswith("Länderspiele"):
+ #           laenderspiele_text=lfilter2[0].text
+ #       else:
+ #           laenderspiele_text="No"
+    #else:
+ #   laenderspiele=laenderspiele_text
     
     
     if(knombre in vereinslos):
