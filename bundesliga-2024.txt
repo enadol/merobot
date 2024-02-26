@@ -248,3 +248,6 @@
         Werder Bremen  1-1  SV Darmstadt 98
         VfB Stuttgart  1-1  1. FC Köln
         Bayern München  2-1  RB Leipzig
+        Eintracht Frankfurt  2-2  VfL Wolfsburg
+        Borussia Dortmund  2-3  TSG Hoffenheim
+        FC Augsburg  2-1  SC Freiburg
