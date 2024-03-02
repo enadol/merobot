@@ -35,7 +35,7 @@ vereinslos=["Max Kruse"]
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="FC Augsburg"
+club="RB Leipzig"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -281,7 +281,7 @@ for knombre in kader:
     else:
         peso_txt=altura[1].text.split(" ")[1]
     pais=nacion[0].text.split("\r\n")[1].strip()
-    nacion_txt=ts.translate_text(pais, translator='bing', from_language='de' , to_language='es')
+    nacion_txt=ts.translate_text(pais, translator='alibaba', from_language='de' , to_language='es')
     #nacion_txt=pais
     #nacion_txt=translator.translate(pais, dest='es', src='de')
    
