@@ -28,14 +28,14 @@ triplicates=["Maximilian Bauer", "Florian Müller"]
 sextuples=["Andreas Müller"]
 exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 revert=["Dikeni Salifou"]
-vereinslos=["Max Kruse"]
+vereinslos=["Max Kruse", "Anwar El Ghazi"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="Borussia Dortmund"
+club="1 FSV Mainz 05"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
