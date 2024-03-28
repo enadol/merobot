@@ -97,7 +97,7 @@
         "BL": "112",
         "Número": "5",
         "Contrato": "30.06.2027",
-        "Selección": "60"
+        "Selección": "61"
     },
     {
         "Jugador": "Mats Hummels",
@@ -197,7 +197,7 @@
         "BL": "111",
         "Número": "26",
         "Contrato": "30.06.2026",
-        "Selección": "22"
+        "Selección": "23"
     },
     {
         "Jugador": "Nico Schlotterbeck",
@@ -337,7 +337,7 @@
         "BL": "138",
         "Número": "6",
         "Contrato": "30.06.2026",
-        "Selección": "16"
+        "Selección": "17"
     },
     {
         "Jugador": "Ole Pohlmann",
@@ -397,7 +397,7 @@
         "BL": "205",
         "Número": "20",
         "Contrato": "30.06.2027",
-        "Selección": "77"
+        "Selección": "78"
     },
     {
         "Jugador": "Marius Wolf",
@@ -497,7 +497,7 @@
         "BL": "152",
         "Número": "14",
         "Contrato": "30.06.2026",
-        "Selección": "13"
+        "Selección": "15"
     },
     {
         "Jugador": "Sebastien Haller",
@@ -537,7 +537,7 @@
         "BL": "76",
         "Número": "21",
         "Contrato": "30.06.2026",
-        "Selección": "28"
+        "Selección": "30"
     },
     {
         "Jugador": "Youssoufa Moukoko",
@@ -562,7 +562,7 @@
     {
         "Jugador": "Jadon Sancho",
         "Nacimiento": "25.03.2000",
-        "Edad": "23",
+        "Edad": "24",
         "Nación": "Inglaterra",
         "Altura": "180",
         "Peso": "76",
@@ -617,7 +617,7 @@
         "BL": "56",
         "Número": "24",
         "Contrato": "N.D.",
-        "Selección": "62"
+        "Selección": "64"
     },
     {
         "Jugador": "Thorgan Hazard",
@@ -657,7 +657,7 @@
         "BL": "90",
         "Número": "7",
         "Contrato": "N.D.",
-        "Selección": "24"
+        "Selección": "26"
     },
     {
         "Jugador": "Samuel Bamba",

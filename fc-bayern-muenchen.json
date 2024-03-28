@@ -22,7 +22,7 @@
     {
         "Jugador": "Manuel Neuer",
         "Nacimiento": "27.03.1986",
-        "Edad": "37",
+        "Edad": "38",
         "Nación": "Alemania",
         "Altura": "193",
         "Peso": "93",
@@ -137,7 +137,7 @@
         "BL": "127",
         "Número": "19",
         "Contrato": "30.06.2025",
-        "Selección": "45"
+        "Selección": "46"
     },
     {
         "Jugador": "Matthijs de Ligt",
@@ -157,7 +157,7 @@
         "BL": "48",
         "Número": "4",
         "Contrato": "30.06.2027",
-        "Selección": "43"
+        "Selección": "44"
     },
     {
         "Jugador": "Eric Dier",
@@ -217,7 +217,7 @@
         "BL": "20",
         "Número": "3",
         "Contrato": "30.06.2028",
-        "Selección": "61"
+        "Selección": "63"
     },
     {
         "Jugador": "Noussair Mazraoui",
@@ -277,7 +277,7 @@
         "BL": "188",
         "Número": "2",
         "Contrato": "30.06.2026",
-        "Selección": "17"
+        "Selección": "18"
     },
     {
         "Jugador": "Kingsley Coman",
@@ -357,7 +357,7 @@
         "BL": "254",
         "Número": "6",
         "Contrato": "30.06.2025",
-        "Selección": "82"
+        "Selección": "84"
     },
     {
         "Jugador": "Konrad Laimer",
@@ -377,7 +377,7 @@
         "BL": "152",
         "Número": "27",
         "Contrato": "30.06.2027",
-        "Selección": "32"
+        "Selección": "34"
     },
     {
         "Jugador": "Thomas Müller",
@@ -397,7 +397,7 @@
         "BL": "466",
         "Número": "25",
         "Contrato": "30.06.2025",
-        "Selección": "126"
+        "Selección": "128"
     },
     {
         "Jugador": "Jamal Musiala",
@@ -417,7 +417,7 @@
         "BL": "111",
         "Número": "42",
         "Contrato": "30.06.2026",
-        "Selección": "25"
+        "Selección": "27"
     },
     {
         "Jugador": "Aleksandar Pavlovic",
@@ -482,7 +482,7 @@
     {
         "Jugador": "Eric Maxim Choupo-Moting",
         "Nacimiento": "23.03.1989",
-        "Edad": "34",
+        "Edad": "35",
         "Nación": "Camerún",
         "Altura": "191",
         "Peso": "90",
