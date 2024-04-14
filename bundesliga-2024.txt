@@ -315,3 +315,5 @@
         Bor. Mönchengladbach  1-2  Borussia Dortmund
         VfL Bochum  1-1  1. FC Heidenheim
         VfB Stuttgart  3-0  Eintracht Frankfurt
+        SV Darmstadt 98  0-1  SC Freiburg
+        Bayer 04 Leverkusen  5-0  Werder Bremen
