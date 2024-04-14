@@ -35,7 +35,7 @@ vereinslos=["Max Kruse", "Anwar El Ghazi"]
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="VfB Stuttgart"
+club="Borussia Dortmund"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
