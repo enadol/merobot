@@ -35,7 +35,7 @@ vereinslos=["Max Kruse", "Anwar El Ghazi"]
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="RB Leipzig"
+club="SC Freiburg"
 torneo="2023-24"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -271,7 +271,8 @@ for knombre in kader:
         else:
             age_in_club=desde[0].text
             vertrag="N.D."
-    fromclub=past_club[indicepc].text[4:].split("\n")[0]
+    #fromclub=past_club[indicepc].text[4:].split("\n")[0]
+    fromclub=past_club[indicepc].text.strip()
     if len(altura)<1:
         altura_txt="N.D."
     else:  
