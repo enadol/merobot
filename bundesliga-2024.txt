@@ -325,3 +325,6 @@
         TSG Hoffenheim  4-3  Bor. Mönchengladbach
         1. FC Heidenheim  1-2  RB Leipzig
         1. FC Union Berlin  1-5  Bayern München
+        Werder Bremen  2-1  VfB Stuttgart
+        Borussia Dortmund  1-1  Bayer 04 Leverkusen
+        SC Freiburg  1-1  1. FSV Mainz 05
