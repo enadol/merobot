@@ -337,3 +337,5 @@
         FC Augsburg  0-3  Werder Bremen
         Bayer 04 Leverkusen  2-2  VfB Stuttgart
         Bor. Mönchengladbach  0-0  1. FC Union Berlin
+        1. FSV Mainz 05  1-1  1. FC Köln
+        SV Darmstadt 98  0-1  1. FC Heidenheim
