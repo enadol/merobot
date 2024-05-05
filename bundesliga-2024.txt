@@ -339,3 +339,11 @@
         Bor. Mönchengladbach  0-0  1. FC Union Berlin
         1. FSV Mainz 05  1-1  1. FC Köln
         SV Darmstadt 98  0-1  1. FC Heidenheim
+32. Spieltag
+[Fr. 3.5.]
+        TSG Hoffenheim  1-1  RB Leipzig
+        Borussia Dortmund  5-1  FC Augsburg
+        VfL Wolfsburg  3-0  SV Darmstadt 98
+        Werder Bremen  2-2  Bor. Mönchengladbach
+        VfB Stuttgart  3-1  Bayern München
+        1. FC Köln  0-0  SC Freiburg
