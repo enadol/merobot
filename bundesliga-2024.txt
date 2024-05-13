@@ -358,3 +358,6 @@
         Bor. Mönchengladbach  1-1  Eintracht Frankfurt
         1. FC Köln  3-2  1. FC Union Berlin
         1. FSV Mainz 05  3-0  Borussia Dortmund
+        SV Darmstadt 98  0-6  TSG Hoffenheim
+        Bayern München  2-0  VfL Wolfsburg
+        VfL Bochum  0-5  Bayer 04 Leverkusen
