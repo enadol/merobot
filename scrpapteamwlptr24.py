@@ -163,11 +163,12 @@ for knombre in kader:
         
     if("Paulinho" in knombre):
         player_for_url=knombre.strip()+"-12"
+
     if("Tuta" in knombre):
         player_for_url="tuta"
     
-    #if("Aaron" in knombre):
-      #  player3="aaron-2"
+    if("Maurides" in knombre):
+        player_for_url="maurides"
         
     if(knombre=="Kelian Nsona"):
         player_for_url=f"{player_for_url}-wa-saka"
