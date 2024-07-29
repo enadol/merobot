@@ -177,6 +177,9 @@ for knombre in kader:
         
     if(knombre=="Aurelio Buta"):
         player_for_url="buta"
+        
+    if(knombre == "Fin Stevens"):
+        player_for_url="finley-stevens"
     
     #if(knombre=="Lucas Silva Melo"):
         #player_for_url="tuta"
