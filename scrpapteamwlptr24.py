@@ -35,7 +35,7 @@ vereinslos=["Max Kruse", "Anwar El Ghazi"]
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="FC St Pauli"
+club="Holstein Kiel"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -182,8 +182,8 @@ for knombre in kader:
     if(knombre == "Fin Stevens"):
         player_for_url="finley-stevens"
     
-    #if(knombre=="Lucas Silva Melo"):
-        #player_for_url="tuta"
+    if(knombre=="Colin Kleine-Bekel"):
+        player_for_url="colin-noah-kleine-bekel"
         
     if(knombre=="Jan Schröder"):
         player_for_url="jan-alex-wilson-schroeder"
