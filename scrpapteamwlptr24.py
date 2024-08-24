@@ -31,14 +31,14 @@ exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi"]
 #provisional para primera jornada
-no_games=["Exequiel Palacios", "Gustavo Puerta"]
+no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="Bor Mönchengladbach"
+club="VfL Bochum"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -347,21 +347,21 @@ for knombre in kader:
             played_index=elementix2[1]+1        
             pplayed=soup2[played_index].text.strip().split("/")[0]            
             blgames_index=elementindex[0]+1
-            partidosbl=convert_to_cero(soup2[blgames_index].text.strip().split("\n")[0])
+            partidosbl=soup2[blgames_index].text.strip().split("\n")[0]
             goles_index=elementindex[1]+3
-            golesbl=convert_to_cero(soup2[goles_index].text.strip())
+            golesbl=soup2[goles_index].text.strip()
             assist_index=elementindex[1]+5
-            assists=convert_to_cero(soup2[assist_index].text.strip())
+            assists=soup2[assist_index].text.strip()
             gelb_index=elementindex[1]+9
-            gelbe=convert_to_cero(soup2[gelb_index].text.strip())
+            gelbe=soup2[gelb_index].text.strip()
 #gelbe=datosbl2[gelbindex].text.split("\r\n")[1]
 
             gelb_rot_index=gelb_index+1
-            gelb_rot=convert_to_cero(soup2[gelb_rot_index].text.strip())
+            gelb_rot=soup2[gelb_rot_index].text.strip()
 #gelbrot=datosbl2[gelbrotindex].text.split("\r\n")[1]
 
             rot_index=gelb_rot_index+1
-            rot=convert_to_cero(soup2[rot_index].text.strip())
+            rot=soup2[rot_index].text.strip()
 
 #para número no asignado de camiseta    
     if(len(trikot)>0):
