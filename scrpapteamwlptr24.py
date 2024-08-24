@@ -30,13 +30,15 @@ sextuples=["Andreas Müller"]
 exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi"]
+#provisional para primera jornada
+no_games=["Exequiel Palacios", "Gustavo Puerta"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="Holstein Kiel"
+club="Bor Mönchengladbach"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -79,10 +81,12 @@ def mod_player(player):
     
     return player_def
 
-#def find_indices(ltc, itf):
- #   array=np.array(ltc)
-  #  indices=np.where(array == itf)[0]
-  #  return list(indices)
+def convert_to_cero(indicator):
+    if len(str(indicator)) !=1:
+        indicator=0
+    else:
+        indicator=indicator
+    return indicator
 
 club_for_url=mod_player(club)
 
@@ -318,10 +322,19 @@ for knombre in kader:
             indice=soup2.index(e)
             print(indice)
             elementindex.append(indice)
-    elementix2=elementindex
+        elementix2=elementindex
     #para que corra el carrusel con todos los índices
     if(len(elementix2)>1):
         if knombre in exclude:
+            pplayed="0"
+            partidosbl="0"
+            golesbl="0"
+            assists="0"
+            gelbe="0"
+            gelbrot="0"
+            rot="0"
+            
+        elif knombre in no_games:
             pplayed="0"
             partidosbl="0"
             golesbl="0"
@@ -334,21 +347,21 @@ for knombre in kader:
             played_index=elementix2[1]+1        
             pplayed=soup2[played_index].text.strip().split("/")[0]            
             blgames_index=elementindex[0]+1
-            partidosbl=soup2[blgames_index].text.strip().split("\n")[0]
+            partidosbl=convert_to_cero(soup2[blgames_index].text.strip().split("\n")[0])
             goles_index=elementindex[1]+3
-            golesbl=soup2[goles_index].text.strip()
+            golesbl=convert_to_cero(soup2[goles_index].text.strip())
             assist_index=elementindex[1]+5
-            assists=soup2[assist_index].text.strip()
+            assists=convert_to_cero(soup2[assist_index].text.strip())
             gelb_index=elementindex[1]+9
-            gelbe=soup2[gelb_index].text.strip()
+            gelbe=convert_to_cero(soup2[gelb_index].text.strip())
 #gelbe=datosbl2[gelbindex].text.split("\r\n")[1]
 
             gelb_rot_index=gelb_index+1
-            gelb_rot=soup2[gelb_rot_index].text.strip()
+            gelb_rot=convert_to_cero(soup2[gelb_rot_index].text.strip())
 #gelbrot=datosbl2[gelbrotindex].text.split("\r\n")[1]
 
             rot_index=gelb_rot_index+1
-            rot=soup2[rot_index].text.strip()
+            rot=convert_to_cero(soup2[rot_index].text.strip())
 
 #para número no asignado de camiseta    
     if(len(trikot)>0):
