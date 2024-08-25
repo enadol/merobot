@@ -22,17 +22,17 @@ team=[]
 name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                  "Gil Dias","Fabio Carvalho", "Ilaix Moriba"]
 #player="Sadio Mane"
-brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur"]
+brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 cuatruples=["Timo Becker"]
-quintuples=["Arthur"]
+quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
 exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi"]
 #provisional para primera jornada
-no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong"]
+no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong", "Gabriel Vidovic", "Leroy Sané", "Josip Stanisic"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -40,7 +40,7 @@ no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05
 
-club="Eintracht Frankfurt"
+club="VfL Wolfsburg"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -222,8 +222,14 @@ for knombre in kader:
     if("Arthur" in knombre):
         player_for_url="arthur-5"
         
+    if("Rogerio" in knombre):
+        player_for_url="rogerio-5"
+        
     if(knombre=="Kjell Wätjen"):
         player_for_url="kjell-arik-waetjen"
+        
+    if(knombre=="Mohammed Amoura"):
+        player_for_url="mohammed-elamine-amoura"
     
     url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
