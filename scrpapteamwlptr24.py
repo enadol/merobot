@@ -22,10 +22,11 @@ team=[]
 name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                  "Gil Dias","Fabio Carvalho", "Ilaix Moriba"]
 #player="Sadio Mane"
-brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides"]
+brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 cuatruples=["Timo Becker"]
+quintuples=["Arthur"]
 sextuples=["Andreas Müller"]
 exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 revert=["Dikeni Salifou"]
@@ -38,7 +39,7 @@ no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong"]
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1FC Heidenheim
 
-club="VfL Bochum"
+club="Bayer 04 Leverkusen"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -161,7 +162,6 @@ for knombre in kader:
         
     if(knombre in cuatruples):
         player_for_url=f"{player_for_url}-4"
-
     
     if(knombre in sextuples):
         player_for_url=f"{player_for_url}-6"
@@ -187,6 +187,9 @@ for knombre in kader:
         
     if(knombre=="Aurelio Buta"):
         player_for_url="buta"
+        
+    if(knombre=="Jeanuel Belocian"):
+        player_for_url="jeanu-l-belocian"
         
     if(knombre == "Fin Stevens"):
         player_for_url="finley-stevens"
@@ -215,6 +218,8 @@ for knombre in kader:
     if(knombre=="Olivier Deman"):
         player_for_url="oliver-deman"
     
+    if("Arthur" in knombre):
+        player_for_url="arthur-5"
     
     url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
