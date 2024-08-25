@@ -23,7 +23,7 @@ name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                  "Gil Dias","Fabio Carvalho", "Ilaix Moriba"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur"]
@@ -37,9 +37,10 @@ no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong"]
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
 #Bor Mönchengladbach para Gladbach
-#Bayer 04 Leverkusen 1FC Heidenheim
+#Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
+# 1 FSV Mainz 05
 
-club="Bayer 04 Leverkusen"
+club="Eintracht Frankfurt"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -220,6 +221,9 @@ for knombre in kader:
     
     if("Arthur" in knombre):
         player_for_url="arthur-5"
+        
+    if(knombre=="Kjell Wätjen"):
+        player_for_url="kjell-arik-waetjen"
     
     url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
