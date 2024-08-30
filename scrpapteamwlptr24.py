@@ -40,7 +40,7 @@ no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong", "Gabriel Vid
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05
 
-club="VfL Wolfsburg"
+club="RB Leipzig"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
