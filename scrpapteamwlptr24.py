@@ -20,7 +20,7 @@ nachnamen=[]
 kader=[]
 team=[]
 name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
-                 "Gil Dias","Fabio Carvalho", "Ilaix Moriba"]
+                 "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic"]
@@ -40,7 +40,7 @@ no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong", "Gabriel Vid
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05
 
-club="RB Leipzig"
+club="Bayer 04 Leverkusen"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
