@@ -20,7 +20,7 @@ nachnamen=[]
 kader=[]
 team=[]
 name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
-                 "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia"]
+                 "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", "Joao Palhinha"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida"]
@@ -40,7 +40,7 @@ no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong", "Gabriel Vid
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05
 
-club="Bor Mönchengladbach"
+club="FC Bayern München"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -166,7 +166,6 @@ for knombre in kader:
     
     if(knombre in sextuples):
         player_for_url=f"{player_for_url}-6"
-
         
     if("Perea" in knombre):
         player_for_url=f"{player_for_url}-mendoza"
@@ -233,6 +232,9 @@ for knombre in kader:
         
     if(knombre=="Assan Ouedraogo"):
         player_for_url="forzan-ouedraogo"
+        
+    if(knombre=="Joao Palhinha"):
+        player_for_url="palhinha"
 
     
     url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
