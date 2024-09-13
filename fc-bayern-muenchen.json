@@ -62,7 +62,7 @@
     {
         "Jugador": "Sacha Boey",
         "Nacimiento": "13.09.2000",
-        "Edad": "23",
+        "Edad": "24",
         "Nación": "Francia",
         "Altura": "178",
         "Peso": "76",
@@ -117,7 +117,7 @@
         "BL": "136",
         "Número": "19",
         "Contrato": "30.06.2025",
-        "Selección": "55"
+        "Selección": "56"
     },
     {
         "Jugador": "Eric Dier",
@@ -197,7 +197,7 @@
         "BL": "27",
         "Número": "3",
         "Contrato": "30.06.2028",
-        "Selección": "64"
+        "Selección": "65"
     },
     {
         "Jugador": "Joshua Kimmich",
@@ -217,7 +217,7 @@
         "BL": "264",
         "Número": "6",
         "Contrato": "30.06.2025",
-        "Selección": "92"
+        "Selección": "93"
     },
     {
         "Jugador": "Josip Stanisic",
@@ -257,7 +257,7 @@
         "BL": "196",
         "Número": "2",
         "Contrato": "30.06.2026",
-        "Selección": "26"
+        "Selección": "27"
     },
     {
         "Jugador": "Kingsley Coman",
@@ -357,12 +357,12 @@
         "BL": "160",
         "Número": "27",
         "Contrato": "30.06.2027",
-        "Selección": "41"
+        "Selección": "42"
     },
     {
         "Jugador": "Thomas Müller",
         "Nacimiento": "13.09.1989",
-        "Edad": "34",
+        "Edad": "35",
         "Nación": "Alemania",
         "Altura": "185",
         "Peso": "76",
@@ -397,7 +397,7 @@
         "BL": "116",
         "Número": "42",
         "Contrato": "30.06.2026",
-        "Selección": "35"
+        "Selección": "36"
     },
     {
         "Jugador": "Michael Olise",
@@ -417,7 +417,7 @@
         "BL": "2",
         "Número": "17",
         "Contrato": "30.06.2029",
-        "Selección": "1"
+        "Selección": "2"
     },
     {
         "Jugador": "Aleksandar Pavlovic",
@@ -437,7 +437,7 @@
         "BL": "21",
         "Número": "45",
         "Contrato": "30.06.2029",
-        "Selección": "2"
+        "Selección": "3"
     },
     {
         "Jugador": "Leroy Sané",
@@ -517,7 +517,7 @@
         "BL": "0",
         "Número": "31",
         "Contrato": "N.D.",
-        "Selección": "3"
+        "Selección": "4"
     },
     {
         "Jugador": "Harry Kane",
@@ -537,6 +537,6 @@
         "BL": "34",
         "Número": "9",
         "Contrato": "30.06.2027",
-        "Selección": "99"
+        "Selección": "100"
     }
 ]
