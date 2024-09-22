@@ -31,3 +31,14 @@
         Holstein Kiel  1-6  Bayern München
         FC Augsburg  3-1  FC St. Pauli
         1. FSV Mainz 05  1-2  Werder Bremen
+4. Spieltag
+[Fr. 20.9.]
+        FC Augsburg  2-3  1. FSV Mainz 05
+        1. FC Heidenheim  0-3  SC Freiburg
+        Werder Bremen  0-5  Bayern München
+        1. FC Union Berlin  2-1  TSG Hoffenheim
+        VfL Bochum  2-2  Holstein Kiel
+        Eintracht Frankfurt  2-0  Bor. Mönchengladbach
+        Bayer 04 Leverkusen  4-3  VfL Wolfsburg
+        VfB Stuttgart  5-1  Borussia Dortmund
+        FC St. Pauli  0-0  RB Leipzig
