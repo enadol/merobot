@@ -42,3 +42,14 @@
         Bayer 04 Leverkusen  4-3  VfL Wolfsburg
         VfB Stuttgart  5-1  Borussia Dortmund
         FC St. Pauli  0-0  RB Leipzig
+5. Spieltag
+[Fr. 27.9.]
+        Borussia Dortmund  4-2  VfL Bochum
+        RB Leipzig  4-0  FC Augsburg
+        SC Freiburg  0-3  FC St. Pauli
+        VfL Wolfsburg  2-2  VfB Stuttgart
+        1. FSV Mainz 05  0-2  1. FC Heidenheim
+        Bor. Mönchengladbach  1-0  1. FC Union Berlin
+        Bayern München  1-1  Bayer 04 Leverkusen
+        Holstein Kiel  2-4  Eintracht Frankfurt
+        TSG Hoffenheim  3-4  Werder Bremen
