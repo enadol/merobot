@@ -32,7 +32,7 @@ exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
-no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong", "Gabriel Vidovic", "Leroy Sané", "Josip Stanisic"]
+no_games=["Gustavo Puerta", "Gabriel Vidovic", "Josip Stanisic", "Tarek Buchmann"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -40,7 +40,7 @@ no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong", "Gabriel Vid
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli
 
-club="Bayer 04 Leverkusen"
+club="FC Bayern München"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
