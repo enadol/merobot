@@ -30,7 +30,7 @@ quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
 exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 revert=["Dikeni Salifou"]
-vereinslos=["Max Kruse", "Anwar El Ghazi"]
+vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
 no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong", "Gabriel Vidovic", "Leroy Sané", "Josip Stanisic"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
@@ -38,9 +38,9 @@ no_games=["Exequiel Palacios", "Gustavo Puerta", "Woo-Yeong Jeong", "Gabriel Vid
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
-# 1 FSV Mainz 05
+# 1 FSV Mainz 05 FC St Pauli
 
-club="FC St Pauli"
+club="Bayer 04 Leverkusen"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -235,8 +235,7 @@ for knombre in kader:
         
     if(knombre=="Joao Palhinha"):
         player_for_url="palhinha"
-
-    
+        
     url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
     mdpage= requests.get(url_player)
