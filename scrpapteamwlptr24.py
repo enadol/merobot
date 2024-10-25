@@ -40,7 +40,7 @@ no_games=["Gustavo Puerta", "Gabriel Vidovic", "Josip Stanisic", "Tarek Buchmann
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli
 
-club="Werder Bremen"
+club="Bayer 04 Leverkusen"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -218,7 +218,7 @@ for knombre in kader:
     if(knombre=="Olivier Deman"):
         player_for_url="oliver-deman"
     
-    if(knombre=="Arthur "):
+    if(knombre=="Arthur  "):
         player_for_url="arthur-5"
         
     if("Rogerio" in knombre):
