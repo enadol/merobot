@@ -40,7 +40,7 @@ no_games=["Gustavo Puerta", "Gabriel Vidovic", "Josip Stanisic", "Tarek Buchmann
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli
 
-club="Bayer 04 Leverkusen"
+club="Werder Bremen"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -235,6 +235,15 @@ for knombre in kader:
         
     if(knombre=="Joao Palhinha"):
         player_for_url="palhinha"
+        
+    if(knombre=="Isak Hansen-Aaröen"):
+        player_for_url="isak-hansen-aaroen"
+        
+    if(knombre=="Abdenego Nankishi"):
+        player_for_url="abedenego-nankishi"
+        
+    if(knombre=="Keke Topp"):
+        player_for_url="keke-maximilian-topp"
         
     url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
