@@ -1,0 +1,374 @@
+1. Spieltag
+[Fr. 20.8.]
+        Borussia Dortmund  1-1  VfB Stuttgart
+        1. FC Kaiserslautern  2-2  Hertha BSC
+        Bayer 04 Leverkusen  0-1  Arminia Bielefeld
+        Karlsruher SC  1-0  Eintracht Frankfurt
+        Fortuna Düsseldorf  2-0  VfL Bochum
+        Werder Bremen  1-0  Bayern München
+        1. FC Nürnberg  2-2  Hamburger SV
+        FC Schalke 04  2-4  Bor. Mönchengladbach
+        Eintracht Braunschweig  2-2  1. FC Köln
+2. Spieltag
+[Di. 17.8.]
+        Hertha BSC  1-3  Borussia Dortmund
+        VfB Stuttgart  2-1  FC Schalke 04
+        Bayern München  1-0  Fortuna Düsseldorf
+        VfL Bochum  0-1  Karlsruher SC
+        Eintracht Frankfurt  5-0  Bayer 04 Leverkusen
+        Bor. Mönchengladbach  1-2  1. FC Nürnberg
+        Hamburger SV  1-1  Werder Bremen
+        Arminia Bielefeld  2-0  Eintracht Braunschweig
+        1. FC Köln  3-0  1. FC Kaiserslautern
+3. Spieltag
+[Di. 31.8.]
+        Werder Bremen  2-0  Bor. Mönchengladbach
+        FC Schalke 04  2-0  Hertha BSC
+        Bayer 04 Leverkusen  1-0  VfL Bochum
+        Borussia Dortmund  2-0  1. FC Köln
+        Arminia Bielefeld  2-1  Eintracht Frankfurt
+        Karlsruher SC  0-4  Bayern München
+        1. FC Nürnberg  0-5  VfB Stuttgart
+        Fortuna Düsseldorf  0-6  Hamburger SV
+        Eintracht Braunschweig  1-1  1. FC Kaiserslautern
+4. Spieltag
+[Sa. 4.9.]
+        1. FC Köln  2-1  FC Schalke 04
+        VfB Stuttgart  4-1  Werder Bremen
+        Bor. Mönchengladbach  5-0  Fortuna Düsseldorf
+        Hamburger SV  4-0  Karlsruher SC
+        Bayern München  5-0  Bayer 04 Leverkusen
+        VfL Bochum  1-1  Arminia Bielefeld
+        Eintracht Frankfurt  0-1  Eintracht Braunschweig
+        1. FC Kaiserslautern  0-2  Borussia Dortmund
+        Hertha BSC  5-1  1. FC Nürnberg
+5. Spieltag
+[Fr. 10.9.]
+        Bayer 04 Leverkusen  0-1  Hamburger SV
+        Karlsruher SC  2-0  Bor. Mönchengladbach
+        Fortuna Düsseldorf  1-1  VfB Stuttgart
+        Werder Bremen  3-1  Hertha BSC
+        1. FC Nürnberg  2-1  1. FC Köln
+        FC Schalke 04  0-0  1. FC Kaiserslautern
+        Eintracht Frankfurt  0-1  VfL Bochum
+        Arminia Bielefeld  2-4  Bayern München
+        Eintracht Braunschweig  0-0  Borussia Dortmund
+6. Spieltag
+[Fr. 17.9.]
+        Bor. Mönchengladbach  3-1  Bayer 04 Leverkusen
+        VfL Bochum  0-2  Eintracht Braunschweig
+        1. FC Köln  2-1  Werder Bremen
+        VfB Stuttgart  4-1  Karlsruher SC
+        Hamburger SV  3-1  Arminia Bielefeld
+        Bayern München  4-0  Eintracht Frankfurt
+        Borussia Dortmund  2-0  FC Schalke 04
+        1. FC Kaiserslautern  2-1  1. FC Nürnberg
+        Hertha BSC  1-1  Fortuna Düsseldorf
+7. Spieltag
+[Fr. 24.9.]
+        1. FC Nürnberg  3-2  Borussia Dortmund
+        Bayer 04 Leverkusen  0-3  VfB Stuttgart
+        Karlsruher SC  1-1  Hertha BSC
+        Fortuna Düsseldorf  2-6  1. FC Köln
+        Werder Bremen  3-0  1. FC Kaiserslautern
+        VfL Bochum  0-0  Bayern München
+        Eintracht Frankfurt  1-1  Hamburger SV
+        Arminia Bielefeld  4-2  Bor. Mönchengladbach
+        Eintracht Braunschweig  1-1  FC Schalke 04
+8. Spieltag
+[Fr. 1.10.]
+        Bor. Mönchengladbach  3-1  Eintracht Frankfurt
+        FC Schalke 04  0-1  1. FC Nürnberg
+        Hertha BSC  3-3  Bayer 04 Leverkusen
+        1. FC Köln  4-1  Karlsruher SC
+        VfB Stuttgart  2-2  Arminia Bielefeld
+        Hamburger SV  0-0  VfL Bochum
+        Bayern München  1-1  Eintracht Braunschweig
+        Borussia Dortmund  0-0  Werder Bremen
+        1. FC Kaiserslautern  3-1  Fortuna Düsseldorf
+9. Spieltag
+[Fr. 8.10.]
+        Werder Bremen  4-0  FC Schalke 04
+        Bayer 04 Leverkusen  0-0  1. FC Köln
+        Karlsruher SC  1-1  1. FC Kaiserslautern
+        Fortuna Düsseldorf  2-3  Borussia Dortmund
+        Bayern München  2-2  Hamburger SV
+        VfL Bochum  3-1  Bor. Mönchengladbach
+        Eintracht Frankfurt  3-0  VfB Stuttgart
+        Arminia Bielefeld  2-1  Hertha BSC
+        Eintracht Braunschweig  2-2  1. FC Nürnberg
+10. Spieltag
+[Fr. 22.10.]
+        FC Schalke 04  3-3  Fortuna Düsseldorf
+        1. FC Köln  1-0  Arminia Bielefeld
+        VfB Stuttgart  5-2  VfL Bochum
+        Bor. Mönchengladbach  0-0  Bayern München
+        Hamburger SV  4-0  Eintracht Braunschweig
+        1. FC Nürnberg  2-0  Werder Bremen
+        Borussia Dortmund  4-3  Karlsruher SC
+        1. FC Kaiserslautern  2-0  Bayer 04 Leverkusen
+        Hertha BSC  1-0  Eintracht Frankfurt
+11. Spieltag
+[Sa. 30.10.]
+        Bayer 04 Leverkusen  1-2  Borussia Dortmund
+        Karlsruher SC  2-2  FC Schalke 04
+        Fortuna Düsseldorf  3-1  1. FC Nürnberg
+        Hamburger SV  4-3  Bor. Mönchengladbach
+        Bayern München  4-0  VfB Stuttgart
+        VfL Bochum  4-0  Hertha BSC
+        Eintracht Frankfurt  3-0  1. FC Köln
+        Arminia Bielefeld  2-2  1. FC Kaiserslautern
+        Eintracht Braunschweig  3-1  Werder Bremen
+12. Spieltag
+[Fr. 5.11.]
+        Bor. Mönchengladbach  3-0  Eintracht Braunschweig
+        FC Schalke 04  2-0  Bayer 04 Leverkusen
+        1. FC Köln  4-1  VfL Bochum
+        VfB Stuttgart  1-2  Hamburger SV
+        Werder Bremen  2-2  Fortuna Düsseldorf
+        1. FC Nürnberg  3-1  Karlsruher SC
+        Borussia Dortmund  1-1  Arminia Bielefeld
+        1. FC Kaiserslautern  0-1  Eintracht Frankfurt
+        Hertha BSC  3-0  Bayern München
+13. Spieltag
+[Sa. 13.11.]
+        Bayer 04 Leverkusen  0-1  1. FC Nürnberg
+        Karlsruher SC  2-0  Werder Bremen
+        Bor. Mönchengladbach  4-1  VfB Stuttgart
+        Hamburger SV  1-0  Hertha BSC
+        Bayern München  1-0  1. FC Köln
+        VfL Bochum  1-0  1. FC Kaiserslautern
+        Eintracht Frankfurt  1-0  Borussia Dortmund
+        Arminia Bielefeld  2-2  FC Schalke 04
+        Eintracht Braunschweig  1-2  Fortuna Düsseldorf
+14. Spieltag
+[Fr. 19.11.]
+        Borussia Dortmund  1-2  VfL Bochum
+        1. FC Köln  1-1  Hamburger SV
+        VfB Stuttgart  0-1  Eintracht Braunschweig
+        Fortuna Düsseldorf  3-2  Karlsruher SC
+        Werder Bremen  1-2  Bayer 04 Leverkusen
+        1. FC Nürnberg  1-1  Arminia Bielefeld
+        FC Schalke 04  2-3  Eintracht Frankfurt
+        1. FC Kaiserslautern  2-1  Bayern München
+        Hertha BSC  2-0  Bor. Mönchengladbach
+15. Spieltag
+[Sa. 27.11.]
+        Bayer 04 Leverkusen  3-2  Fortuna Düsseldorf
+        Karlsruher SC  1-2  Eintracht Braunschweig
+        Bor. Mönchengladbach  4-0  1. FC Köln
+        Hamburger SV  1-0  1. FC Kaiserslautern
+        Bayern München  0-2  Borussia Dortmund
+        VfL Bochum  1-0  FC Schalke 04
+        Eintracht Frankfurt  0-2  1. FC Nürnberg
+        Arminia Bielefeld  2-1  Werder Bremen
+        Hertha BSC  0-0  VfB Stuttgart
+16. Spieltag
+[Fr. 3.12.]
+        Eintracht Braunschweig  0-1  Hertha BSC
+        1. FC Köln  2-1  VfB Stuttgart
+        Karlsruher SC  2-0  Bayer 04 Leverkusen
+        Fortuna Düsseldorf  0-0  Arminia Bielefeld
+        Werder Bremen  0-2  Eintracht Frankfurt
+        1. FC Nürnberg  1-0  VfL Bochum
+        Borussia Dortmund  3-1  Hamburger SV
+        1. FC Kaiserslautern  0-2  Bor. Mönchengladbach
+        FC Schalke 04  2-0  Bayern München
+17. Spieltag
+[Fr. 10.12.]
+        Bor. Mönchengladbach  3-1  Borussia Dortmund
+        Bayer 04 Leverkusen  0-1  Eintracht Braunschweig
+        VfB Stuttgart  1-1  1. FC Kaiserslautern
+        Hamburger SV  2-2  FC Schalke 04
+        Bayern München  0-1  1. FC Nürnberg
+        VfL Bochum  2-1  Werder Bremen
+        Eintracht Frankfurt  2-0  Fortuna Düsseldorf
+        Arminia Bielefeld  1-3  Karlsruher SC
+        Hertha BSC  0-0  1. FC Köln
+18. Spieltag
+[Sa. 22.1.]
+        Arminia Bielefeld  2-0  Bayer 04 Leverkusen
+        Eintracht Frankfurt  0-2  Karlsruher SC
+        VfL Bochum  1-0  Fortuna Düsseldorf
+        Bayern München  1-1  Werder Bremen
+        Hamburger SV  0-3  1. FC Nürnberg
+        Bor. Mönchengladbach  0-0  FC Schalke 04
+        VfB Stuttgart  1-1  Borussia Dortmund
+        Hertha BSC  0-0  1. FC Kaiserslautern
+        1. FC Köln  1-1  Eintracht Braunschweig
+19. Spieltag
+[Sa. 29.1.]
+        FC Schalke 04  3-0  VfB Stuttgart
+        1. FC Nürnberg  0-0  Bor. Mönchengladbach
+        Werder Bremen  2-2  Hamburger SV
+        Fortuna Düsseldorf  5-1  Bayern München
+        Karlsruher SC  0-0  VfL Bochum
+        Bayer 04 Leverkusen  1-1  Eintracht Frankfurt
+        Eintracht Braunschweig  0-1  Arminia Bielefeld
+        Borussia Dortmund  1-1  Hertha BSC
+        1. FC Kaiserslautern  2-1  1. FC Köln
+20. Spieltag
+[Sa. 5.2.]
+        Bayern München  1-5  Karlsruher SC
+        VfB Stuttgart  0-2  1. FC Nürnberg
+        Hertha BSC  3-0  FC Schalke 04
+        1. FC Köln  2-1  Borussia Dortmund
+        1. FC Kaiserslautern  2-2  Eintracht Braunschweig
+        Eintracht Frankfurt  1-0  Arminia Bielefeld
+        Bor. Mönchengladbach  2-0  Werder Bremen
+        Hamburger SV  0-1  Fortuna Düsseldorf
+        VfL Bochum  2-1  Bayer 04 Leverkusen
+21. Spieltag
+[Sa. 19.2.]
+        FC Schalke 04  4-0  1. FC Köln
+        Fortuna Düsseldorf  1-1  Bor. Mönchengladbach
+        Karlsruher SC  2-0  Hamburger SV
+        Bayer 04 Leverkusen  1-1  Bayern München
+        Arminia Bielefeld  1-0  VfL Bochum
+        Eintracht Braunschweig  0-1  Eintracht Frankfurt
+        Borussia Dortmund  0-2  1. FC Kaiserslautern
+        1. FC Nürnberg  2-1  Hertha BSC
+        Werder Bremen  2-2  VfB Stuttgart
+22. Spieltag
+[Sa. 26.2.]
+        Hamburger SV  0-1  Bayer 04 Leverkusen
+        VfB Stuttgart  1-1  Fortuna Düsseldorf
+        VfL Bochum  2-1  Eintracht Frankfurt
+        Bayern München  0-3  Arminia Bielefeld
+        Borussia Dortmund  2-2  Eintracht Braunschweig
+        1. FC Köln  2-3  1. FC Nürnberg
+        Bor. Mönchengladbach  0-3  Karlsruher SC
+        Hertha BSC  1-0  Werder Bremen
+        1. FC Kaiserslautern  0-0  FC Schalke 04
+23. Spieltag
+[Sa. 5.3.]
+        Werder Bremen  1-0  1. FC Köln
+        Karlsruher SC  2-1  VfB Stuttgart
+        Bayer 04 Leverkusen  2-1  Bor. Mönchengladbach
+        Arminia Bielefeld  0-1  Hamburger SV
+        Eintracht Frankfurt  0-1  Bayern München
+        Eintracht Braunschweig  2-0  VfL Bochum
+        FC Schalke 04  2-0  Borussia Dortmund
+        1. FC Nürnberg  1-1  1. FC Kaiserslautern
+        Fortuna Düsseldorf  1-0  Hertha BSC
+24. Spieltag
+[Fr. 11.3.]
+        Borussia Dortmund  0-0  1. FC Nürnberg
+        VfB Stuttgart  3-1  Bayer 04 Leverkusen
+        Hertha BSC  2-1  Karlsruher SC
+        1. FC Köln  0-3  Fortuna Düsseldorf
+        1. FC Kaiserslautern  1-2  Werder Bremen
+        Bayern München  0-0  VfL Bochum
+        Hamburger SV  0-2  Eintracht Frankfurt
+        Bor. Mönchengladbach  0-1  Arminia Bielefeld
+        FC Schalke 04  3-1  Eintracht Braunschweig
+25. Spieltag
+[Fr. 18.3.]
+        1. FC Nürnberg  2-2  FC Schalke 04
+        Werder Bremen  2-2  Borussia Dortmund
+        Karlsruher SC  1-0  1. FC Köln
+        Eintracht Frankfurt  0-2  Bor. Mönchengladbach
+        VfL Bochum  1-0  Hamburger SV
+        Eintracht Braunschweig  1-1  Bayern München
+        Fortuna Düsseldorf  1-1  1. FC Kaiserslautern
+        Bayer 04 Leverkusen  1-2  Hertha BSC
+        Arminia Bielefeld  2-0  VfB Stuttgart
+26. Spieltag
+[Fr. 25.3.]
+        Borussia Dortmund  2-0  Fortuna Düsseldorf
+        Hertha BSC  0-1  Arminia Bielefeld
+        1. FC Kaiserslautern  0-4  Karlsruher SC
+        FC Schalke 04  2-0  Werder Bremen
+        Hamburger SV  1-1  Bayern München
+        Bor. Mönchengladbach  1-2  VfL Bochum
+        VfB Stuttgart  1-2  Eintracht Frankfurt
+        1. FC Nürnberg  0-0  Eintracht Braunschweig
+        1. FC Köln  1-2  Bayer 04 Leverkusen
+27. Spieltag
+[Fr. 8.4.]
+        Werder Bremen  2-3  1. FC Nürnberg
+        Bayer 04 Leverkusen  0-0  1. FC Kaiserslautern
+        Arminia Bielefeld  0-0  1. FC Köln
+        VfL Bochum  2-0  VfB Stuttgart
+        Bayern München  1-1  Bor. Mönchengladbach
+        Eintracht Braunschweig  4-1  Hamburger SV
+        Fortuna Düsseldorf  1-2  FC Schalke 04
+        Eintracht Frankfurt  1-2  Hertha BSC
+        Karlsruher SC  0-2  Borussia Dortmund
+28. Spieltag
+[Fr. 15.4.]
+        Borussia Dortmund  3-0  Bayer 04 Leverkusen
+        1. FC Nürnberg  1-2  Fortuna Düsseldorf
+        1. FC Kaiserslautern  0-0  Arminia Bielefeld
+        FC Schalke 04  0-1  Karlsruher SC
+        Bor. Mönchengladbach  1-0  Hamburger SV
+        VfB Stuttgart  1-0  Bayern München
+        Hertha BSC  1-0  VfL Bochum
+        1. FC Köln  2-1  Eintracht Frankfurt
+        Werder Bremen  0-3  Eintracht Braunschweig
+29. Spieltag
+[Fr. 29.4.]
+        Karlsruher SC  1-1  1. FC Nürnberg
+        Arminia Bielefeld  0-0  Borussia Dortmund
+        Bayern München  0-1  Hertha BSC
+        VfL Bochum  0-0  1. FC Köln
+        Hamburger SV  0-0  VfB Stuttgart
+        Eintracht Braunschweig  0-0  Bor. Mönchengladbach
+        Fortuna Düsseldorf  5-0  Werder Bremen
+        Bayer 04 Leverkusen  1-1  FC Schalke 04
+        Eintracht Frankfurt  2-2  1. FC Kaiserslautern
+30. Spieltag
+[Fr. 6.5.]
+        VfB Stuttgart  2-1  Bor. Mönchengladbach
+        Hertha BSC  2-1  Hamburger SV
+        Fortuna Düsseldorf  0-1  Eintracht Braunschweig
+        1. FC Nürnberg  1-0  Bayer 04 Leverkusen
+        Werder Bremen  0-1  Karlsruher SC
+        1. FC Köln  0-1  Bayern München
+        1. FC Kaiserslautern  0-1  VfL Bochum
+        Borussia Dortmund  1-1  Eintracht Frankfurt
+        FC Schalke 04  0-3  Arminia Bielefeld
+31. Spieltag
+[Fr. 13.5.]
+        Arminia Bielefeld  0-2  1. FC Nürnberg
+        Karlsruher SC  1-0  Fortuna Düsseldorf
+        Bayer 04 Leverkusen  1-1  Werder Bremen
+        Hamburger SV  1-1  1. FC Köln
+        Eintracht Braunschweig  2-1  VfB Stuttgart
+        Eintracht Frankfurt  2-0  FC Schalke 04
+        VfL Bochum  2-1  Borussia Dortmund
+        Bayern München  1-0  1. FC Kaiserslautern
+        Bor. Mönchengladbach  1-2  Hertha BSC
+32. Spieltag
+[Fr. 20.5.]
+        1. FC Köln  1-0  Bor. Mönchengladbach
+        FC Schalke 04  0-0  VfL Bochum
+        VfB Stuttgart  1-2  Hertha BSC
+        Fortuna Düsseldorf  0-2  Bayer 04 Leverkusen
+        Eintracht Braunschweig  1-1  Karlsruher SC
+        1. FC Kaiserslautern  2-0  Hamburger SV
+        Borussia Dortmund  4-1  Bayern München
+        1. FC Nürnberg  0-1  Eintracht Frankfurt
+        Werder Bremen  1-2  Arminia Bielefeld
+33. Spieltag
+[Sa. 28.5.]
+        VfB Stuttgart  1-1  1. FC Köln
+        Bayer 04 Leverkusen  1-0  Karlsruher SC
+        Arminia Bielefeld  1-1  Fortuna Düsseldorf
+        Eintracht Frankfurt  1-0  Werder Bremen
+        VfL Bochum  0-3  1. FC Nürnberg
+        Bayern München  1-0  FC Schalke 04
+        Hamburger SV  0-3  Borussia Dortmund
+        Bor. Mönchengladbach  2-2  1. FC Kaiserslautern
+        Hertha BSC  3-2  Eintracht Braunschweig
+34. Spieltag
+[Sa. 4.6.]
+        Eintracht Braunschweig  3-1  Bayer 04 Leverkusen
+        1. FC Kaiserslautern  3-1  VfB Stuttgart
+        Borussia Dortmund  6-3  Bor. Mönchengladbach
+        FC Schalke 04  2-1  Hamburger SV
+        1. FC Nürnberg  3-2  Bayern München
+        Werder Bremen  2-1  VfL Bochum
+        Fortuna Düsseldorf  1-3  Eintracht Frankfurt
+        Karlsruher SC  1-0  Arminia Bielefeld
+        1. FC Köln  2-1  Hertha BSC
