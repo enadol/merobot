@@ -1,0 +1,374 @@
+1. Spieltag
+[Sa. 9.8.]
+        Hannover 96  3-3  Bor. Mönchengladbach
+        Bayern München  1-1  Eintracht Braunschweig
+        1. FC Kaiserslautern  2-2  Kickers Offenbach
+        Eintracht Frankfurt  0-2  Karlsruher SC
+        Hamburger SV  4-1  FC Schalke 04
+        VfL Bochum  0-3  Werder Bremen
+        MSV Duisburg  2-2  Fortuna Düsseldorf
+        Rot-Weiss Essen  2-1  Bayer 05 Uerdingen
+        Hertha BSC  2-1  1. FC Köln
+2. Spieltag
+[Fr. 15.8.]
+        Kickers Offenbach  3-2  Hamburger SV
+        Werder Bremen  1-2  Eintracht Frankfurt
+        Bor. Mönchengladbach  3-0  1. FC Kaiserslautern
+        Eintracht Braunschweig  5-2  Hertha BSC
+        FC Schalke 04  5-1  MSV Duisburg
+        Bayer 05 Uerdingen  0-0  VfL Bochum
+        Fortuna Düsseldorf  5-2  Rot-Weiss Essen
+        1. FC Köln  2-1  Hannover 96
+        Karlsruher SC  1-2  Bayern München
+3. Spieltag
+[Fr. 22.8.]
+        Bayern München  4-0  Werder Bremen
+        1. FC Kaiserslautern  2-2  Hannover 96
+        Hamburger SV  0-0  Bor. Mönchengladbach
+        Hertha BSC  1-1  Karlsruher SC
+        MSV Duisburg  6-2  Kickers Offenbach
+        Eintracht Frankfurt  3-1  Bayer 05 Uerdingen
+        Rot-Weiss Essen  0-0  FC Schalke 04
+        VfL Bochum  0-1  Fortuna Düsseldorf
+        Eintracht Braunschweig  0-0  1. FC Köln
+4. Spieltag
+[Di. 26.8.]
+        Bor. Mönchengladbach  3-0  MSV Duisburg
+        Fortuna Düsseldorf  1-1  Eintracht Frankfurt
+        Bayer 05 Uerdingen  2-1  Bayern München
+        Werder Bremen  3-2  Hertha BSC
+        Kickers Offenbach  0-4  Rot-Weiss Essen
+        FC Schalke 04  1-1  VfL Bochum
+        Hannover 96  1-0  Hamburger SV
+        Karlsruher SC  0-2  Eintracht Braunschweig
+        1. FC Köln  1-1  1. FC Kaiserslautern
+5. Spieltag
+[Sa. 30.8.]
+        Rot-Weiss Essen  1-3  Bor. Mönchengladbach
+        Hertha BSC  5-0  Bayer 05 Uerdingen
+        VfL Bochum  5-1  Kickers Offenbach
+        Eintracht Frankfurt  2-1  FC Schalke 04
+        Bayern München  5-0  Fortuna Düsseldorf
+        MSV Duisburg  4-3  Hannover 96
+        Eintracht Braunschweig  3-2  Werder Bremen
+        Hamburger SV  2-0  1. FC Kaiserslautern
+        Karlsruher SC  3-1  1. FC Köln
+6. Spieltag
+[Sa. 6.9.]
+        Bor. Mönchengladbach  1-1  VfL Bochum
+        Fortuna Düsseldorf  2-1  Hertha BSC
+        Kickers Offenbach  2-1  Eintracht Frankfurt
+        FC Schalke 04  2-2  Bayern München
+        Hannover 96  0-0  Rot-Weiss Essen
+        Bayer 05 Uerdingen  0-0  Eintracht Braunschweig
+        1. FC Kaiserslautern  3-0  MSV Duisburg
+        Werder Bremen  1-0  Karlsruher SC
+        1. FC Köln  1-1  Hamburger SV
+7. Spieltag
+[Fr. 12.9.]
+        MSV Duisburg  1-1  Hamburger SV
+        Eintracht Frankfurt  1-1  Bor. Mönchengladbach
+        Hertha BSC  2-1  FC Schalke 04
+        Bayern München  3-1  Kickers Offenbach
+        VfL Bochum  2-0  Hannover 96
+        Eintracht Braunschweig  3-1  Fortuna Düsseldorf
+        Rot-Weiss Essen  5-1  1. FC Kaiserslautern
+        Karlsruher SC  1-0  Bayer 05 Uerdingen
+        Werder Bremen  3-2  1. FC Köln
+8. Spieltag
+[Fr. 19.9.]
+        1. FC Kaiserslautern  2-1  VfL Bochum
+        Bor. Mönchengladbach  4-1  Bayern München
+        Kickers Offenbach  2-1  Hertha BSC
+        Hannover 96  3-2  Eintracht Frankfurt
+        FC Schalke 04  5-1  Eintracht Braunschweig
+        Fortuna Düsseldorf  0-2  Karlsruher SC
+        Hamburger SV  4-1  Rot-Weiss Essen
+        Bayer 05 Uerdingen  2-1  Werder Bremen
+        1. FC Köln  3-2  MSV Duisburg
+9. Spieltag
+[Sa. 27.9.]
+        Eintracht Braunschweig  5-1  Kickers Offenbach
+        Eintracht Frankfurt  1-1  1. FC Kaiserslautern
+        Karlsruher SC  2-2  FC Schalke 04
+        VfL Bochum  0-3  Hamburger SV
+        Werder Bremen  3-0  Fortuna Düsseldorf
+        Rot-Weiss Essen  5-2  MSV Duisburg
+        Bayer 05 Uerdingen  1-1  1. FC Köln
+        Bayern München  3-1  Hannover 96
+        Hertha BSC  3-0  Bor. Mönchengladbach
+10. Spieltag
+[Sa. 4.10.]
+        Bor. Mönchengladbach  0-0  Eintracht Braunschweig
+        Hannover 96  2-6  Hertha BSC
+        Kickers Offenbach  0-0  Karlsruher SC
+        Hamburger SV  4-2  Eintracht Frankfurt
+        FC Schalke 04  4-2  Werder Bremen
+        MSV Duisburg  1-1  VfL Bochum
+        Fortuna Düsseldorf  2-0  Bayer 05 Uerdingen
+        1. FC Köln  3-0  Rot-Weiss Essen
+        1. FC Kaiserslautern  2-1  Bayern München
+11. Spieltag
+[Fr. 24.10.]
+        VfL Bochum  2-1  Rot-Weiss Essen
+        Bayer 05 Uerdingen  3-2  FC Schalke 04
+        Hertha BSC  3-0  1. FC Kaiserslautern
+        Werder Bremen  3-1  Kickers Offenbach
+        Eintracht Frankfurt  1-1  MSV Duisburg
+        Fortuna Düsseldorf  0-0  1. FC Köln
+        Bayern München  1-0  Hamburger SV
+        Eintracht Braunschweig  3-2  Hannover 96
+        Karlsruher SC  2-4  Bor. Mönchengladbach
+12. Spieltag
+[Fr. 31.10.]
+        Bor. Mönchengladbach  3-0  Werder Bremen
+        Rot-Weiss Essen  4-3  Eintracht Frankfurt
+        FC Schalke 04  2-0  Fortuna Düsseldorf
+        1. FC Köln  1-0  VfL Bochum
+        MSV Duisburg  1-1  Bayern München
+        Hamburger SV  2-1  Hertha BSC
+        Kickers Offenbach  2-3  Bayer 05 Uerdingen
+        Hannover 96  2-0  Karlsruher SC
+        1. FC Kaiserslautern  3-1  Eintracht Braunschweig
+13. Spieltag
+[Sa. 8.11.]
+        Bayer 05 Uerdingen  1-1  Bor. Mönchengladbach
+        Hertha BSC  1-2  MSV Duisburg
+        Fortuna Düsseldorf  0-0  Kickers Offenbach
+        Eintracht Frankfurt  6-0  VfL Bochum
+        FC Schalke 04  3-1  1. FC Köln
+        Bayern München  5-1  Rot-Weiss Essen
+        Werder Bremen  0-0  Hannover 96
+        Eintracht Braunschweig  1-0  Hamburger SV
+        Karlsruher SC  3-5  1. FC Kaiserslautern
+14. Spieltag
+[Fr. 14.11.]
+        Kickers Offenbach  1-1  FC Schalke 04
+        Bor. Mönchengladbach  1-0  Fortuna Düsseldorf
+        Rot-Weiss Essen  3-1  Hertha BSC
+        1. FC Köln  3-3  Eintracht Frankfurt
+        VfL Bochum  3-1  Bayern München
+        Hannover 96  3-1  Bayer 05 Uerdingen
+        MSV Duisburg  1-0  Eintracht Braunschweig
+        1. FC Kaiserslautern  4-0  Werder Bremen
+        Hamburger SV  3-0  Karlsruher SC
+15. Spieltag
+[Sa. 22.11.]
+        Bayer 05 Uerdingen  2-2  1. FC Kaiserslautern
+        FC Schalke 04  2-2  Bor. Mönchengladbach
+        Hertha BSC  4-1  VfL Bochum
+        1. FC Köln  4-0  Kickers Offenbach
+        Eintracht Frankfurt  6-0  Bayern München
+        Fortuna Düsseldorf  3-0  Hannover 96
+        Eintracht Braunschweig  1-1  Rot-Weiss Essen
+        Karlsruher SC  2-2  MSV Duisburg
+        Werder Bremen  1-3  Hamburger SV
+16. Spieltag
+[Fr. 28.11.]
+        Bor. Mönchengladbach  2-0  Kickers Offenbach
+        VfL Bochum  2-0  Eintracht Braunschweig
+        Eintracht Frankfurt  1-1  Hertha BSC
+        Hannover 96  1-1  FC Schalke 04
+        1. FC Kaiserslautern  2-1  Fortuna Düsseldorf
+        Rot-Weiss Essen  1-0  Karlsruher SC
+        Hamburger SV  0-0  Bayer 05 Uerdingen
+        MSV Duisburg  2-0  Werder Bremen
+        Bayern München  1-2  1. FC Köln
+17. Spieltag
+[Sa. 6.12.]
+        Bayer 05 Uerdingen  0-4  MSV Duisburg
+        1. FC Köln  0-4  Bor. Mönchengladbach
+        Hertha BSC  2-1  Bayern München
+        Kickers Offenbach  1-0  Hannover 96
+        Eintracht Braunschweig  2-0  Eintracht Frankfurt
+        FC Schalke 04  2-2  1. FC Kaiserslautern
+        Karlsruher SC  2-2  VfL Bochum
+        Fortuna Düsseldorf  1-0  Hamburger SV
+        Werder Bremen  3-3  Rot-Weiss Essen
+18. Spieltag
+[Fr. 16.1.]
+        Fortuna Düsseldorf  1-3  MSV Duisburg
+        Bayer 05 Uerdingen  1-1  Rot-Weiss Essen
+        Bor. Mönchengladbach  2-0  Hannover 96
+        Eintracht Braunschweig  1-1  Bayern München
+        Kickers Offenbach  1-4  1. FC Kaiserslautern
+        Karlsruher SC  1-0  Eintracht Frankfurt
+        FC Schalke 04  0-1  Hamburger SV
+        Werder Bremen  4-1  VfL Bochum
+        1. FC Köln  2-0  Hertha BSC
+19. Spieltag
+[Sa. 24.1.]
+        1. FC Kaiserslautern  0-3  Bor. Mönchengladbach
+        Hertha BSC  1-0  Eintracht Braunschweig
+        Hamburger SV  2-0  Kickers Offenbach
+        Eintracht Frankfurt  2-0  Werder Bremen
+        MSV Duisburg  1-3  FC Schalke 04
+        VfL Bochum  3-0  Bayer 05 Uerdingen
+        Rot-Weiss Essen  2-2  Fortuna Düsseldorf
+        Hannover 96  3-3  1. FC Köln
+        Bayern München  2-0  Karlsruher SC
+20. Spieltag
+[Sa. 7.2.]
+        Bor. Mönchengladbach  1-1  Hamburger SV
+        Karlsruher SC  3-0  Hertha BSC
+        Kickers Offenbach  2-1  MSV Duisburg
+        Bayer 05 Uerdingen  0-5  Eintracht Frankfurt
+        FC Schalke 04  5-1  Rot-Weiss Essen
+        Fortuna Düsseldorf  3-1  VfL Bochum
+        Werder Bremen  0-0  Bayern München
+        Hannover 96  2-0  1. FC Kaiserslautern
+        1. FC Köln  1-1  Eintracht Braunschweig
+21. Spieltag
+[Sa. 14.2.]
+        MSV Duisburg  2-3  Bor. Mönchengladbach
+        Eintracht Frankfurt  5-2  Fortuna Düsseldorf
+        Bayern München  2-0  Bayer 05 Uerdingen
+        Rot-Weiss Essen  2-2  Kickers Offenbach
+        Hamburger SV  3-0  Hannover 96
+        1. FC Kaiserslautern  1-1  1. FC Köln
+        Hertha BSC  0-0  Werder Bremen
+        VfL Bochum  1-4  FC Schalke 04
+        Eintracht Braunschweig  2-0  Karlsruher SC
+22. Spieltag
+[Sa. 21.2.]
+        Bor. Mönchengladbach  1-2  Rot-Weiss Essen
+        Bayer 05 Uerdingen  1-1  Hertha BSC
+        Kickers Offenbach  1-0  VfL Bochum
+        FC Schalke 04  2-4  Eintracht Frankfurt
+        Fortuna Düsseldorf  1-1  Bayern München
+        Hannover 96  0-2  MSV Duisburg
+        Werder Bremen  0-1  Eintracht Braunschweig
+        1. FC Kaiserslautern  2-0  Hamburger SV
+        1. FC Köln  1-3  Karlsruher SC
+23. Spieltag
+[Sa. 6.3.]
+        VfL Bochum  2-0  Bor. Mönchengladbach
+        Hertha BSC  2-2  Fortuna Düsseldorf
+        Eintracht Frankfurt  1-0  Kickers Offenbach
+        Bayern München  3-2  FC Schalke 04
+        Rot-Weiss Essen  1-0  Hannover 96
+        Eintracht Braunschweig  1-0  Bayer 05 Uerdingen
+        MSV Duisburg  1-2  1. FC Kaiserslautern
+        Karlsruher SC  2-0  Werder Bremen
+        Hamburger SV  2-1  1. FC Köln
+24. Spieltag
+[Fr. 12.3.]
+        Hamburger SV  3-0  MSV Duisburg
+        Bor. Mönchengladbach  4-2  Eintracht Frankfurt
+        FC Schalke 04  2-2  Hertha BSC
+        Kickers Offenbach  2-2  Bayern München
+        Hannover 96  4-1  VfL Bochum
+        Fortuna Düsseldorf  3-3  Eintracht Braunschweig
+        1. FC Kaiserslautern  5-0  Rot-Weiss Essen
+        Bayer 05 Uerdingen  1-1  Karlsruher SC
+        1. FC Köln  1-1  Werder Bremen
+25. Spieltag
+[Sa. 20.3.]
+        Bayern München  4-0  Bor. Mönchengladbach
+        Hertha BSC  1-0  Kickers Offenbach
+        Eintracht Frankfurt  5-1  Hannover 96
+        Eintracht Braunschweig  4-1  FC Schalke 04
+        VfL Bochum  2-0  1. FC Kaiserslautern
+        Karlsruher SC  1-0  Fortuna Düsseldorf
+        Rot-Weiss Essen  1-1  Hamburger SV
+        Werder Bremen  3-0  Bayer 05 Uerdingen
+        MSV Duisburg  0-4  1. FC Köln
+26. Spieltag
+[Fr. 26.3.]
+        1. FC Kaiserslautern  3-1  Eintracht Frankfurt
+        MSV Duisburg  4-0  Rot-Weiss Essen
+        Bor. Mönchengladbach  1-1  Hertha BSC
+        Kickers Offenbach  4-2  Eintracht Braunschweig
+        FC Schalke 04  6-2  Karlsruher SC
+        Hamburger SV  5-3  VfL Bochum
+        Fortuna Düsseldorf  3-0  Werder Bremen
+        1. FC Köln  4-0  Bayer 05 Uerdingen
+        Hannover 96  2-2  Bayern München
+27. Spieltag
+[Sa. 10.4.]
+        Eintracht Braunschweig  0-0  Bor. Mönchengladbach
+        Hertha BSC  1-0  Hannover 96
+        Karlsruher SC  2-1  Kickers Offenbach
+        Eintracht Frankfurt  1-0  Hamburger SV
+        Werder Bremen  1-1  FC Schalke 04
+        VfL Bochum  1-2  MSV Duisburg
+        Bayer 05 Uerdingen  2-0  Fortuna Düsseldorf
+        Rot-Weiss Essen  2-3  1. FC Köln
+        Bayern München  3-4  1. FC Kaiserslautern
+28. Spieltag
+[Do. 15.4.]
+        1. FC Kaiserslautern  5-0  Hertha BSC
+        FC Schalke 04  5-1  Bayer 05 Uerdingen
+        Bor. Mönchengladbach  4-0  Karlsruher SC
+        Kickers Offenbach  2-0  Werder Bremen
+        MSV Duisburg  1-1  Eintracht Frankfurt
+        Rot-Weiss Essen  1-0  VfL Bochum
+        1. FC Köln  4-0  Fortuna Düsseldorf
+        Hamburger SV  0-1  Bayern München
+        Hannover 96  2-0  Eintracht Braunschweig
+29. Spieltag
+[Fr. 23.4.]
+        Karlsruher SC  3-2  Hannover 96
+        Eintracht Frankfurt  1-3  Rot-Weiss Essen
+        Fortuna Düsseldorf  1-2  FC Schalke 04
+        Eintracht Braunschweig  2-0  1. FC Kaiserslautern
+        Werder Bremen  2-2  Bor. Mönchengladbach
+        Hertha BSC  1-1  Hamburger SV
+        Bayer 05 Uerdingen  1-2  Kickers Offenbach
+        VfL Bochum  1-0  1. FC Köln
+        Bayern München  3-0  MSV Duisburg
+30. Spieltag
+[Fr. 7.5.]
+        Kickers Offenbach  1-1  Fortuna Düsseldorf
+        Bor. Mönchengladbach  6-1  Bayer 05 Uerdingen
+        MSV Duisburg  2-1  Hertha BSC
+        VfL Bochum  5-3  Eintracht Frankfurt
+        Rot-Weiss Essen  3-3  Bayern München
+        Hannover 96  0-0  Werder Bremen
+        Hamburger SV  4-0  Eintracht Braunschweig
+        1. FC Kaiserslautern  3-1  Karlsruher SC
+        1. FC Köln  2-1  FC Schalke 04
+31. Spieltag
+[Sa. 15.5.]
+        Fortuna Düsseldorf  1-1  Bor. Mönchengladbach
+        Hertha BSC  2-2  Rot-Weiss Essen
+        FC Schalke 04  1-1  Kickers Offenbach
+        Eintracht Frankfurt  2-2  1. FC Köln
+        Bayern München  4-0  VfL Bochum
+        Bayer 05 Uerdingen  1-1  Hannover 96
+        Eintracht Braunschweig  3-1  MSV Duisburg
+        Werder Bremen  3-2  1. FC Kaiserslautern
+        Karlsruher SC  3-2  Hamburger SV
+32. Spieltag
+[Fr. 28.5.]
+        Rot-Weiss Essen  2-2  Eintracht Braunschweig
+        Bor. Mönchengladbach  0-2  FC Schalke 04
+        VfL Bochum  2-0  Hertha BSC
+        Kickers Offenbach  1-5  1. FC Köln
+        Bayern München  1-1  Eintracht Frankfurt
+        Hannover 96  1-2  Fortuna Düsseldorf
+        1. FC Kaiserslautern  1-2  Bayer 05 Uerdingen
+        MSV Duisburg  1-0  Karlsruher SC
+        Hamburger SV  1-2  Werder Bremen
+33. Spieltag
+[Fr. 4.6.]
+        Bayer 05 Uerdingen  0-1  Hamburger SV
+        Kickers Offenbach  1-1  Bor. Mönchengladbach
+        Hertha BSC  4-4  Eintracht Frankfurt
+        FC Schalke 04  1-2  Hannover 96
+        Eintracht Braunschweig  1-1  VfL Bochum
+        Fortuna Düsseldorf  5-1  1. FC Kaiserslautern
+        Karlsruher SC  1-2  Rot-Weiss Essen
+        Werder Bremen  2-0  MSV Duisburg
+        1. FC Köln  1-0  Bayern München
+34. Spieltag
+[Sa. 12.6.]
+        Bor. Mönchengladbach  2-1  1. FC Köln
+        Bayern München  7-4  Hertha BSC
+        Hannover 96  4-0  Kickers Offenbach
+        Eintracht Frankfurt  6-1  Eintracht Braunschweig
+        1. FC Kaiserslautern  1-3  FC Schalke 04
+        VfL Bochum  4-2  Karlsruher SC
+        Hamburger SV  3-1  Fortuna Düsseldorf
+        Rot-Weiss Essen  2-0  Werder Bremen
+        MSV Duisburg  2-0  Bayer 05 Uerdingen
