@@ -1,0 +1,374 @@
+﻿1. Spieltag
+[Fr. 11.8.]
+        Werder Bremen  1-1  Fortuna Düsseldorf
+        VfB Stuttgart  0-0  KFC Uerdingen 05
+        Borussia Dortmund  1-1  1. FC Kaiserslautern
+        1. FC Köln  0-1  FC Schalke 04
+        Bayern München  3-2  Hamburger SV
+        Eintracht Frankfurt  2-2  Karlsruher SC
+        FC St. Pauli  4-2  TSV 1860 München
+        Hansa Rostock  1-2  Bayer 04 Leverkusen
+        Bor. Mönchengladbach  1-0  SC Freiburg
+2. Spieltag
+[Fr. 18.8.]
+        SC Freiburg  0-2  FC St. Pauli
+        Hamburger SV  3-3  Werder Bremen
+        FC Schalke 04  1-3  Hansa Rostock
+        Bayer 04 Leverkusen  1-1  Borussia Dortmund
+        TSV 1860 München  1-1  VfB Stuttgart
+        KFC Uerdingen 05  1-1  Eintracht Frankfurt
+        Karlsruher SC  2-6  Bayern München
+        1. FC Kaiserslautern  1-3  Bor. Mönchengladbach
+        Fortuna Düsseldorf  1-1  1. FC Köln
+3. Spieltag
+[Di. 29.8.]
+        Hansa Rostock  3-2  Borussia Dortmund
+        1. FC Köln  3-2  Hamburger SV
+        Werder Bremen  1-0  Karlsruher SC
+        FC St. Pauli  1-2  1. FC Kaiserslautern
+        Bor. Mönchengladbach  0-0  Bayer 04 Leverkusen
+        Bayern München  2-0  KFC Uerdingen 05
+        Eintracht Frankfurt  4-2  TSV 1860 München
+        VfB Stuttgart  3-1  SC Freiburg
+        FC Schalke 04  1-1  Fortuna Düsseldorf
+4. Spieltag
+[Fr. 1.9.]
+        Karlsruher SC  1-0  1. FC Köln
+        Borussia Dortmund  2-1  Bor. Mönchengladbach
+        Bayer 04 Leverkusen  1-1  FC St. Pauli
+        SC Freiburg  2-0  Eintracht Frankfurt
+        TSV 1860 München  0-2  Bayern München
+        KFC Uerdingen 05  3-0  Werder Bremen
+        Hamburger SV  1-1  FC Schalke 04
+        Fortuna Düsseldorf  2-2  Hansa Rostock
+        1. FC Kaiserslautern  1-1  VfB Stuttgart
+5. Spieltag
+[Fr. 8.9.]
+        1. FC Köln  0-0  KFC Uerdingen 05
+        Werder Bremen  2-0  TSV 1860 München
+        Bayern München  2-0  SC Freiburg
+        Eintracht Frankfurt  3-1  1. FC Kaiserslautern
+        VfB Stuttgart  1-4  Bayer 04 Leverkusen
+        FC St. Pauli  0-3  Borussia Dortmund
+        Fortuna Düsseldorf  2-2  Hamburger SV
+        FC Schalke 04  2-1  Karlsruher SC
+        Hansa Rostock  2-3  Bor. Mönchengladbach
+6. Spieltag
+[Fr. 15.9.]
+        Karlsruher SC  3-1  Fortuna Düsseldorf
+        1. FC Kaiserslautern  2-3  Bayern München
+        Bayer 04 Leverkusen  2-0  Eintracht Frankfurt
+        SC Freiburg  0-1  Werder Bremen
+        TSV 1860 München  2-1  1. FC Köln
+        KFC Uerdingen 05  1-1  FC Schalke 04
+        Borussia Dortmund  6-3  VfB Stuttgart
+        Hamburger SV  1-1  Hansa Rostock
+        Bor. Mönchengladbach  2-4  FC St. Pauli
+7. Spieltag
+[Fr. 22.9.]
+        Eintracht Frankfurt  3-4  Borussia Dortmund
+        Fortuna Düsseldorf  1-0  KFC Uerdingen 05
+        1. FC Köln  1-1  SC Freiburg
+        Werder Bremen  1-1  1. FC Kaiserslautern
+        Bayern München  1-0  Bayer 04 Leverkusen
+        VfB Stuttgart  5-0  Bor. Mönchengladbach
+        Hamburger SV  0-0  Karlsruher SC
+        Hansa Rostock  2-0  FC St. Pauli
+        FC Schalke 04  1-1  TSV 1860 München
+8. Spieltag
+[Fr. 29.9.]
+        KFC Uerdingen 05  1-1  Hamburger SV
+        FC St. Pauli  1-3  VfB Stuttgart
+        Bayer 04 Leverkusen  2-2  Werder Bremen
+        SC Freiburg  1-2  FC Schalke 04
+        TSV 1860 München  2-1  Fortuna Düsseldorf
+        Karlsruher SC  0-2  Hansa Rostock
+        1. FC Kaiserslautern  1-1  1. FC Köln
+        Bor. Mönchengladbach  4-1  Eintracht Frankfurt
+        Borussia Dortmund  3-1  Bayern München
+9. Spieltag
+[Fr. 13.10.]
+        Hansa Rostock  3-3  VfB Stuttgart
+        FC Schalke 04  1-1  1. FC Kaiserslautern
+        Werder Bremen  2-2  Borussia Dortmund
+        Bayern München  1-2  Bor. Mönchengladbach
+        Eintracht Frankfurt  2-2  FC St. Pauli
+        Karlsruher SC  2-0  KFC Uerdingen 05
+        Hamburger SV  2-2  TSV 1860 München
+        Fortuna Düsseldorf  0-0  SC Freiburg
+        1. FC Köln  2-2  Bayer 04 Leverkusen
+10. Spieltag
+[Fr. 20.10.]
+        Bayer 04 Leverkusen  0-0  FC Schalke 04
+        KFC Uerdingen 05  1-1  Hansa Rostock
+        SC Freiburg  0-3  Hamburger SV
+        TSV 1860 München  1-1  Karlsruher SC
+        VfB Stuttgart  3-2  Eintracht Frankfurt
+        FC St. Pauli  0-1  Bayern München
+        Borussia Dortmund  3-0  1. FC Köln
+        1. FC Kaiserslautern  2-0  Fortuna Düsseldorf
+        Bor. Mönchengladbach  1-0  Werder Bremen
+11. Spieltag
+[Fr. 27.10.]
+        1. FC Köln  0-2  Bor. Mönchengladbach
+        Karlsruher SC  1-1  SC Freiburg
+        Werder Bremen  1-1  FC St. Pauli
+        Bayern München  5-3  VfB Stuttgart
+        Hamburger SV  1-0  1. FC Kaiserslautern
+        Fortuna Düsseldorf  1-1  Bayer 04 Leverkusen
+        FC Schalke 04  1-2  Borussia Dortmund
+        Hansa Rostock  1-1  Eintracht Frankfurt
+        KFC Uerdingen 05  2-0  TSV 1860 München
+12. Spieltag
+[Fr. 3.11.]
+        Bayer 04 Leverkusen  0-1  Hamburger SV
+        FC St. Pauli  3-3  1. FC Köln
+        SC Freiburg  1-1  KFC Uerdingen 05
+        TSV 1860 München  1-1  Hansa Rostock
+        Eintracht Frankfurt  4-1  Bayern München
+        VfB Stuttgart  1-1  Werder Bremen
+        Borussia Dortmund  3-0  Fortuna Düsseldorf
+        1. FC Kaiserslautern  2-2  Karlsruher SC
+        Bor. Mönchengladbach  4-1  FC Schalke 04
+13. Spieltag
+[Fr. 10.11.]
+        Hansa Rostock  0-0  Bayern München
+        KFC Uerdingen 05  1-1  1. FC Kaiserslautern
+        Hamburger SV  2-2  Borussia Dortmund
+        1. FC Köln  2-2  VfB Stuttgart
+        Werder Bremen  1-1  Eintracht Frankfurt
+        TSV 1860 München  3-0  SC Freiburg
+        Karlsruher SC  1-4  Bayer 04 Leverkusen
+        Fortuna Düsseldorf  3-2  Bor. Mönchengladbach
+        FC Schalke 04  2-0  FC St. Pauli
+14. Spieltag
+[Fr. 17.11.]
+        FC St. Pauli  2-1  Fortuna Düsseldorf
+        Bor. Mönchengladbach  1-2  Hamburger SV
+        Bayer 04 Leverkusen  2-1  KFC Uerdingen 05
+        SC Freiburg  2-1  Hansa Rostock
+        Bayern München  2-0  Werder Bremen
+        Eintracht Frankfurt  1-0  1. FC Köln
+        Borussia Dortmund  4-1  Karlsruher SC
+        1. FC Kaiserslautern  0-0  TSV 1860 München
+        VfB Stuttgart  2-2  FC Schalke 04
+15. Spieltag
+[Fr. 24.11.]
+        Hamburger SV  1-0  FC St. Pauli
+        Fortuna Düsseldorf  1-2  VfB Stuttgart
+        Werder Bremen  0-2  Hansa Rostock
+        TSV 1860 München  0-1  Bayer 04 Leverkusen
+        KFC Uerdingen 05  0-2  Borussia Dortmund
+        Karlsruher SC  4-0  Bor. Mönchengladbach
+        FC Schalke 04  2-0  Eintracht Frankfurt
+        1. FC Kaiserslautern  1-2  SC Freiburg
+        1. FC Köln  0-0  Bayern München
+16. Spieltag
+[Fr. 1.12.]
+        Bayer 04 Leverkusen  0-1  SC Freiburg
+        Werder Bremen  0-1  1. FC Köln
+        Borussia Dortmund  3-1  TSV 1860 München
+        Bayern München  4-0  FC Schalke 04
+        Eintracht Frankfurt  3-0  Fortuna Düsseldorf
+        VfB Stuttgart  3-0  Hamburger SV
+        FC St. Pauli  1-1  Karlsruher SC
+        Bor. Mönchengladbach  2-1  KFC Uerdingen 05
+        Hansa Rostock  3-0  1. FC Kaiserslautern
+17. Spieltag
+[Fr. 8.12.]
+        KFC Uerdingen 05  2-5  FC St. Pauli
+        Hamburger SV  5-1  Eintracht Frankfurt
+        SC Freiburg  0-1  Borussia Dortmund
+        TSV 1860 München  4-0  Bor. Mönchengladbach
+        Karlsruher SC  1-2  VfB Stuttgart
+        Fortuna Düsseldorf  0-2  Bayern München
+        FC Schalke 04  2-1  Werder Bremen
+        1. FC Kaiserslautern  1-0  Bayer 04 Leverkusen
+        1. FC Köln  3-0  Hansa Rostock
+18. Spieltag
+[Fr. 9.2.]
+        SC Freiburg  0-0  Bor. Mönchengladbach
+        Karlsruher SC  1-1  Eintracht Frankfurt
+        TSV 1860 München  2-0  FC St. Pauli
+        1. FC Kaiserslautern  1-1  Borussia Dortmund
+        Hamburger SV  2-1  Bayern München
+        FC Schalke 04  0-0  1. FC Köln
+        Fortuna Düsseldorf  1-1  Werder Bremen
+        Bayer 04 Leverkusen  2-0  Hansa Rostock
+        KFC Uerdingen 05  3-4  VfB Stuttgart
+19. Spieltag
+[Mi. 14.2.]
+        1. FC Köln  0-0  Fortuna Düsseldorf
+        Eintracht Frankfurt  1-0  KFC Uerdingen 05
+        VfB Stuttgart  2-3  TSV 1860 München
+        Bayern München  1-4  Karlsruher SC
+        FC St. Pauli  1-1  SC Freiburg
+        Werder Bremen  2-1  Hamburger SV
+        Bor. Mönchengladbach  1-1  1. FC Kaiserslautern
+        Hansa Rostock  1-2  FC Schalke 04
+        Borussia Dortmund  2-0  Bayer 04 Leverkusen
+20. Spieltag
+[Fr. 23.2.]
+        1. FC Kaiserslautern  0-0  FC St. Pauli
+        Bayer 04 Leverkusen  0-0  Bor. Mönchengladbach
+        Karlsruher SC  1-1  Werder Bremen
+        TSV 1860 München  3-1  Eintracht Frankfurt
+        SC Freiburg  2-1  VfB Stuttgart
+        Fortuna Düsseldorf  2-0  FC Schalke 04
+        Borussia Dortmund  1-2  Hansa Rostock
+        KFC Uerdingen 05  1-6  Bayern München
+        Hamburger SV  0-0  1. FC Köln
+21. Spieltag
+[Fr. 1.3.]
+        Werder Bremen  1-0  KFC Uerdingen 05
+        Eintracht Frankfurt  0-1  SC Freiburg
+        Bayern München  4-2  TSV 1860 München
+        1. FC Köln  0-1  Karlsruher SC
+        FC Schalke 04  3-0  Hamburger SV
+        Bor. Mönchengladbach  2-2  Borussia Dortmund
+        VfB Stuttgart  2-0  1. FC Kaiserslautern
+        Hansa Rostock  0-0  Fortuna Düsseldorf
+        FC St. Pauli  2-1  Bayer 04 Leverkusen
+22. Spieltag
+[Fr. 8.3.]
+        Bayer 04 Leverkusen  0-0  VfB Stuttgart
+        Hamburger SV  4-1  Fortuna Düsseldorf
+        KFC Uerdingen 05  1-1  1. FC Köln
+        TSV 1860 München  1-1  Werder Bremen
+        SC Freiburg  3-1  Bayern München
+        1. FC Kaiserslautern  1-1  Eintracht Frankfurt
+        Borussia Dortmund  1-0  FC St. Pauli
+        Karlsruher SC  0-1  FC Schalke 04
+        Bor. Mönchengladbach  3-2  Hansa Rostock
+23. Spieltag
+[Fr. 15.3.]
+        Werder Bremen  0-2  SC Freiburg
+        1. FC Köln  2-0  TSV 1860 München
+        Eintracht Frankfurt  1-1  Bayer 04 Leverkusen
+        FC Schalke 04  1-1  KFC Uerdingen 05
+        FC St. Pauli  0-2  Bor. Mönchengladbach
+        Bayern München  2-0  1. FC Kaiserslautern
+        VfB Stuttgart  0-5  Borussia Dortmund
+        Fortuna Düsseldorf  2-0  Karlsruher SC
+        Hansa Rostock  2-0  Hamburger SV
+24. Spieltag
+[Fr. 22.3.]
+        Karlsruher SC  3-1  Hamburger SV
+        TSV 1860 München  1-1  FC Schalke 04
+        SC Freiburg  2-0  1. FC Köln
+        1. FC Kaiserslautern  0-0  Werder Bremen
+        Bayer 04 Leverkusen  1-2  Bayern München
+        Borussia Dortmund  6-0  Eintracht Frankfurt
+        KFC Uerdingen 05  1-3  Fortuna Düsseldorf
+        Bor. Mönchengladbach  1-1  VfB Stuttgart
+        FC St. Pauli  3-2  Hansa Rostock
+25. Spieltag
+[Fr. 29.3.]
+        Hamburger SV  0-0  KFC Uerdingen 05
+        1. FC Köln  0-1  1. FC Kaiserslautern
+        Werder Bremen  2-1  Bayer 04 Leverkusen
+        FC Schalke 04  3-0  SC Freiburg
+        Hansa Rostock  1-1  Karlsruher SC
+        VfB Stuttgart  1-1  FC St. Pauli
+        Eintracht Frankfurt  0-2  Bor. Mönchengladbach
+        Bayern München  1-0  Borussia Dortmund
+        Fortuna Düsseldorf  1-1  TSV 1860 München
+26. Spieltag
+[Do. 4.4.]
+        KFC Uerdingen 05  2-3  Karlsruher SC
+        1. FC Kaiserslautern  0-0  FC Schalke 04
+        VfB Stuttgart  1-1  Hansa Rostock
+        Bayer 04 Leverkusen  1-2  1. FC Köln
+        Borussia Dortmund  1-1  Werder Bremen
+        FC St. Pauli  2-1  Eintracht Frankfurt
+        TSV 1860 München  5-0  Hamburger SV
+        SC Freiburg  1-1  Fortuna Düsseldorf
+        Bor. Mönchengladbach  3-1  Bayern München
+27. Spieltag
+[Di. 9.4.]
+        Hansa Rostock  1-0  KFC Uerdingen 05
+        FC Schalke 04  1-1  Bayer 04 Leverkusen
+        Karlsruher SC  1-1  TSV 1860 München
+        Eintracht Frankfurt  2-2  VfB Stuttgart
+        1. FC Köln  0-0  Borussia Dortmund
+        Hamburger SV  0-0  SC Freiburg
+        Bayern München  1-1  FC St. Pauli
+        Werder Bremen  2-0  Bor. Mönchengladbach
+        Fortuna Düsseldorf  2-1  1. FC Kaiserslautern
+28. Spieltag
+[Fr. 12.4.]
+        TSV 1860 München  2-1  KFC Uerdingen 05
+        Eintracht Frankfurt  1-3  Hansa Rostock
+        Bor. Mönchengladbach  2-1  1. FC Köln
+        FC St. Pauli  1-2  Werder Bremen
+        VfB Stuttgart  0-1  Bayern München
+        SC Freiburg  0-3  Karlsruher SC
+        1. FC Kaiserslautern  1-2  Hamburger SV
+        Borussia Dortmund  0-0  FC Schalke 04
+        Bayer 04 Leverkusen  0-0  Fortuna Düsseldorf
+29. Spieltag
+[Fr. 19.4.]
+        KFC Uerdingen 05  3-1  SC Freiburg
+        Karlsruher SC  0-0  1. FC Kaiserslautern
+        Hansa Rostock  0-3  TSV 1860 München
+        Bayern München  1-1  Eintracht Frankfurt
+        Werder Bremen  2-2  VfB Stuttgart
+        1. FC Köln  1-0  FC St. Pauli
+        Fortuna Düsseldorf  1-2  Borussia Dortmund
+        FC Schalke 04  3-3  Bor. Mönchengladbach
+        Hamburger SV  2-2  Bayer 04 Leverkusen
+30. Spieltag
+[Fr. 26.4.]
+        1. FC Kaiserslautern  3-0  KFC Uerdingen 05
+        FC St. Pauli  2-0  FC Schalke 04
+        VfB Stuttgart  0-1  1. FC Köln
+        Eintracht Frankfurt  1-0  Werder Bremen
+        SC Freiburg  1-0  TSV 1860 München
+        Bayer 04 Leverkusen  1-2  Karlsruher SC
+        Borussia Dortmund  1-1  Hamburger SV
+        Bayern München  0-1  Hansa Rostock
+        Bor. Mönchengladbach  1-1  Fortuna Düsseldorf
+31. Spieltag
+[Di. 30.4.]
+        Hansa Rostock  1-0  SC Freiburg
+        KFC Uerdingen 05  3-0  Bayer 04 Leverkusen
+        FC Schalke 04  2-0  VfB Stuttgart
+        Karlsruher SC  5-0  Borussia Dortmund
+        1. FC Köln  3-0  Eintracht Frankfurt
+        Fortuna Düsseldorf  2-0  FC St. Pauli
+        Hamburger SV  2-1  Bor. Mönchengladbach
+        Werder Bremen  3-2  Bayern München
+        TSV 1860 München  1-1  1. FC Kaiserslautern
+32. Spieltag
+[Fr. 3.5.]
+        Borussia Dortmund  5-0  KFC Uerdingen 05
+        SC Freiburg  0-0  1. FC Kaiserslautern
+        Bayern München  3-2  1. FC Köln
+        Hansa Rostock  2-1  Werder Bremen
+        Bayer 04 Leverkusen  2-1  TSV 1860 München
+        Bor. Mönchengladbach  1-2  Karlsruher SC
+        VfB Stuttgart  2-3  Fortuna Düsseldorf
+        Eintracht Frankfurt  0-3  FC Schalke 04
+        FC St. Pauli  1-1  Hamburger SV
+33. Spieltag
+[Sa. 11.5.]
+        SC Freiburg  2-1  Bayer 04 Leverkusen
+        1. FC Köln  1-2  Werder Bremen
+        FC Schalke 04  2-1  Bayern München
+        Fortuna Düsseldorf  2-2  Eintracht Frankfurt
+        Hamburger SV  3-0  VfB Stuttgart
+        Karlsruher SC  2-2  FC St. Pauli
+        KFC Uerdingen 05  0-2  Bor. Mönchengladbach
+        TSV 1860 München  2-2  Borussia Dortmund
+        1. FC Kaiserslautern  2-0  Hansa Rostock
+34. Spieltag
+[Sa. 18.5.]
+        Bayer 04 Leverkusen  1-1  1. FC Kaiserslautern
+        Hansa Rostock  0-1  1. FC Köln
+        Borussia Dortmund  3-2  SC Freiburg
+        Bor. Mönchengladbach  0-2  TSV 1860 München
+        FC St. Pauli  0-2  KFC Uerdingen 05
+        VfB Stuttgart  3-1  Karlsruher SC
+        Eintracht Frankfurt  1-4  Hamburger SV
+        Bayern München  2-2  Fortuna Düsseldorf
+        Werder Bremen  1-2  FC Schalke 04
