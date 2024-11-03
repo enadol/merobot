@@ -95,3 +95,5 @@
         VfL Wolfsburg  1-1  FC Augsburg
         Holstein Kiel  1-0  1. FC Heidenheim
         Borussia Dortmund  2-1  RB Leipzig
+        SC Freiburg  0-0  1. FSV Mainz 05
+        Bor. Mönchengladbach  4-1  Werder Bremen
