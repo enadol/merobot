@@ -97,3 +97,11 @@
         Borussia Dortmund  2-1  RB Leipzig
         SC Freiburg  0-0  1. FSV Mainz 05
         Bor. Mönchengladbach  4-1  Werder Bremen
+10. Spieltag
+[Fr. 8.11.]
+        1. FC Union Berlin  0-0  SC Freiburg
+        Werder Bremen  2-1  Holstein Kiel
+        1. FSV Mainz 05  3-1  Borussia Dortmund
+        VfL Bochum  1-1  Bayer 04 Leverkusen
+        FC St. Pauli  0-1  Bayern München
+        RB Leipzig  0-0  Bor. Mönchengladbach
