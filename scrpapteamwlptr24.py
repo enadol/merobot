@@ -20,7 +20,8 @@ nachnamen=[]
 kader=[]
 team=[]
 name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
-                 "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", "Joao Palhinha", "Kaua Santos"]
+                 "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", \
+                "Joao Palhinha", "Kaua Santos", "Yan Couto"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida"]
@@ -117,7 +118,7 @@ for nombre in kader_names:
             kader.append(f"{vorname} {nachname}")
         else:
             nombres=nombre.find("span")
-            if( nombres is not None):
+            if(nombres is not None):
                 vornamen.append(nombres.text)
                 nachnamen.append(apellidos.text)
                 kader.append(nombres.text+" "+apellidos.text)
