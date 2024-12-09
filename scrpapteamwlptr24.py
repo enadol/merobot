@@ -41,7 +41,7 @@ no_games=["Gustavo Puerta", "Gabriel Vidovic", "Josip Stanisic", "Tarek Buchmann
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli
 
-club="Borussia Dortmund"
+club="Werder Bremen"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
