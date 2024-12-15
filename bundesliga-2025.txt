@@ -139,3 +139,13 @@
         VfL Bochum  0-1  Werder Bremen
         Holstein Kiel  0-2  RB Leipzig
         Bor. Mönchengladbach  1-1  Borussia Dortmund
+        VfL Wolfsburg  4-3  1. FSV Mainz 05
+        TSG Hoffenheim  1-1  SC Freiburg
+14. Spieltag
+[Fr. 13.12.]
+        SC Freiburg  3-2  VfL Wolfsburg
+        FC Augsburg  0-2  Bayer 04 Leverkusen
+        1. FSV Mainz 05  2-1  Bayern München
+        Bor. Mönchengladbach  4-1  Holstein Kiel
+        1. FC Union Berlin  1-1  VfL Bochum
+        FC St. Pauli  0-2  Werder Bremen
