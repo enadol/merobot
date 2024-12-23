@@ -33,15 +33,16 @@ exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
-no_games=["Gustavo Puerta", "Gabriel Vidovic", "Josip Stanisic", "Tarek Buchmann", "Matija Marsenic"]
+no_games=["Gustavo Puerta", "Gabriel Vidovic", "Josip Stanisic", "Tarek Buchmann"]
+no_complete=["Matija Marsenic"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
-# 1 FSV Mainz 05 FC St Pauli
+# 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Bayer 04 Leverkusen"
+club="VfL Bochum"
 torneo="2024-25"
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -307,6 +308,19 @@ for knombre in kader:
        age=""
        age_in_club=""
        vertrag=""
+    elif knombre in no_complete:
+        age=""
+        pplayed="0"
+        partidosbl="0"
+        golesbl="0"
+        assists="0"
+        gelbe="0"
+        gelbrot="0"
+        rot="0"
+        numero="0"
+        age_in_club="N.A."
+        vertrag="N.D."
+        laenderspiele="No"
     else:
         age=ages[0].text[1:3]
         #age=dates[1].text.split(" ")[45][1:3]     
@@ -317,7 +331,11 @@ for knombre in kader:
             age_in_club=desde[0].text
             vertrag="N.D."
     #fromclub=past_club[indicepc].text[4:].split("\n")[0]
-    fromclub=past_club[indicepc].text.strip()
+    if knombre in no_complete:
+        fromclub="N.A."
+    else:
+        fromclub=past_club[indicepc].text.strip()
+    
     if len(altura)<1:
         altura_txt="N.D."
     else:  
@@ -330,17 +348,13 @@ for knombre in kader:
     nacion_txt=ts.translate_text(pais, translator='alibaba', from_language='de' , to_language='es')
     #nacion_txt=pais
     #nacion_txt=translator.translate(pais, dest='es', src='de')
-   
         
     for i in soup:
         soup2=soup.find_all("td")
     
-    
-    
     elementindex=[]    
     for e in soup2:
-          
-        #para chavales de la cantera sin debutar
+    #para chavales de la cantera sin debutar
         if "Bundesliga" not in e.text:
             pplayed="0"
             partidosbl="0"
@@ -349,7 +363,7 @@ for knombre in kader:
             gelbe="0"
             gelbrot="0"
             rot="0"
-        #separar bundesliga de otras ligas y de 2a Bundesliga        
+   #separar bundesliga de otras ligas y de 2a Bundesliga        
         if(e.text.strip()=="Bundesliga"):
             indice=soup2.index(e)
             print(indice)
@@ -374,7 +388,7 @@ for knombre in kader:
             gelbe="0"
             gelbrot="0"
             rot="0"
-
+            
         else:
             played_index=elementix2[1]+1        
             pplayed=soup2[played_index].text.strip().split("/")[0]            
