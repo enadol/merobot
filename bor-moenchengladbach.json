@@ -20,29 +20,9 @@
         "Selección": "No"
     },
     {
-        "Jugador": "Jan Olschowsky",
-        "Nacimiento": "18.11.2001",
-        "Edad": "23",
-        "Nación": "Alemania",
-        "Altura": "184",
-        "Peso": "83",
-        "PJ": "0",
-        "Goles": "0",
-        "Asistencias": "0",
-        "TA": "0",
-        "TAR": "0",
-        "TR": "0",
-        "Desde": "01.07.2009",
-        "De": "SV Glehn",
-        "BL": "0",
-        "Número": "41",
-        "Contrato": "30.06.2027",
-        "Selección": "No"
-    },
-    {
         "Jugador": "Jonas Omlin",
         "Nacimiento": "10.01.1994",
-        "Edad": "30",
+        "Edad": "31",
         "Nación": "Suiza",
         "Altura": "190",
         "Peso": "85",
@@ -202,7 +182,7 @@
     {
         "Jugador": "Joe Scally",
         "Nacimiento": "31.12.2002",
-        "Edad": "21",
+        "Edad": "22",
         "Nación": "Estados Unidos",
         "Altura": "184",
         "Peso": "80",
@@ -382,7 +362,7 @@
     {
         "Jugador": "Niklas Swider",
         "Nacimiento": "05.01.2007",
-        "Edad": "17",
+        "Edad": "18",
         "Nación": "Alemania",
         "Altura": "N.D.",
         "Peso": "N.D.",
@@ -396,7 +376,7 @@
         "De": "Bor. Mönchengladbach",
         "BL": "0",
         "Número": "39",
-        "Contrato": "N.D.",
+        "Contrato": "30.06.2027",
         "Selección": "3"
     },
     {
@@ -436,7 +416,7 @@
         "De": "NEC Nijmegen",
         "BL": "0",
         "Número": "38",
-        "Contrato": "N.D.",
+        "Contrato": "30.06.2026",
         "Selección": "25"
     },
     {
@@ -476,7 +456,7 @@
         "De": "Kamimura Gakuen High School",
         "BL": "5",
         "Número": "13",
-        "Contrato": "N.D.",
+        "Contrato": "30.06.2026",
         "Selección": "No"
     },
     {
@@ -496,7 +476,7 @@
         "De": "1. FC Heidenheim",
         "BL": "74",
         "Número": "11",
-        "Contrato": "N.D.",
+        "Contrato": "30.06.2028",
         "Selección": "4"
     },
     {
