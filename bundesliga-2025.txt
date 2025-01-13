@@ -172,3 +172,5 @@
         1. FSV Mainz 05  2-0  VfL Bochum
         FC St. Pauli  0-1  Eintracht Frankfurt
         Bor. Mönchengladbach  0-1  Bayern München
+        RB Leipzig  4-2  Werder Bremen
+        FC Augsburg  0-1  VfB Stuttgart
