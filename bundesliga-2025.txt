@@ -196,3 +196,14 @@
         Bayer 04 Leverkusen  3-1  Bor. Mönchengladbach
         1. FC Union Berlin  2-1  1. FSV Mainz 05
         Werder Bremen  0-2  FC Augsburg
+19. Spieltag
+[Fr. 24.1.]
+        VfL Wolfsburg  2-2  Holstein Kiel
+        RB Leipzig  2-2  Bayer 04 Leverkusen
+        Borussia Dortmund  2-2  Werder Bremen
+        SC Freiburg  1-2  Bayern München
+        FC Augsburg  2-1  1. FC Heidenheim
+        1. FSV Mainz 05  2-0  VfB Stuttgart
+        Bor. Mönchengladbach  3-0  VfL Bochum
+        TSG Hoffenheim  2-2  Eintracht Frankfurt
+        FC St. Pauli  3-0  1. FC Union Berlin
