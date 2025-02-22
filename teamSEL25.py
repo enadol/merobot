@@ -4,9 +4,13 @@ Created on Mon May  9 18:47:36 2022
 
 @author: enado
 """
-import requests
-from bs4 import BeautifulSoup
-#import numpy as np
+"""import packages"""
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
+#from gateSEL import lst_dates_cumul, TORNEO
 import codecs
 import json
 import translators as ts
@@ -24,7 +28,7 @@ name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                 "Joao Palhinha", "Kaua Santos", "Yan Couto"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
@@ -34,7 +38,7 @@ revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
 no_games=["Gustavo Puerta", "Gabriel Vidovic", "Josip Stanisic", "Tarek Buchmann"]
-no_complete=["Matija Marsenic"]
+no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -42,8 +46,9 @@ no_complete=["Matija Marsenic"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="RB Leipzig"
+club="Borussia Dortmund"
 torneo="2024-25"
+
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
 klasspastclub="kick__vita__stationline-team"
@@ -55,13 +60,13 @@ klasslaender="kick__bubble__prime"
 klassages="kick__table-small-txt"
 klasstarjetas="kick__site-padding kick__gameinfo-block"
 
-def mod_player(player):
+def for_url(player):
     player_def=""
-    if(player in revert):
-        partido=player.split(" ")
-        vorname=partido[1]
-        nachname=partido[0]
-        player=f"{vorname} {nachname}"
+#    if(player in revert):
+#        partido=player.split(" ")
+#        vorname=partido[1]
+#        nachname=partido[0]
+#        player=f"{vorname} {nachname}"
 
     player_low=player.lower()
     player_minus=player_low.replace(" ", "-")
@@ -92,51 +97,82 @@ def convert_to_cero(indicator):
         indicator=indicator
     return indicator
 
-club_for_url=mod_player(club)
+club_for_url=for_url(club)
+
+
+DRIVER_PATH='C:/Users/enado/ChromeDriver'
+service = webdriver.ChromeService(executable_path = 'C:/Users/enado/ChromeDriver/chromedriver.exe')
+driver = webdriver.Chrome(service=service)
+driver.implicitly_wait(0.5)
+driver.maximize_window()
+
 
 url_kader=f"https://www.kicker.de/{club_for_url}/kader/bundesliga/{torneo}"
-kader_page= requests.get(url_kader)
-if kader_page.status_code== 200:
-    kader_content = kader_page.content
+kader_page= driver.get(url_kader)
+WebDriverWait(driver, 10)
 
-soupnames = BeautifulSoup(kader_content, 'html.parser')
+# 4. Click the "Google Web" option
+#google_web_option.click()
+
+# 5. Wait for the "Accept" button to be clickable
+accept_button = WebDriverWait(driver, 10).until(
+EC.element_to_be_clickable((By.XPATH,"//a[contains(text(), 'Zustimmen & weiter')]")))
+
+# 6. Click the "Accept" button
+accept_button.click()
+
+#if kader_page.status_code== 200:
+#    kader_content = kader_page.content
+
+#soupnames = BeautifulSoup(kader_content, 'html.parser')
 klass_names="kick__table--ranking__index kick__t__a__l kick__respt-m-w-190"
 
-kader_names=soupnames.find_all("td", attrs={"class": klass_names})
+kader_names=driver.find_elements(By.CLASS_NAME, "kick__respt-m-w-190")
 
-for nombre in kader_names:
+for i in kader_names[1:]:
+    jugador=i.text
+    if jugador == "Xavi":
+        #nachnahme="Simons"
+        jugador="Simons Xavi"
+    if jugador == "Jordan":
+        #nachnahme="Simons"
+        jugador="Siebatcheu Jordan"
 #base apellidos para nombres compuestos o apellidos compuestos
 #kicker pone Dani Olmo como apellido
     vertrag=""
-
         
-    apellidos=nombre.find("strong") 
-    for apellido in apellidos:
-        if(apellido in name_exceptions):
-            partido=apellido.split(" ")
+    completo=jugador.split(" ", 1)
+    if jugador != "SPIELER":
+        nachname=completo[0].strip()
+        vorname=completo[1].strip()       
+        
+    #apellidos=nombre.find("strong") 
+    #for apellido in apellidos:
+        if(nachname in name_exceptions):
+            partido=vorname.split(" ")
             vorname=partido[0]
             nachname=partido[1]
             kader.append(f"{vorname} {nachname}")
         else:
-            nombres=nombre.find("span")
-            if(nombres is not None):
-                vornamen.append(nombres.text)
-                nachnamen.append(apellidos.text)
-                kader.append(nombres.text+" "+apellidos.text)
+                #nombres=nombre.find("span")
+                #if(nombres is not None):
+                #vornamen.append(vorname)
+                #nachnamen.append(nachname)
+                kader.append(f'{vorname} {nachname}')
         #para nombres brasis p.ej. Thiago sin apellido
-        if(apellido in brasil_exceptions):
-            vorname=apellido
+        if(nachname in brasil_exceptions):
+            vorname=nachname
             nachname=" "
             kader.append(f"{vorname} {nachname}")
         
-        if(apellido=="Silas"):
-            vorname=apellido
+        if(nachname=="Silas"):
+            vorname=nachname
             nachname="Katompa Mvumpa"
             kader.append(f"{vorname} {nachname}")
 
-        if(apellido=="Jordan"):
+        if(nachname=="Jordan"):
             if(club=="1 FC Union Berlin"):
-                vorname=apellido
+                vorname=nachname
                 nachname="Siebatcheu"
                 kader.append(f"{vorname} {nachname}")
         
@@ -146,17 +182,14 @@ for nombre in kader_names:
            # nachname="Silva Melo"
            # kader.append(f"{vorname} {nachname}")
 
-        if(apellido=="Xavi"):
-            vorname=apellido
-            nachname="Simons"
-            kader.append(f"{vorname} {nachname}")
+        
                 
         #     vorname="Joseph"
         #     nachname=apellido
         #     kader.append(vorname+" "+nachname)
     
 for knombre in kader:
-    player_for_url=mod_player(knombre)
+    player_for_url=for_url(knombre)
     if(knombre in duplicates):
         player_for_url=f"{player_for_url}-2"
     
@@ -168,6 +201,11 @@ for knombre in kader:
     
     if(knombre in sextuples):
         player_for_url=f"{player_for_url}-6"
+    
+    if(knombre=="Xavi"):
+        vorname=knombre
+        nachname="Simons"
+        player_for_url=f"{vorname}-{nachname}" 
         
     if("Perea" in knombre):
         player_for_url=f"{player_for_url}-mendoza"
@@ -248,12 +286,28 @@ for knombre in kader:
         player_for_url="keke-maximilian-topp"
 
     if(knombre=="Jamie Gittens"):
-        player_for_url="jamie-bynoe-gittens"        
-    url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
+        player_for_url="jamie-bynoe-gittens"
+        
+    if(knombre=="Bungi Joyeux Masanka"):
+        player_for_url="joeux-masanka-bungi"
+
+    if(knombre=="Filippo Mané"):
+        player_for_url="filippo-calixte-mane"
+        
+    if(knombre=="Couto Yan"):
+        player_for_url="yan-couto"
+    
+    if(knombre=="Leite Diogo"):
+        player_for_url="diogo-leite"    
+        
+    if(knombre=="Oluwaseun Ogbemudia"):
+        url_player="https://www.kicker.de/oluwaseun-ogbemudia/spieler"
+    else:  
+        url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
-    mdpage= requests.get(url_player)
-    if mdpage.status_code== 200:
-        content = mdpage.content
+    content_url= driver.get(url_player)
+    #if mdpage.status_code== 200:
+     #   content = mdpage.content
 
     #para considerar chavales que vienen de inferiores o que solo han jugado en un equipo
     def past_club_index(pastclub):
@@ -264,44 +318,63 @@ for knombre in kader:
         return indicepc
     
        
-    soup = BeautifulSoup(content, 'html.parser')
-    ages=soup.find_all("span", attrs={"class": klassages})
-    dates=soup.find_all("div", attrs={"class": klassvita})
-    desde=soup.find_all("span", attrs={"class": klassfrom})
-    past_club=soup.find_all("a", attrs={"class": klasspastclub})
-    altura=soup.find_all("div", attrs={"class": klassalturapeso})
-    nacion=soup.find_all("div", attrs={"class": klassnation})
-    trikot=soup.find_all("span", attrs={"class": klasstrikot})
-    cards=soup.find_all("div", attrs={"class": klasstarjetas})  
+    #soup = BeautifulSoup(content, 'html.parser')
+    ages=driver.find_elements(By.CLASS_NAME, "kick__table-small-txt")
+    dates=driver.find_elements(By.CLASS_NAME, klassvita)
+    desde=driver.find_elements(By.CLASS_NAME, klassfrom)
+    past_club=driver.find_elements(By.CLASS_NAME,  klasspastclub)
+    #altura=driver.find_elements(By.CLASS_NAME, klassalturapeso)
+    altura=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[1]')
+    peso=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[2]')
+    nacion=driver.find_elements(By.CLASS_NAME,  klassnation)
+    trikot=driver.find_elements(By.CLASS_NAME,  klasstrikot)
+    cards=driver.find_elements(By.CLASS_NAME, klasstarjetas)  
     
     indicepc=past_club_index(past_club)
 
     born1=dates[1].text.split(" ")[1][:10]
     
-    lfilter1=soup.find_all("tbody")
-    #lfilter2=soup.find_all("span", attrs={"class": klasslaender})
-    
+    cards=driver.find_elements(By.CLASS_NAME, "kick__gameinfo__item")
     for card in cards:
-        if "Karrieredaten" in card.text:
+        if card.text.startswith("KARRIEREDATEN"):
             card_selected=card
-            if "Länderspiele" in card_selected.text:
-                lfilter2=soup.find_all("span", attrs={"class": klasslaender})
-                laenderspiele_text=lfilter2[0].text
-                laenderspiele=laenderspiele_text
+            if "Länderspiele" in card_selected.text:        
+                #laenderspiele_elem=card.text.split('Länderspiele\n')
+                laenderspiele=card_selected.text.split('Länderspiele\n')[1].rsplit('\nSpiele')[0]
             else:
                 laenderspiele="No"
- #   if len(lfilter1)>1:
- #       if lfilter1[1].text.strip().startswith("Länderspiele"):
- #           laenderspiele_text=lfilter2[0].text
- #       else:
- #           laenderspiele_text="No"
- #   elif len(lfilter1)==1:
- #       if lfilter1[1].text.strip().startswith("Länderspiele"):
- #           laenderspiele_text=lfilter2[0].text
- #       else:
- #           laenderspiele_text="No"
+    
+    
+ #   laenderspiele_elem=driver.find_elements(By.XPATH, "//h2[contains(text(), 'Karrieredaten')]/table/tbody/tr/td/td[contains(text(), 'Länderspiele')]")
+ #   if len(laenderspiele_elem) > 0:
+ #       laenderspiele=laenderspiele_elem.text
+ #   else:
+ #       laenderspiele="No"
+    #    laenderspiele=laenderspiele.text
     #else:
- #   laenderspiele=laenderspiele_text
+    #    laenderspiele="No"
+    #laenderspiele="Viene"
+    #for card in cards:
+     #   if "Karrieredaten" in card.text:
+     #       card_selected=card
+     #       if "Länderspiele" in card_selected.text:
+     #           lfilter2=driver.find_elements(By.CLASS_NAME, klasslaender)
+     #           laenderspiele_text=lfilter2[0].text
+     #           laenderspiele=laenderspiele_text
+     #       else:
+     #           laenderspiele="No"
+   # if len(lfilter1)>1:
+    #    if lfilter1[1].text.strip().startswith("Länderspiele"):
+     #       laenderspiele_text=lfilter2[0].text
+      #  else:
+       #     laenderspiele_text="No"
+    #elif len(lfilter1)==1:
+     #   if lfilter1[1].text.strip().startswith("Länderspiele"):
+      #      laenderspiele_text=lfilter2[0].text
+       # else:
+        #    laenderspiele_text="No"
+    #else:
+     #   laenderspiele=laenderspiele_text
     
     
     if(knombre in vereinslos):
@@ -336,21 +409,22 @@ for knombre in kader:
     else:
         fromclub=past_club[indicepc].text.strip()
     
-    if len(altura)<1:
-        altura_txt="N.D."
+    if len(altura.text) > 0:
+        altura_txt=altura.text[7:10]
     else:  
-        altura_txt=altura[0].text.split(" ")[1]
-    if len(altura)<2:
-        peso_txt="N.D."
+        altura_txt="N.D."
+    
+    if  len(peso.text) > 0:
+        peso_txt=peso.text[9:11]
     else:
-        peso_txt=altura[1].text.split(" ")[1]
-    pais=nacion[0].text.split("\r\n")[1].strip()
+        peso_txt="N.D."
+    #pais=nacion[0].text.split("\r\n")[1].strip()
+    pais=nacion[0].text
     nacion_txt=ts.translate_text(pais, translator='alibaba', from_language='de' , to_language='es')
     #nacion_txt=pais
     #nacion_txt=translator.translate(pais, dest='es', src='de')
         
-    for i in soup:
-        soup2=soup.find_all("td")
+    soup2=driver.find_elements(By.TAG_NAME, "td")
     
     elementindex=[]    
     for e in soup2:
@@ -414,11 +488,15 @@ for knombre in kader:
         numero=trikot[0].text
     else:
         numero="0"
+    
+    #lfilter1=driver.find_elements(By.TAG_NAME, "tbody")
+   # lfilter2=driver.find_elements(By.CLASS_NAME, klasslaender)
+    
     player_dict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": nacion_txt, "Altura": altura_txt, "Peso": peso_txt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": age_in_club, "De": fromclub, "BL": partidosbl, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
     team.append(player_dict)
 
-with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt", "w", "utf-8") as file:
+with codecs.open(f"D:/{club_for_url}.txt", "w", "utf-8") as file:
     for item in team:
         #file.write('\n')    
         for key, value in item.items():
