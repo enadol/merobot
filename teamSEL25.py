@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Borussia Dortmund"
+club="Bayer 04 Leverkusen"
 torneo="2024-25"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -137,6 +137,13 @@ for i in kader_names[1:]:
     if jugador == "Jordan":
         #nachnahme="Simons"
         jugador="Siebatcheu Jordan"
+    
+    if jugador == "Tuta":
+        jugador = "Silva Tuta"
+    
+    if jugador == "Arthur" and club == "Bayer 04 Leverkusen":
+        jugador = "Arthur Matos"
+    
 #base apellidos para nombres compuestos o apellidos compuestos
 #kicker pone Dani Olmo como apellido
     vertrag=""
@@ -258,8 +265,9 @@ for knombre in kader:
     if(knombre=="Olivier Deman"):
         player_for_url="oliver-deman"
     
-    if(knombre=="Arthur  "):
-        player_for_url="arthur-5"
+    if("Arthur" in knombre):
+        if(club=="Bayer 04 Leverkusen"):
+            player_for_url="arthur-5"
         
     if("Rogerio" in knombre):
         player_for_url="rogerio-5"
@@ -298,7 +306,20 @@ for knombre in kader:
         player_for_url="yan-couto"
     
     if(knombre=="Leite Diogo"):
-        player_for_url="diogo-leite"    
+        player_for_url="diogo-leite"
+        
+    if(knombre == "Santos Kaua"):
+        player_for_url="kaua-santos"
+        
+    if(knombre == "Ebimbe Eric Junior Dina"):
+        player_for_url="eric-junior-dina-ebimbe"
+        
+    if(knombre == "Elye Wahi"):
+        player_for_url="sepe-elye-wahi"
+        
+    if(knombre=="Garcia Aleix"):
+        player_for_url="aleix-garcia"
+    
         
     if(knombre=="Oluwaseun Ogbemudia"):
         url_player="https://www.kicker.de/oluwaseun-ogbemudia/spieler"
@@ -340,7 +361,11 @@ for knombre in kader:
             card_selected=card
             if "Länderspiele" in card_selected.text:        
                 #laenderspiele_elem=card.text.split('Länderspiele\n')
-                laenderspiele=card_selected.text.split('Länderspiele\n')[1].rsplit('\nSpiele')[0]
+                laenderspiele_long=card_selected.text.split('Länderspiele\n')[1].rsplit('\nSpiele')[0]
+                if len(laenderspiele_long) > 3:
+                    laenderspiele=card_selected.text.split('Länderspiele\n')[1].rsplit('\nSpiel')[0]
+                else:
+                    laenderspiele = laenderspiele_long
             else:
                 laenderspiele="No"
     
@@ -496,7 +521,7 @@ for knombre in kader:
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
     team.append(player_dict)
 
-with codecs.open(f"D:/{club_for_url}.txt", "w", "utf-8") as file:
+with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt", "w", "utf-8") as file:
     for item in team:
         #file.write('\n')    
         for key, value in item.items():
