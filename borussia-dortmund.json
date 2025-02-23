@@ -6,11 +6,7 @@
         "Nación": "Suiza",
         "Altura": "196",
         "Peso": "88",
-<<<<<<< HEAD
         "PJ": "21",
-=======
-        "PJ": "20",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "0",
         "Asistencias": "0",
         "TA": "1",
@@ -18,14 +14,10 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "VfB Stuttgart",
-<<<<<<< HEAD
         "BL": "154",
-=======
-        "BL": "153",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "1",
         "Contrato": "30.06.2028",
-        "Selección": "Llenar"
+        "Selección": "10"
     },
     {
         "Jugador": "Marcel Lotka",
@@ -45,7 +37,7 @@
         "BL": "10",
         "Número": "35",
         "Contrato": "30.06.2025",
-        "Selección": "Llenar"
+        "Selección": "No"
     },
     {
         "Jugador": "Alexander Meyer",
@@ -65,7 +57,7 @@
         "BL": "17",
         "Número": "33",
         "Contrato": "30.06.2026",
-        "Selección": "Llenar"
+        "Selección": "No"
     },
     {
         "Jugador": "Silas Ostrzinski",
@@ -85,7 +77,7 @@
         "BL": "0",
         "Número": "31",
         "Contrato": "30.06.2025",
-        "Selección": "Llenar"
+        "Selección": "No"
     },
     {
         "Jugador": "Waldemar Anton",
@@ -105,7 +97,7 @@
         "BL": "212",
         "Número": "3",
         "Contrato": "30.06.2028",
-        "Selección": "Llenar"
+        "Selección": "7"
     },
     {
         "Jugador": "Ramy Bensebaini",
@@ -125,7 +117,7 @@
         "BL": "132",
         "Número": "5",
         "Contrato": "30.06.2027",
-        "Selección": "Llenar"
+        "Selección": "69"
     },
     {
         "Jugador": "Almugera Kabar",
@@ -144,13 +136,8 @@
         "De": "Hammer SpVgg",
         "BL": "4",
         "Número": "42",
-<<<<<<< HEAD
         "Contrato": "30.06.2028",
         "Selección": "No"
-=======
-        "Contrato": "30.06.2026",
-        "Selección": "Llenar"
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
     },
     {
         "Jugador": "Filippo Mané",
@@ -170,11 +157,7 @@
         "BL": "0",
         "Número": "39",
         "Contrato": "30.06.2028",
-<<<<<<< HEAD
         "Selección": "No"
-=======
-        "Selección": "Llenar"
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
     },
     {
         "Jugador": "Julian Ryerson",
@@ -194,7 +177,7 @@
         "BL": "136",
         "Número": "26",
         "Contrato": "30.06.2028",
-        "Selección": "Llenar"
+        "Selección": "30"
     },
     {
         "Jugador": "Nico Schlotterbeck",
@@ -203,11 +186,7 @@
         "Nación": "Alemania",
         "Altura": "191",
         "Peso": "89",
-<<<<<<< HEAD
         "PJ": "19",
-=======
-        "PJ": "18",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "0",
         "Asistencias": "2",
         "TA": "3",
@@ -215,14 +194,10 @@
         "TR": "1",
         "Desde": "01.07.2022",
         "De": "SC Freiburg",
-<<<<<<< HEAD
         "BL": "145",
-=======
-        "BL": "144",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "4",
         "Contrato": "30.06.2027",
-        "Selección": "Llenar"
+        "Selección": "18"
     },
     {
         "Jugador": "Niklas Süle",
@@ -242,7 +217,7 @@
         "BL": "282",
         "Número": "25",
         "Contrato": "30.06.2026",
-        "Selección": "Llenar"
+        "Selección": "49"
     },
     {
         "Jugador": "Daniel Svensson",
@@ -251,11 +226,7 @@
         "Nación": "Suecia",
         "Altura": "183",
         "Peso": "72",
-<<<<<<< HEAD
         "PJ": "3",
-=======
-        "PJ": "2",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -263,30 +234,19 @@
         "TR": "0",
         "Desde": "03.02.2025",
         "De": "FC Nordsjaelland",
-<<<<<<< HEAD
         "BL": "3",
         "Número": "24",
         "Contrato": "30.06.2025",
-        "Selección": "1\nSpiel\n0\nTore\nChampions League\n2"
-=======
-        "BL": "2",
-        "Número": "24",
-        "Contrato": "30.06.2025",
-        "Selección": "Llenar"
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
+        "Selección": "1"
     },
     {
-        "Jugador": "Couto Yan",
+        "Jugador": "Yan Couto",
         "Nacimiento": "03.06.2002",
         "Edad": "22",
         "Nación": "Brasil",
         "Altura": "168",
         "Peso": "60",
-<<<<<<< HEAD
         "PJ": "15",
-=======
-        "PJ": "14",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "0",
         "Asistencias": "0",
         "TA": "4",
@@ -294,14 +254,10 @@
         "TR": "0",
         "Desde": "03.08.2024",
         "De": "Manchester City",
-<<<<<<< HEAD
         "BL": "15",
-=======
-        "BL": "14",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "2",
         "Contrato": "30.06.2025",
-        "Selección": "Llenar"
+        "Selección": "4"
     },
     {
         "Jugador": "Julian Brandt",
@@ -321,7 +277,7 @@
         "BL": "343",
         "Número": "10",
         "Contrato": "30.06.2026",
-        "Selección": "Llenar"
+        "Selección": "48"
     },
     {
         "Jugador": "Emre Can",
@@ -330,11 +286,7 @@
         "Nación": "Alemania",
         "Altura": "186",
         "Peso": "86",
-<<<<<<< HEAD
         "PJ": "20",
-=======
-        "PJ": "19",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "2",
         "Asistencias": "0",
         "TA": "3",
@@ -342,14 +294,10 @@
         "TR": "1",
         "Desde": "31.01.2020",
         "De": "Juventus Turin",
-<<<<<<< HEAD
         "BL": "169",
-=======
-        "BL": "168",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "23",
         "Contrato": "30.06.2026",
-        "Selección": "Llenar"
+        "Selección": "48"
     },
     {
         "Jugador": "Carney Chukwuemeka",
@@ -369,7 +317,7 @@
         "BL": "1",
         "Número": "17",
         "Contrato": "N.D.",
-        "Selección": "Llenar"
+        "Selección": "No"
     },
     {
         "Jugador": "Pascal Groß",
@@ -378,11 +326,7 @@
         "Nación": "Alemania",
         "Altura": "181",
         "Peso": "78",
-<<<<<<< HEAD
         "PJ": "21",
-=======
-        "PJ": "20",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "0",
         "Asistencias": "7",
         "TA": "4",
@@ -390,14 +334,10 @@
         "TR": "1",
         "Desde": "01.08.2024",
         "De": "Brighton & Hove Albion",
-<<<<<<< HEAD
         "BL": "91",
-=======
-        "BL": "90",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "13",
         "Contrato": "30.06.2026",
-        "Selección": "Llenar"
+        "Selección": "12"
     },
     {
         "Jugador": "Felix Nmecha",
@@ -417,7 +357,7 @@
         "BL": "85",
         "Número": "8",
         "Contrato": "30.06.2028",
-        "Selección": "Llenar"
+        "Selección": "3"
     },
     {
         "Jugador": "Salih Özcan",
@@ -426,11 +366,7 @@
         "Nación": "Turquía",
         "Altura": "182",
         "Peso": "75",
-<<<<<<< HEAD
         "PJ": "14",
-=======
-        "PJ": "13",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "0",
         "Asistencias": "0",
         "TA": "0",
@@ -438,14 +374,10 @@
         "TR": "0",
         "Desde": "28.01.2025",
         "De": "VfL Wolfsburg",
-<<<<<<< HEAD
         "BL": "158",
-=======
-        "BL": "157",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "6",
         "Contrato": "30.06.2026",
-        "Selección": "Llenar"
+        "Selección": "22"
     },
     {
         "Jugador": "Giovanni Reyna",
@@ -454,11 +386,7 @@
         "Nación": "Estados Unidos",
         "Altura": "185",
         "Peso": "79",
-<<<<<<< HEAD
         "PJ": "13",
-=======
-        "PJ": "12",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "2",
         "Asistencias": "0",
         "TA": "3",
@@ -466,14 +394,10 @@
         "TR": "0",
         "Desde": "01.07.2024",
         "De": "Nottingham Forest",
-<<<<<<< HEAD
         "BL": "103",
-=======
-        "BL": "102",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "7",
         "Contrato": "30.06.2026",
-        "Selección": "Llenar"
+        "Selección": "31"
     },
     {
         "Jugador": "Marcel Sabitzer",
@@ -482,11 +406,7 @@
         "Nación": "Austria",
         "Altura": "178",
         "Peso": "76",
-<<<<<<< HEAD
         "PJ": "20",
-=======
-        "PJ": "19",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "0",
         "Asistencias": "0",
         "TA": "2",
@@ -494,14 +414,10 @@
         "TR": "0",
         "Desde": "24.07.2023",
         "De": "Bayern München",
-<<<<<<< HEAD
         "BL": "230",
-=======
-        "BL": "229",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "20",
         "Contrato": "30.06.2027",
-        "Selección": "Llenar"
+        "Selección": "87"
     },
     {
         "Jugador": "Kjell Wätjen",
@@ -521,7 +437,7 @@
         "BL": "4",
         "Número": "38",
         "Contrato": "30.06.2028",
-        "Selección": "Llenar"
+        "Selección": "No"
     },
     {
         "Jugador": "Karim Adeyemi",
@@ -530,11 +446,7 @@
         "Nación": "Alemania",
         "Altura": "180",
         "Peso": "75",
-<<<<<<< HEAD
         "PJ": "14",
-=======
-        "PJ": "13",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "2",
         "Asistencias": "3",
         "TA": "2",
@@ -542,14 +454,10 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "RB Salzburg",
-<<<<<<< HEAD
         "BL": "59",
-=======
-        "BL": "58",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "27",
         "Contrato": "30.06.2027",
-        "Selección": "Llenar"
+        "Selección": "4"
     },
     {
         "Jugador": "Maximilian Beier",
@@ -558,28 +466,18 @@
         "Nación": "Alemania",
         "Altura": "185",
         "Peso": "72",
-<<<<<<< HEAD
         "PJ": "22",
         "Goles": "5",
         "Asistencias": "4",
-=======
-        "PJ": "21",
-        "Goles": "4",
-        "Asistencias": "3",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "TA": "2",
         "TAR": "0",
         "TR": "0",
         "Desde": "12.08.2024",
         "De": "TSG Hoffenheim",
-<<<<<<< HEAD
         "BL": "64",
-=======
-        "BL": "63",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "14",
         "Contrato": "30.06.2029",
-        "Selección": "Llenar"
+        "Selección": "4"
     },
     {
         "Jugador": "Julien Duranville",
@@ -599,7 +497,7 @@
         "BL": "12",
         "Número": "16",
         "Contrato": "30.06.2027",
-        "Selección": "Llenar"
+        "Selección": "No"
     },
     {
         "Jugador": "Jamie Gittens",
@@ -608,11 +506,7 @@
         "Nación": "Inglaterra",
         "Altura": "175",
         "Peso": "75",
-<<<<<<< HEAD
         "PJ": "23",
-=======
-        "PJ": "22",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Goles": "7",
         "Asistencias": "3",
         "TA": "3",
@@ -620,14 +514,10 @@
         "TR": "0",
         "Desde": "24.09.2020",
         "De": "Manchester City",
-<<<<<<< HEAD
         "BL": "67",
-=======
-        "BL": "66",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "43",
         "Contrato": "30.06.2028",
-        "Selección": "Llenar"
+        "Selección": "No"
     },
     {
         "Jugador": "Serhou Guirassy",
@@ -636,27 +526,18 @@
         "Nación": "Guinea",
         "Altura": "187",
         "Peso": "82",
-<<<<<<< HEAD
         "PJ": "20",
         "Goles": "13",
-=======
-        "PJ": "19",
-        "Goles": "9",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Asistencias": "4",
         "TA": "2",
         "TAR": "0",
         "TR": "0",
         "Desde": "18.07.2024",
         "De": "VfB Stuttgart",
-<<<<<<< HEAD
         "BL": "91",
-=======
-        "BL": "90",
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
         "Número": "9",
         "Contrato": "30.06.2028",
-        "Selección": "Llenar"
+        "Selección": "22"
     },
     {
         "Jugador": "Yannik Lührs",
@@ -676,7 +557,7 @@
         "BL": "3",
         "Número": "49",
         "Contrato": "N.D.",
-        "Selección": "Llenar"
+        "Selección": "No"
     },
     {
         "Jugador": "Ayman Azhil",
@@ -696,10 +577,46 @@
         "BL": "2",
         "Número": "46",
         "Contrato": "N.D.",
-<<<<<<< HEAD
         "Selección": "No"
-=======
-        "Selección": "Llenar"
->>>>>>> fbc212eea2e31438cfe4baa6bff654fc9c4b2576
+    },
+    {
+        "Jugador": "Cole Campbell",
+        "Nacimiento": "20.02.2006",
+        "Edad": "19",
+        "Nación": "Estados Unidos",
+        "Altura": "N.D.",
+        "Peso": "N.D.",
+        "PJ": "4",
+        "Goles": "0",
+        "Asistencias": "0",
+        "TA": "0",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "01.07.2022",
+        "De": "UMF Breidablik",
+        "BL": "4",
+        "Número": "37",
+        "Contrato": "N.D.",
+        "Selección": "No"
+    },
+    {
+        "Jugador": "Donyell Malen",
+        "Nacimiento": "19.01.1999",
+        "Edad": "26",
+        "Nación": "Países Bajos",
+        "Altura": "176",
+        "Peso": "68",
+        "PJ": "14",
+        "Goles": "3",
+        "Asistencias": "0",
+        "TA": "1",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "14.01.2025",
+        "De": "Borussia Dortmund",
+        "BL": "94",
+        "Número": "21",
+        "Contrato": "N.D.",
+        "Selección": "41"
     }
 ]

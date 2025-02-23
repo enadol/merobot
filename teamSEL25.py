@@ -23,7 +23,7 @@ vornamen=[]
 nachnamen=[]
 kader=[]
 team=[]
-name_exceptions=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
+name_to_revert=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                  "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", \
                 "Joao Palhinha", "Kaua Santos", "Yan Couto"]
 #player="Sadio Mane"
@@ -34,7 +34,7 @@ cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
 exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
-revert=["Dikeni Salifou"]
+#revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
 no_games=["Gustavo Puerta", "Gabriel Vidovic", "Josip Stanisic", "Tarek Buchmann"]
@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Eintracht Frankfurt"
+club="Borussia Dortmund"
 torneo="2024-25"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -155,8 +155,12 @@ for i in kader_names[1:]:
             nachname = ""
             kader.append(f"{vorname} {nachname}")
         else:
-            nachname=completo[0].strip()
-            vorname=completo[1].strip()       
+            if jugador in name_to_revert:
+                nachname = completo[1].strip()
+                vorname = completo[0].strip()
+            else:
+                nachname=completo[0].strip()
+                vorname=completo[1].strip()       
         
     #apellidos=nombre.find("strong") 
     #for apellido in apellidos:
@@ -286,8 +290,9 @@ for knombre in kader:
     if(knombre=="Assan Ouedraogo"):
         player_for_url="forzan-ouedraogo"
         
-    if(knombre=="Joao Palhinha"):
-        player_for_url="palhinha"
+    if("Palhinha" in knombre):
+        if club == "FC Bayern München":
+            player_for_url="palhinha"
         
     if(knombre=="Isak Hansen-Aaröen"):
         player_for_url="isak-hansen-aaroen"
@@ -351,12 +356,14 @@ for knombre in kader:
     past_club=driver.find_elements(By.CLASS_NAME,  klasspastclub)
     #altura=driver.find_elements(By.CLASS_NAME, klassalturapeso)
     try:
-        altura=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[1]')
+        #altura=driver.find_element(By.XPATH, "//span[contains(text(), 'Größe:')]/text()")
+        altura=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[1]').text
     except:
         altura = "N.D."
         
     try:
-        peso=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[2]')
+        #peso=driver.find_element(By.XPATH, "//span[contains(text(), 'Gewicht:')]/text()")
+        peso=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[2]').text
     except:
         peso = "N.D."
     
@@ -447,13 +454,13 @@ for knombre in kader:
     else:
         fromclub=past_club[indicepc].text.strip()
     
-    if len(altura.text) > 0:
-        altura_txt=altura.text[7:10]
+    if len(altura) > 0 and "Größe: " in altura:
+        altura_txt=altura[7:10]
     else:  
         altura_txt="N.D."
     
-    if  len(peso.text) > 0:
-        peso_txt=peso.text[9:11]
+    if  len(peso) > 0 and "Gewicht:" in peso:
+        peso_txt=peso[9:11]
     else:
         peso_txt="N.D."
     #pais=nacion[0].text.split("\r\n")[1].strip()
