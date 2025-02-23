@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Bayer 04 Leverkusen"
+club="Eintracht Frankfurt"
 torneo="2024-25"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -138,11 +138,11 @@ for i in kader_names[1:]:
         #nachnahme="Simons"
         jugador="Siebatcheu Jordan"
     
-    if jugador == "Tuta":
-        jugador = "Silva Tuta"
+  #  if jugador == "Tuta":
+  #      jugador = "Silva Tuta"
     
-    if jugador == "Arthur" and club == "Bayer 04 Leverkusen":
-        jugador = "Arthur Matos"
+  #  if jugador == "Arthur" and club == "Bayer 04 Leverkusen":
+  #      jugador = "Arthur Matos"
     
 #base apellidos para nombres compuestos o apellidos compuestos
 #kicker pone Dani Olmo como apellido
@@ -150,27 +150,32 @@ for i in kader_names[1:]:
         
     completo=jugador.split(" ", 1)
     if jugador != "SPIELER":
-        nachname=completo[0].strip()
-        vorname=completo[1].strip()       
+        if len(completo) < 2:
+            vorname = completo[0].strip()
+            nachname = ""
+            kader.append(f"{vorname} {nachname}")
+        else:
+            nachname=completo[0].strip()
+            vorname=completo[1].strip()       
         
     #apellidos=nombre.find("strong") 
     #for apellido in apellidos:
-        if(nachname in name_exceptions):
-            partido=vorname.split(" ")
-            vorname=partido[0]
-            nachname=partido[1]
+        #if(nachname in name_exceptions):
+         #   partido=vorname.split(" ")
+          #  vorname=partido[0]
+           # nachname=partido[1]
             kader.append(f"{vorname} {nachname}")
-        else:
+    #else:
                 #nombres=nombre.find("span")
                 #if(nombres is not None):
                 #vornamen.append(vorname)
                 #nachnamen.append(nachname)
-                kader.append(f'{vorname} {nachname}')
+     #   kader.append(f'{vorname} {nachname}')
         #para nombres brasis p.ej. Thiago sin apellido
-        if(nachname in brasil_exceptions):
-            vorname=nachname
-            nachname=" "
-            kader.append(f"{vorname} {nachname}")
+ #       if(nachname in brasil_exceptions):
+ #           vorname=nachname
+ #           nachname=" "
+ #           kader.append(f"{vorname} {nachname}")
         
         if(nachname=="Silas"):
             vorname=nachname
@@ -345,8 +350,16 @@ for knombre in kader:
     desde=driver.find_elements(By.CLASS_NAME, klassfrom)
     past_club=driver.find_elements(By.CLASS_NAME,  klasspastclub)
     #altura=driver.find_elements(By.CLASS_NAME, klassalturapeso)
-    altura=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[1]')
-    peso=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[2]')
+    try:
+        altura=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[1]')
+    except:
+        altura = "N.D."
+        
+    try:
+        peso=driver.find_element(By.XPATH,'//*[@id="kick__page"]/div/div[4]/section/div[1]/div[2]/div[2]/div[2]/div[2]')
+    except:
+        peso = "N.D."
+    
     nacion=driver.find_elements(By.CLASS_NAME,  klassnation)
     trikot=driver.find_elements(By.CLASS_NAME,  klasstrikot)
     cards=driver.find_elements(By.CLASS_NAME, klasstarjetas)  

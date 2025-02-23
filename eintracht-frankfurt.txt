@@ -207,7 +207,7 @@ Número : 3,
 Contrato : 30.06.2029,
 Selección : 23,
 
-Jugador : Tuta Silva,
+Jugador : Tuta,
 Nacimiento : 04.07.1999,
 Edad : 25,
 Nación : Brasil,
@@ -490,12 +490,7 @@ De : 1. FC Nürnberg,
 BL : 15,
 Número : 20,
 Contrato : 30.06.2029,
-Selección : 1
-Spiel
-0
-Tore
-Europa League
-6,
+Selección : 1,
 
 Jugador : Elye Wahi,
 Nacimiento : 02.01.2003,
