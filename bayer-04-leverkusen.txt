@@ -226,7 +226,7 @@ Número : 12,
 Contrato : 30.06.2028,
 Selección : 51,
 
-Jugador : Garcia Aleix,
+Jugador : Aleix Garcia,
 Nacimiento : 28.06.1997,
 Edad : 27,
 Nación : España,

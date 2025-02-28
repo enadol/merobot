@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Eintracht Frankfurt"
+club="Bayer 04 Leverkusen"
 torneo="2024-25"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
