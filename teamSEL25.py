@@ -9,7 +9,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains
+#from selenium.webdriver.common.action_chains import ActionChains
 #from gateSEL import lst_dates_cumul, TORNEO
 import codecs
 import json
@@ -38,7 +38,7 @@ exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
 no_games=["Gustavo Puerta", "Gabriel Vidovic", "Josip Stanisic", "Tarek Buchmann"]
-no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia"]
+no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Bayer 04 Leverkusen"
+club="RB Leipzig"
 torneo="2024-25"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -307,7 +307,7 @@ for knombre in kader:
         player_for_url="jamie-bynoe-gittens"
         
     if(knombre=="Bungi Joyeux Masanka"):
-        player_for_url="joeux-masanka-bungi"
+        player_for_url="joyeux-masanka-bungi"
 
     if(knombre=="Filippo Mané"):
         player_for_url="filippo-calixte-mane"
@@ -329,10 +329,13 @@ for knombre in kader:
         
     if(knombre=="Garcia Aleix"):
         player_for_url="aleix-garcia"
-    
         
-    if(knombre=="Oluwaseun Ogbemudia"):
-        url_player="https://www.kicker.de/oluwaseun-ogbemudia/spieler"
+    if(knombre=="Niklas Beste"):
+        player_for_url="jan-niklas-beste"
+        
+    if(knombre in no_complete):
+        #player_for_url=for_url(knombre)
+        url_player=f'https://www.kicker.de/{player_for_url}/spieler'
     else:  
         url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
@@ -558,3 +561,4 @@ with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json
     
     jsonfile.write(team_json)
 jsonfile.close()
+driver.close()
