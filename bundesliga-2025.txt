@@ -262,3 +262,14 @@
         Eintracht Frankfurt  1-4  Bayer 04 Leverkusen
         1. FC Union Berlin  0-1  Holstein Kiel
         FC Augsburg  0-0  SC Freiburg
+25. SPIELTAG
+[FR. 7.3.]
+        Bor. Mönchengladbach  1-3  1. FSV Mainz 05
+        Bayer 04 Leverkusen  0-2  Werder Bremen
+        Bayern München  2-3  VfL Bochum
+        Borussia Dortmund  0-1  FC Augsburg
+        VfL Wolfsburg  1-1  FC St. Pauli
+        Holstein Kiel  2-2  VfB Stuttgart
+        SC Freiburg  0-0  RB Leipzig
+        Eintracht Frankfurt  1-2  1. FC Union Berlin
+        TSG Hoffenheim  1-1  1. FC Heidenheim
