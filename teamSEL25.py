@@ -25,7 +25,7 @@ kader=[]
 team=[]
 name_to_revert=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                  "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", \
-                "Joao Palhinha", "Kaua Santos", "Yan Couto"]
+                "Joao Palhinha", "Kaua Santos", "Yan Couto", "Costa Danny da"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic"]
@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Borussia Dortmund"
+club="1 FSV Mainz 05"
 torneo="2024-25"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -332,6 +332,9 @@ for knombre in kader:
         
     if(knombre=="Niklas Beste"):
         player_for_url="jan-niklas-beste"
+        
+    if(knombre=="Costa Danny da"):
+        player_for_url="danny-da-costa"
         
     if(knombre in no_complete):
         #player_for_url=for_url(knombre)
