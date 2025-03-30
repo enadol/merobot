@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="1 FSV Mainz 05"
+club="Bor Moenchengladbach"
 torneo="2024-25"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -336,6 +336,15 @@ for knombre in kader:
     if(knombre=="Costa Danny da"):
         player_for_url="danny-da-costa"
         
+    if(knombre=="Sanches Yvandro Borges"):
+        player_for_url="yvandro-borges-sanches"
+    
+    if(knombre=="Cardoso Tiago Pereira"):
+        player_for_url="tiago-pereira-cardoso"
+        
+    if(knombre=="Grant-Leon Ranos"):
+        player_for_url="grant-leon-mamedowa"
+
     if(knombre in no_complete):
         #player_for_url=for_url(knombre)
         url_player=f'https://www.kicker.de/{player_for_url}/spieler'
