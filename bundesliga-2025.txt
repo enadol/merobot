@@ -284,3 +284,14 @@
         VfL Bochum  1-3  Eintracht Frankfurt
         1. FC Heidenheim  3-1  Holstein Kiel
         VfB Stuttgart  3-4  Bayer 04 Leverkusen
+27. SPIELTAG
+[FR. 28.3.]
+        Bayer 04 Leverkusen  3-1  VfL Bochum
+        Bayern München  3-2  FC St. Pauli
+        TSG Hoffenheim  1-1  FC Augsburg
+        VfL Wolfsburg  0-1  1. FC Heidenheim
+        Bor. Mönchengladbach  1-0  RB Leipzig
+        Holstein Kiel  0-3  Werder Bremen
+        Eintracht Frankfurt  1-0  VfB Stuttgart
+        SC Freiburg  1-2  1. FC Union Berlin
+        Borussia Dortmund  3-1  1. FSV Mainz 05
