@@ -358,3 +358,6 @@
         VfL Bochum  1-4  1. FSV Mainz 05
         Holstein Kiel  1-2  SC Freiburg
         Bayern München  2-0  Bor. Mönchengladbach
+        Bayer 04 Leverkusen  2-4  Borussia Dortmund
+        Eintracht Frankfurt  2-2  FC St. Pauli
+        VfB Stuttgart  4-0  FC Augsburg
