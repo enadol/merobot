@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="FC St Pauli"
+club="Borussia Dortmund"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -309,7 +309,7 @@ for knombre in kader:
     if(knombre=="Bungi Joyeux Masanka"):
         player_for_url="joyeux-masanka-bungi"
 
-    if(knombre=="Filippo Mané"):
+    if(knombre=="Filippo Mane"):
         player_for_url="filippo-calixte-mane"
         
     if(knombre=="Couto Yan"):
