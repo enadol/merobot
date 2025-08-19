@@ -391,8 +391,10 @@ for knombre in kader:
     cards=driver.find_elements(By.CLASS_NAME, klasstarjetas)  
     
     indicepc=past_club_index(past_club)
-
-    born1=dates[1].text.split(" ")[1][:10]
+    try:
+        born1=dates[1].text.split(" ")[1][:10]
+    except:
+        born1 = "N.D"
     
     cards=driver.find_elements(By.CLASS_NAME, "kick__gameinfo__item")
     for card in cards:
@@ -459,7 +461,10 @@ for knombre in kader:
         vertrag="N.D."
         laenderspiele="No"
     else:
-        age=ages[0].text[1:3]
+        try:
+            age=ages[0].text[1:3]
+        except:
+            age = "N.D."
         #age=dates[1].text.split(" ")[45][1:3]     
         if len(desde)>=2:
             age_in_club=desde[0].text
