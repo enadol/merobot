@@ -28,7 +28,7 @@ name_to_revert=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                 "Joao Palhinha", "Kaua Santos", "Yan Couto", "Costa Danny da"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", "Nick Schmidt"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
@@ -46,8 +46,8 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Bor Mönchengladbach"
-torneo="2024-25"
+club="Borussia Dortmund"
+torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
 klassfrom="kick__vita__header__team-detail__prime"
@@ -309,7 +309,7 @@ for knombre in kader:
     if(knombre=="Bungi Joyeux Masanka"):
         player_for_url="joyeux-masanka-bungi"
 
-    if(knombre=="Filippo Mané"):
+    if(knombre=="Filippo Mane"):
         player_for_url="filippo-calixte-mane"
         
     if(knombre=="Couto Yan"):
@@ -344,6 +344,10 @@ for knombre in kader:
         
     if(knombre=="Grant-Leon Ranos"):
         player_for_url="grant-leon-mamedowa"
+        
+    if(knombre=="Lage Mathias Pereira"):
+        player_for_url="mathias-pereira-lage"
+
 
     if(knombre in no_complete):
         #player_for_url=for_url(knombre)
@@ -387,8 +391,10 @@ for knombre in kader:
     cards=driver.find_elements(By.CLASS_NAME, klasstarjetas)  
     
     indicepc=past_club_index(past_club)
-
-    born1=dates[1].text.split(" ")[1][:10]
+    try:
+        born1=dates[1].text.split(" ")[1][:10]
+    except:
+        born1 = "N.D"
     
     cards=driver.find_elements(By.CLASS_NAME, "kick__gameinfo__item")
     for card in cards:
@@ -455,7 +461,10 @@ for knombre in kader:
         vertrag="N.D."
         laenderspiele="No"
     else:
-        age=ages[0].text[1:3]
+        try:
+            age=ages[0].text[1:3]
+        except:
+            age = "N.D."
         #age=dates[1].text.split(" ")[45][1:3]     
         if len(desde)>=2:
             age_in_club=desde[0].text
