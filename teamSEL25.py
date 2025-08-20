@@ -25,7 +25,7 @@ kader=[]
 team=[]
 name_to_revert=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                  "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", \
-                "Joao Palhinha", "Kaua Santos", "Yan Couto", "Costa Danny da", "Luis Diaz", "David Costa Leal"]
+                "Joao Palhinha", "Kaua Santos", "Yan Couto", "Costa Danny da", "Luis Diaz", "David Leal Costa"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", "Nick Schmidt", "Daniel Klein"]
@@ -33,6 +33,7 @@ triplicates=["Maximilian Bauer", "Florian Müller"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
+eightuples=["Romulo "]
 exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 #revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
@@ -141,7 +142,7 @@ for i in kader_names[1:]:
 
     if jugador == "Leal Costa David":
         #nachnahme="Simons"
-        jugador="David Costa Leal"
+        jugador="David Leal Costa"
     
   #  if jugador == "Tuta":
   #      jugador = "Silva Tuta"
@@ -225,6 +226,9 @@ for knombre in kader:
     
     if(knombre in sextuples):
         player_for_url=f"{player_for_url}-6"
+        
+    if(knombre in eightuples):
+        player_for_url=f"{player_for_url}8"
     
     if(knombre=="Xavi"):
         vorname=knombre
@@ -512,11 +516,10 @@ for knombre in kader:
     else:
         peso_txt="N.D."
     #pais=nacion[0].text.split("\r\n")[1].strip()
-    try:
-        pais=nacion[0].text
-        nacion_txt=ts.translate_text(pais, translator='alibaba', from_language='de' , to_language='es')
-    except:
-        nacion_txt="N.D."
+
+    pais=nacion[0].text
+    nacion_txt=ts.translate_text(pais, translator='google', from_language='de' , to_language='es')
+
     #nacion_txt=pais
     #nacion_txt=translator.translate(pais, dest='es', src='de')
         
