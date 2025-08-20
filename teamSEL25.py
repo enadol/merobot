@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Borussia Dortmund"
+club="FC Augsburg"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
