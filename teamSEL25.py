@@ -25,7 +25,7 @@ kader=[]
 team=[]
 name_to_revert=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                  "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", \
-                "Joao Palhinha", "Kaua Santos", "Yan Couto", "Costa Danny da"]
+                "Joao Palhinha", "Kaua Santos", "Yan Couto", "Costa Danny da", "Luis Diaz", "David Costa Leal"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", "Nick Schmidt", "Daniel Klein"]
@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="FC Bayern München"
+club="FC Augsburg"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -134,9 +134,14 @@ for i in kader_names[1:]:
     if jugador == "Xavi":
         #nachnahme="Simons"
         jugador="Simons Xavi"
+
     if jugador == "Jordan":
         #nachnahme="Simons"
         jugador="Siebatcheu Jordan"
+
+    if jugador == "Leal Costa David":
+        #nachnahme="Simons"
+        jugador="David Costa Leal"
     
   #  if jugador == "Tuta":
   #      jugador = "Silva Tuta"
@@ -185,6 +190,9 @@ for i in kader_names[1:]:
             vorname=nachname
             nachname="Katompa Mvumpa"
             kader.append(f"{vorname} {nachname}")
+
+        if(vorname=="Costa David"):
+            kader.append(f"David Leal Costa")
 
         if(nachname=="Jordan"):
             if(club=="1 FC Union Berlin"):
@@ -489,7 +497,10 @@ for knombre in kader:
     if knombre in no_complete:
         fromclub="N.A."
     else:
-        fromclub=past_club[indicepc].text.strip()
+        try:
+            fromclub=past_club[indicepc].text.strip()
+        except:
+            fromclub="N.D."
     
     if len(altura) > 0 and "Größe: " in altura:
         altura_txt=altura[7:10]
@@ -501,8 +512,11 @@ for knombre in kader:
     else:
         peso_txt="N.D."
     #pais=nacion[0].text.split("\r\n")[1].strip()
-    pais=nacion[0].text
-    nacion_txt=ts.translate_text(pais, translator='alibaba', from_language='de' , to_language='es')
+    try:
+        pais=nacion[0].text
+        nacion_txt=ts.translate_text(pais, translator='alibaba', from_language='de' , to_language='es')
+    except:
+        nacion_txt="N.D."
     #nacion_txt=pais
     #nacion_txt=translator.translate(pais, dest='es', src='de')
         
@@ -546,19 +560,33 @@ for knombre in kader:
             rot="0"
             
         else:
-            played_index=elementix2[1]+1        
-            pplayed=soup2[played_index].text.strip().split("/")[0]            
-            blgames_index=elementindex[0]+1
-            partidosbl=soup2[blgames_index].text.strip().split("\n")[0]
-            goles_index=elementindex[1]+3
             try:
+                played_index=elementix2[1]+1        
+                pplayed=soup2[played_index].text.strip().split("/")[0]
+            except:
+                pplayed="0"
+            
+            try:
+                blgames_index=elementindex[0]+1
+                partidosbl=soup2[blgames_index].text.strip().split("\n")[0]
+            except:
+                partidosbl="0"
+
+            
+            try:
+                goles_index=elementindex[1]+3
                 golesbl=soup2[goles_index].text.strip()
             except:
                 golesbl="0"
-            assist_index=elementindex[1]+5
-            assists=soup2[assist_index].text.strip()
-            gelb_index=elementindex[1]+9
+
             try:
+                assist_index=elementindex[1]+5
+                assists=soup2[assist_index].text.strip()
+            except:
+                assists="0"
+
+            try:
+                gelb_index=elementindex[1]+9
                 gelbe=soup2[gelb_index].text.strip()
             except:
                 gelbe="N.D."
