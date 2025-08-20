@@ -28,7 +28,7 @@ name_to_revert=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                 "Joao Palhinha", "Kaua Santos", "Yan Couto", "Costa Danny da"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", "Nick Schmidt"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", "Nick Schmidt", "Daniel Klein"]
 triplicates=["Maximilian Bauer", "Florian Müller"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
@@ -37,7 +37,7 @@ exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
 #revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
-no_games=["Gustavo Puerta", "Tarek Buchmann"]
+no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
@@ -46,7 +46,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="FC Augsburg"
+club="Bayern München"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -348,6 +348,15 @@ for knombre in kader:
     if(knombre=="Lage Mathias Pereira"):
         player_for_url="mathias-pereira-lage"
 
+    if(knombre=="Nediljko Labrovic"):
+        player_for_url="nedilijko-labrovic"
+
+    if(knombre=="Costa David Leal"):
+        player_for_url="david-leal-costa"
+
+    if(knombre=="Diaz Luis"):
+        player_for_url="luis-diaz-3"
+
 
     if(knombre in no_complete):
         #player_for_url=for_url(knombre)
@@ -467,11 +476,15 @@ for knombre in kader:
             age = "N.D."
         #age=dates[1].text.split(" ")[45][1:3]     
         if len(desde)>=2:
-            age_in_club=desde[0].text
-            vertrag=desde[1].text
-        else:
-            age_in_club=desde[0].text
-            vertrag="N.D."
+            try:
+                age_in_club=desde[0].text
+                vertrag=desde[1].text
+            except:
+                age_in_club="N.D."
+                vertrag="N.D."
+#        else:
+#            age_in_club=desde[0].text
+#            vertrag="N.D."
     #fromclub=past_club[indicepc].text[4:].split("\n")[0]
     if knombre in no_complete:
         fromclub="N.A."
@@ -538,19 +551,30 @@ for knombre in kader:
             blgames_index=elementindex[0]+1
             partidosbl=soup2[blgames_index].text.strip().split("\n")[0]
             goles_index=elementindex[1]+3
-            golesbl=soup2[goles_index].text.strip()
+            try:
+                golesbl=soup2[goles_index].text.strip()
+            except:
+                golesbl="0"
             assist_index=elementindex[1]+5
             assists=soup2[assist_index].text.strip()
             gelb_index=elementindex[1]+9
-            gelbe=soup2[gelb_index].text.strip()
+            try:
+                gelbe=soup2[gelb_index].text.strip()
+            except:
+                gelbe="N.D."
 #gelbe=datosbl2[gelbindex].text.split("\r\n")[1]
-
+        try:
             gelb_rot_index=gelb_index+1
             gelb_rot=soup2[gelb_rot_index].text.strip()
+        except:
+            gelb_rot="N.D."
 #gelbrot=datosbl2[gelbrotindex].text.split("\r\n")[1]
 
+        try:    
             rot_index=gelb_rot_index+1
             rot=soup2[rot_index].text.strip()
+        except:
+            rot="N.D."
 
 #para número no asignado de camiseta    
     if(len(trikot)>0):
