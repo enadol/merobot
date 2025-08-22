@@ -14,9 +14,9 @@
         "TR": "0",
         "Desde": "01.07.2025",
         "De": "Austria Klagenfurt",
-        "BL": "27",
+        "BL": "No",
         "Número": "30",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -36,7 +36,7 @@
         "De": "Sorja Luhansk",
         "BL": "33",
         "Número": "22",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "18"
     },
     {
@@ -56,7 +56,7 @@
         "De": "FC Viktoria Köln",
         "BL": "2",
         "Número": "1",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -76,7 +76,7 @@
         "De": "Desportivo Aves",
         "BL": "16",
         "Número": "25",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "0"
     },
     {
@@ -96,7 +96,7 @@
         "De": "FC Zürich",
         "BL": "10",
         "Número": "3",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "98"
     },
     {
@@ -116,7 +116,7 @@
         "De": "1. FSV Mainz 05",
         "BL": "30",
         "Número": "4",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -136,7 +136,7 @@
         "De": "Arminia Bielefeld",
         "BL": "No",
         "Número": "23",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -156,7 +156,7 @@
         "De": "Piast Gleiwitz",
         "BL": "No",
         "Número": "11",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -176,7 +176,7 @@
         "De": "SC Verl",
         "BL": "21",
         "Número": "21",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -194,9 +194,9 @@
         "TR": "0",
         "Desde": "01.07.2025",
         "De": "Austria Klagenfurt",
-        "BL": "41",
+        "BL": "No",
         "Número": "34",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -216,7 +216,7 @@
         "De": "PAS Ioannina",
         "BL": "30",
         "Número": "2",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "4"
     },
     {
@@ -236,7 +236,7 @@
         "De": "IFK Norrköping",
         "BL": "32",
         "Número": "8",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -256,7 +256,7 @@
         "De": "FC Brentford",
         "BL": "1",
         "Número": "14",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "2"
     },
     {
@@ -276,7 +276,7 @@
         "De": "Holstein Kiel",
         "BL": "33",
         "Número": "5",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -296,7 +296,7 @@
         "De": "Halmstads BK",
         "BL": "5",
         "Número": "20",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "1"
     },
     {
@@ -316,7 +316,7 @@
         "De": "K. Sint-Truidense VV",
         "BL": "No",
         "Número": "16",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "3"
     },
     {
@@ -336,7 +336,7 @@
         "De": "Hibernian Edinburgh",
         "BL": "29",
         "Número": "7",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "78"
     },
     {
@@ -356,7 +356,7 @@
         "De": "Melbourne City",
         "BL": "10",
         "Número": "24",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "26"
     },
     {
@@ -376,7 +376,7 @@
         "De": "New York City FC",
         "BL": "7",
         "Número": "6",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "13"
     },
     {
@@ -396,7 +396,7 @@
         "De": "FC St. Pauli",
         "BL": "No",
         "Número": "44",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -416,7 +416,7 @@
         "De": "FTSV Komet Blankenese",
         "BL": "No",
         "Número": "42",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -436,7 +436,7 @@
         "De": "Wigan Athletic",
         "BL": "26",
         "Número": "10",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "73"
     },
     {
@@ -456,7 +456,7 @@
         "De": "Bolton Wanderers",
         "BL": "32",
         "Número": "17",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -476,7 +476,7 @@
         "De": "1. FC Düren",
         "BL": "No",
         "Número": "38",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -496,7 +496,7 @@
         "De": "Bradford City",
         "BL": "12",
         "Número": "18",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     },
     {
@@ -516,7 +516,7 @@
         "De": "Paide Linnameeskond",
         "BL": "7",
         "Número": "9",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "5"
     },
     {
@@ -536,7 +536,7 @@
         "De": "Standard Lüttich",
         "BL": "No",
         "Número": "27",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "15"
     },
     {
@@ -556,7 +556,7 @@
         "De": "Peterborough United",
         "BL": "No",
         "Número": "26",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "15"
     },
     {
@@ -576,7 +576,7 @@
         "De": "Stade Brest",
         "BL": "No",
         "Número": "28",
-        "Contrato": "",
+        "Contrato": "N.D.",
         "Selección": "No"
     }
 ]

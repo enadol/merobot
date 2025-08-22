@@ -434,7 +434,7 @@ for knombre in kader:
             else:
                 laenderspiele="No"
 
-            if "Bundesliga" in card_selected.text:
+            if "\nBundesliga\n" in card_selected.text:
                 bundesliga=card_selected.text.split('Bundesliga\n')[1].rsplit('\n')[0]
                 total_bundesliga=bundesliga.strip()
             else:
