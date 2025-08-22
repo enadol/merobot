@@ -28,7 +28,7 @@ name_to_revert=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
                 "Joao Palhinha", "Kaua Santos", "Yan Couto", "Costa Danny da", "Luis Diaz", "David Leal Costa"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
-duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", "Nick Schmidt", "Daniel Klein"]
+duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", "Nick Schmidt", "Daniel Klein", "Nick Schmidt"]
 triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
@@ -47,7 +47,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="FC Bayern München"
+club="Eintracht Frankfurt"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -194,6 +194,9 @@ for i in kader_names[1:]:
 
         if(vorname=="Costa David"):
             kader.append(f"David Leal Costa")
+            
+        if(vorname=="Pereira Lage"):
+            kader.append(f"Mathias Pereira Lage")
 
         if(nachname=="Jordan"):
             if(club=="1 FC Union Berlin"):
