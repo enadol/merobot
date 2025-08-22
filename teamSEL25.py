@@ -433,6 +433,12 @@ for knombre in kader:
                     laenderspiele = laenderspiele_long
             else:
                 laenderspiele="No"
+
+            if "Bundesliga" in card_selected.text:
+                bundesliga=card_selected.text.split('Bundesliga\n')[1].rsplit('\n')[0]
+                total_bundesliga=bundesliga.strip()
+            else:
+                total_bundesliga="No"
     
     
  #   laenderspiele_elem=driver.find_elements(By.XPATH, "//h2[contains(text(), 'Karrieredaten')]/table/tbody/tr/td/td[contains(text(), 'Länderspiele')]")
@@ -580,8 +586,9 @@ for knombre in kader:
 
             
             try:
-                goles_index=elementindex[1]+3
-                golesbl=soup2[goles_index].text.strip()
+                #goles_index=elementindex[1]+3
+                #golesbl=soup2[goles_index].text.strip()
+                golesbl=total_bundesliga
             except:
                 golesbl="0"
 
