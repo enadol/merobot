@@ -47,7 +47,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="Eintracht Frankfurt"
+club="FC St Pauli"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -503,9 +503,9 @@ for knombre in kader:
             except:
                 age_in_club="N.D."
                 vertrag="N.D."
-#        else:
-#            age_in_club=desde[0].text
-#            vertrag="N.D."
+        else:
+            age_in_club=desde[0].text
+            vertrag="N.D."
     #fromclub=past_club[indicepc].text[4:].split("\n")[0]
     if knombre in no_complete:
         fromclub="N.A."
