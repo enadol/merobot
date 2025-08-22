@@ -578,17 +578,17 @@ for knombre in kader:
             except:
                 pplayed="0"
             
-            try:
-                blgames_index=elementindex[0]+1
-                partidosbl=soup2[blgames_index].text.strip().split("\n")[0]
-            except:
-                partidosbl="0"
+            #try:
+                #blgames_index=elementindex[0]+1
+                #partidosbl=soup2[blgames_index].text.strip().split("\n")[0]
+            #    partidosbl=total_bundesliga
+            #except:
+            #    partidosbl="0"
 
             
             try:
-                #goles_index=elementindex[1]+3
-                #golesbl=soup2[goles_index].text.strip()
-                golesbl=total_bundesliga
+                goles_index=elementindex[1]+3
+                golesbl=soup2[goles_index].text.strip()
             except:
                 golesbl="0"
 
@@ -626,7 +626,7 @@ for knombre in kader:
     #lfilter1=driver.find_elements(By.TAG_NAME, "tbody")
    # lfilter2=driver.find_elements(By.CLASS_NAME, klasslaender)
     
-    player_dict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": nacion_txt, "Altura": altura_txt, "Peso": peso_txt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": age_in_club, "De": fromclub, "BL": partidosbl, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
+    player_dict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": nacion_txt, "Altura": altura_txt, "Peso": peso_txt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": age_in_club, "De": fromclub, "BL": total_bundesliga, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
     team.append(player_dict)
 
