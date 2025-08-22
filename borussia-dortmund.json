@@ -34,7 +34,7 @@
         "TR": "0",
         "Desde": "01.07.2021",
         "De": "VfB Stuttgart",
-        "BL": "0",
+        "BL": "165",
         "Número": "1",
         "Contrato": "30.06.2028",
         "Selección": "13"
@@ -54,7 +54,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "Jahn Regensburg",
-        "BL": "0",
+        "BL": "17",
         "Número": "33",
         "Contrato": "30.06.2026",
         "Selección": "No"
@@ -74,7 +74,7 @@
         "TR": "0",
         "Desde": "01.07.2018",
         "De": "SpVgg Hagen",
-        "BL": "0",
+        "BL": "No",
         "Número": "31",
         "Contrato": "N.D.",
         "Selección": "No"
@@ -94,7 +94,7 @@
         "TR": "0",
         "Desde": "08.07.2024",
         "De": "VfB Stuttgart",
-        "BL": "0",
+        "BL": "222",
         "Número": "3",
         "Contrato": "30.06.2028",
         "Selección": "8"
@@ -114,7 +114,7 @@
         "TR": "0",
         "Desde": "01.07.2023",
         "De": "Bor. Mönchengladbach",
-        "BL": "0",
+        "BL": "143",
         "Número": "5",
         "Contrato": "30.06.2027",
         "Selección": "73"
@@ -154,7 +154,7 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "Hammer SpVgg",
-        "BL": "0",
+        "BL": "5",
         "Número": "42",
         "Contrato": "30.06.2028",
         "Selección": "No"
@@ -174,7 +174,7 @@
         "TR": "0",
         "Desde": "09.01.2022",
         "De": "Sampdoria Genua",
-        "BL": "0",
+        "BL": "No",
         "Número": "39",
         "Contrato": "30.06.2028",
         "Selección": "No"
@@ -194,7 +194,7 @@
         "TR": "0",
         "Desde": "17.01.2023",
         "De": "1. FC Union Berlin",
-        "BL": "0",
+        "BL": "146",
         "Número": "26",
         "Contrato": "30.06.2028",
         "Selección": "34"
@@ -254,7 +254,7 @@
         "TR": "0",
         "Desde": "03.02.2025",
         "De": "FC Nordsjaelland",
-        "BL": "0",
+        "BL": "12",
         "Número": "24",
         "Contrato": "30.06.2029",
         "Selección": "3"
@@ -274,7 +274,7 @@
         "TR": "0",
         "Desde": "03.08.2024",
         "De": "Manchester City",
-        "BL": "0",
+        "BL": "21",
         "Número": "2",
         "Contrato": "N.D.",
         "Selección": "4"
@@ -294,7 +294,7 @@
         "TR": "0",
         "Desde": "10.06.2025",
         "De": "AFC Sunderland",
-        "BL": "0",
+        "BL": "No",
         "Número": "7",
         "Contrato": "N.D.",
         "Selección": "No"
@@ -314,7 +314,7 @@
         "TR": "0",
         "Desde": "01.07.2019",
         "De": "Bayer 04 Leverkusen",
-        "BL": "0",
+        "BL": "354",
         "Número": "10",
         "Contrato": "30.06.2026",
         "Selección": "48"
@@ -334,7 +334,7 @@
         "TR": "0",
         "Desde": "01.08.2024",
         "De": "Brighton & Hove Albion",
-        "BL": "0",
+        "BL": "100",
         "Número": "13",
         "Contrato": "30.06.2026",
         "Selección": "15"
@@ -354,7 +354,7 @@
         "TR": "0",
         "Desde": "03.07.2023",
         "De": "VfL Wolfsburg",
-        "BL": "0",
+        "BL": "92",
         "Número": "8",
         "Contrato": "30.06.2028",
         "Selección": "4"
@@ -363,7 +363,7 @@
         "Jugador": "Salih Özcan",
         "Nacimiento": "11.01.1998",
         "Edad": "27",
-        "Nación": "Turquía",
+        "Nación": "Türkiye",
         "Altura": "182",
         "Peso": "75",
         "PJ": "0",
@@ -374,7 +374,7 @@
         "TR": "0",
         "Desde": "28.01.2025",
         "De": "VfL Wolfsburg",
-        "BL": "0",
+        "BL": "166",
         "Número": "6",
         "Contrato": "30.06.2026",
         "Selección": "23"
@@ -383,7 +383,7 @@
         "Jugador": "Giovanni Reyna",
         "Nacimiento": "13.11.2002",
         "Edad": "22",
-        "Nación": "Estados Unidos",
+        "Nación": "EE.UU",
         "Altura": "185",
         "Peso": "79",
         "PJ": "0",
@@ -394,7 +394,7 @@
         "TR": "0",
         "Desde": "01.07.2024",
         "De": "Nottingham Forest",
-        "BL": "0",
+        "BL": "106",
         "Número": "21",
         "Contrato": "30.06.2026",
         "Selección": "32"
@@ -434,7 +434,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "RB Salzburg",
-        "BL": "0",
+        "BL": "70",
         "Número": "27",
         "Contrato": "30.06.2027",
         "Selección": "8"
@@ -454,7 +454,7 @@
         "TR": "0",
         "Desde": "12.08.2024",
         "De": "TSG Hoffenheim",
-        "BL": "0",
+        "BL": "71",
         "Número": "14",
         "Contrato": "30.06.2029",
         "Selección": "4"
@@ -463,7 +463,7 @@
         "Jugador": "Cole Campbell",
         "Nacimiento": "20.02.2006",
         "Edad": "19",
-        "Nación": "Estados Unidos",
+        "Nación": "EE.UU",
         "Altura": "170",
         "Peso": "68",
         "PJ": "0",
@@ -474,7 +474,7 @@
         "TR": "0",
         "Desde": "01.07.2022",
         "De": "UMF Breidablik",
-        "BL": "0",
+        "BL": "4",
         "Número": "37",
         "Contrato": "N.D.",
         "Selección": "No"
@@ -494,7 +494,7 @@
         "TR": "0",
         "Desde": "27.01.2023",
         "De": "RSC Anderlecht",
-        "BL": "0",
+        "BL": "15",
         "Número": "16",
         "Contrato": "30.06.2027",
         "Selección": "2"
@@ -514,7 +514,7 @@
         "TR": "0",
         "Desde": "18.07.2024",
         "De": "VfB Stuttgart",
-        "BL": "0",
+        "BL": "101",
         "Número": "9",
         "Contrato": "30.06.2028",
         "Selección": "24"

@@ -47,7 +47,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="FC St Pauli"
+club="FC Bayern München"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -438,7 +438,8 @@ for knombre in kader:
                 bundesliga=card_selected.text.split('Bundesliga\n')[1].rsplit('\n')[0]
                 total_bundesliga=bundesliga.strip()
             else:
-                total_bundesliga="No"
+                total_bundesliga="0"
+
     
     
  #   laenderspiele_elem=driver.find_elements(By.XPATH, "//h2[contains(text(), 'Karrieredaten')]/table/tbody/tr/td/td[contains(text(), 'Länderspiele')]")
