@@ -45,7 +45,7 @@ exclude=["Michael Langer", "Malik Tillman", "Arijon Ibrahimovic"]
 #revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
-no_games=["Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala"]
+no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
@@ -301,8 +301,8 @@ for knombre in kader:
     if knombre=="Keke Topp":
         player_for_url="keke-maximilian-topp"
 
-    if knombre=="Jamie Gittens":
-        player_for_url="jamie-bynoe-gittens"
+    if knombre=="Claudio Echeverri":
+        player_for_url="claudio-jeremias-echeverri-2"
 
     if knombre=="Bungi Joyeux Masanka":
         player_for_url="joyeux-masanka-bungi"
