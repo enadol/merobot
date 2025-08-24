@@ -24,10 +24,10 @@ vornamen=[]
 nachnamen=[]
 kader=[]
 team=[]
-name_to_revert=["Dani Olmo", "Diogo Leite", "Joao Cancelo", "Tiago Tomas", \
-                 "Gil Dias","Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", \
-                "Joao Palhinha", "Kaua Santos", "Yan Couto", "Costa Danny da", \
-                    "Luis Diaz", "David Leal Costa"]
+name_to_revert=["Diogo Leite", "Tiago Tomas", "Gil Dias", \
+"Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", \
+"Kaua Santos", "Yan Couto", "Costa Danny da", \
+"Luis Diaz", "David Leal Costa"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", \
@@ -41,11 +41,11 @@ cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
 eightuples=["Romulo "]
-exclude=["Michael Langer", "Malik Tillman", "Paul Wanner", "Arijon Ibrahimovic"]
+exclude=["Michael Langer", "Malik Tillman", "Arijon Ibrahimovic"]
 #revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
-no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala"]
+no_games=["Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
@@ -54,7 +54,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum
 
-club="FC Augsburg"
+club="Borussia Dortmund"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -194,11 +194,6 @@ for i in kader_names[1:]:
  #           nachname=" "
  #           kader.append(f"{vorname} {nachname}")
 
-        if nachname=="Silas":
-            vorname=nachname
-            nachname="Katompa Mvumpa"
-            kader.append(f"{vorname} {nachname}")
-
         if vorname=="Costa David":
             kader.append(f"David Leal Costa")
 
@@ -278,9 +273,6 @@ for knombre in kader:
     if knombre=="Thomas Isherwood":
         player_for_url="thomas-poppler-isherwood"
 
-    if knombre=="Willian Pacho":
-        player_for_url="william-pacho"
-
     if knombre=="Olivier Deman":
         player_for_url="oliver-deman"
 
@@ -299,10 +291,6 @@ for knombre in kader:
 
     if knombre=="Assan Ouedraogo":
         player_for_url="forzan-ouedraogo"
-
-    if "Palhinha" in knombre:
-        if club == "FC Bayern München":
-            player_for_url="palhinha"
 
     if knombre=="Isak Hansen-Aaröen":
         player_for_url="isak-hansen-aaroen"
