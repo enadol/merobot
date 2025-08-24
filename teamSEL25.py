@@ -380,6 +380,7 @@ for knombre in kader:
 
     #para considerar chavales que vienen de inferiores o que solo han jugado en un equipo
     def past_club_index(pastclub):
+        """Tomar index del club anterior"""
         if len(pastclub)==1:
             indicepc=0
         else:
