@@ -52,9 +52,9 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
-# 1 FSV Mainz 05 FC St Pauli VfL Bochum
+# 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="Borussia Dortmund"
+club="Hamburger SV"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -137,7 +137,7 @@ accept_button.click()
 klass_names="kick__table--ranking__index kick__t__a__l kick__respt-m-w-190"
 
 kader_names=driver.find_elements(By.CLASS_NAME, "kick__respt-m-w-190")
-
+#Nombres para la plantilla NO PARA URL
 for i in kader_names[1:]:
     jugador=i.text
     if jugador == "Xavi":
@@ -151,6 +151,10 @@ for i in kader_names[1:]:
     if jugador == "Leal Costa David":
         #nachnahme="Simons"
         jugador="David Leal Costa"
+
+    if jugador =="Fernandes Daniel Heuer":
+        jugador="Daniel Heuer Fernandes"
+
 
   #  if jugador == "Tuta":
   #      jugador = "Silva Tuta"
@@ -172,8 +176,16 @@ for i in kader_names[1:]:
                 nachname = completo[1].strip()
                 vorname = completo[0].strip()
             else:
-                nachname=completo[0].strip()
-                vorname=completo[1].strip()
+#                nachname=completo[0].strip()
+#                vorname=completo[1].strip()
+                for_test=jugador.split(" ")
+                if len(for_test) > 2:
+                    vorname=for_test[-1].strip()
+                    nachname=f"{for_test[0]} {for_test[1]}"
+                else:
+                    nachname = completo[0].strip()
+                    vorname = completo[1].strip()
+
 
     #apellidos=nombre.find("strong")
     #for apellido in apellidos:
@@ -195,10 +207,13 @@ for i in kader_names[1:]:
  #           kader.append(f"{vorname} {nachname}")
 
         if vorname=="Costa David":
-            kader.append(f"David Leal Costa")
+            kader.append("David Leal Costa")
 
         if vorname=="Pereira Lage":
-            kader.append(f"Mathias Pereira Lage")
+            kader.append("Mathias Pereira Lage")
+
+        if nachname=="Heuer" and vorname=="Fernandes Daniel":
+            kader.append("Daniel Heuer Fernandes")
 
         if nachname=="Jordan" :
             if club=="1 FC Union Berlin" :
@@ -304,6 +319,9 @@ for knombre in kader:
     if knombre=="Claudio Echeverri":
         player_for_url="claudio-jeremias-echeverri-2"
 
+    if knombre =="Christian Kofane":
+        player_for_url="christian-michel-kofane"
+
     if knombre=="Bungi Joyeux Masanka":
         player_for_url="joyeux-masanka-bungi"
 
@@ -341,7 +359,7 @@ for knombre in kader:
         player_for_url="tiago-pereira-cardoso"
 
     if knombre=="Grant-Leon Ranos":
-        player_for_url="grant-leon-mamedowa"
+        player_for_url="grant-leon-mamedova"
 
     if knombre=="Lage Mathias Pereira":
         player_for_url="mathias-pereira-lage"
@@ -355,6 +373,11 @@ for knombre in kader:
     if knombre=="Diaz Luis":
         player_for_url="luis-diaz-3"
 
+    if knombre=="Daniel Heuer Fernandes":
+        player_for_url="daniel-heuer-fernandes"
+
+    if knombre=="Alexander Rössing-Lelesiit":
+        player_for_url="alexander-r-ssing-lelesiit"
 
     if knombre in no_complete:
         #player_for_url=for_url(knombre)
