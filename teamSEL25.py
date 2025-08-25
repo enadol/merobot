@@ -47,6 +47,8 @@ vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
 no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
+name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek"]
+complex_name_surname=["Johannesson Isak Bergmann"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -54,7 +56,7 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="Hamburger SV"
+club="1 FC Köln"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -175,16 +177,26 @@ for i in kader_names[1:]:
             if jugador in name_to_revert:
                 nachname = completo[1].strip()
                 vorname = completo[0].strip()
-            else:
+
+            elif jugador in name_plus_complex_surname:
+                name_partition=jugador.rsplit(" ", 1)          
+                vorname = name_partition[1].strip()
+                nachname = name_partition[0].strip()
+
+            elif jugador in complex_name_surname:
+                name_partition=jugador.split(" ", 1)
+                vorname = name_partition[1].strip()
+                nachname = name_partition[0].strip()
+#            else:
 #                nachname=completo[0].strip()
 #                vorname=completo[1].strip()
-                for_test=jugador.split(" ")
-                if len(for_test) > 2:
-                    vorname=for_test[-1].strip()
-                    nachname=f"{for_test[0]} {for_test[1]}"
-                else:
-                    nachname = completo[0].strip()
-                    vorname = completo[1].strip()
+#                for_test=jugador.split(" ")
+#                if len(for_test) > 2:
+#                    vorname=for_test[-1].strip()
+#                    nachname=f"{for_test[0]} {for_test[1]}"
+            else:
+                nachname = completo[0].strip()
+                vorname = completo[1].strip()
 
 
     #apellidos=nombre.find("strong")
@@ -378,6 +390,9 @@ for knombre in kader:
 
     if knombre=="Alexander Rössing-Lelesiit":
         player_for_url="alexander-r-ssing-lelesiit"
+
+    if knombre=="Kristoffer Lund":
+        player_for_url="kristoffer-lund-hansen"
 
     if knombre in no_complete:
         #player_for_url=for_url(knombre)
