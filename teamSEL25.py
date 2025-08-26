@@ -35,7 +35,7 @@ duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pell
                 "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", \
                     "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", \
                         "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", \
-                            "Nick Schmidt", "Daniel Klein", "Nick Schmidt", "Oliver Sorg"]
+                            "Nick Schmidt", "Daniel Klein", "Nick Schmidt", "Oliver Sorg", "Lazar Jovanovic"]
 triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
@@ -45,7 +45,7 @@ exclude=["Michael Langer", "Malik Tillman", "Arijon Ibrahimovic"]
 #revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
-no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala"]
+no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Chema ", "Silas "]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek"]
 complex_name_surname=["Johannesson Isak Bergmann"]
@@ -56,7 +56,7 @@ complex_name_surname=["Johannesson Isak Bergmann"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Köln"
+club="Werder Bremen"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -157,7 +157,6 @@ for i in kader_names[1:]:
     if jugador =="Fernandes Daniel Heuer":
         jugador="Daniel Heuer Fernandes"
 
-
   #  if jugador == "Tuta":
   #      jugador = "Silva Tuta"
 
@@ -217,7 +216,7 @@ for i in kader_names[1:]:
  #           vorname=nachname
  #           nachname=" "
  #           kader.append(f"{vorname} {nachname}")
-
+    
         if vorname=="Costa David":
             kader.append("David Leal Costa")
 
@@ -393,6 +392,15 @@ for knombre in kader:
 
     if knombre=="Kristoffer Lund":
         player_for_url="kristoffer-lund-hansen"
+
+    if knombre=="Jeff Chabot":
+        player_for_url="julian-chabot"
+
+    if knombre=="Silas ":
+        player_for_url="silas-katompa-mvumpa"
+
+    if knombre=="Chema ":
+        player_for_url="chema-andres"
 
     if knombre in no_complete:
         #player_for_url=for_url(knombre)
