@@ -45,7 +45,7 @@ exclude=["Michael Langer", "Malik Tillman", "Arijon Ibrahimovic"]
 #revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
-no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Chema ", "Silas "]
+no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas "]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek"]
 complex_name_surname=["Johannesson Isak Bergmann"]
@@ -401,6 +401,15 @@ for knombre in kader:
 
     if knombre=="Chema ":
         player_for_url="chema-andres"
+        
+    if knombre=="Dikeni Salifou":
+        player_for_url="salifou-dikeni"
+        
+    if knombre=="Samuel Mbangula":
+        player_for_url="samuel-mbangula-tshifunda"
+        
+    if knombre=="Salim Musah":
+        player_for_url="salim-amani-musah"
 
     if knombre in no_complete:
         #player_for_url=for_url(knombre)
