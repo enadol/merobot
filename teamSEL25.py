@@ -33,9 +33,10 @@ brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", \
             "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", \
                 "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", \
-                    "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", \
-                        "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", \
-                            "Nick Schmidt", "Daniel Klein", "Nick Schmidt", "Oliver Sorg", "Lazar Jovanovic"]
+            "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", \
+        "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", \
+    "Nick Schmidt", "Daniel Klein", "Nick Schmidt", "Oliver Sorg", \
+"Lazar Jovanovic", "Marius Müller"]
 triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
@@ -45,9 +46,9 @@ exclude=["Michael Langer", "Malik Tillman", "Arijon Ibrahimovic"]
 #revert=["Dikeni Salifou"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
-no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas "]
+no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas ", "Dmytro Bogdanov"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
-name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek"]
+name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas"]
 complex_name_surname=["Johannesson Isak Bergmann"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
@@ -56,7 +57,7 @@ complex_name_surname=["Johannesson Isak Bergmann"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="Werder Bremen"
+club="VfL Wolfsburg"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -410,6 +411,15 @@ for knombre in kader:
         
     if knombre=="Salim Musah":
         player_for_url="salim-amani-musah"
+
+    if knombre=="Dmytro Bogdanov":
+        player_for_url="dmytro-bohdanov"
+
+    if knombre=="Cyriaque Irié":
+        player_for_url="cyriaque-kalou-bi-irie"
+
+    if knombre=="Souza Vinicius":
+        player_for_url="vinicius-souza"
 
     if knombre in no_complete:
         #player_for_url=for_url(knombre)
