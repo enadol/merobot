@@ -360,6 +360,26 @@
         "Selección": "11"
     },
     {
+        "Jugador": "Anton Kade",
+        "Nacimiento": "17.01.2004",
+        "Edad": "21",
+        "Nación": "Alemania",
+        "Altura": "185",
+        "Peso": "72",
+        "PJ": "0",
+        "Goles": "0",
+        "Asistencias": "0",
+        "TA": "0",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "25.08.2025",
+        "De": "FC Basel",
+        "BL": "4",
+        "Número": "30",
+        "Contrato": "30.06.2029",
+        "Selección": "No"
+    },
+    {
         "Jugador": "Mert Kömür",
         "Nacimiento": "17.07.2005",
         "Edad": "20",

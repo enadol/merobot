@@ -57,7 +57,7 @@ complex_name_surname=["Johannesson Isak Bergmann"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="TSG Hoffenheim"
+club="FC Bayern München"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
