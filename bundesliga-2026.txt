@@ -1,0 +1,22 @@
+﻿1. SPIELTAG
+[Fri. 22.8.]
+        Bayern München  6-0  RB Leipzig
+        Eintracht Frankfurt  4-1  Werder Bremen
+        Bayer 04 Leverkusen  1-2  TSG Hoffenheim
+        SC Freiburg  1-3  FC Augsburg
+        1. FC Union Berlin  2-1  VfB Stuttgart
+        1. FC Heidenheim  1-3  VfL Wolfsburg
+        FC St. Pauli  3-3  Borussia Dortmund
+        1. FSV Mainz 05  0-1  1. FC Köln
+        Bor. Mönchengladbach  0-0  Hamburger SV
+2. SPIELTAG
+[Fri. 29.8.]
+        Hamburger SV  0-2  FC St. Pauli
+        RB Leipzig  2-0  1. FC Heidenheim
+        Werder Bremen  3-3  Bayer 04 Leverkusen
+        VfB Stuttgart  1-0  Bor. Mönchengladbach
+        TSG Hoffenheim  1-3  Eintracht Frankfurt
+        FC Augsburg  2-3  Bayern München
+        VfL Wolfsburg  1-1  1. FSV Mainz 05
+        Borussia Dortmund  3-0  1. FC Union Berlin
+        1. FC Köln  4-1  SC Freiburg
