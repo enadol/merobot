@@ -48,8 +48,8 @@ vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
 no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas ", "Dmytro Bogdanov"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
-name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas"]
-complex_name_surname=["Johannesson Isak Bergmann"]
+name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas", "Heuer Fernandes Daniel"]
+complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -57,7 +57,7 @@ complex_name_surname=["Johannesson Isak Bergmann"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="FC Bayern München"
+club="1 FC Köln"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -157,6 +157,9 @@ for i in kader_names[1:]:
 
     if jugador =="Fernandes Daniel Heuer":
         jugador="Daniel Heuer Fernandes"
+        
+    if jugador =="Vieira Fabio":
+        jugador="Fabio Vieira"
 
   #  if jugador == "Tuta":
   #      jugador = "Silva Tuta"
@@ -429,6 +432,9 @@ for knombre in kader:
 
     if knombre=="Souza Vinicius":
         player_for_url="vinicius-souza"
+        
+    if knombre=="Vieira Fabio":
+        player_for_url="fabio-vieira"
 
     if knombre in no_complete:
         #player_for_url=for_url(knombre)
