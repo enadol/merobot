@@ -62,7 +62,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Köln"
+club="FC St Pauli"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -581,9 +581,9 @@ for knombre in kader:
     #nacion_txt=pais
     #nacion_txt=translator.translate(pais, dest='es', src='de')
 
-    soup2=driver.find_elements(By.TAG_NAME, "td")
+    player_performance=driver.find_elements(By.TAG_NAME, "td")
     elementindex=[]
-    for e in soup2:
+    for e in player_performance:
     #para chavales de la cantera sin debutar
         if "Bundesliga" not in e.text:
             pplayed="0"
@@ -596,8 +596,8 @@ for knombre in kader:
             desde="N.A."
    #separar bundesliga de otras ligas y de 2a Bundesliga
         if e.text.strip()=="Bundesliga":
-            indice=soup2.index(e)
-            print(indice)
+            indice=player_performance.index(e)
+            #print(indice)
             elementindex.append(indice)
         elementix2=elementindex
     #para que corra el carrusel con todos los índices
@@ -632,45 +632,45 @@ for knombre in kader:
         else:
             try:
                 played_index=elementix2[1]+1
-                pplayed=soup2[played_index].text.strip().split("/")[0]
+                pplayed=player_performance[played_index].text.strip().split("/")[0]
             except:
                 pplayed="0"
 
             #try:
                 #blgames_index=elementindex[0]+1
-                #partidosbl=soup2[blgames_index].text.strip().split("\n")[0]
+                #partidosbl=player_performance[blgames_index].text.strip().split("\n")[0]
             #    partidosbl=total_bundesliga
             #except:
             #    partidosbl="0"
 
             try:
                 goles_index=elementindex[1]+3
-                golesbl=soup2[goles_index].text.strip()
+                golesbl=player_performance[goles_index].text.strip()
             except:
                 golesbl="0"
 
             try:
                 assist_index=elementindex[1]+5
-                assists=soup2[assist_index].text.strip()
+                assists=player_performance[assist_index].text.strip()
             except:
                 assists="0"
 
             try:
                 gelb_index=elementindex[1]+9
-                gelbe=soup2[gelb_index].text.strip()
+                gelbe=player_performance[gelb_index].text.strip()
             except:
                 gelbe="N.D."
 #gelbe=datosbl2[gelbindex].text.split("\r\n")[1]
         try:
             gelb_rot_index=gelb_index+1
-            gelb_rot=soup2[gelb_rot_index].text.strip()
+            gelb_rot=player_performance[gelb_rot_index].text.strip()
         except:
             gelb_rot="N.D."
 #gelbrot=datosbl2[gelbrotindex].text.split("\r\n")[1]
 
         try:
             rot_index=gelb_rot_index+1
-            rot=soup2[rot_index].text.strip()
+            rot=player_performance[rot_index].text.strip()
         except:
             rot="N.D."
 
