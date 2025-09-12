@@ -1,5 +1,25 @@
 [
     {
+        "Jugador": "Leon Klanac",
+        "Nacimiento": "01.03.2007",
+        "Edad": "18",
+        "Nación": "Alemania",
+        "Altura": "183",
+        "Peso": "N.D.",
+        "PJ": "0",
+        "Goles": "0",
+        "Asistencias": "0",
+        "TA": "0",
+        "TAR": "0",
+        "TR": "0",
+        "Desde": "N.A.",
+        "De": "Bayern München",
+        "BL": "0",
+        "Número": "0",
+        "Contrato": "N.D.",
+        "Selección": "No"
+    },
+    {
         "Jugador": "Manuel Neuer",
         "Nacimiento": "27.03.1986",
         "Edad": "39",
@@ -157,7 +177,7 @@
         "BL": "53",
         "Número": "3",
         "Contrato": "30.06.2028",
-        "Selección": "69"
+        "Selección": "71"
     },
     {
         "Jugador": "Konrad Laimer",
@@ -177,7 +197,7 @@
         "BL": "190",
         "Número": "27",
         "Contrato": "30.06.2027",
-        "Selección": "49"
+        "Selección": "51"
     },
     {
         "Jugador": "Josip Stanisic",
@@ -197,7 +217,7 @@
         "BL": "64",
         "Número": "44",
         "Contrato": "30.06.2029",
-        "Selección": "24"
+        "Selección": "25"
     },
     {
         "Jugador": "Jonathan Tah",
@@ -217,7 +237,7 @@
         "BL": "309",
         "Número": "4",
         "Contrato": "30.06.2029",
-        "Selección": "38"
+        "Selección": "39"
     },
     {
         "Jugador": "Dayot Upamecano",
@@ -237,7 +257,7 @@
         "BL": "216",
         "Número": "2",
         "Contrato": "30.06.2026",
-        "Selección": "31"
+        "Selección": "32"
     },
     {
         "Jugador": "Tom Bischof",
@@ -277,7 +297,7 @@
         "BL": "244",
         "Número": "7",
         "Contrato": "30.06.2026",
-        "Selección": "52"
+        "Selección": "53"
     },
     {
         "Jugador": "Leon Goretzka",
@@ -297,7 +317,7 @@
         "BL": "298",
         "Número": "8",
         "Contrato": "30.06.2026",
-        "Selección": "62"
+        "Selección": "63"
     },
     {
         "Jugador": "Lennart Karl",
@@ -337,7 +357,7 @@
         "BL": "297",
         "Número": "6",
         "Contrato": "30.06.2029",
-        "Selección": "102"
+        "Selección": "103"
     },
     {
         "Jugador": "Jamal Musiala",
@@ -377,7 +397,7 @@
         "BL": "36",
         "Número": "17",
         "Contrato": "30.06.2029",
-        "Selección": "9"
+        "Selección": "10"
     },
     {
         "Jugador": "Aleksandar Pavlovic",
@@ -417,7 +437,7 @@
         "BL": "0",
         "Número": "11",
         "Contrato": "30.06.2026",
-        "Selección": "21"
+        "Selección": "22"
     },
     {
         "Jugador": "Harry Kane",
@@ -437,7 +457,7 @@
         "BL": "65",
         "Número": "9",
         "Contrato": "30.06.2027",
-        "Selección": "107"
+        "Selección": "109"
     },
     {
         "Jugador": "Luis Diaz",
@@ -457,7 +477,7 @@
         "BL": "2",
         "Número": "14",
         "Contrato": "30.06.2029",
-        "Selección": "65"
+        "Selección": "66"
     },
     {
         "Jugador": "Jonah Kusi-Asare",

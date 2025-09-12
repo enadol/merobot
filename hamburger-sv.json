@@ -77,7 +77,7 @@
         "BL": "4",
         "Número": "26",
         "Contrato": "30.06.2026",
-        "Selección": "8"
+        "Selección": "9"
     },
     {
         "Jugador": "Daniel Elfadli",
@@ -217,7 +217,7 @@
         "BL": "2",
         "Número": "17",
         "Contrato": "30.06.2026",
-        "Selección": "10"
+        "Selección": "11"
     },
     {
         "Jugador": "Guilherme Ramos",
@@ -360,7 +360,7 @@
         "Selección": "No"
     },
     {
-        "Jugador": "Vieira Fabio",
+        "Jugador": "Fabio Vieira",
         "Nacimiento": "30.05.2000",
         "Edad": "25",
         "Nación": "Portugal",

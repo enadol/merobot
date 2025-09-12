@@ -24,10 +24,10 @@ vornamen=[]
 nachnamen=[]
 kader=[]
 team=[]
-name_to_revert=["Diogo Leite", "Tiago Tomas", "Gil Dias", \
-"Fabio Carvalho", "Ilaix Moriba", "Aleix Garcia", \
+name_to_revert=["Diogo Leite", "Gil Dias", \
+"Fabio Carvalho", "Ilaix Moriba", \
 "Kaua Santos", "Yan Couto", "Costa Danny da", \
-"Luis Diaz", "David Leal Costa"]
+"David Leal Costa"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", \
@@ -43,13 +43,17 @@ quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
 eightuples=["Romulo "]
 exclude=["Michael Langer", "Malik Tillman", "Arijon Ibrahimovic"]
-#revert=["Dikeni Salifou"]
+split_and_revert=["Dikeni Salifou", "Vieira Fabio", "Souza Vinicius"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
-no_games=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas ", "Dmytro Bogdanov"]
+no_games_season=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas ", "Dmytro Bogdanov",\
+ "Bilal El Khannouss", "Bouanani Badredine"]
+no_games_at_all=["Leon Klanac"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
-name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas", "Heuer Fernandes Daniel"]
+name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas",\
+ "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal"]
 complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi"]
+name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago Tomas", "Badredine Bouanani"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -57,7 +61,7 @@ complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi"]
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Köln"
+club="VfB Stuttgart"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -74,11 +78,11 @@ klasstarjetas="kick__site-padding kick__gameinfo-block"
 def for_url(player):
     """Convierte nombre de jugador o club a formato URL de Kicker"""
     player_def=""
-#    if player in revert):
-#        partido=player.split(" ")
-#        vorname=partido[1]
-#        nachname=partido[0]
-#        player=f"{vorname} {nachname}"
+ #   if player in split_and_revert:
+ #       name_split=player.split(" ")
+ #       vorname=name_split[1]
+ #       nachname=name_split[0]
+ #       player=f"{vorname} {nachname}"
 
     player_low=player.lower()
     player_minus=player_low.replace(" ", "-")
@@ -158,8 +162,15 @@ for i in kader_names[1:]:
     if jugador =="Fernandes Daniel Heuer":
         jugador="Daniel Heuer Fernandes"
         
-    if jugador =="Vieira Fabio":
-        jugador="Fabio Vieira"
+#    if jugador in split_and_revert:
+#        name_split=jugador.split(" ")
+#        vorname=name_split[1]
+#        nachname=name_split[0]
+#        jugador= f"{vorname} {nachname}"
+
+#PROBANDO, PROBANDO       
+#    if jugador =="Vieira Fabio":
+#        jugador="Fabio Vieira"
 
   #  if jugador == "Tuta":
   #      jugador = "Silva Tuta"
@@ -190,17 +201,14 @@ for i in kader_names[1:]:
                 name_partition=jugador.split(" ", 1)
                 vorname = name_partition[1].strip()
                 nachname = name_partition[0].strip()
-#            else:
-#                nachname=completo[0].strip()
-#                vorname=completo[1].strip()
-#                for_test=jugador.split(" ")
-#                if len(for_test) > 2:
-#                    vorname=for_test[-1].strip()
-#                    nachname=f"{for_test[0]} {for_test[1]}"
+
+            elif jugador in name_leave:
+                vorname = completo[0].strip()
+                nachname = completo[1].strip()
+                
             else:
                 nachname = completo[0].strip()
                 vorname = completo[1].strip()
-
 
     #apellidos=nombre.find("strong")
     #for apellido in apellidos:
@@ -367,8 +375,11 @@ for knombre in kader:
     if knombre == "Elye Wahi":
         player_for_url="sepe-elye-wahi"
 
-    if knombre=="Garcia Aleix":
-        player_for_url="aleix-garcia"
+    if knombre=="Eliesse Ben Seghir":
+        player_for_url="ben-seghir"
+
+    if knombre=="Ezequiel Fernandez":
+        player_for_url="ignacio-fernandez-2"
 
     if knombre=="Niklas Beste":
         player_for_url="jan-niklas-beste"
@@ -394,8 +405,8 @@ for knombre in kader:
     if knombre=="Costa David Leal":
         player_for_url="david-leal-costa"
 
-    if knombre=="Diaz Luis":
-        player_for_url="luis-diaz-3"
+    if knombre=="Bilal El Khannouss":
+        player_for_url="bilal-el-khannous"
 
     if knombre=="Daniel Heuer Fernandes":
         player_for_url="daniel-heuer-fernandes"
@@ -429,12 +440,15 @@ for knombre in kader:
 
     if knombre=="Cyriaque Irié":
         player_for_url="cyriaque-kalou-bi-irie"
+    
+    if knombre=="Badredine Bouanani":
+        player_for_url="bouanani-badrerine"
 
-    if knombre=="Souza Vinicius":
-        player_for_url="vinicius-souza"
+#    if knombre=="Souza Vinicius":
+#        player_for_url="vinicius-souza"
         
-    if knombre=="Vieira Fabio":
-        player_for_url="fabio-vieira"
+#    if knombre=="Vieira Fabio":
+#        player_for_url="fabio-vieira"
 
     if knombre in no_complete:
         #player_for_url=for_url(knombre)
@@ -534,8 +548,12 @@ for knombre in kader:
                 age_in_club="N.D."
                 vertrag="N.D."
         else:
-            age_in_club=desde[0].text
-            vertrag="N.D."
+            if knombre in no_games_at_all:
+                age_in_club="N.A."
+                vertrag="N.D."
+            else:
+                age_in_club=desde[0].text
+                vertrag="N.D."
     #fromclub=past_club[indicepc].text[4:].split("\n")[0]
     if knombre in no_complete:
         fromclub="N.A."
@@ -574,6 +592,7 @@ for knombre in kader:
             gelbe="0"
             gelbrot="0"
             rot="0"
+            desde="N.A."
    #separar bundesliga de otras ligas y de 2a Bundesliga
         if e.text.strip()=="Bundesliga":
             indice=soup2.index(e)
@@ -591,7 +610,7 @@ for knombre in kader:
             gelbrot="0"
             rot="0"
 
-        elif knombre in no_games:
+        elif knombre in no_games_season:
             pplayed="0"
             partidosbl="0"
             golesbl="0"
@@ -600,6 +619,15 @@ for knombre in kader:
             gelbrot="0"
             rot="0"
 
+        elif knombre in no_games_at_all:
+            pplayed="0"
+            partidosbl="0"
+            golesbl="0"
+            assists="0"
+            gelbe="0"
+            gelbrot="0"
+            rot="0"
+            vertrag="N.D."
         else:
             try:
                 played_index=elementix2[1]+1
