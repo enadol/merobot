@@ -26,7 +26,7 @@ kader=[]
 team=[]
 name_to_revert=["Diogo Leite", "Gil Dias", \
 "Fabio Carvalho", "Ilaix Moriba", \
-"Kaua Santos", "Yan Couto", "Costa Danny da", \
+ "Yan Couto", "Costa Danny da", \
 "David Leal Costa"]
 #player="Sadio Mane"
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
@@ -53,7 +53,8 @@ no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas",\
  "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal"]
 complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi"]
-name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago Tomas", "Badredine Bouanani"]
+name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago Tomas",\
+ "Badredine Bouanani", "Kaua Santos"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -61,7 +62,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="TSG Hoffenheim"
+club="1 FC Köln"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
