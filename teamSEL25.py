@@ -61,7 +61,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="VfB Stuttgart"
+club="TSG Hoffenheim"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -238,8 +238,8 @@ for i in kader_names[1:]:
         if nachname=="Heuer" and vorname=="Fernandes Daniel":
             kader.append("Daniel Heuer Fernandes")
 
-        if nachname=="Chaves Arthur":
-            kader.append("Arthur Chaves")
+#        if nachname=="Chaves Arthur":
+#            kader.append("Arthur Chaves")
 
         if nachname=="Jordan" :
             if club=="1 FC Union Berlin" :
@@ -272,8 +272,8 @@ for knombre in kader:
     if "Perea" in knombre:
         player_for_url=f"{player_for_url}-mendoza"
 
-    if "Chaves Arthur" in knombre:
-        player_for_url="arthur-chaves"
+#    if "Chaves Arthur" in knombre:
+#        player_for_url="arthur-chaves"
 
     if "Paulinho" in knombre:
         player_for_url=knombre.strip()+"-12"
