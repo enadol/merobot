@@ -555,17 +555,17 @@ for knombre in kader:
             except:
                 gelbe="N.D."
 
-        try:
-            gelb_rot_index=gelb_index+1
-            gelb_rot=player_performance[gelb_rot_index].text.strip()
-        except:
-            gelb_rot="N.D."
+            try:
+                gelb_rot_index=gelb_index+1
+                gelb_rot=player_performance[gelb_rot_index].text.strip()
+            except:
+                gelb_rot="N.D."
 
-        try:
-            rot_index=gelb_rot_index+1
-            rot=player_performance[rot_index].text.strip()
-        except:
-            rot="N.D."
+            try:
+                rot_index=gelb_rot_index+1
+                rot=player_performance[rot_index].text.strip()
+            except:
+                rot="N.D."
 
 #para número no asignado de camiseta
     if len(trikot)>0:
