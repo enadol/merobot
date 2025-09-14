@@ -43,7 +43,7 @@ name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", 
  "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago"]
 complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi"]
 name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago Tomas",\
- "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite"]
+ "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite", "Fabio Silva"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -51,7 +51,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="VfB Stuttgart"
+club="1 FC Union Berlin"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -271,15 +271,6 @@ for knombre in kader:
 
     if knombre=="Filippo Mane":
         player_for_url="filippo-calixte-mane"
-
-    if knombre=="Couto Yan":
-        player_for_url="yan-couto"
-
-    if knombre=="Leite Diogo":
-        player_for_url="diogo-leite"
-
-    if knombre == "Santos Kaua":
-        player_for_url="kaua-santos"
 
     if knombre == "Ebimbe Eric Junior Dina":
         player_for_url="eric-junior-dina-ebimbe"
