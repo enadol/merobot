@@ -49,6 +49,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 
 #Bor Mönchengladbach para Gladbach
 #Bayer 04 Leverkusen 1 FC Heidenheim 1 FC Union Berlin
+# 1 FC Köln
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
 club="1 FC Köln"
