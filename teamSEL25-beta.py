@@ -52,7 +52,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Köln"
+club="Eintracht Frankfurt"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -476,7 +476,7 @@ for knombre in kader:
     #pais=nacion[0].text.split("\r\n")[1].strip()
 
     pais=nacion[0].text
-    nacion_txt=ts.translate_text(pais, translator='alibaba', from_language='de' , to_language='es')
+    nacion_txt=ts.translate_text(pais, translator='google', from_language='de' , to_language='es')
 
     player_performance=driver.find_elements(By.TAG_NAME, "td")
     elementindex=[]
