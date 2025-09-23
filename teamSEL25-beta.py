@@ -32,7 +32,7 @@ quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
 eightuples=["Romulo "]
 exclude=["Michael Langer", "Malik Tillman", "Arijon Ibrahimovic"]
-split_and_revert=["Dikeni Salifou", "Vieira Fabio", "Souza Vinicius"]
+split_and_revert=["Dikeni Salifou", "Vieira Fabio"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
 no_games_season=["Gustavo Puerta", "Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas ", "Dmytro Bogdanov",\
@@ -43,7 +43,7 @@ name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", 
  "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago"]
 complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi"]
 name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago Tomas",\
- "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite", "Fabio Silva"]
+ "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite", "Fabio Silva", "Vinicius Souza"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -52,7 +52,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Köln"
+club="SC Freiburg"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
