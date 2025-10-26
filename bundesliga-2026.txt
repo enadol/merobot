@@ -84,3 +84,5 @@
         Hamburger SV  0-1  VfL Wolfsburg
         Bor. Mönchengladbach  0-3  Bayern München
         Borussia Dortmund  1-0  1. FC Köln
+        Bayer 04 Leverkusen  2-0  SC Freiburg
+        VfB Stuttgart  2-1  1. FSV Mainz 05
