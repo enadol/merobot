@@ -52,7 +52,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Köln"
+club="Bayern München"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -108,6 +108,7 @@ club_for_url=for_url(club)
 DRIVER_PATH='C:/Users/enado/ChromeDriver'
 service = webdriver.ChromeService(executable_path = 'C:/Users/enado/ChromeDriver/chromedriver.exe')
 driver = webdriver.Chrome(service=service)
+#driver.set_page_load_timeout(60)
 driver.implicitly_wait(0.5)
 driver.maximize_window()
 
@@ -390,7 +391,7 @@ for knombre in kader:
 
     nacion=driver.find_elements(By.CLASS_NAME,  klassnation)
     trikot=driver.find_elements(By.CLASS_NAME,  klasstrikot)
-    cards=driver.find_elements(By.CLASS_NAME, klasstarjetas)
+    cards=driver.find_elements(By.CSS_SELECTOR, ".kick__site-padding.kick__gameinfo-block")
 
     indicepc=past_club_index(past_club)
     try:
