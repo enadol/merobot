@@ -64,7 +64,7 @@ klasscompfilter="kick__vita__liglog"
 klasstrikot="kick__player__number"
 klasslaender="kick__bubble__prime"
 klassages="kick__table-small-txt"
-klasstarjetas="kick__site-padding kick__gameinfo-block"
+klasstarjetas=".kick__site-padding.kick__gameinfo-block"
 
 def for_url(player):
     """Convierte nombre de jugador o club a formato URL de Kicker"""
