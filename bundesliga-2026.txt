@@ -64,3 +64,25 @@
         VfB Stuttgart  1-0  1. FC Heidenheim
         Hamburger SV  4-0  1. FSV Mainz 05
         Bor. Mönchengladbach  0-0  SC Freiburg
+7. SPIELTAG
+[Fri. 17.10.]
+        1. FC Union Berlin  3-1  Bor. Mönchengladbach
+        1. FSV Mainz 05  3-4  Bayer 04 Leverkusen
+        RB Leipzig  2-1  Hamburger SV
+        VfL Wolfsburg  0-3  VfB Stuttgart
+        1. FC Heidenheim  2-2  Werder Bremen
+        1. FC Köln  1-1  FC Augsburg
+        Bayern München  2-1  Borussia Dortmund
+        SC Freiburg  2-2  Eintracht Frankfurt
+        FC St. Pauli  0-3  TSG Hoffenheim
+8. SPIELTAG
+[Fri. 24.10.]
+        Werder Bremen  1-0  1. FC Union Berlin
+        Eintracht Frankfurt  2-0  FC St. Pauli
+        FC Augsburg  0-6  RB Leipzig
+        TSG Hoffenheim  3-1  1. FC Heidenheim
+        Hamburger SV  0-1  VfL Wolfsburg
+        Bor. Mönchengladbach  0-3  Bayern München
+        Borussia Dortmund  1-0  1. FC Köln
+        Bayer 04 Leverkusen  2-0  SC Freiburg
+        VfB Stuttgart  2-1  1. FSV Mainz 05
