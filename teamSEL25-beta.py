@@ -31,7 +31,7 @@ cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
 eightuples=["Romulo "]
-exclude=["Michael Langer", "Malik Tillman", "Arijon Ibrahimovic"]
+exclude=["Michael Langer"]
 split_and_revert=["Dikeni Salifou", "Vieira Fabio"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
