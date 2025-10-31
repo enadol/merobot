@@ -52,7 +52,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="FC Bayern München"
+club="Bayer 04 Leverkusen"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -554,9 +554,9 @@ for knombre in kader:
 
             try:
                 gelb_rot_index=gelb_index+1
-                gelb_rot=player_performance[gelb_rot_index].text.strip()
+                gelbrot=player_performance[gelb_rot_index].text.strip()
             except:
-                gelb_rot="N.D."
+                gelbrot="N.D."
 
             try:
                 rot_index=gelb_rot_index+1
