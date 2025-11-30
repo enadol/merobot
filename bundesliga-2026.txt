@@ -1,4 +1,4 @@
-﻿1. SPIELTAG
+1. SPIELTAG
 [Fri. 22.8.]
         Bayern München  6-0  RB Leipzig
         Eintracht Frankfurt  4-1  Werder Bremen
@@ -121,3 +121,8 @@
         FC St. Pauli  0-1  1. FC Union Berlin
 12. SPIELTAG
         Bor. Mönchengladbach  0-0  RB Leipzig
+        Bayern München  3-1  FC St. Pauli
+        Werder Bremen  1-1  1. FC Köln
+        1. FC Union Berlin  1-2  1. FC Heidenheim
+        TSG Hoffenheim  3-0  FC Augsburg
+        Bayer 04 Leverkusen  1-2  Borussia Dortmund
