@@ -5,7 +5,6 @@ Created on Mon May  9 18:47:36 2022
 @author: enado
 """
 """import packages"""
-import codecs
 import json
 import translators as ts
 from selenium import webdriver
@@ -52,7 +51,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="Eintracht Frankfurt"
+club="1 FC Union Berlin"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -574,7 +573,7 @@ for knombre in kader:
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
     team.append(player_dict)
 
-with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt", "w", "utf-8") as file:
+with open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt", "w", encoding="utf-8") as file:
     for item in team:
         #file.write('\n')
         for key, value in item.items():
@@ -585,7 +584,7 @@ with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt"
         file.write('\n')
 team_json=json.dumps(team, indent=4, ensure_ascii=False)
 
-with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json", "w", "utf-8") as jsonfile:
+with open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json", "w", encoding="utf-8") as jsonfile:
     jsonfile.write(team_json)
 
 # Use quit() to ensure the ChromeDriver process is terminated cleanly
