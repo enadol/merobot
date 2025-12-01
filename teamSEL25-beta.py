@@ -52,7 +52,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="Bayer 04 Leverkusen"
+club="Eintracht Frankfurt"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -583,11 +583,10 @@ with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt"
             file.write(str(value))
             file.write(',\n')
         file.write('\n')
-file.close()
-
 team_json=json.dumps(team, indent=4, ensure_ascii=False)
 
 with codecs.open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.json", "w", "utf-8") as jsonfile:
     jsonfile.write(team_json)
-jsonfile.close()
-driver.close()
+
+# Use quit() to ensure the ChromeDriver process is terminated cleanly
+driver.quit()
