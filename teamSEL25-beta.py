@@ -24,7 +24,7 @@ duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pell
             "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", \
         "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", \
     "Nick Schmidt", "Daniel Klein", "Nick Schmidt", "Oliver Sorg", \
-"Lazar Jovanovic", "Marius Müller"]
+"Lazar Jovanovic", "Marius Müller", "Fabio Baldé"]
 triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
@@ -51,7 +51,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="FC Augsburg"
+club="Hamburger SV"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
