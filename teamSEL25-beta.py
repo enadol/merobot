@@ -39,7 +39,7 @@ no_games_season=["Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas "
 no_games_at_all=["Leon Klanac"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas",\
- "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago"]
+ "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago", "Moreno Fell Fabio"]
 complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi", "Traoré Omar Haktab"]
 name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago Tomas",\
  "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite", "Fabio Silva", "Vinicius Souza"]
@@ -51,7 +51,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Heidenheim"
+club="FC Augsburg"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
