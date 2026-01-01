@@ -40,7 +40,7 @@ no_games_at_all=["Leon Klanac"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas",\
  "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago"]
-complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi"]
+complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi", "Traoré Omar Haktab"]
 name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago Tomas",\
  "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite", "Fabio Silva", "Vinicius Souza"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
@@ -51,7 +51,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="Bayer 04 Leverkusen"
+club="1 FC Heidenheim"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -351,6 +351,12 @@ for knombre in kader:
     
     if knombre=="Badredine Bouanani":
         player_for_url="bouanani-badrerine"
+
+    if knombre=="Omar Haktab Traoré":
+        player_for_url="haktab-omar-traore"
+
+    if knombre=="Leonardo Scienza":
+        player_for_url="leonardo-weschenfelder-scienza"
 
 
 # Use URL elements to get to player page
