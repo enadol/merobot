@@ -51,7 +51,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="Hamburger SV"
+club="VfB Stuttgart"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -357,6 +357,9 @@ for knombre in kader:
 
     if knombre=="Leonardo Scienza":
         player_for_url="leonardo-weschenfelder-scienza"
+
+    if knombre=="Jeremy Arevalo":
+        player_for_url="jeremy-alberto-arevalo-mera"
 
 
 # Use URL elements to get to player page
