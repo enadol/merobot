@@ -25,7 +25,7 @@ duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pell
         "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", \
     "Nick Schmidt", "Daniel Klein", "Nick Schmidt", "Oliver Sorg", \
 "Lazar Jovanovic", "Marius Müller", "Fabio Baldé"]
-triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz"]
+triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz", "Cleiton"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
@@ -36,13 +36,13 @@ vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
 #provisional para primera jornada
 no_games_season=["Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas ", "Dmytro Bogdanov",\
  "Bouanani Badredine", "Benjamin Henrichs"]
-no_games_at_all=["Leon Klanac"]
+no_games_at_all=["Leon Klanac", "Cleiton "]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas",\
  "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago", "Moreno Fell Fabio"]
 complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi", "Traoré Omar Haktab"]
 name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago Tomas",\
- "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite", "Fabio Silva", "Vinicius Souza"]
+ "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite", "Fabio Silva", "Vinicius Souza", "Cleiton"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -51,7 +51,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="TSG Hoffenheim"
+club="VfL Wolfsburg"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -203,6 +203,9 @@ for knombre in kader:
 
     if knombre=="Bernardo ":
         player_for_url="bernardo-4"
+
+    if knombre=="Cleiton ":
+        player_for_url="cleiton-3"
 
     if knombre=="Kelian Nsona":
         player_for_url=f"{player_for_url}-wa-saka"
