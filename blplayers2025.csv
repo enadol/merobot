@@ -1,0 +1,539 @@
+Jugador,Nacimiento,Edad,Nación,Altura,Peso,PJ,Goles,Asistencias,TA,TAR,TR,Desde,De,BL,Número,Contrato,Selección,Club
+Matthias Köbbing,28.05.1997,28,Alemania,196,90,0,0,0,0,0,0,01.07.2020,FC 08 Homburg,0,44,30.06.2027,No,1 FC Koeln
+Marvin Schwäbe,25.04.1995,30,Alemania,190,87,13,0,0,0,0,0,01.07.2021,Bröndby IF,102,1,30.06.2027,No,1 FC Koeln
+Ron-Robert Zieler,12.02.1989,36,Alemania,188,83,0,0,0,1,0,0,07.07.2025,Hannover 96,254,20,30.06.2027,6,1 FC Koeln
+Jusuf Gazibegovic,11.03.2000,25,Bosnia-Herzegovina,174,67,1,0,0,0,0,0,01.01.2025,Sturm Graz,1,25,30.06.2028,23,1 FC Koeln
+Dominique Heintz,15.08.1993,32,Alemania,188,88,6,0,0,0,0,0,31.08.2023,1. FC Union Berlin,217,3,30.06.2026,No,1 FC Koeln
+Timo Hübers,20.07.1996,29,Alemania,190,82,8,0,0,0,0,0,01.07.2021,Hannover 96,93,4,30.06.2026,No,1 FC Koeln
+Luca Kilian,01.09.1999,26,Alemania,192,91,0,0,0,0,0,0,24.08.2021,1. FSV Mainz 05,81,15,30.06.2026,No,1 FC Koeln
+Kristoffer Lund,14.05.2002,23,EE.UU,184,80,12,0,1,1,0,0,05.08.2025,Palermo FC,12,32,N.D.,7,1 FC Koeln
+Cenk Özkacar,06.10.2000,25,Turquía,190,90,6,0,0,0,0,0,09.08.2025,FC Valencia,6,39,N.D.,9,1 FC Koeln
+Joel Schmied,23.09.1998,27,Suiza,188,84,11,0,0,4,0,0,13.01.2025,FC Sion,11,2,30.06.2029,No,1 FC Koeln
+Sebastian Sebulonsen,27.01.2000,25,Noruega,187,78,13,0,0,3,0,0,18.07.2025,Bröndby IF,13,28,30.06.2028,1,1 FC Koeln
+Neo Telle,24.04.2005,20,Alemania,183,75,0,0,0,0,0,0,01.07.2019,1. Jugendfußballschule Köln,0,49,N.D.,No,1 FC Koeln
+Rav van den Berg,07.07.2004,21,Países Bajos,190,78,4,0,0,0,0,0,13.08.2025,FC Middlesbrough,4,33,30.06.2030,No,1 FC Koeln
+Alessio Castro-Montes,17.05.1997,28,Bélgica,175,74,4,0,0,1,0,0,01.09.2025,Union Saint-Gilloise,4,17,30.06.2028,No,1 FC Koeln
+Said El Mala,26.08.2006,19,Alemania,190,72,13,6,3,0,0,0,01.07.2025,FC Viktoria Köln,13,13,30.06.2030,0,1 FC Koeln
+Fayssal Harchaoui,15.01.2006,19,Alemania,175,74,0,0,0,0,0,0,01.07.2020,SC West Köln,0,34,N.D.,No,1 FC Koeln
+Denis Huseinbasic,03.07.2001,24,Bosnia-Herzegovina,184,76,10,0,0,1,0,0,01.07.2022,Kickers Offenbach,60,8,N.D.,7,1 FC Koeln
+Isak Bergmann Johannesson,23.03.2003,22,Islandia,184,75,13,1,1,3,0,0,01.07.2025,Fortuna Düsseldorf,13,18,30.06.2030,41,1 FC Koeln
+Florian Kainz,24.10.1992,33,Austria,176,72,10,1,0,0,0,0,18.01.2019,Werder Bremen,195,11,N.D.,28,1 FC Koeln
+Jakub Kaminski,05.06.2002,23,Polonia,179,71,13,5,1,0,0,0,04.07.2025,VfL Wolfsburg,83,16,N.D.,27,1 FC Koeln
+Tom Krauß,22.06.2001,24,Alemania,182,73,9,0,0,1,0,0,05.07.2025,VfL Bochum,85,5,30.06.2026,No,1 FC Koeln
+Emin Kujovic,29.09.2004,21,Bosnia-Herzegovina,190,88,0,0,0,0,0,0,01.01.2020,Fortuna Köln,0,46,30.06.2028,No,1 FC Koeln
+Linton Maina,23.06.1999,26,Alemania,173,70,7,0,1,0,0,0,01.07.2022,Hannover 96,93,37,N.D.,No,1 FC Koeln
+Eric Martel,29.04.2002,23,Alemania,188,81,13,0,2,3,0,0,01.07.2022,Austria Wien,72,6,30.06.2026,No,1 FC Koeln
+Jan Thielmann,26.05.2002,23,Alemania,178,72,10,2,2,2,0,0,01.07.2017,Eintracht Trier,120,29,N.D.,No,1 FC Koeln
+Ragnar Ache,28.07.1998,27,Alemania,182,81,12,1,4,1,0,0,01.07.2025,1. FC Kaiserslautern,32,9,30.06.2029,No,1 FC Koeln
+Sargis Adamyan,23.05.1993,32,Armenia,184,75,0,0,0,0,0,0,01.07.2025,Jahn Regensburg,90,23,30.06.2026,37,1 FC Koeln
+Marius Bülter,29.03.1993,32,Alemania,188,85,11,3,3,2,0,0,31.07.2025,TSG Hoffenheim,157,30,30.06.2027,No,1 FC Koeln
+Malek El Mala,02.04.2005,20,Alemania,193,75,0,0,0,0,0,0,01.07.2025,FC Viktoria Köln,0,19,30.06.2030,No,1 FC Koeln
+Luca Waldschmidt,19.05.1996,29,Alemania,182,75,9,3,2,0,0,0,01.07.2023,VfL Wolfsburg,166,7,N.D.,7,1 FC Koeln
+Daniel Batz,12.01.1991,34,Alemania,191,90,3,0,0,0,0,0,01.07.2023,1. FC Saarbrücken,8,33,30.06.2026,No,1 FSV Mainz 05
+Lasse Rieß,27.07.2001,24,Alemania,192,90,4,0,0,0,0,0,01.07.2012,FSV Nieder-Olm,6,1,30.06.2027,No,1 FSV Mainz 05
+Robin Zentner,28.10.1994,31,Alemania,194,96,9,0,0,2,0,1,01.07.2017,Holstein Kiel,207,27,30.06.2028,No,1 FSV Mainz 05
+Stefan Bell,24.08.1991,34,Alemania,192,88,11,0,1,2,0,0,19.01.2012,Eintracht Frankfurt,295,16,30.06.2026,No,1 FSV Mainz 05
+Kasey Bos,08.05.2004,21,Australia,186,76,0,0,0,0,0,0,01.07.2025,Melbourne Victory,0,18,30.06.2029,0,1 FSV Mainz 05
+Anthony Caci,01.07.1997,28,Francia,185,76,4,0,0,1,0,0,01.07.2022,Racing Straßburg,99,19,30.06.2028,No,1 FSV Mainz 05
+Danny da Costa,13.07.1993,32,Alemania,187,87,15,1,0,3,0,0,01.07.2022,Eintracht Frankfurt,214,21,30.06.2026,No,1 FSV Mainz 05
+Maxim Dal,26.01.2006,19,Alemania,188,85,0,0,0,0,0,0,01.07.2015,Stuttgarter Kickers,0,47,30.06.2027,No,1 FSV Mainz 05
+Andreas Hanche-Olsen,17.01.1997,28,Noruega,185,79,13,0,0,3,0,0,13.01.2023,KAA Gent,67,25,30.06.2028,22,1 FSV Mainz 05
+Dominik Kohr,31.01.1994,31,Alemania,183,80,11,1,0,3,1,1,18.01.2021,Eintracht Frankfurt,317,31,30.06.2028,No,1 FSV Mainz 05
+Maxim Leitsch,18.05.1998,27,Alemania,189,83,3,0,0,0,0,0,01.07.2022,VfL Bochum,52,5,30.06.2026,No,1 FSV Mainz 05
+Phillipp Mwene,29.01.1994,31,Austria,172,68,13,0,2,3,0,0,23.08.2023,PSV Eindhoven,98,2,30.06.2026,27,1 FSV Mainz 05
+Kacper Potulski,19.10.2007,18,Polonia,195,85,3,1,0,1,0,0,01.07.2023,Legia Warschau,3,48,30.06.2029,No,1 FSV Mainz 05
+Konstantin Schopp,30.12.2005,20,Austria,195,90,0,0,0,0,0,0,01.07.2025,Sturm Graz,0,23,30.06.2029,No,1 FSV Mainz 05
+Nikolas Veratschnig,24.01.2003,22,Austria,180,75,11,0,0,2,0,0,01.07.2024,Wolfsberger AC,26,22,30.06.2028,0,1 FSV Mainz 05
+Silvan Widmer,05.03.1993,32,Suiza,183,80,10,1,0,2,0,0,09.07.2021,FC Basel,116,30,30.06.2026,56,1 FSV Mainz 05
+Nadiem Amiri,27.10.1996,29,Alemania,180,76,13,3,1,5,0,0,31.01.2024,Bayer 04 Leverkusen,269,10,30.06.2028,9,1 FSV Mainz 05
+William Böving,01.03.2003,22,Dinamarca,176,70,4,0,1,1,0,0,01.09.2025,Sturm Graz,4,14,30.06.2029,No,1 FSV Mainz 05
+Daniel Gleiber,01.02.2005,20,Alemania,181,78,0,0,0,0,0,0,01.07.2020,FSV Frankfurt,0,42,30.06.2028,No,1 FSV Mainz 05
+Sota Kawasaki,30.07.2001,24,Japón,172,70,6,0,0,1,0,0,09.07.2025,Kyoto Sanga FC,6,24,N.D.,0,1 FSV Mainz 05
+Jae-Sung Lee,10.08.1992,33,Corea del Sur,181,74,13,2,0,1,0,0,01.07.2021,Holstein Kiel,136,7,30.06.2026,103,1 FSV Mainz 05
+Lennard Maloney,08.10.1999,26,EE.UU,188,89,8,0,0,0,0,0,21.01.2025,1. FC Heidenheim,55,15,30.06.2028,2,1 FSV Mainz 05
+Paul Nebel,10.10.2002,23,Alemania,169,66,11,1,0,2,0,2,01.07.2024,Karlsruher SC,56,8,30.06.2027,0,1 FSV Mainz 05
+Arnaud Nordin,17.06.1998,27,Francia,170,69,11,0,0,0,0,0,28.01.2025,Montpellier HSC,17,9,30.06.2028,No,1 FSV Mainz 05
+Kaishu Sano,30.12.2000,25,Japón,176,76,15,1,2,1,0,0,03.07.2024,Kashima Antlers,49,6,30.06.2028,11,1 FSV Mainz 05
+Niklas Tauer,17.02.2001,24,Alemania,183,74,0,0,0,0,0,0,01.07.2025,Eintracht Braunschweig,19,28,N.D.,No,1 FSV Mainz 05
+Ben Bobzien,29.04.2003,22,Alemania,176,70,1,0,0,0,0,0,01.07.2025,Austria Klagenfurt,1,37,30.06.2027,No,1 FSV Mainz 05
+Benedict Hollerbach,17.05.2001,24,Alemania,181,83,11,0,2,0,0,0,01.07.2025,1. FC Union Berlin,73,17,30.06.2029,No,1 FSV Mainz 05
+Armindo Sieb,17.02.2003,22,Alemania,175,79,12,2,0,1,0,0,01.07.2024,SpVgg Greuther Fürth,39,11,30.06.2026,No,1 FSV Mainz 05
+Nelson Weiper,17.03.2005,20,Alemania,192,83,13,0,0,0,0,0,01.07.2012,TSV Schott Mainz,50,44,30.06.2029,No,1 FSV Mainz 05
+Fabio Moreno Fell,04.06.2000,25,Alemania,189,82,1,0,0,0,0,0,01.07.2025,TSV Gau-Odernheim,1,36,N.D.,No,1 FSV Mainz 05
+Carl Klaus,16.01.1994,31,Alemania,189,79,0,0,0,0,0,0,28.07.2024,1. FC Nürnberg,0,25,N.D.,No,1 FC Union Berlin
+Matheo Raab,18.12.1998,26,Alemania,186,82,0,0,0,0,0,0,11.07.2025,Hamburger SV,0,31,N.D.,No,1 FC Union Berlin
+Frederik Rönnow,04.08.1992,33,Dinamarca,188,81,14,0,0,0,0,0,20.07.2021,FC Schalke 04,133,1,N.D.,10,1 FC Union Berlin
+Diogo Leite,23.01.1999,26,Portugal,189,83,10,0,0,1,0,0,16.07.2022,Sporting Braga,100,4,N.D.,0,1 FC Union Berlin
+Danilho Doekhi,30.06.1998,27,Países Bajos,191,87,14,4,0,2,0,0,01.07.2022,Vitesse Arnheim,97,5,N.D.,No,1 FC Union Berlin
+Josip Juranovic,16.08.1995,30,Croacia,173,68,2,0,0,0,0,0,22.01.2023,Celtic Glasgow,52,18,N.D.,40,1 FC Union Berlin
+Derrick Köhn,04.02.1999,26,Ghana,180,73,14,0,0,2,0,0,19.08.2025,Galatasaray SK,41,39,N.D.,1,1 FC Union Berlin
+Andrik Markgraf,07.03.2006,19,Alemania,172,66,0,0,0,0,0,0,01.07.2016,SC Eintracht Miersdorf/Zeuthen,41,3,N.D.,1,1 FC Union Berlin
+Stanley Nsoki,09.04.1999,26,Francia,184,83,2,1,0,0,0,0,24.07.2025,TSG Hoffenheim,54,34,30.06.2026,No,1 FC Union Berlin
+Oluwaseun Ogbemudia,18.07.2006,,Alemania,185,80,0,0,0,0,0,0,N.A.,N.A.,54,41,N.D.,No,1 FC Union Berlin
+Leopold Querfeld,20.12.2003,21,Austria,190,83,14,0,0,3,0,0,01.07.2024,Rapid Wien,41,14,N.D.,5,1 FC Union Berlin
+Tom Rothe,29.10.2004,21,Alemania,193,88,12,1,0,1,0,1,07.08.2024,Holstein Kiel,42,15,N.D.,No,1 FC Union Berlin
+Christopher Trimmel,24.02.1987,38,Austria,188,85,13,0,2,5,0,0,01.07.2014,Rapid Wien,178,28,N.D.,25,1 FC Union Berlin
+Janik Haberer,02.04.1994,31,Alemania,187,77,14,0,1,5,0,0,01.07.2022,SC Freiburg,253,19,N.D.,No,1 FC Union Berlin
+Woo-Yeong Jeong,20.09.1999,26,Corea del Sur,179,71,12,0,1,0,0,0,27.08.2024,VfB Stuttgart,146,11,N.D.,22,1 FC Union Berlin
+Aljoscha Kemlein,02.08.2004,21,Alemania,187,82,12,0,0,1,0,0,01.07.2024,FC St. Pauli,29,6,N.D.,No,1 FC Union Berlin
+Rani Khedira,27.01.1994,31,Alemania,189,88,13,3,0,5,0,0,01.07.2021,FC Augsburg,268,8,N.D.,No,1 FC Union Berlin
+Alex Kral,19.05.1998,27,República Checa,186,79,9,0,0,1,0,0,01.07.2025,Espanyol Barcelona,62,33,N.D.,48,1 FC Union Berlin
+David Preu,26.10.2004,21,Alemania,172,72,0,0,0,0,0,0,01.07.2024,VfR Aalen,5,17,N.D.,No,1 FC Union Berlin
+Andras Schäfer,13.04.1999,26,Hungría,178,72,10,0,0,0,0,0,21.01.2022,DAC Dunajska Streda,80,13,N.D.,41,1 FC Union Berlin
+Tim Skarke,07.09.1996,29,Alemania,180,79,11,1,0,0,0,0,01.07.2024,SV Darmstadt 98,86,21,N.D.,No,1 FC Union Berlin
+Robert Skov,20.05.1996,29,Dinamarca,185,81,3,0,0,0,0,0,04.09.2024,TSG Hoffenheim,132,24,N.D.,14,1 FC Union Berlin
+Ilyas Ansah,08.11.2004,21,Alemania,194,84,14,5,2,0,0,0,01.07.2025,SC Paderborn 07,14,10,N.D.,No,1 FC Union Berlin
+Dmytro Bogdanov,06.03.2007,18,Ucrania,187,78,0,0,0,0,0,0,13.08.2025,Dynamo Dresden,0,30,N.D.,No,1 FC Union Berlin
+Livan Burcu,28.09.2004,21,Turquía,178,68,1,0,0,0,0,0,01.07.2025,1. FC Magdeburg,1,9,N.D.,No,1 FC Union Berlin
+Oliver Burke,07.04.1997,28,Escocia,188,83,13,4,0,2,0,0,01.07.2025,Werder Bremen,79,7,N.D.,13,1 FC Union Berlin
+Andrej Ilic,03.04.2000,25,Serbia,189,90,13,0,7,3,0,0,30.08.2024,Lille OSC,29,23,30.06.2029,1,1 FC Union Berlin
+Marin Ljubicic,13.12.1988,37,Croacia,186,75,0,0,0,0,0,0,04.08.2022,SKF Sered,0,0,N.D.,No,1 FC Union Berlin
+Janis Blaswich,02.05.1991,34,Alemania,193,89,0,0,0,0,0,0,11.08.2025,RB Leipzig,47,28,30.06.2027,0,Bayer 04 Leverkusen
+Mark Flekken,13.06.1993,32,Países Bajos,195,87,15,0,0,0,0,0,01.07.2025,FC Brentford,95,1,30.06.2028,10,Bayer 04 Leverkusen
+Niklas Lomb,28.07.1993,32,Alemania,186,83,0,0,0,0,0,0,01.07.2019,SV Sandhausen,2,36,30.06.2027,No,Bayer 04 Leverkusen
+Arthur,17.03.2003,22,Brasil,174,69,8,0,3,2,0,0,01.07.2023,America FC,32,13,30.06.2028,1,Bayer 04 Leverkusen
+Loic Badé,11.04.2000,25,Francia,191,82,14,0,0,3,0,0,21.08.2025,FC Sevilla,14,5,30.06.2030,1,Bayer 04 Leverkusen
+Jeanuel Belocian,17.02.2005,20,Francia,186,73,7,0,0,0,0,0,01.07.2024,Stade Rennes,12,44,30.06.2029,No,Bayer 04 Leverkusen
+Alejandro Grimaldo,20.09.1995,30,España,171,68,11,4,4,2,0,0,01.07.2023,Benfica Lissabon,76,20,30.06.2027,11,Bayer 04 Leverkusen
+Jarell Quansah,29.01.2003,22,Inglaterra,190,84,12,1,0,5,0,0,02.07.2025,FC Liverpool,12,4,30.06.2030,1,Bayer 04 Leverkusen
+Axel Tape,10.08.2007,18,Francia,180,75,5,0,0,1,0,0,01.07.2025,Paris St. Germain,5,16,30.06.2030,No,Bayer 04 Leverkusen
+Edmond Tapsoba,02.02.1999,26,Burkina Faso,192,84,14,3,2,3,0,0,31.01.2020,Vitoria Guimaraes,171,12,30.06.2028,57,Bayer 04 Leverkusen
+Lucas Vazquez,01.07.1991,34,España,173,70,5,0,1,2,0,0,26.08.2025,Real Madrid,5,21,30.06.2027,9,Bayer 04 Leverkusen
+Aleix Garcia,28.06.1997,28,España,173,68,15,0,4,2,0,0,01.07.2024,FC Girona,43,24,30.06.2029,8,Bayer 04 Leverkusen
+Robert Andrich,22.09.1994,31,Alemania,186,85,14,1,0,1,1,0,16.08.2021,1. FC Union Berlin,179,8,30.06.2028,19,Bayer 04 Leverkusen
+Eliesse Ben Seghir,16.02.2005,20,Marruecos,178,72,7,0,0,2,0,0,31.08.2025,AS Monaco,7,17,30.06.2030,16,Bayer 04 Leverkusen
+Claudio Echeverri,02.01.2006,19,Argentina,171,62,6,0,0,0,0,0,21.08.2025,Manchester City,6,9,30.06.2026,No,Bayer 04 Leverkusen
+Ezequiel Fernandez,25.07.2002,23,Argentina,178,70,6,0,0,1,1,0,01.09.2025,Al-Qadisiya,6,6,30.06.2030,No,Bayer 04 Leverkusen
+Jonas Hofmann,14.07.1992,33,Alemania,176,72,12,2,2,1,0,0,05.07.2023,Bor. Mönchengladbach,287,7,30.06.2027,23,Bayer 04 Leverkusen
+Ibrahim Maza,24.11.2005,20,Argelia,180,70,12,2,2,1,0,0,01.07.2025,Hertha BSC,14,30,30.06.2030,8,Bayer 04 Leverkusen
+Exequiel Palacios,05.10.1998,27,Argentina,176,69,2,0,0,0,0,0,01.01.2020,River Plate,110,25,30.06.2030,37,Bayer 04 Leverkusen
+Ernest Poku,28.01.2004,21,Países Bajos,176,63,13,4,2,0,0,0,12.08.2025,AZ Alkmaar,13,19,30.06.2030,No,Bayer 04 Leverkusen
+Malik Tillman,28.05.2002,23,EE.UU,187,86,11,3,0,1,0,0,12.07.2025,PSV Eindhoven,15,10,30.06.2030,26,Bayer 04 Leverkusen
+Christian Kofane,26.07.2006,19,Camerún,189,81,14,3,1,3,0,0,11.07.2025,Albacete Balompie,14,35,30.06.2029,No,Bayer 04 Leverkusen
+Alejo Sarco,06.01.2006,19,Argentina,179,76,2,0,0,0,0,0,02.01.2025,CA Velez Sarsfield,2,18,30.06.2029,No,Bayer 04 Leverkusen
+Patrik Schick,24.01.1996,29,República Checa,191,87,12,6,2,0,0,0,08.09.2020,AS Rom,155,14,30.06.2030,50,Bayer 04 Leverkusen
+Nathan Tella,05.07.1999,26,Nigeria,173,68,8,0,3,2,0,0,27.08.2023,FC Southampton,59,23,30.06.2028,2,Bayer 04 Leverkusen
+Martin Terrier,04.03.1997,28,Francia,184,71,8,3,0,0,0,0,18.07.2024,Stade Rennes,23,11,30.06.2029,No,Bayer 04 Leverkusen
+Piero Hincapie,09.01.2002,23,Ecuador,184,77,1,0,0,0,0,0,01.09.2025,Bayer 04 Leverkusen,116,3,N.D.,50,Bayer 04 Leverkusen
+Montrell Culbreath,29.08.2007,18,Alemania,N.D.,N.D.,1,1,0,0,0,0,01.07.2023,1. FC Kaiserslautern,1,42,N.D.,No,Bayer 04 Leverkusen
+Moritz Nicolas,21.10.1997,28,Alemania,193,89,15,0,0,0,0,0,01.07.2023,Roda Kerkrade,62,33,30.06.2029,No,Bor Moenchengladbach
+Jonas Omlin,10.01.1994,31,Suiza,190,85,0,0,0,0,0,0,19.01.2023,Montpellier HSC,34,1,30.06.2027,4,Bor Moenchengladbach
+Tiago Pereira Cardoso,07.04.2006,19,Luxemburgo,190,87,0,0,0,0,0,0,01.07.2022,Fola Esch,5,42,N.D.,6,Bor Moenchengladbach
+Tobias Sippel,22.03.1988,37,Alemania,183,80,0,0,0,0,0,0,01.07.2015,1. FC Kaiserslautern,55,21,30.06.2026,0,Bor Moenchengladbach
+Fabio Chiarodia,05.06.2005,20,Italia,186,78,5,0,0,0,0,0,01.07.2023,Werder Bremen,31,2,30.06.2027,No,Bor Moenchengladbach
+Kevin Diks,06.10.1996,29,Indonesia,182,76,15,2,0,3,0,0,01.07.2025,FC Kopenhagen,15,4,30.06.2030,8,Bor Moenchengladbach
+Nico Elvedi,30.09.1996,29,Suiza,189,84,15,0,1,2,0,0,01.07.2015,FC Zürich,300,30,30.06.2027,63,Bor Moenchengladbach
+Marvin Friedrich,13.12.1995,30,Alemania,193,84,4,0,0,0,0,0,11.01.2022,1. FC Union Berlin,166,5,30.06.2026,No,Bor Moenchengladbach
+Luca Netz,15.05.2003,22,Alemania,184,83,11,0,1,1,0,0,06.08.2021,Hertha BSC,120,20,30.06.2026,No,Bor Moenchengladbach
+Joe Scally,31.12.2002,23,EE.UU,184,80,13,0,2,5,0,0,02.01.2021,New York City FC,134,29,30.06.2027,22,Bor Moenchengladbach
+Kota Takai,04.09.2004,21,Japón,192,84,0,0,0,0,0,0,02.01.2026,Tottenham Hotspur,0,14,30.06.2026,4,Bor Moenchengladbach
+Lukas Ullrich,16.03.2004,21,Alemania,180,73,11,0,0,1,0,0,01.07.2023,Hertha BSC,41,26,30.06.2027,No,Bor Moenchengladbach
+Jens Castrop,29.07.2003,22,Corea del Sur,177,71,11,1,0,1,0,1,01.07.2025,1. FC Nürnberg,11,17,30.06.2029,5,Bor Moenchengladbach
+Yannik Engelhardt,07.02.2001,24,Alemania,185,74,13,1,1,0,0,0,01.09.2025,Como 1907,13,6,30.06.2026,No,Bor Moenchengladbach
+Robin Hack,27.08.1998,27,Alemania,178,72,4,0,0,0,0,0,01.07.2023,Arminia Bielefeld,99,25,30.06.2029,No,Bor Moenchengladbach
+Franck Honorat,11.08.1996,29,Francia,180,70,9,0,3,0,0,0,11.07.2023,Stade Brest,60,9,30.06.2029,No,Bor Moenchengladbach
+Florian Neuhaus,16.03.1997,28,Alemania,185,77,11,0,1,0,0,0,01.07.2018,Fortuna Düsseldorf,201,10,30.06.2027,10,Bor Moenchengladbach
+Nathan Ngoumou,14.03.2000,25,Camerún,183,75,19,2,1,0,0,0,30.08.2022,FC Toulouse,71,19,30.06.2027,2,Bor Moenchengladbach
+Rocco Reitz,29.05.2002,23,Alemania,176,72,15,0,1,3,0,0,01.07.2023,K. Sint-Truidense VV,79,27,30.06.2028,0,Bor Moenchengladbach
+Giovanni Reyna,13.11.2002,23,EE.UU,185,79,11,0,1,1,0,0,23.08.2025,Borussia Dortmund,117,13,30.06.2028,34,Bor Moenchengladbach
+Philipp Sander,21.02.1998,27,Alemania,185,78,11,1,0,1,0,0,01.07.2024,Holstein Kiel,38,16,30.06.2028,No,Bor Moenchengladbach
+Kevin Stöger,27.08.1993,32,Austria,175,74,12,0,0,0,0,0,01.07.2024,VfL Bochum,191,7,30.06.2027,5,Bor Moenchengladbach
+Niklas Swider,05.01.2007,18,Alemania,188,78,0,0,0,0,0,0,01.07.2014,SVG Neuss-Weissenberg,0,39,30.06.2027,No,Bor Moenchengladbach
+Tim Kleindienst,31.08.1995,30,Alemania,194,85,2,0,0,0,0,0,01.07.2024,1. FC Heidenheim,92,11,30.06.2029,6,Bor Moenchengladbach
+Shuto Machino,30.09.1999,26,Japón,185,84,14,2,1,1,0,0,26.07.2025,Holstein Kiel,46,18,30.06.2029,13,Bor Moenchengladbach
+Grant-Leon Ranos,20.07.2003,22,Armenia,180,73,8,1,0,1,0,0,01.07.2025,1. FC Kaiserslautern,19,28,30.06.2027,23,Bor Moenchengladbach
+Haris Tabakovic,20.06.1994,31,Bosnia-Herzegovina,194,90,14,7,3,0,0,0,18.07.2025,TSG Hoffenheim,36,15,30.06.2026,8,Bor Moenchengladbach
+Oscar Fraulo,06.12.2003,22,Dinamarca,180,77,4,1,0,0,0,0,02.01.2026,Bor. Mönchengladbach,6,22,N.D.,No,Bor Moenchengladbach
+Charles Herrmann,21.01.2006,19,Alemania,N.D.,N.D.,1,0,1,0,0,0,01.07.2024,Borussia Dortmund,1,34,N.D.,No,Bor Moenchengladbach
+Wael Mohya,31.12.2008,17,Alemania,N.D.,N.D.,2,0,0,0,0,0,01.07.2016,Bor. Mönchengladbach II,2,36,N.D.,No,Bor Moenchengladbach
+Jan Urbich,23.06.2004,21,Alemania,N.D.,N.D.,3,0,0,0,0,0,01.07.2025,Kickers Offenbach,3,40,N.D.,No,Bor Moenchengladbach
+Jens Grahl,22.09.1988,37,Alemania,192,88,0,0,0,0,0,0,19.07.2021,VfB Stuttgart,15,33,30.06.2026,No,Eintracht Frankfurt
+Kaua Santos,11.04.2003,22,Brasil,196,85,4,0,0,0,0,0,29.08.2023,Flamengo,13,40,30.06.2030,No,Eintracht Frankfurt
+Michael Zetterer,12.07.1995,30,Alemania,187,82,11,0,0,0,0,0,20.08.2025,Werder Bremen,74,23,30.06.2029,No,Eintracht Frankfurt
+Aurele Amenda,31.07.2003,22,Suiza,194,90,7,0,0,2,0,0,01.07.2024,BSC Young Boys,15,5,30.06.2029,4,Eintracht Frankfurt
+Elias Baum,26.10.2005,20,Alemania,180,73,1,0,0,0,0,0,01.07.2025,SV Elversberg,5,2,30.06.2028,No,Eintracht Frankfurt
+Nathaniel Brown,16.06.2003,22,Alemania,176,60,15,1,3,1,0,0,01.07.2024,1. FC Nürnberg,41,21,30.06.2030,2,Eintracht Frankfurt
+Aurelio Buta,10.02.1997,28,Portugal,172,66,4,0,0,1,0,0,01.07.2025,Stade Reims,52,24,30.06.2026,No,Eintracht Frankfurt
+Timothy Chandler,29.03.1990,35,EE.UU,187,84,0,0,0,0,0,0,01.07.2014,1. FC Nürnberg,262,22,30.06.2026,29,Eintracht Frankfurt
+Nnamdi Collins,10.01.2004,21,Alemania,188,81,13,0,1,2,0,0,09.08.2023,Borussia Dortmund,39,34,30.06.2030,1,Eintracht Frankfurt
+Robin Koch,17.07.1996,29,Alemania,192,85,15,2,0,0,0,0,06.07.2023,Leeds United,158,4,30.06.2030,15,Eintracht Frankfurt
+Keita Kosugi,18.03.2006,19,Japón,N.D.,N.D.,0,0,0,0,0,0,01.01.2026,Djurgardens IF,0,0,N.D.,No,Eintracht Frankfurt
+Rasmus Kristensen,11.07.1997,28,Dinamarca,187,83,12,1,0,3,0,0,19.07.2024,AS Rom,42,13,30.06.2029,32,Eintracht Frankfurt
+Arthur Theate,25.05.2000,25,Bélgica,185,81,14,1,1,5,0,0,18.08.2024,Stade Rennes,45,3,30.06.2029,31,Eintracht Frankfurt
+Love Arrhov,17.05.2008,17,Suecia,N.D.,N.D.,0,0,0,0,0,0,01.01.2026,IF Brommapojkarna,45,31,N.D.,31,Eintracht Frankfurt
+Jean-Matteo Bahoya,07.05.2005,20,Francia,180,76,14,2,1,0,0,0,25.01.2024,Angers SCO,46,19,30.06.2029,No,Eintracht Frankfurt
+Fares Chaibi,28.11.2002,23,Argelia,183,79,13,1,6,1,0,0,30.08.2023,FC Toulouse,67,8,30.06.2028,26,Eintracht Frankfurt
+Mahmoud Dahoud,01.01.1996,30,Alemania,178,68,7,1,0,0,0,0,30.08.2024,Brighton & Hove Albion,191,18,30.06.2026,2,Eintracht Frankfurt
+Ritsu Doan,16.06.1998,27,Japón,173,72,15,4,4,1,0,0,07.08.2025,SC Freiburg,146,20,30.06.2030,62,Eintracht Frankfurt
+Noah Fenyö,30.01.2006,19,Hungría,182,72,0,0,0,0,0,0,01.07.2016,FV Stierstadt,0,47,30.06.2029,No,Eintracht Frankfurt
+Mario Götze,03.06.1992,33,Alemania,176,75,11,0,0,0,0,0,01.07.2022,PSV Eindhoven,328,27,30.06.2026,66,Eintracht Frankfurt
+Oscar Höjlund,04.01.2005,21,Dinamarca,184,76,10,0,1,1,0,0,10.07.2024,FC Kopenhagen,30,6,30.06.2029,No,Eintracht Frankfurt
+Ansgar Knauff,10.01.2002,23,Alemania,180,73,14,2,1,2,0,0,20.01.2022,Borussia Dortmund,120,7,30.06.2028,No,Eintracht Frankfurt
+Hugo Larsson,27.06.2004,21,Suecia,187,79,10,1,2,0,0,0,01.07.2023,Malmö FF,72,16,30.06.2029,12,Eintracht Frankfurt
+Ellyes Skhiri,10.05.1995,30,Túnez,185,74,9,0,0,0,0,0,05.07.2023,1. FC Köln,184,15,30.06.2027,78,Eintracht Frankfurt
+Can Uzun,11.11.2005,20,Turquía,186,67,11,5,4,2,0,0,02.07.2024,1. FC Nürnberg,31,42,30.06.2029,4,Eintracht Frankfurt
+Ayoube Amaimouni-Echghouyab,30.11.2004,21,Marruecos,N.D.,N.D.,0,0,0,0,0,0,02.01.2026,TSG Hoffenheim,0,0,30.06.2031,No,Eintracht Frankfurt
+Michy Batshuayi,02.10.1993,32,Bélgica,185,83,6,1,0,0,0,0,03.02.2025,Galatasaray SK,26,30,30.06.2027,55,Eintracht Frankfurt
+Jonathan Burkardt,11.07.2000,25,Alemania,181,79,10,8,1,1,0,0,04.07.2025,1. FSV Mainz 05,146,9,30.06.2030,5,Eintracht Frankfurt
+Younes Ebnoutalib,13.09.2003,22,Alemania,187,79,0,0,0,0,0,0,01.01.2026,SV Elversberg,0,0,N.D.,No,Eintracht Frankfurt
+Jessic Ngankam,20.07.2000,25,Alemania,184,91,3,0,0,0,0,0,01.07.2025,Hannover 96,68,32,30.06.2028,No,Eintracht Frankfurt
+Elye Wahi,02.01.2003,23,Francia,184,74,10,0,1,1,0,0,01.01.2026,Eintracht Frankfurt,18,17,N.D.,No,Eintracht Frankfurt
+Finn Dahmen,27.03.1998,27,Alemania,188,84,15,0,0,0,0,0,01.07.2023,1. FSV Mainz 05,78,1,30.06.2027,0,FC Augsburg
+Daniel Klein,13.03.2001,24,Alemania,193,91,0,0,0,0,0,0,01.07.2024,SV Sandhausen,0,25,30.06.2026,No,FC Augsburg
+Nediljko Labrovic,10.10.1999,26,Croacia,196,96,0,0,0,0,0,0,01.07.2024,HNK Rijeka,15,22,30.06.2029,2,FC Augsburg
+Noahkai Banks,01.12.2006,19,EE.UU,193,92,12,1,0,4,0,0,01.07.2015,TSV Dietmannsried,20,40,30.06.2029,0,FC Augsburg
+Maximilian Bauer,09.02.2000,25,Alemania,190,88,0,0,0,0,0,0,01.07.2025,1. FC Kaiserslautern,78,23,30.06.2027,No,FC Augsburg
+Dimitrios Giannoulis,17.10.1995,30,Grecia,183,77,13,2,2,5,0,0,23.07.2024,Norwich City,44,13,30.06.2028,33,FC Augsburg
+Jeffrey Gouweleeuw,10.07.1991,34,Países Bajos,188,84,5,0,0,2,0,0,09.01.2016,AZ Alkmaar,263,6,30.06.2026,No,FC Augsburg
+Chrislain Matsima,15.05.2002,23,Francia,193,83,14,1,2,5,0,0,30.08.2024,AS Monaco,44,5,30.06.2030,No,FC Augsburg
+Felix Meiser,16.01.2007,18,Alemania,189,78,0,0,0,0,0,0,01.07.2020,TSV 1860 München,0,41,30.06.2027,No,FC Augsburg
+Mads Pedersen,01.09.1996,29,Dinamarca,172,72,3,0,0,0,0,0,15.07.2020,FC Zürich,111,3,30.06.2027,0,FC Augsburg
+Keven Schlotterbeck,28.04.1997,28,Alemania,188,86,10,0,1,3,1,0,01.07.2024,VfL Bochum,138,31,30.06.2027,No,FC Augsburg
+Oliver Sorg,31.07.2007,18,Austria,176,70,0,0,0,0,0,0,01.07.2025,Sturm Graz,0,43,30.06.2027,No,FC Augsburg
+Marius Wolf,27.05.1995,30,Alemania,188,85,11,1,0,1,0,0,08.08.2024,Borussia Dortmund,218,27,30.06.2027,5,FC Augsburg
+Cedric Zesiger,24.06.1998,27,Suiza,194,93,9,0,0,4,0,0,14.01.2025,VfL Wolfsburg,54,16,30.06.2029,6,FC Augsburg
+Franz Bleicher,18.03.2007,18,Alemania,N.D.,N.D.,0,0,0,0,0,0,01.07.2021,FC Augsburg,0,0,30.06.2030,No,FC Augsburg
+Alexis Claude-Maurice,06.06.1998,27,Francia,176,66,12,0,1,2,0,0,30.08.2024,OGC Nizza,40,20,30.06.2027,No,FC Augsburg
+Robin Fellhauer,21.01.1998,27,Alemania,182,75,15,1,1,1,0,0,01.07.2025,SV Elversberg,15,19,30.06.2029,No,FC Augsburg
+Kristijan Jakic,14.05.1997,28,Croacia,184,78,12,1,1,2,0,0,19.01.2024,Eintracht Frankfurt,111,17,30.06.2028,15,FC Augsburg
+Anton Kade,17.01.2004,21,Alemania,185,72,10,2,1,2,0,0,25.08.2025,FC Basel,14,30,30.06.2029,No,FC Augsburg
+Mert Kömür,17.07.2005,20,Alemania,184,80,14,2,2,1,0,0,01.07.2019,TSV 1860 München,38,36,30.06.2029,No,FC Augsburg
+Mahmut Kücüksahin,07.04.2004,21,Alemania,182,80,0,0,0,0,0,0,01.07.2018,SC Fürstenfeldbruck,1,42,30.06.2027,No,FC Augsburg
+Arne Maier,08.01.1999,26,Alemania,186,85,1,0,0,0,0,0,09.08.2021,Hertha BSC,184,10,30.06.2026,No,FC Augsburg
+Han-Noah Massengo,07.07.2001,24,Francia,178,70,15,1,1,0,0,0,15.07.2025,FC Burnley,15,4,30.06.2030,No,FC Augsburg
+Elvis Rexhbecaj,01.11.1997,28,Kosovo,182,75,13,0,0,3,0,0,27.07.2022,VfL Wolfsburg,199,8,30.06.2026,14,FC Augsburg
+Fabian Rieder,16.02.2002,23,Suiza,179,74,13,3,2,2,0,0,01.09.2025,Stade Rennes,34,32,30.06.2030,25,FC Augsburg
+Aiman Dardari,21.03.2005,20,Luxemburgo,178,71,3,0,0,1,0,0,13.01.2025,1. FSV Mainz 05,3,28,30.06.2029,10,FC Augsburg
+Samuel Essende,23.01.1998,27,RD Congo,193,91,10,1,0,2,0,0,01.07.2024,FC Vizela,40,9,30.06.2028,11,FC Augsburg
+Ismael Gharbi,10.04.2004,21,Túnez,173,61,4,0,0,0,0,0,01.09.2025,Sporting Braga,4,11,30.06.2026,11,FC Augsburg
+Elias Saad,27.12.1999,26,Túnez,180,72,10,0,0,1,0,0,01.07.2025,FC St. Pauli,28,26,30.06.2029,10,FC Augsburg
+Phillip Tietz,09.07.1997,28,Alemania,190,90,10,1,0,2,0,0,12.07.2023,SV Darmstadt 98,78,21,30.06.2027,No,FC Augsburg
+Leon Klanac,01.03.2007,18,Alemania,183,N.D.,0,0,0,0,0,0,01.07.2021,Bayern München,0,48,30.06.2027,No,FC Bayern Muenchen
+Manuel Neuer,27.03.1986,39,Alemania,193,93,12,0,0,0,0,0,01.07.2011,FC Schalke 04,535,1,30.06.2026,124,FC Bayern Muenchen
+Sven Ulreich,03.08.1988,37,Alemania,192,87,0,0,0,0,0,0,01.07.2021,Hamburger SV,242,26,30.06.2026,0,FC Bayern Muenchen
+Jonas Urbig,08.08.2003,22,Alemania,188,83,3,0,0,0,0,0,27.01.2025,1. FC Köln,11,40,30.06.2029,No,FC Bayern Muenchen
+Sacha Boey,13.09.2000,25,Francia,177,76,9,0,0,1,0,0,28.01.2024,Galatasaray SK,24,23,30.06.2028,No,FC Bayern Muenchen
+Alphonso Davies,02.11.2000,25,Canadá,185,77,2,0,0,1,0,0,01.01.2019,Vancouver Whitecaps,156,19,30.06.2030,59,FC Bayern Muenchen
+Raphael Guerreiro,22.12.1993,32,Portugal,170,71,9,2,3,0,0,0,01.07.2023,Borussia Dortmund,214,22,30.06.2026,65,FC Bayern Muenchen
+Hiroki Ito,12.05.1999,26,Japón,188,84,4,0,2,0,0,0,01.07.2024,VfB Stuttgart,95,21,30.06.2028,21,FC Bayern Muenchen
+Min-Jae Kim,15.11.1996,29,Corea del Sur,190,86,9,0,1,0,0,0,18.07.2023,SSC Neapel,61,3,30.06.2028,75,FC Bayern Muenchen
+Konrad Laimer,27.05.1997,28,Austria,180,72,14,2,3,5,0,0,01.07.2023,RB Leipzig,202,27,30.06.2027,55,FC Bayern Muenchen
+Josip Stanisic,02.04.2000,25,Croacia,186,77,10,2,2,1,0,0,01.07.2024,Bayer 04 Leverkusen,72,44,30.06.2029,27,FC Bayern Muenchen
+Jonathan Tah,11.02.1996,29,Alemania,195,94,12,1,1,2,0,0,09.06.2025,Bayer 04 Leverkusen,319,4,30.06.2029,43,FC Bayern Muenchen
+Dayot Upamecano,27.10.1998,27,Francia,186,90,12,1,0,3,0,0,05.07.2021,RB Leipzig,226,2,30.06.2026,35,FC Bayern Muenchen
+Tom Bischof,28.06.2005,20,Alemania,176,66,12,0,3,2,0,0,09.06.2025,TSG Hoffenheim,68,20,30.06.2029,1,FC Bayern Muenchen
+Serge Gnabry,14.07.1995,30,Alemania,176,77,12,4,6,1,0,0,01.07.2018,TSG Hoffenheim,254,7,30.06.2026,57,FC Bayern Muenchen
+Leon Goretzka,06.02.1995,30,Alemania,189,82,14,0,0,4,0,0,01.07.2018,FC Schalke 04,310,8,30.06.2026,67,FC Bayern Muenchen
+Lennart Karl,22.02.2008,17,Alemania,169,67,13,3,2,0,0,0,01.07.2022,Viktoria Aschaffenburg,13,42,N.D.,No,FC Bayern Muenchen
+Joshua Kimmich,08.02.1995,30,Alemania,177,75,13,1,5,3,0,0,01.07.2015,RB Leipzig,308,6,30.06.2029,106,FC Bayern Muenchen
+Jamal Musiala,26.02.2003,22,Alemania,184,72,0,0,0,0,0,0,04.07.2019,FC Chelsea,139,10,30.06.2030,40,FC Bayern Muenchen
+Michael Olise,12.12.2001,24,Francia,184,78,15,7,9,3,0,0,07.07.2024,Crystal Palace,49,17,30.06.2029,13,FC Bayern Muenchen
+Aleksandar Pavlovic,03.05.2004,21,Alemania,188,78,12,1,1,2,0,0,01.07.2011,SC Fürstenfeldbruck,52,45,30.06.2029,9,FC Bayern Muenchen
+Nicolas Jackson,20.06.2001,24,Senegal,187,79,12,3,0,0,0,0,01.09.2025,FC Chelsea,12,11,30.06.2026,29,FC Bayern Muenchen
+Harry Kane,28.07.1993,32,Inglaterra,188,86,15,19,5,0,0,0,12.08.2023,Tottenham Hotspur,78,9,30.06.2027,112,FC Bayern Muenchen
+Luis Diaz,13.01.1997,28,Colombia,180,74,14,8,6,5,0,0,30.07.2025,FC Liverpool,14,14,30.06.2029,70,FC Bayern Muenchen
+Cassiano Kiala,11.01.2009,16,Alemania,186,N.D.,1,0,0,0,0,0,01.07.2024,Hertha BSC,1,30,N.D.,No,FC Bayern Muenchen
+David Daiber,10.01.2007,18,Portugal,185,N.D.,1,0,0,0,0,0,01.07.2016,TSV Milbertshofen,1,47,N.D.,No,FC Bayern Muenchen
+Jonah Kusi-Asare,04.07.2007,18,Suecia,196,70,0,0,0,0,0,0,02.09.2025,Bayern München,2,41,N.D.,No,FC Bayern Muenchen
+Wisdom Mike,24.09.2008,17,Alemania,174,N.D.,3,0,0,0,0,0,01.07.2022,Bor. Mönchengladbach,3,36,N.D.,No,FC Bayern Muenchen
+Fernando Dickes,13.10.2007,18,Alemania,193,89,0,0,0,0,0,0,01.07.2025,RB Leipzig,0,41,N.D.,No,Hamburger SV
+Hannes Hermann,23.03.2005,20,Alemania,189,77,0,0,0,0,0,0,01.07.2016,SV Eichede,0,40,N.D.,No,Hamburger SV
+Daniel Heuer Fernandes,13.11.1992,33,Portugal,188,81,15,0,0,1,0,0,01.07.2019,SV Darmstadt 98,22,1,30.06.2026,No,Hamburger SV
+Daniel Peretz,10.07.2000,25,Israel,190,89,0,0,0,0,0,0,21.07.2025,Bayern München,4,26,30.06.2026,10,Hamburger SV
+Daniel Elfadli,06.04.1997,28,Libia,188,78,11,0,0,2,0,0,01.07.2024,1. FC Magdeburg,11,8,N.D.,5,Hamburger SV
+Giorgi Gocholeishvili,14.02.2001,24,Georgia,178,70,12,0,1,0,1,0,07.08.2025,Schachtar Donezk,12,16,30.06.2026,19,Hamburger SV
+Silvan Hefti,25.10.1997,28,Suiza,183,80,0,0,0,0,0,0,04.08.2024,CFC Genua 1893,0,30,N.D.,No,Hamburger SV
+Noah Katterbach,13.04.2001,24,Alemania,180,74,0,0,0,0,0,0,31.01.2024,1. FC Köln,40,3,N.D.,No,Hamburger SV
+William Mikelbrencis,25.02.2004,21,Francia,176,64,12,0,0,0,0,0,31.08.2022,FC Metz,12,2,30.06.2026,No,Hamburger SV
+Miro Muheim,24.03.1998,27,Suiza,182,77,15,0,3,2,0,0,01.07.2021,FC St. Gallen 1879,15,28,30.06.2027,6,Hamburger SV
+Warmed Omari,23.04.2000,25,Comoras,185,74,5,0,0,0,0,0,07.08.2025,Stade Rennes,5,17,30.06.2026,11,Hamburger SV
+Guilherme Ramos,11.08.1997,28,Portugal,191,86,6,0,0,0,0,0,01.07.2025,CD Santa Clara,19,13,30.06.2026,No,Hamburger SV
+Aboubaka Soumahoro,04.02.2005,20,Francia,184,78,4,0,0,1,0,0,03.02.2025,FC Paris,4,22,30.06.2029,No,Hamburger SV
+Jordan Torunarigha,07.08.1997,28,Nigeria,191,83,7,0,0,0,0,0,01.07.2025,KAA Gent,80,25,N.D.,1,Hamburger SV
+Luka Vuskovic,24.02.2007,18,Croacia,193,86,13,2,0,3,0,0,29.08.2025,Tottenham Hotspur,13,44,30.06.2026,2,Hamburger SV
+Fabio Baldé,20.07.2005,20,Portugal,182,75,10,0,1,0,0,0,01.07.2020,SC Vorwärts-Wacker 04,10,45,30.06.2029,No,Hamburger SV
+Nicolas Capaldo,14.09.1998,27,Argentina,177,73,13,0,1,4,0,0,10.07.2025,RB Salzburg,13,24,30.06.2028,No,Hamburger SV
+Jean-Luc Dompé,12.08.1995,30,Francia,170,65,11,2,0,0,0,0,18.08.2022,SV Zulte Waregem,11,7,N.D.,No,Hamburger SV
+Fabio Vieira,30.05.2000,25,Portugal,170,58,10,1,3,1,1,1,01.09.2025,FC Arsenal,10,20,N.D.,No,Hamburger SV
+Bakery Jatta,06.06.1998,27,Gambia,184,79,3,0,0,0,0,0,01.07.2016,Hamburger SV,19,18,30.06.2029,No,Hamburger SV
+Albert Sambi Lokonga,22.10.1999,26,Bélgica,183,74,12,4,0,1,0,0,01.09.2025,FC Arsenal,12,6,30.06.2028,2,Hamburger SV
+Jonas Meffert,04.09.1994,31,Alemania,186,76,4,0,0,0,0,0,01.07.2021,Holstein Kiel,5,23,30.06.2026,No,Hamburger SV
+Immanuel Pherai,25.04.2001,24,Surinam,175,74,5,0,0,0,1,0,01.07.2023,Eintracht Braunschweig,6,10,30.06.2027,11,Hamburger SV
+Nicolai Remberg,19.06.2000,25,Alemania,188,86,14,0,1,5,0,0,01.07.2025,Holstein Kiel,46,21,30.06.2028,No,Hamburger SV
+Alexander Rössing-Lelesiit,20.01.2007,18,Noruega,184,69,8,0,1,0,1,0,03.02.2025,Lilleström SK,8,38,N.D.,No,Hamburger SV
+Emir Sahiti,29.11.1998,27,Kosovo,174,65,2,0,0,0,0,0,30.08.2024,Hajduk Split,2,29,30.06.2027,7,Hamburger SV
+Bilal Yalcinkaya,30.03.2006,19,Alemania,182,70,0,0,0,0,0,0,01.07.2017,FC St. Pauli,0,48,30.06.2027,No,Hamburger SV
+Robert Glatzel,08.01.1994,31,Alemania,193,85,9,1,0,0,0,0,01.07.2021,1. FSV Mainz 05,22,9,30.06.2027,No,Hamburger SV
+Ransford-Yeboah Königsdörffer,13.09.2001,24,Ghana,182,78,15,1,1,1,0,0,01.07.2022,Dynamo Dresden,15,11,30.06.2026,6,Hamburger SV
+Rayan Philippe,23.10.2000,25,Francia,182,75,15,4,0,2,0,0,02.07.2025,Eintracht Braunschweig,15,14,30.06.2029,No,Hamburger SV
+Yussuf Poulsen,15.06.1994,31,Dinamarca,192,84,8,1,0,3,0,0,13.07.2025,RB Leipzig,241,15,30.06.2027,86,Hamburger SV
+Otto Stange,09.02.2007,18,Alemania,187,82,1,0,0,0,0,0,01.09.2025,Hamburger SV,1,49,30.06.2026,No,Hamburger SV
+Frank Feller,07.01.2004,21,Alemania,183,74,2,0,0,0,0,0,01.07.2019,SGV Freiberg Fußball,2,40,30.06.2029,No,1 FC Heidenheim
+Kevin Müller,15.03.1991,34,Alemania,190,90,0,0,0,0,0,0,01.07.2015,Energie Cottbus,67,1,30.06.2027,No,1 FC Heidenheim
+Diant Ramaj,19.09.2001,24,Alemania,189,81,15,0,0,1,0,0,28.07.2025,Borussia Dortmund,17,41,30.06.2026,No,1 FC Heidenheim
+Paul Tschernuth,20.01.2002,23,Austria,186,84,0,0,0,0,0,0,28.09.2020,USC Eugendorf,17,34,30.06.2027,No,1 FC Heidenheim
+Marnon Busch,08.12.1994,31,Alemania,182,80,15,0,2,1,0,0,01.07.2017,TSV 1860 München,63,2,30.06.2027,No,1 FC Heidenheim
+Jonas Föhrenbach,26.01.1996,29,Alemania,184,81,15,1,1,1,0,0,01.07.2019,Jahn Regensburg,78,19,30.06.2027,No,1 FC Heidenheim
+Benedikt Gimber,19.02.1997,28,Alemania,187,85,10,0,0,3,0,0,01.07.2023,Jahn Regensburg,66,5,30.06.2028,No,1 FC Heidenheim
+Thomas Keller,05.08.1999,26,Alemania,186,80,4,0,0,1,0,0,01.07.2022,FC Ingolstadt 04,12,27,30.06.2028,No,1 FC Heidenheim
+Adam Kölle,28.04.2006,19,Alemania,195,91,5,1,0,1,0,0,01.07.2022,SSV Reutlingen Fußball,5,28,30.06.2029,No,1 FC Heidenheim
+Patrick Mainka,06.11.1994,31,Alemania,194,86,15,1,1,1,0,0,01.07.2018,Borussia Dortmund,83,6,30.06.2029,No,1 FC Heidenheim
+Leart Pacarada,08.10.1994,31,Kosovo,184,76,1,0,0,0,0,0,28.08.2025,1. FC Köln,18,32,30.06.2027,34,1 FC Heidenheim
+Tim Siersleben,09.03.2000,25,Alemania,187,80,11,0,0,1,0,0,01.07.2021,VfL Wolfsburg,42,4,30.06.2028,No,1 FC Heidenheim
+Omar Haktab Traoré,04.02.1998,27,Alemania,187,78,15,0,2,2,0,0,01.07.2023,VfL Osnabrück,76,23,30.06.2026,No,1 FC Heidenheim
+Adrian Beck,09.06.1997,28,Alemania,185,80,12,0,0,0,0,0,01.07.2022,SSV Ulm 1846 Fußball,67,21,30.06.2028,No,1 FC Heidenheim
+Sirlord Conteh,09.07.1996,29,Alemania,178,78,5,1,1,1,0,0,01.07.2024,SC Paderborn 07,34,31,30.06.2027,No,1 FC Heidenheim
+Niklas Dorsch,15.01.1998,27,Alemania,178,76,14,0,0,0,0,0,30.08.2024,FC Augsburg,100,30,30.06.2028,No,1 FC Heidenheim
+Mathias Honsak,20.12.1996,29,Austria,188,78,12,0,0,0,0,0,01.07.2024,SV Darmstadt 98,57,17,30.06.2027,1,1 FC Heidenheim
+Arijon Ibrahimovic,11.12.2005,20,Alemania,176,70,15,0,2,1,0,0,01.07.2025,Lazio Rom,17,22,30.06.2026,No,1 FC Heidenheim
+Luca Kerber,10.03.2002,23,Alemania,180,77,9,0,0,2,0,0,01.07.2024,1. FC Saarbrücken,32,20,30.06.2027,No,1 FC Heidenheim
+Julian Niehues,17.04.2001,24,Alemania,195,89,11,0,0,0,0,0,01.07.2024,1. FC Kaiserslautern,19,16,30.06.2027,No,1 FC Heidenheim
+Nick Rothweiler,16.06.2006,19,Alemania,190,84,0,0,0,0,0,0,01.07.2022,SC Pfullendorf,19,33,30.06.2027,No,1 FC Heidenheim
+Jan Schöppner,12.06.1999,26,Alemania,190,78,14,1,0,4,0,0,05.08.2020,SC Verl,73,3,30.06.2028,No,1 FC Heidenheim
+Mikkel Kaufmann,03.01.2001,24,Dinamarca,189,91,9,1,1,2,0,0,01.07.2025,Karlsruher SC,36,29,30.06.2028,No,1 FC Heidenheim
+Marvin Pieringer,04.10.1999,26,Alemania,191,83,9,1,0,1,0,0,03.07.2023,SC Paderborn 07,71,18,30.06.2027,No,1 FC Heidenheim
+Stefan Schimmer,28.04.1994,31,Alemania,185,87,10,4,1,1,0,0,06.08.2019,SpVgg Unterhaching,39,9,30.06.2026,No,1 FC Heidenheim
+Yannik Wagner,09.05.2007,18,Alemania,182,73,3,0,0,0,0,0,01.07.2023,Offenburger FV,3,38,30.06.2029,No,1 FC Heidenheim
+Budu Zivzivadze,10.03.1994,31,Georgia,189,85,8,1,0,0,0,1,03.01.2025,Karlsruher SC,23,11,30.06.2029,40,1 FC Heidenheim
+Leonardo Scienza,13.09.1998,27,Brasil,175,68,2,1,0,0,0,0,01.09.2025,1. FC Heidenheim,27,8,N.D.,No,1 FC Heidenheim
+Tobias Weigel,26.04.2007,18,Alemania,N.D.,N.D.,1,0,0,0,0,0,01.07.2016,1. FC Heidenheim,1,0,N.D.,No,1 FC Heidenheim
+Peter Gulacsi,06.05.1990,35,Hungría,191,86,14,0,0,0,0,0,01.07.2015,RB Salzburg,260,1,30.06.2026,58,RB Leipzig
+Maarten Vandevoordt,26.02.2002,23,Bélgica,192,84,0,0,0,0,0,0,01.07.2024,KRC Genk,6,26,30.06.2029,0,RB Leipzig
+Leopold Zingerle,10.04.1994,31,Alemania,185,78,0,0,0,0,0,0,01.07.2023,SC Paderborn 07,28,25,30.06.2026,No,RB Leipzig
+Ridle Baku,08.04.1998,27,Alemania,176,77,12,0,2,3,0,0,10.01.2025,VfL Wolfsburg,228,17,30.06.2027,8,RB Leipzig
+El Chadaille Bitshiabu,16.05.2005,20,Francia,196,95,2,0,0,0,0,0,18.07.2023,Paris St. Germain,29,5,30.06.2029,No,RB Leipzig
+Max Finkgräfe,27.03.2004,21,Alemania,183,77,2,0,0,0,0,0,03.07.2025,1. FC Köln,26,35,30.06.2030,No,RB Leipzig
+Benjamin Henrichs,23.02.1997,28,Alemania,183,79,0,0,0,0,0,0,15.07.2020,AS Monaco,175,39,30.06.2028,19,RB Leipzig
+Lukas Klostermann,03.06.1996,29,Alemania,187,88,4,0,0,0,0,0,22.08.2014,VfL Bochum,202,16,30.06.2028,22,RB Leipzig
+Castello Lukeba,17.12.2002,23,Francia,184,83,13,1,0,0,0,0,11.08.2023,Olympique Lyon,68,23,30.06.2029,1,RB Leipzig
+Bungi Joyeux Masanka,24.01.2007,,Bélgica,186,78,0,0,0,0,0,0,N.A.,N.A.,68,42,N.D.,No,RB Leipzig
+Kosta Nedeljkovic,16.12.2005,20,Serbia,185,75,4,0,0,0,0,0,03.02.2025,Aston Villa,14,19,30.06.2026,8,RB Leipzig
+Willi Orban,03.11.1992,33,Hungría,186,88,14,0,0,2,0,0,01.07.2015,1. FC Kaiserslautern,242,4,30.06.2027,64,RB Leipzig
+David Raum,22.04.1998,27,Alemania,181,82,14,2,2,4,0,0,31.07.2022,TSG Hoffenheim,127,22,30.06.2027,34,RB Leipzig
+Ezechiel Banzuzi,16.02.2005,20,Países Bajos,192,88,12,0,1,2,0,0,01.07.2025,OH Leuven,12,6,30.06.2030,No,RB Leipzig
+Christoph Baumgartner,01.08.1999,26,Austria,180,73,14,6,6,4,0,0,01.07.2023,TSG Hoffenheim,198,14,30.06.2028,56,RB Leipzig
+Viggo Gebel,22.11.2007,18,Alemania,174,69,1,0,0,0,0,0,01.07.2019,SV Leipzig Nordwest,1,47,N.D.,No,RB Leipzig
+Amadou Haidara,31.01.1998,27,Malí,175,72,0,0,0,0,0,0,01.01.2019,RB Salzburg,159,8,30.06.2026,48,RB Leipzig
+Kevin Kampl,09.10.1990,35,Eslovenia,178,66,3,0,0,0,0,0,31.08.2017,Bayer 04 Leverkusen,270,44,30.06.2026,28,RB Leipzig
+Andrija Maksimovic,05.06.2007,18,Serbia,181,66,5,0,0,0,0,0,16.07.2025,Roter Stern Belgrad,5,33,N.D.,8,RB Leipzig
+Antonio Nusa,17.04.2005,20,Noruega,180,72,12,1,2,0,0,0,13.08.2024,Club Brügge,37,7,30.06.2029,20,RB Leipzig
+Assan Ouedraogo,09.05.2006,19,Alemania,191,84,11,3,3,0,0,0,01.07.2024,FC Schalke 04,14,20,30.06.2029,1,RB Leipzig
+Xaver Schlager,28.09.1997,28,Austria,174,76,10,1,0,2,0,0,01.07.2022,VfL Wolfsburg,134,24,30.06.2026,49,RB Leipzig
+Nicolas Seiwald,04.05.2001,24,Austria,179,79,14,0,1,0,0,0,01.07.2023,RB Salzburg,65,13,30.06.2028,44,RB Leipzig
+Johan Bakayoko,20.04.2003,22,Bélgica,176,80,12,2,0,1,0,0,16.07.2025,PSV Eindhoven,12,9,30.06.2030,18,RB Leipzig
+Yan Diomande,14.11.2006,19,Costa de Marfil,181,77,14,6,3,2,0,0,16.07.2025,CD Leganes,14,49,30.06.2030,4,RB Leipzig
+Tidiam Gomis,08.08.2006,19,Francia,183,71,6,1,0,0,0,0,03.02.2025,SM Caen,14,27,30.06.2029,No,RB Leipzig
+Conrad Harder,07.04.2005,20,Dinamarca,185,82,12,1,2,3,0,0,01.09.2025,Sporting Lissabon,12,11,30.06.2030,1,RB Leipzig
+Romulo,08.02.2002,23,Brasil,193,79,10,4,4,0,0,0,15.08.2025,Göztepe Izmir,10,40,30.06.2030,No,RB Leipzig
+Timo Werner,06.03.1996,29,Alemania,180,76,2,0,0,0,0,0,01.07.2025,Tottenham Hotspur,259,36,30.06.2026,57,RB Leipzig
+Xavi Simons,21.04.2003,22,Países Bajos,179,70,1,0,0,0,0,0,29.08.2025,RB Leipzig,58,10,N.D.,32,RB Leipzig
+Samba Konaté,27.02.2009,16,Francia,N.D.,N.D.,1,0,0,0,0,0,01.07.2025,RB Leipzig,1,45,N.D.,No,RB Leipzig
+Lois Openda,16.02.2000,25,Bélgica,177,79,2,0,0,0,0,0,01.09.2025,RB Leipzig,69,11,N.D.,31,RB Leipzig
+Noah Atubolu,25.05.2002,23,Alemania,191,98,15,0,0,0,0,0,01.07.2015,Freiburger FC,75,1,N.D.,No,SC Freiburg
+Jannik Huth,15.04.1994,31,Alemania,185,86,0,0,0,0,0,0,01.07.2024,SC Paderborn 07,13,24,30.06.2026,No,SC Freiburg
+Florian Müller,13.11.1997,28,Alemania,191,88,0,0,0,0,0,0,01.07.2023,VfB Stuttgart,131,21,N.D.,No,SC Freiburg
+Matthias Ginter,19.01.1994,31,Alemania,191,89,15,0,3,1,0,0,01.07.2022,Bor. Mönchengladbach,395,28,N.D.,51,SC Freiburg
+Christian Günter,28.02.1993,32,Alemania,185,83,10,0,2,1,0,0,01.07.2007,FV Tennenbronn,356,30,30.06.2026,8,SC Freiburg
+Anthony Jung,03.11.1991,34,Alemania,186,90,6,0,0,2,0,0,01.07.2025,Werder Bremen,115,5,30.06.2026,No,SC Freiburg
+Lukas Kübler,30.08.1992,33,Alemania,182,78,12,2,1,2,0,0,01.07.2015,SV Sandhausen,188,17,N.D.,No,SC Freiburg
+Philipp Lienhart,11.07.1996,29,Austria,189,86,11,0,1,1,1,0,05.07.2017,Real Madrid,200,3,N.D.,38,SC Freiburg
+Jordy Makengo,03.08.2001,24,Francia,191,81,9,0,0,1,0,0,01.07.2021,AJ Auxerre,48,33,N.D.,No,SC Freiburg
+Bruno Ogbus,17.12.2005,20,Suiza,185,86,0,0,0,0,0,0,01.07.2022,Grasshopper Club Zürich,2,43,N.D.,No,SC Freiburg
+Max Rosenfelder,10.02.2003,22,Alemania,187,85,7,0,0,0,0,0,01.07.2014,Eintracht Freiburg,32,37,N.D.,No,SC Freiburg
+Philipp Treu,03.12.2000,25,Alemania,173,72,12,1,1,0,0,0,01.07.2025,FC St. Pauli,45,29,N.D.,No,SC Freiburg
+Niklas Beste,04.01.1999,26,Alemania,175,66,10,0,2,2,0,0,31.01.2025,Benfica Lissabon,53,19,N.D.,No,SC Freiburg
+Maximilian Eggestein,08.12.1996,29,Alemania,183,83,15,2,0,2,0,0,18.08.2021,Werder Bremen,299,8,N.D.,0,SC Freiburg
+Vincenzo Grifo,07.04.1993,32,Italia,180,77,15,5,1,0,0,0,02.09.2019,TSG Hoffenheim,288,32,N.D.,9,SC Freiburg
+Nicolas Höfler,09.03.1990,35,Alemania,182,81,4,0,0,0,0,0,01.07.2013,Erzgebirge Aue,284,27,30.06.2026,No,SC Freiburg
+Daniel-Kofi Kyereh,08.03.1996,29,Ghana,178,80,12,2,0,2,0,0,01.07.2022,FC St. Pauli,12,11,30.06.2026,18,SC Freiburg
+Johan Manzambi,14.10.2005,20,Suiza,183,79,13,3,4,3,0,1,26.01.2023,Servette FC,24,44,N.D.,8,SC Freiburg
+Patrick Osterhage,01.02.2000,25,Alemania,187,80,10,1,0,2,0,0,01.07.2024,VfL Bochum,100,6,N.D.,No,SC Freiburg
+Yuito Suzuki,25.10.2001,24,Japón,175,71,10,2,2,0,0,0,01.07.2025,Bröndby IF,10,14,N.D.,4,SC Freiburg
+Junior Adamu,06.06.2001,24,Austria,183,79,9,1,1,1,0,0,01.07.2023,RB Salzburg,49,20,N.D.,9,SC Freiburg
+Eren Dinkci,13.12.2001,24,Turquía,188,80,8,0,0,1,0,0,01.07.2024,1. FC Heidenheim,89,18,N.D.,0,SC Freiburg
+Lucas Höler,10.07.1994,31,Alemania,184,82,14,1,2,0,0,0,01.01.2018,SV Sandhausen,245,9,N.D.,No,SC Freiburg
+Cyriaque Irié,20.06.2005,20,Burkina Faso,186,87,1,0,0,1,0,0,01.07.2025,ES Troyes AC,1,22,N.D.,7,SC Freiburg
+Igor Matanovic,31.03.2003,22,Croacia,195,93,12,2,0,0,0,0,09.07.2025,Eintracht Frankfurt,28,31,N.D.,7,SC Freiburg
+Maximilian Philipp,01.03.1994,31,Alemania,183,84,0,0,0,0,0,0,21.08.2023,VfL Wolfsburg,171,26,30.06.2026,No,SC Freiburg
+Derry Scherhant,10.11.2002,23,Alemania,186,82,13,3,1,0,0,0,01.07.2025,Hertha BSC,23,7,N.D.,No,SC Freiburg
+Merlin Röhl,05.07.2002,23,Alemania,192,81,2,0,0,0,0,0,01.09.2025,SC Freiburg,48,34,N.D.,No,SC Freiburg
+Oliver Baumann,02.06.1990,35,Alemania,187,82,15,0,0,0,0,0,01.07.2014,SC Freiburg,504,1,30.06.2028,10,TSG Hoffenheim
+Lukas Petersson,09.02.2004,21,Islandia,195,96,0,0,0,0,0,0,01.07.2015,Tennis Borussia Berlin,0,36,30.06.2027,0,TSG Hoffenheim
+Luca Philipp,28.11.2000,25,Alemania,192,83,0,0,0,0,0,0,01.07.2013,SGV Freiberg Fußball,6,37,30.06.2026,No,TSG Hoffenheim
+Kevin Akpoguma,19.04.1995,30,Nigeria,192,85,2,0,0,0,0,0,01.07.2019,Hannover 96,173,25,30.06.2026,8,TSG Hoffenheim
+Arthur Chaves,29.01.2001,24,Brasil,188,78,4,0,0,1,0,0,30.08.2024,Academico Viseu,30,35,30.06.2029,No,TSG Hoffenheim
+Bernardo,14.05.1995,30,Brasil,186,77,14,0,0,5,0,0,01.07.2025,VfL Bochum,108,13,N.D.,No,TSG Hoffenheim
+Vladimir Coufal,22.08.1992,33,República Checa,174,76,15,1,4,1,0,0,05.08.2025,West Ham United,15,34,30.06.2026,59,TSG Hoffenheim
+Valentin Gendrey,21.06.2000,25,Francia,179,75,2,0,0,0,0,0,27.08.2024,US Lecce,24,15,30.06.2028,No,TSG Hoffenheim
+Albian Hajdari,18.05.2003,22,Kosovo,189,80,13,1,0,5,0,0,25.08.2025,FC Lugano,13,21,30.06.2029,3,TSG Hoffenheim
+Robin Hranac,29.01.2000,25,República Checa,190,85,15,0,0,3,0,0,25.08.2024,Viktoria Pilsen,19,2,30.06.2028,10,TSG Hoffenheim
+Ozan Kabak,25.03.2000,25,Turquía,187,85,7,1,0,0,0,0,23.07.2022,FC Schalke 04,120,5,30.06.2026,26,TSG Hoffenheim
+Koki Machida,25.08.1997,28,Japón,190,80,1,0,0,1,0,0,01.07.2025,Union Saint-Gilloise,1,28,N.D.,17,TSG Hoffenheim
+Alexander Prass,26.05.2001,24,Austria,180,72,13,0,1,0,0,0,05.08.2024,Sturm Graz,36,22,30.06.2028,16,TSG Hoffenheim
+Leon Avdullahu,23.02.2004,21,Kosovo,185,79,15,0,1,2,0,0,01.07.2025,FC Basel,15,7,30.06.2029,5,TSG Hoffenheim
+Wouter Burger,16.02.2001,24,Países Bajos,191,83,14,3,5,2,0,0,22.07.2025,Stoke City,14,18,30.06.2030,No,TSG Hoffenheim
+Muhammed Damar,09.04.2004,21,Alemania,185,73,8,0,0,0,0,0,01.07.2025,SV Elversberg,14,10,30.06.2029,No,TSG Hoffenheim
+Dennis Geiger,10.06.1998,27,Alemania,173,67,20,0,0,4,0,0,01.07.2009,SV Alemannia Sattelbach,125,8,30.06.2027,No,TSG Hoffenheim
+Andrej Kramaric,19.06.1991,34,Croacia,177,73,15,3,3,1,0,0,19.01.2016,Leicester City,301,27,30.06.2026,112,TSG Hoffenheim
+Florian Micheler,17.05.2005,20,Austria,185,85,0,0,0,0,0,0,01.01.2026,Arminia Bielefeld,1,0,N.D.,No,TSG Hoffenheim
+Grischa Prömel,09.01.1995,30,Alemania,180,75,15,5,3,2,0,0,01.07.2022,1. FC Union Berlin,132,6,30.06.2026,0,TSG Hoffenheim
+Fisnik Asllani,08.08.2002,23,Kosovo,188,81,15,6,2,1,0,0,01.07.2025,SV Elversberg,25,11,30.06.2029,12,TSG Hoffenheim
+Ihlas Bebou,23.04.1994,31,Ir,185,80,9,0,0,0,0,0,01.07.2019,Hannover 96,195,9,30.06.2026,38,TSG Hoffenheim
+Mergim Berisha,11.05.1998,27,Alemania,188,81,13,1,1,2,0,0,01.07.2025,FC Augsburg,44,32,30.06.2027,2,TSG Hoffenheim
+Adam Hlozek,25.07.2002,23,República Checa,188,74,3,0,0,0,0,0,17.08.2024,Bayer 04 Leverkusen,82,23,30.06.2029,41,TSG Hoffenheim
+Tim Lemperle,05.02.2002,23,Alemania,186,78,14,5,2,1,0,0,01.07.2025,1. FC Köln,40,19,30.06.2029,No,TSG Hoffenheim
+Max Moerstedt,15.01.2006,19,Alemania,194,77,9,0,0,1,0,0,01.02.2021,Bayern München,22,33,30.06.2027,No,TSG Hoffenheim
+Bazoumana Touré,02.03.2006,19,Costa de Marfil,175,70,14,2,5,1,0,0,01.02.2025,Hammarby IF,27,29,30.06.2029,2,TSG Hoffenheim
+Umut Tohumcu,11.08.2004,21,Alemania,175,71,5,0,0,2,0,0,02.01.2026,TSG Hoffenheim,46,17,30.06.2026,No,TSG Hoffenheim
+Fabian Bredlow,02.03.1995,30,Alemania,190,87,0,0,0,0,0,0,01.07.2019,1. FC Nürnberg,37,1,30.06.2027,No,VfB Stuttgart
+Stefan Drljaca,20.04.1999,26,Alemania,193,89,0,0,0,0,0,0,01.07.2024,Dynamo Dresden,0,21,30.06.2027,No,VfB Stuttgart
+Alexander Nübel,30.09.1996,29,Alemania,193,86,15,0,1,0,0,0,25.07.2023,Bayern München,126,33,30.06.2026,2,VfB Stuttgart
+Ameen Al-Dakhil,06.03.2002,23,Bélgica,188,81,7,0,0,1,0,0,27.08.2024,FC Burnley,14,2,30.06.2028,6,VfB Stuttgart
+Lorenz Assignon,22.06.2000,25,Francia,181,77,9,0,0,2,0,1,01.07.2025,Stade Rennes,9,22,30.06.2029,No,VfB Stuttgart
+Jeff Chabot,12.02.1998,27,Alemania,195,95,12,0,0,0,0,0,01.07.2024,1. FC Köln,100,24,30.06.2028,No,VfB Stuttgart
+Ramon Hendriks,18.07.2001,24,Países Bajos,189,83,12,0,0,1,0,0,01.07.2024,Vitesse Arnheim,37,3,30.06.2028,No,VfB Stuttgart
+Luca Jaquez,02.06.2003,22,Suiza,187,80,5,0,1,1,0,0,03.02.2025,FC Luzern,10,14,30.06.2029,1,VfB Stuttgart
+Finn Jeltsch,17.07.2006,19,Alemania,187,86,9,0,1,2,0,0,03.02.2025,1. FC Nürnberg,21,29,30.06.2030,No,VfB Stuttgart
+Maximilian Mittelstädt,18.03.1997,28,Alemania,180,71,14,2,3,2,0,0,01.07.2023,Hertha BSC,221,7,30.06.2028,15,VfB Stuttgart
+Pascal Stenzel,20.03.1996,29,Alemania,183,78,2,0,0,2,0,0,01.07.2019,SC Freiburg,151,15,30.06.2026,No,VfB Stuttgart
+Leonidas Stergiou,03.03.2002,23,Suiza,181,75,0,0,0,0,0,0,22.08.2023,FC St. Gallen 1879,27,20,30.06.2028,6,VfB Stuttgart
+Josha Vagnoman,11.12.2000,25,Alemania,190,90,13,1,1,2,0,0,09.07.2022,Hamburger SV,81,4,30.06.2028,1,VfB Stuttgart
+Dan-Axel Zagadou,03.06.1999,26,Francia,196,90,2,0,1,0,0,0,19.09.2022,Borussia Dortmund,107,23,30.06.2026,No,VfB Stuttgart
+Chema,25.04.2005,20,España,190,82,10,1,0,1,0,0,27.07.2025,Real Madrid,10,30,30.06.2030,No,VfB Stuttgart
+Noah Darvich,25.09.2006,19,Alemania,184,73,0,0,0,0,0,0,01.07.2025,FC Barcelona,0,19,30.06.2029,No,VfB Stuttgart
+Bilal El Khannouss,10.05.2004,21,Marruecos,180,70,12,3,3,2,0,0,01.09.2025,Leicester City,12,11,30.06.2026,28,VfB Stuttgart
+Chris Führich,09.01.1998,27,Alemania,181,73,14,2,2,0,0,0,19.07.2021,SC Paderborn 07,141,10,30.06.2028,8,VfB Stuttgart
+Lazar Jovanovic,30.11.2006,19,Serbia,184,76,3,0,0,0,0,0,08.07.2025,OFK Belgrad,3,45,30.06.2029,No,VfB Stuttgart
+Atakan Karazor,13.10.1996,29,Turquía,191,76,13,0,0,1,0,0,01.07.2019,Holstein Kiel,150,16,30.06.2028,2,VfB Stuttgart
+Nikolas Nartey,22.02.2000,25,Dinamarca,187,82,13,0,0,1,0,0,01.07.2021,SV Sandhausen,32,28,30.06.2026,0,VfB Stuttgart
+Silas,06.10.1998,27,RD Congo,189,82,0,0,0,0,0,0,01.07.2025,Roter Stern Belgrad,91,13,30.06.2026,18,VfB Stuttgart
+Angelo Stiller,04.04.2001,24,Alemania,183,77,15,1,4,1,0,0,25.08.2023,TSG Hoffenheim,125,6,30.08.2028,5,VfB Stuttgart
+Jeremy Arevalo,19.03.2005,20,Ecuador,180,N.D.,0,0,0,0,0,0,02.01.2026,Racing Santander,0,25,30.06.2031,No,VfB Stuttgart
+Badredine Bouanani,08.12.2004,21,Argelia,177,68,9,0,0,1,0,0,31.08.2025,OGC Nizza,9,27,30.06.2030,5,VfB Stuttgart
+Ermedin Demirovic,25.03.1998,27,Bosnia-Herzegovina,185,84,6,3,2,1,0,0,16.07.2024,FC Augsburg,164,9,30.06.2028,36,VfB Stuttgart
+Justin Diehl,27.11.2004,21,Alemania,174,67,0,0,0,0,0,0,01.07.2024,1. FC Köln,15,17,30.06.2029,No,VfB Stuttgart
+Jamie Leweling,26.02.2001,24,Alemania,185,86,14,1,6,3,0,0,13.07.2023,1. FC Union Berlin,124,18,30.06.2029,4,VfB Stuttgart
+Tiago Tomas,16.06.2002,23,Portugal,180,78,14,3,0,2,0,0,16.08.2025,VfL Wolfsburg,113,8,30.06.2029,No,VfB Stuttgart
+Deniz Undav,19.07.1996,29,Alemania,179,86,11,8,0,3,0,0,09.08.2024,Brighton & Hove Albion,68,26,30.06.2027,6,VfB Stuttgart
+Nick Woltemade,14.02.2002,23,Alemania,198,90,1,0,0,0,0,0,30.08.2025,VfB Stuttgart,70,11,N.D.,8,VfB Stuttgart
+Kamil Grabara,08.01.1999,26,Polonia,195,92,15,0,0,1,0,0,01.07.2024,FC Kopenhagen,44,1,30.06.2028,3,VfL Wolfsburg
+Marius Müller,12.07.1993,32,Alemania,192,94,0,0,0,0,0,0,01.07.2024,FC Schalke 04,6,29,30.06.2027,No,VfL Wolfsburg
+Pavao Pervan,13.11.1987,38,Austria,194,94,0,0,0,0,0,0,01.07.2018,LASK Linz,34,12,30.06.2026,7,VfL Wolfsburg
+Jakub Zielinski,21.02.2008,17,Polonia,194,86,0,0,0,0,0,0,01.07.2025,Legia Warschau,34,30,30.06.2028,7,VfL Wolfsburg
+Mathys Angely,21.04.2007,18,Francia,190,79,0,0,0,0,0,0,13.08.2024,Girondins Bordeaux,34,22,30.06.2029,7,VfL Wolfsburg
+Cleiton,24.05.2003,22,Brasil,N.D.,N.D.,0,0,0,0,0,0,N.A.,Flamengo,34,0,N.D.,7,VfL Wolfsburg
+Kilian Fischer,12.10.2000,25,Alemania,182,76,7,0,0,0,0,0,01.07.2022,1. FC Nürnberg,55,2,30.06.2027,No,VfL Wolfsburg
+Moritz Jenz,30.04.1999,26,Alemania,190,83,8,0,0,3,0,0,01.07.2025,1. FSV Mainz 05,60,15,30.06.2027,No,VfL Wolfsburg
+Konstantinos Koulierakis,28.11.2003,22,Grecia,188,78,14,0,0,3,0,0,30.08.2024,PAOK,44,4,30.06.2029,19,VfL Wolfsburg
+Sael Kumbedi,26.03.2005,20,Francia,175,67,9,0,4,1,0,0,28.08.2025,Olympique Lyon,9,26,30.06.2029,No,VfL Wolfsburg
+Joakim Maehle,20.05.1997,28,Dinamarca,185,82,7,0,1,0,0,0,12.08.2023,Atalanta Bergamo,65,21,30.06.2027,55,VfL Wolfsburg
+Rogerio,13.01.1998,27,Brasil,178,70,13,1,0,0,0,0,05.08.2023,Sassuolo Calcio,13,13,30.06.2027,No,VfL Wolfsburg
+Jenson Seelt,23.05.2003,22,Países Bajos,195,84,9,0,0,0,0,0,01.09.2025,AFC Sunderland,9,14,30.06.2026,No,VfL Wolfsburg
+Denis Vavro,10.04.1996,29,Eslovaquia,189,81,4,1,0,1,0,0,30.08.2024,FC Kopenhagen,33,3,30.06.2027,30,VfL Wolfsburg
+Aaron Zehnter,31.10.2004,21,Alemania,180,69,12,2,0,0,0,0,01.07.2025,SC Paderborn 07,13,25,30.06.2030,No,VfL Wolfsburg
+Maximilian Arnold,27.05.1994,31,Alemania,184,76,14,1,3,4,0,0,01.07.2009,Dynamo Dresden,389,27,30.06.2028,3,VfL Wolfsburg
+Bence Dardai,24.01.2006,19,Hungría,188,77,1,0,0,0,0,0,01.07.2024,Hertha BSC,22,8,N.D.,3,VfL Wolfsburg
+Christian Eriksen,14.02.1992,33,Dinamarca,177,71,12,0,3,1,0,0,10.09.2025,Manchester United,12,24,30.06.2027,147,VfL Wolfsburg
+Yannick Gerhardt,13.03.1994,31,Alemania,184,85,6,0,0,0,0,0,01.07.2016,1. FC Köln,282,31,N.D.,1,VfL Wolfsburg
+Jesper Lindström,29.02.2000,25,Dinamarca,182,66,2,0,0,0,0,0,23.07.2025,SSC Neapel,59,19,30.06.2026,18,VfL Wolfsburg
+Lovro Majer,17.01.1998,27,Croacia,179,76,13,2,2,3,0,0,16.08.2023,Stade Rennes,54,10,30.06.2028,37,VfL Wolfsburg
+Kevin Paredes,07.05.2003,22,EE.UU,175,66,2,0,1,1,0,0,28.01.2022,DC United,54,40,30.06.2026,3,VfL Wolfsburg
+Andreas Skov Olsen,29.12.1999,26,Dinamarca,187,75,8,1,0,1,0,0,17.01.2025,Club Brügge,20,7,30.06.2029,40,VfL Wolfsburg
+Mattias Svanberg,05.01.1999,26,Suecia,185,81,14,2,1,1,1,0,16.07.2022,FC Bologna,91,32,30.06.2027,37,VfL Wolfsburg
+Vinicius Souza,17.06.1999,26,Brasil,187,80,12,0,0,1,0,0,05.07.2025,Sheffield United,12,5,30.06.2030,No,VfL Wolfsburg
+Patrick Wimmer,30.05.2001,24,Austria,182,82,12,3,3,3,0,0,01.07.2022,Arminia Bielefeld,112,39,30.06.2027,28,VfL Wolfsburg
+Mohammed Amoura,09.05.2000,25,Argelia,170,62,14,6,3,2,0,0,08.07.2024,Union Saint-Gilloise,45,9,30.06.2029,41,VfL Wolfsburg
+Adam Daghim,28.09.2005,20,Dinamarca,189,80,9,2,0,0,0,0,01.09.2025,RB Salzburg,9,11,30.06.2026,No,VfL Wolfsburg
+Dzenan Pejcinovic,15.02.2005,20,Alemania,188,78,13,3,0,1,0,0,01.07.2025,Fortuna Düsseldorf,18,17,30.06.2029,No,VfL Wolfsburg
+Jonas Wind,07.02.1999,26,Dinamarca,190,82,8,0,0,1,0,0,31.01.2022,FC Kopenhagen,111,23,30.06.2026,37,VfL Wolfsburg
+Jan Bürger,10.03.2007,18,Alemania,N.D.,N.D.,3,0,0,0,0,0,01.07.2021,VfL Wolfsburg,3,41,N.D.,No,VfL Wolfsburg
+Vaclav Cerny,17.10.1997,28,República Checa,182,68,2,0,0,0,0,0,02.09.2025,VfL Wolfsburg,24,18,N.D.,30,VfL Wolfsburg
+Pharell Hensel,08.06.2007,18,Alemania,N.D.,N.D.,3,0,0,0,0,0,01.07.2023,VfL Wolfsburg,3,37,N.D.,No,VfL Wolfsburg
+Simon Spari,01.01.2002,23,Austria,196,89,0,0,0,0,0,0,01.07.2025,Austria Klagenfurt,0,30,N.D.,No,FC St Pauli
+Nikola Vasilj,02.12.1995,29,Bosnia-Herzegovina,193,86,10,0,0,0,0,0,01.07.2021,Sorja Luhansk,43,22,N.D.,21,FC St Pauli
+Ben Voll,09.12.2000,24,Alemania,195,86,0,0,0,0,0,0,01.07.2024,FC Viktoria Köln,2,1,N.D.,No,FC St Pauli
+Adam Dzwigala,25.09.1995,30,Polonia,185,80,6,1,0,3,0,0,17.12.2020,Desportivo Aves,22,25,N.D.,0,FC St Pauli
+Karol Mets,16.05.1993,32,Estonia,191,82,4,0,0,0,0,0,05.01.2023,FC Zürich,14,3,N.D.,101,FC St Pauli
+David Nemeth,18.03.2001,24,Austria,191,89,0,0,0,0,0,0,01.07.2022,1. FSV Mainz 05,30,4,N.D.,No,FC St Pauli
+Louis Oppie,17.05.2002,23,Alemania,184,81,10,1,0,0,0,0,11.07.2025,Arminia Bielefeld,10,23,N.D.,No,FC St Pauli
+Arkadiusz Pyrka,20.09.2002,23,Polonia,177,70,7,0,0,2,0,0,01.07.2025,Piast Gleiwitz,7,11,N.D.,1,FC St Pauli
+Lars Ritzka,07.05.1998,27,Alemania,182,78,6,0,0,0,0,0,01.07.2021,SC Verl,27,21,N.D.,No,FC St Pauli
+Jannik Robatsch,28.12.2004,20,Austria,190,78,0,0,0,0,0,0,01.07.2025,Austria Klagenfurt,0,34,N.D.,No,FC St Pauli
+Manolis Saliakas,12.09.1996,29,Grecia,177,74,8,0,1,2,0,0,01.07.2022,PAS Ioannina,38,2,N.D.,4,FC St Pauli
+Eric Smith,08.01.1997,28,Suecia,192,86,10,1,0,2,0,0,07.01.2021,IFK Norrköping,42,8,N.D.,No,FC St Pauli
+Fin Stevens,10.04.2003,22,Gales,179,73,0,0,0,0,0,0,26.07.2024,FC Brentford,1,14,N.D.,2,FC St Pauli
+Hauke Wahl,15.04.1994,31,Alemania,189,85,9,1,0,0,0,0,01.07.2023,Holstein Kiel,42,5,N.D.,No,FC St Pauli
+Erik Ahlstrand,14.10.2001,24,Suecia,184,75,0,0,0,0,0,0,27.01.2024,Halmstads BK,5,20,N.D.,1,FC St Pauli
+Joel Chima Fujita,16.02.2002,23,Japón,175,70,10,0,1,2,0,0,01.07.2025,K. Sint-Truidense VV,10,16,N.D.,6,FC St Pauli
+Jackson Irvine,07.03.1993,32,Australia,189,74,3,0,0,0,0,0,05.07.2021,Hibernian Edinburgh,32,7,N.D.,78,FC St Pauli
+Connor Metcalfe,05.11.1999,26,Australia,178,70,10,0,1,0,0,0,01.07.2022,Melbourne City,20,24,N.D.,30,FC St Pauli
+James Sands,06.07.2000,25,EE.UU,186,76,9,0,0,2,0,0,01.01.2025,New York City FC,16,6,N.D.,14,FC St Pauli
+Nick Schmidt,12.09.2007,18,Japón,180,72,0,0,0,0,0,0,01.07.2015,FC St. Pauli,0,44,N.D.,No,FC St Pauli
+Marwin Schmitz,07.01.2007,18,Alemania,180,72,0,0,0,0,0,0,01.07.2017,FTSV Komet Blankenese,0,42,N.D.,No,FC St Pauli
+Danel Sinani,05.04.1997,28,Luxemburgo,185,77,10,2,1,2,0,0,04.07.2023,Wigan Athletic,36,10,N.D.,76,FC St Pauli
+Oladapo Afolayan,11.09.1997,28,Inglaterra,180,71,7,0,0,1,0,0,20.01.2023,Bolton Wanderers,39,17,N.D.,No,FC St Pauli
+Romeo Aigbekaen,22.06.2004,21,Alemania,188,81,0,0,0,0,0,0,01.07.2024,1. FC Düren,0,38,N.D.,No,FC St Pauli
+Abdoulie Ceesay,05.01.2004,21,Gambia,185,79,7,0,1,2,0,0,03.01.2025,Paide Linnameeskond,14,9,N.D.,6,FC St Pauli
+Andreas Hountondji,11.07.2002,23,Benín,190,86,9,3,0,1,0,0,08.07.2025,Standard Lüttich,9,27,N.D.,19,FC St Pauli
+Ricky-Jade Jones,08.11.2002,23,Inglaterra,183,70,0,0,0,0,0,0,01.07.2025,Peterborough United,9,26,N.D.,19,FC St Pauli
+Martijn Kaars,05.03.1999,26,Países Bajos,183,74,9,0,0,0,0,0,28.08.2025,1. FC Magdeburg,9,19,N.D.,No,FC St Pauli
+Lage Mathias Pereira,30.11.1996,28,Portugal,180,69,10,0,1,1,0,0,01.07.2025,Stade Brest,10,28,N.D.,No,FC St Pauli
+Mio Backhaus,16.04.2004,21,Alemania,194,82,13,0,0,0,0,0,01.07.2024,FC Volendam,13,30,N.D.,No,Werder Bremen
+Karl Hein,13.04.2002,23,Estonia,194,86,2,0,0,0,0,0,22.08.2025,FC Arsenal,2,13,30.06.2026,44,Werder Bremen
+Markus Kolke,18.08.1990,35,Alemania,187,90,0,0,0,0,0,0,01.07.2024,Hansa Rostock,0,25,30.06.2027,No,Werder Bremen
+Stefan Smarkalev,14.05.2007,18,Bulgaria,188,84,0,0,0,0,0,0,01.07.2024,Botev Plovdiv,0,37,N.D.,No,Werder Bremen
+Felix Agu,27.09.1999,26,Nigeria,180,73,6,0,0,1,0,0,01.07.2020,VfL Osnabrück,70,27,N.D.,1,Werder Bremen
+Karim Coulibaly,03.06.1993,32,Francia,184,78,0,0,0,0,0,0,31.01.2020,Willem II Tilburg,0,0,N.D.,No,Werder Bremen
+Olivier Deman,06.04.2000,25,Bélgica,181,74,0,0,0,0,0,0,01.07.2025,Royal Antwerp FC,38,2,N.D.,3,Werder Bremen
+Marco Friedl,16.03.1998,27,Austria,187,82,14,1,0,4,0,0,25.01.2018,Bayern München,171,32,N.D.,8,Werder Bremen
+Julian Malatini,31.05.2001,24,Argentina,191,82,3,0,0,1,0,0,16.01.2024,Defensa y Justicia,24,22,N.D.,No,Werder Bremen
+Amos Pieper,17.01.1998,27,Alemania,192,83,9,0,0,3,0,0,01.07.2022,Arminia Bielefeld,125,5,N.D.,No,Werder Bremen
+Mick Schmetgens,09.09.2007,18,Alemania,185,75,0,0,0,0,0,0,01.07.2021,JFV A/O/Heeslingen,0,33,N.D.,No,Werder Bremen
+Isaac Schmidt,07.12.1999,26,Suiza,172,68,8,1,0,1,0,0,28.08.2025,Leeds United,8,23,30.06.2026,5,Werder Bremen
+Niklas Stark,14.04.1995,30,Alemania,190,84,7,0,0,1,2,0,01.07.2022,Hertha BSC,277,4,N.D.,2,Werder Bremen
+Yukinari Sugawara,28.06.2000,25,Japón,179,71,14,0,3,1,0,0,26.08.2025,FC Southampton,14,3,N.D.,18,Werder Bremen
+Maximilian Wöber,04.02.1998,27,Austria,188,85,0,0,0,0,0,0,04.07.2025,Leeds United,25,39,N.D.,31,Werder Bremen
+Wesley Adeh,08.01.2007,18,Alemania,187,81,0,0,0,0,0,0,01.07.2019,SC Vahr-Blockdiek,0,34,N.D.,No,Werder Bremen
+Skelly Alvero,04.05.2002,23,Francia,202,93,2,0,0,0,0,0,31.01.2024,Olympique Lyon,20,28,N.D.,No,Werder Bremen
+Leonardo Bittencourt,19.12.1993,32,Alemania,170,72,8,0,0,1,0,0,02.09.2019,TSG Hoffenheim,295,10,N.D.,No,Werder Bremen
+Patrice Covic,25.06.2007,18,Croacia,176,72,9,0,0,1,0,0,01.07.2024,Hertha BSC,9,24,N.D.,No,Werder Bremen
+Isak Hansen-Aaröen,22.08.2004,21,Noruega,173,67,1,0,0,0,0,0,01.07.2025,Aalborg BK,4,21,N.D.,No,Werder Bremen
+Senne Lynen,19.02.1999,26,Bélgica,185,80,14,0,1,2,0,0,08.08.2023,Union Saint-Gilloise,78,14,N.D.,No,Werder Bremen
+Cameron Puertas,18.08.1998,27,España,178,74,13,0,0,3,0,0,04.09.2025,Al-Qadisiya,13,18,30.06.2026,No,Werder Bremen
+Romano Schmid,27.01.2000,25,Austria,168,70,15,2,4,3,0,0,01.07.2020,Wolfsberger AC,129,20,N.D.,31,Werder Bremen
+Jens Stage,08.11.1996,29,Dinamarca,187,81,13,5,1,3,0,0,01.07.2022,FC Kopenhagen,103,6,N.D.,2,Werder Bremen
+Mitchell Weiser,21.04.1994,31,Alemania,177,71,32,5,10,7,1,0,31.08.2021,Bayer 04 Leverkusen,232,8,N.D.,No,Werder Bremen
+Victor Boniface,23.12.2000,25,Nigeria,190,91,11,0,2,1,0,0,01.09.2025,Bayer 04 Leverkusen,53,44,N.D.,13,Werder Bremen
+Marco Grüll,06.07.1998,27,Austria,184,80,15,2,1,4,0,0,01.07.2024,Rapid Wien,45,17,N.D.,8,Werder Bremen
+Samuel Mbangula,16.01.2004,21,Bélgica,171,68,13,3,3,0,0,0,23.07.2025,Juventus Turin,13,7,N.D.,0,Werder Bremen
+Salim Musah,22.02.2006,19,Alemania,198,83,0,0,0,0,0,0,01.07.2017,VfL Oldenburg,0,29,N.D.,No,Werder Bremen
+Justin Njinmah,15.11.2000,25,Alemania,185,79,14,3,0,1,0,0,01.07.2023,Borussia Dortmund,65,11,N.D.,No,Werder Bremen
+Keke Topp,25.03.2004,21,Alemania,192,87,11,0,1,3,0,0,01.07.2024,FC Schalke 04,31,9,N.D.,No,Werder Bremen
+Patrick Drewes,04.02.1993,32,Alemania,194,87,0,0,0,0,0,0,01.07.2025,VfL Bochum,21,30,30.06.2027,No,Borussia Dortmund
+Gregor Kobel,06.12.1997,28,Suiza,196,88,15,0,0,1,0,0,01.07.2021,VfB Stuttgart,180,1,30.06.2028,19,Borussia Dortmund
+Alexander Meyer,13.04.1991,34,Alemania,195,88,0,0,0,0,0,0,01.07.2022,Jahn Regensburg,17,33,30.06.2027,No,Borussia Dortmund
+Silas Ostrzinski,19.11.2003,22,Alemania,198,93,0,0,0,0,0,0,01.07.2018,SpVgg Hagen,0,31,N.D.,No,Borussia Dortmund
+Aaron Anselmino,29.04.2005,20,Argentina,186,83,5,1,0,0,0,0,27.08.2025,FC Chelsea,5,28,30.06.2026,No,Borussia Dortmund
+Waldemar Anton,20.07.1996,29,Alemania,189,86,13,1,0,1,0,0,08.07.2024,VfB Stuttgart,235,3,30.06.2028,12,Borussia Dortmund
+Ramy Bensebaini,16.04.1995,30,Argelia,186,82,11,1,0,3,0,0,01.07.2023,Bor. Mönchengladbach,154,5,30.06.2027,78,Borussia Dortmund
+Emre Can,12.01.1994,31,Alemania,186,86,4,1,0,1,0,0,31.01.2020,Juventus Turin,184,23,30.06.2026,48,Borussia Dortmund
+Almugera Kabar,06.06.2006,19,Alemania,186,78,0,0,0,0,0,0,01.07.2019,Hammer SpVgg,5,42,30.06.2028,No,Borussia Dortmund
+Filippo Mane,08.03.2005,20,Italia,188,78,2,0,0,0,0,1,09.01.2022,Sampdoria Genua,2,39,30.06.2028,No,Borussia Dortmund
+Julian Ryerson,17.11.1997,28,Noruega,183,81,14,0,3,4,0,0,17.01.2023,1. FC Union Berlin,160,26,30.06.2028,39,Borussia Dortmund
+Nico Schlotterbeck,01.12.1999,26,Alemania,191,89,11,1,2,3,0,0,01.07.2022,SC Freiburg,160,4,30.06.2027,23,Borussia Dortmund
+Niklas Süle,03.09.1995,30,Alemania,195,91,3,0,1,0,0,0,01.07.2022,Bayern München,292,25,30.06.2026,49,Borussia Dortmund
+Daniel Svensson,12.02.2002,23,Suecia,183,72,15,1,1,0,0,0,03.02.2025,FC Nordsjaelland,27,24,30.06.2029,9,Borussia Dortmund
+Yan Couto,03.06.2002,23,Brasil,168,60,10,1,3,4,0,0,03.08.2024,Manchester City,31,2,N.D.,4,Borussia Dortmund
+Jobe Bellingham,23.09.2005,20,Inglaterra,191,75,14,0,0,0,0,1,10.06.2025,AFC Sunderland,14,7,30.06.2030,No,Borussia Dortmund
+Julian Brandt,02.05.1996,29,Alemania,185,83,12,4,2,0,0,0,01.07.2019,Bayer 04 Leverkusen,366,10,30.06.2026,48,Borussia Dortmund
+Carney Chukwuemeka,20.10.2003,22,Inglaterra,187,77,12,1,0,0,0,0,26.08.2025,FC Chelsea,22,17,30.06.2030,No,Borussia Dortmund
+Felix Nmecha,10.10.2000,25,Alemania,188,73,15,1,2,0,0,0,03.07.2023,VfL Wolfsburg,107,8,30.06.2028,6,Borussia Dortmund
+Salih Özcan,11.01.1998,27,Turquía,182,75,3,0,0,0,0,0,28.01.2025,VfL Wolfsburg,169,6,30.06.2026,27,Borussia Dortmund
+Marcel Sabitzer,17.03.1994,31,Austria,178,76,12,0,1,1,0,0,24.07.2023,Bayern München,248,20,30.06.2027,95,Borussia Dortmund
+Karim Adeyemi,18.01.2002,23,Alemania,180,75,15,4,1,2,0,0,01.07.2022,RB Salzburg,85,27,30.06.2027,11,Borussia Dortmund
+Maximilian Beier,17.10.2002,23,Alemania,185,72,13,4,2,2,0,0,12.08.2024,TSG Hoffenheim,84,14,30.06.2029,7,Borussia Dortmund
+Cole Campbell,20.02.2006,19,EE.UU,170,68,1,0,0,0,0,0,01.07.2022,UMF Breidablik,5,37,30.06.2028,No,Borussia Dortmund
+Julien Duranville,05.05.2006,19,Bélgica,170,59,0,0,0,0,0,0,27.01.2023,RSC Anderlecht,15,16,30.06.2027,2,Borussia Dortmund
+Fabio Silva,19.07.2002,23,Portugal,185,75,9,0,3,1,0,0,29.08.2025,Wolverhampton Wanderers,9,21,30.06.2030,1,Borussia Dortmund
+Serhou Guirassy,12.03.1996,29,Guinea,187,82,14,5,2,2,0,0,18.07.2024,VfB Stuttgart,115,9,30.06.2028,26,Borussia Dortmund
+Pascal Groß,15.06.1991,34,Alemania,181,78,11,0,1,0,0,0,02.01.2026,Borussia Dortmund,111,13,N.D.,16,Borussia Dortmund

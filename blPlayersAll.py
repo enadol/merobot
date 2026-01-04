@@ -8,7 +8,7 @@ from urllib.request import urlopen
 import json
 import pandas as pd
 
-clubes=["1 FC Koeln", "1 FSV Mainz 05", "1 FC Union Berlin", "Bayer 04 Leverkusen", "Bor Moenchengladbach", "Eintracht Frankfurt", "FC Augsburg", "FC Bayern Muenchen", "FC Schalke 04", "Hertha BSC", "RB Leipzig", "SC Freiburg", "TSG Hoffenheim", "VfB Stuttgart", "VfL Wolfsburg", "VfL Bochum", "Werder Bremen", "Borussia Dortmund"]
+clubes=["1 FC Koeln", "1 FSV Mainz 05", "1 FC Union Berlin", "Bayer 04 Leverkusen", "Bor Moenchengladbach", "Eintracht Frankfurt", "FC Augsburg", "FC Bayern Muenchen", "Hamburger SV", "1 FC Heidenheim", "RB Leipzig", "SC Freiburg", "TSG Hoffenheim", "VfB Stuttgart", "VfL Wolfsburg", "FC St Pauli", "Werder Bremen", "Borussia Dortmund"]
 dfTotal=[]
 for club in clubes:
     club3=club.replace(" ", "-").lower()
@@ -21,7 +21,8 @@ for club in clubes:
         dfTotal.append(element)
         
 df=pd.DataFrame(dfTotal)
-df.to_csv("blplayers2023.csv", index=False)
+df.to_csv("blplayers2025.csv", index=False, encoding='utf-8')
+print(df.head())
 
 pesonum=df.loc[df['Peso'].str.isnumeric()==True].reset_index()
 pesoavg=pesonum.Peso.astype(int).mean()
