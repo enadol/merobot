@@ -32,7 +32,7 @@ sextuples=["Andreas Müller"]
 eightuples=["Romulo "]
 exclude=["Michael Langer"]
 split_and_revert=["Dikeni Salifou", "Vieira Fabio"]
-vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann"]
+vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann", "Kevin Kampl"]
 #provisional para primera jornada
 no_games_season=["Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas ", "Dmytro Bogdanov",\
  "Bouanani Badredine", "Benjamin Henrichs"]
@@ -363,6 +363,11 @@ for knombre in kader:
 
     if knombre=="Jeremy Arevalo":
         player_for_url="jeremy-alberto-arevalo-mera"
+
+    if knombre=="Xavi":
+        vorname=knombre
+        nachname="Simons"
+        player_for_url=f"{vorname}-{nachname}"
 
 
 # Use URL elements to get to player page
