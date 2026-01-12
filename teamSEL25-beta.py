@@ -17,6 +17,7 @@ nachnamen=[]
 kader=[]
 team=[]
 #player="Sadio Mane"
+age_in_club_exceptions=["Felipe Chavez", "Wisdom Mike"] # para novatos que ya debutaron pero aún aparecen como parte de juveniles
 brasil_exceptions=["Paulinho", "Aaron", "Tuta", "Maurides", "Arthur", "Rogerio"]
 duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pellegrini", \
             "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", \
@@ -42,7 +43,7 @@ name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", 
  "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago", "Moreno Fell Fabio"]
 complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi", "Traoré Omar Haktab"]
 name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago Tomas",\
- "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite", "Fabio Silva", "Vinicius Souza", "Cleiton"]
+ "Badredine Bouanani", "Kaua Santos", "Yan Couto", "Diogo Leite", "Fabio Silva", "Vinicius Souza", "Cleiton", "Wisdom Mike"]
 #que ya jugaron en bundesliga pero se fueron y luego regresaron
 #prodigos=["Alexander Nübel", "Malik Tillman"]
 
@@ -51,7 +52,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="RB Leipzig"
+club="FC Bayern München"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -364,6 +365,9 @@ for knombre in kader:
     if knombre=="Jeremy Arevalo":
         player_for_url="jeremy-alberto-arevalo-mera"
 
+    if knombre=="David Santos":
+        player_for_url="david-daiber"
+
     if knombre=="Xavi":
         vorname=knombre
         nachname="Simons"
@@ -467,6 +471,9 @@ for knombre in kader:
                 vertrag="N.D."
         else:
             if knombre in no_games_at_all:
+                age_in_club="N.A."
+                vertrag="N.D."
+            elif knombre in age_in_club_exceptions:
                 age_in_club="N.A."
                 vertrag="N.D."
             else:
