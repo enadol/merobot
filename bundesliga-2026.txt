@@ -193,3 +193,24 @@
         RB Leipzig  1-5  Bayern München
         VfB Stuttgart  1-1  1. FC Union Berlin
         FC Augsburg  2-2  SC Freiburg
+        Werder Bremen  3-2  TSG Hoffenheim
+        FC St. Pauli  3-0  RB Leipzig
+17. SPIELTAG
+[Tue. 27.1.]
+        VfB Stuttgart  2-1  Eintracht Frankfurt
+        Borussia Dortmund  2-1  Werder Bremen
+        1. FSV Mainz 05  2-0  1. FC Heidenheim
+        VfL Wolfsburg  5-1  FC St. Pauli
+        RB Leipzig  1-3  SC Freiburg
+        TSG Hoffenheim  1-1  Bor. Mönchengladbach
+        1. FC Köln  3-3  Bayern München
+        FC Augsburg  3-2  1. FC Union Berlin
+        Hamburger SV  1-1  Bayer 04 Leverkusen
+18. SPIELTAG
+[Wed. 04.3.]
+        Werder Bremen  1-0  Eintracht Frankfurt
+        Borussia Dortmund  2-1  FC St. Pauli
+        VfL Wolfsburg  0-0  1. FC Heidenheim
+        TSG Hoffenheim  1-5  Bayer 04 Leverkusen
+        1. FC Köln  1-1  1. FSV Mainz 05
+        Hamburger SV  2-2  Bor. Mönchengladbach
