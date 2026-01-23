@@ -23,7 +23,7 @@ duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pell
             "Patrick Herrmann", "Christian Groß", "Ilia Gruev", "Dennis Geiger", "Marco Friedl", \
                 "Matthias Bader", "Fabio Carvalho", "Mahmoud Dahoud", "Denis Huseinbasic", \
             "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", \
-        "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljiubicic", \
+        "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljubicic", \
     "Nick Schmidt", "Daniel Klein", "Nick Schmidt", "Oliver Sorg", \
 "Lazar Jovanovic", "Marius Müller", "Fabio Baldé"]
 triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz", "Cleiton"]
