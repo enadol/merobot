@@ -36,7 +36,7 @@ exclude=["Michael Langer"]
 split_and_revert=["Dikeni Salifou", "Vieira Fabio"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann", "Kevin Kampl"]
 #provisional para primera jornada
-no_games_season=["Tarek Buchmann", "Jonah Kusi-Asare", "Jamal Musiala", "Silas ", "Dmytro Bogdanov",\
+no_games_season=["Tarek Buchmann", "Jonah Kusi-Asare", "Dmytro Bogdanov",\
  "Bouanani Badredine", "Benjamin Henrichs"]
 no_games_at_all=["Leon Klanac", "Cleiton "]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
@@ -53,7 +53,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="RB Leipzig"
+club="FC Bayern München"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
