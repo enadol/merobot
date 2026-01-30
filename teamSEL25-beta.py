@@ -11,6 +11,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
 
 vornamen=[]
 nachnamen=[]
@@ -52,7 +53,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="FC Bayern München"
+club="Borussia Dortmund"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -107,7 +108,11 @@ club_for_url=for_url(club)
 
 DRIVER_PATH='C:/Users/enado/ChromeDriver'
 service = webdriver.ChromeService(executable_path = 'C:/Users/enado/ChromeDriver/chromedriver.exe')
-driver = webdriver.Chrome(service=service)
+chrome_options=Options()
+chrome_options.add_argument("--headless=new")
+chrome_options.add_argument("--service=service")
+driver = webdriver.Chrome(options=chrome_options)
+#driver = webdriver.Chrome(service=service)
 #driver.set_page_load_timeout(60)
 driver.implicitly_wait(0.5)
 driver.maximize_window()
