@@ -190,7 +190,7 @@ Selección : No,
 
 Jugador : Edmond Tapsoba,
 Nacimiento : 02.02.1999,
-Edad : 26,
+Edad : 27,
 Nación : Burkina Faso,
 Altura : 192,
 Peso : 84,
