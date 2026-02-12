@@ -26,7 +26,7 @@ duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pell
             "Robert Wagner", "Carl Johansson", "Pascal Groß", "Krisztian Lisztes", \
         "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljubicic", \
     "Nick Schmidt", "Daniel Klein", "Nick Schmidt", "Oliver Sorg", \
-"Lazar Jovanovic", "Marius Müller", "Fabio Baldé"]
+"Lazar Jovanovic", "Marius Müller", "Fabio Baldé", "Ezechiel 'Banzuzi", "Ayodele Thomas"]
 triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz", "Cleiton"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
@@ -37,7 +37,7 @@ split_and_revert=["Dikeni Salifou", "Vieira Fabio"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann", "Kevin Kampl"]
 #provisional para primera jornada
 no_games_season=["Tarek Buchmann", "Jonah Kusi-Asare", "Dmytro Bogdanov",\
- "Bouanani Badredine", "Love Ahrrov"]
+ "Bouanani Badredine", "Love Ahrrov", "Andrik Markgraf"]
 no_games_at_all=["Leon Klanac", "Cleiton "]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas",\
@@ -53,7 +53,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Union Berlin"
+club="RB Leipzig"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -109,7 +109,7 @@ club_for_url=for_url(club)
 DRIVER_PATH='C:/Users/enado/ChromeDriver'
 service = webdriver.ChromeService(executable_path = 'C:/Users/enado/ChromeDriver/chromedriver.exe')
 chrome_options=Options()
-chrome_options.add_argument("--headless=new")
+#chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--service=service")
 driver = webdriver.Chrome(options=chrome_options)
 #driver = webdriver.Chrome(service=service)
