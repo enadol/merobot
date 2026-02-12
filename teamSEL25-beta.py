@@ -28,7 +28,7 @@ duplicates=["Alexander Meyer", "Soumaila Coulibaly", "Tobias Strobl", "Luca Pell
         "Igor Matanovic", "Eljif Elmas", "Lutsharel Geertruida", "Marin Ljubicic", \
     "Nick Schmidt", "Daniel Klein", "Nick Schmidt", "Oliver Sorg", \
 "Lazar Jovanovic", "Marius Müller", "Fabio Baldé", "Ezechiel 'Banzuzi", "Ayodele Thomas"]
-triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz", "Cleiton"]
+triplicates=["Maximilian Bauer", "Florian Müller", "Luis Diaz"]
 cuatruples=["Timo Becker"]
 quintuples=["Arthur", "Rogerio"]
 sextuples=["Andreas Müller"]
@@ -39,8 +39,8 @@ vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann", "Kevin Kampl"]
 #provisional para primera jornada
 no_games_season=["Tarek Buchmann", "Jonah Kusi-Asare", "Dmytro Bogdanov",\
  "Bouanani Badredine", "Love Ahrrov", "Andrik Markgraf", "Nick Rothweiler"]
-no_games_at_all=["Leon Klanac", "Cleiton ", "Paul Tschernuth"]
-no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
+no_games_at_all=["Leon Klanac", "Cleiton ", "Paul Tschernuth","Jakub Zielinski"]
+no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka", "Jakub Zielinski", "Cleiton "]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas",\
  "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago", "Moreno Fell Fabio"]
 complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi", "Traoré Omar Haktab"]
@@ -54,7 +54,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Heidenheim"
+club="Vfl Wolfsburg"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -382,6 +382,9 @@ def get_player_data(knombre):
     if knombre=="Arnaud Kalimuendo":
         player_for_url="arnaud-kalimuendo-muinga"
 
+    if knombre=="Jonas Adjetey":
+        player_for_url="jonas-adjei"
+
 
 # Use URL elements to get to player page
     if knombre in no_complete:
@@ -456,7 +459,7 @@ def get_player_data(knombre):
     elif knombre in no_complete:
         age=""
         pplayed="0"
-        #total_bundesliga="0"
+        total_bundesliga="0"
         golesbl="0"
         assists="0"
         gelbe="0"
@@ -525,7 +528,7 @@ def get_player_data(knombre):
             gelbrot="0"
             rot="0"
             desde="N.A."
-            laenderspiele="No"
+            #laenderspiele="No"
    #separar bundesliga de otras ligas y de 2a Bundesliga
         if e.text.strip()=="Bundesliga":
             indice=player_performance.index(e)
