@@ -53,7 +53,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="RB Leipzig"
+club="TSG Hoffenheim"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -109,7 +109,7 @@ club_for_url=for_url(club)
 DRIVER_PATH='C:/Users/enado/ChromeDriver'
 service = webdriver.ChromeService(executable_path = 'C:/Users/enado/ChromeDriver/chromedriver.exe')
 chrome_options=Options()
-#chrome_options.add_argument("--headless=new")
+chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--service=service")
 driver = webdriver.Chrome(options=chrome_options)
 #driver = webdriver.Chrome(service=service)
