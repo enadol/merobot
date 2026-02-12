@@ -12,6 +12,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+from tqdm import tqdm
 
 vornamen=[]
 nachnamen=[]
@@ -37,8 +38,8 @@ split_and_revert=["Dikeni Salifou", "Vieira Fabio"]
 vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann", "Kevin Kampl"]
 #provisional para primera jornada
 no_games_season=["Tarek Buchmann", "Jonah Kusi-Asare", "Dmytro Bogdanov",\
- "Bouanani Badredine", "Love Ahrrov", "Andrik Markgraf"]
-no_games_at_all=["Leon Klanac", "Cleiton "]
+ "Bouanani Badredine", "Love Ahrrov", "Andrik Markgraf", "Nick Rothweiler"]
+no_games_at_all=["Leon Klanac", "Cleiton ", "Paul Tschernuth"]
 no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka"]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas",\
  "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago", "Moreno Fell Fabio"]
@@ -53,7 +54,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="TSG Hoffenheim"
+club="1 FC Heidenheim"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -177,7 +178,7 @@ for i in kader_names[1:]:
         if nachname=="Heuer" and vorname=="Fernandes Daniel":
             kader.append("Daniel Heuer Fernandes")
 
-for knombre in kader:
+def get_player_data(knombre):
     player_for_url=for_url(knombre)
     #URL exception cases
     if knombre in duplicates:
@@ -446,6 +447,7 @@ for knombre in kader:
                 total_bundesliga=bundesliga.strip()
             else:
                 total_bundesliga="0"
+        
 
     if knombre in vereinslos:
         age=""
@@ -454,7 +456,7 @@ for knombre in kader:
     elif knombre in no_complete:
         age=""
         pplayed="0"
-        partidosbl="0"
+        #total_bundesliga="0"
         golesbl="0"
         assists="0"
         gelbe="0"
@@ -516,13 +518,14 @@ for knombre in kader:
     #para chavales de la cantera sin debutar
         if "Bundesliga" not in e.text:
             pplayed="0"
-            partidosbl="0"
+            #total_bundesliga="0"
             golesbl="0"
             assists="0"
             gelbe="0"
             gelbrot="0"
             rot="0"
             desde="N.A."
+            laenderspiele="No"
    #separar bundesliga de otras ligas y de 2a Bundesliga
         if e.text.strip()=="Bundesliga":
             indice=player_performance.index(e)
@@ -533,7 +536,7 @@ for knombre in kader:
     if len(elementix2)>1:
         if knombre in exclude:
             pplayed="0"
-            partidosbl="0"
+            #total_bundesliga="0"
             golesbl="0"
             assists="0"
             gelbe="0"
@@ -542,7 +545,7 @@ for knombre in kader:
 
         elif knombre in no_games_season:
             pplayed="0"
-            partidosbl="0"
+            #total_bundesliga="0"
             golesbl="0"
             assists="0"
             gelbe="0"
@@ -551,7 +554,7 @@ for knombre in kader:
 
         elif knombre in no_games_at_all:
             pplayed="0"
-            partidosbl="0"
+            total_bundesliga="0"
             golesbl="0"
             assists="0"
             gelbe="0"
@@ -603,7 +606,14 @@ for knombre in kader:
 
     player_dict={"Jugador": knombre.strip(), "Nacimiento": born1, "Edad": age, "Nación": nacion_txt, "Altura": altura_txt, "Peso": peso_txt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": age_in_club, "De": fromclub, "BL": total_bundesliga, "Número": numero, "Contrato": vertrag, "Selección": laenderspiele}
 #     playerdict={"Jugador": knombre, "Nacimiento": born1, "Edad": age, "Nación": naciontxt, "Altura": alturatxt, "Peso": pesotxt, "PJ": pplayed, "Goles": golesbl, "Asistencias": assists, "TA": gelbe, "TAR": gelbrot, "TR": rot, "Desde": ageinclub, "De": fromclub, "BL": partidosbl, "Número": numero}
-    team.append(player_dict)
+    return player_dict
+
+for knombre in tqdm(kader):
+    try:
+        player_data = get_player_data(knombre)
+        team.append(player_data)
+    except Exception as e:
+        print(f"Error processing {knombre} (possible 404): {e}")
 
 with open(f"C:/Users/enado/Proyectos/Python33/merobot/{club_for_url}.txt", "w", encoding="utf-8") as file:
     for item in team:
