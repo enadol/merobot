@@ -10,7 +10,7 @@
         1. FSV Mainz 05  0-1  1. FC Köln
         Bor. Mönchengladbach  0-0  Hamburger SV
 2. SPIELTAG
-[Fri. 12.9.]
+[Fri. 29.8.]
         Hamburger SV  0-2  FC St. Pauli
         RB Leipzig  2-0  1. FC Heidenheim
         Werder Bremen  3-3  Bayer 04 Leverkusen
@@ -21,7 +21,7 @@
         Borussia Dortmund  3-0  1. FC Union Berlin
         1. FC Köln  4-1  SC Freiburg
 3. SPIELTAG
-[Fri. 19.9.]
+[Fri. 12.9.]
         Bayer 04 Leverkusen  3-1  Eintracht Frankfurt
         SC Freiburg  3-1  VfB Stuttgart
         1. FSV Mainz 05  0-1  RB Leipzig
@@ -32,7 +32,7 @@
         FC St. Pauli  2-1  FC Augsburg
         Bor. Mönchengladbach  0-4  Werder Bremen
 4. SPIELTAG
-[Fri. 26.9.]
+[Fri. 19.9.]
         VfB Stuttgart  2-0  FC St. Pauli
         Werder Bremen  0-3  SC Freiburg
         FC Augsburg  1-4  1. FSV Mainz 05
@@ -43,7 +43,7 @@
         Bayer 04 Leverkusen  1-1  Bor. Mönchengladbach
         Borussia Dortmund  1-0  VfL Wolfsburg
 5. SPIELTAG
-[Fri. 03.10.]
+[Fri. 26.9.]
         Bayern München  4-0  Werder Bremen
         1. FSV Mainz 05  0-2  Borussia Dortmund
         VfL Wolfsburg  0-1  RB Leipzig
@@ -54,7 +54,7 @@
         1. FC Köln  1-2  VfB Stuttgart
         1. FC Union Berlin  0-0  Hamburger SV
 6. SPIELTAG
-[Fri. 17.10.]
+[Fri. 03.10.]
         TSG Hoffenheim  0-1  1. FC Köln
         Bayer 04 Leverkusen  2-0  1. FC Union Berlin
         Borussia Dortmund  1-1  RB Leipzig
@@ -65,7 +65,7 @@
         Hamburger SV  4-0  1. FSV Mainz 05
         Bor. Mönchengladbach  0-0  SC Freiburg
 7. SPIELTAG
-[Fri. 24.10.]
+[Fri. 17.10.]
         1. FC Union Berlin  3-1  Bor. Mönchengladbach
         1. FSV Mainz 05  3-4  Bayer 04 Leverkusen
         RB Leipzig  2-1  Hamburger SV
@@ -76,7 +76,7 @@
         SC Freiburg  2-2  Eintracht Frankfurt
         FC St. Pauli  0-3  TSG Hoffenheim
 8. SPIELTAG
-[Fri. 31.10.]
+[Fri. 24.10.]
         Werder Bremen  1-0  1. FC Union Berlin
         Eintracht Frankfurt  2-0  FC St. Pauli
         FC Augsburg  0-6  RB Leipzig
@@ -87,7 +87,7 @@
         Bayer 04 Leverkusen  2-0  SC Freiburg
         VfB Stuttgart  2-1  1. FSV Mainz 05
 9. SPIELTAG
-[Fri. 07.11.]
+[Fri. 31.10.]
         FC Augsburg  0-1  Borussia Dortmund
         1. FSV Mainz 05  1-1  Werder Bremen
         RB Leipzig  3-1  VfB Stuttgart
@@ -98,7 +98,7 @@
         1. FC Köln  4-1  Hamburger SV
         VfL Wolfsburg  2-3  TSG Hoffenheim
 10. SPIELTAG
-[Fri. 21.11.]
+[Fri. 07.11.]
         Werder Bremen  2-1  VfL Wolfsburg
         Bayer 04 Leverkusen  6-0  1. FC Heidenheim
         1. FC Union Berlin  2-2  Bayern München
@@ -109,7 +109,7 @@
         VfB Stuttgart  3-2  FC Augsburg
         Eintracht Frankfurt  1-0  1. FSV Mainz 05
 11. SPIELTAG
-[Fri. 28.11.]
+[Fri. 21.11.]
         1. FSV Mainz 05  1-1  TSG Hoffenheim
         Bayern München  6-2  SC Freiburg
         Borussia Dortmund  3-3  VfB Stuttgart
@@ -120,7 +120,7 @@
         RB Leipzig  2-0  Werder Bremen
         FC St. Pauli  0-1  1. FC Union Berlin
 12. SPIELTAG
-[Fri. 05.12.]
+[Fri. 28.11.]
         Bor. Mönchengladbach  0-0  RB Leipzig
         Bayern München  3-1  FC St. Pauli
         Werder Bremen  1-1  1. FC Köln
@@ -131,7 +131,7 @@
         Eintracht Frankfurt  1-1  VfL Wolfsburg
         SC Freiburg  4-0  1. FSV Mainz 05
 13. SPIELTAG
-[Fri. 12.12.]
+[Fri. 05.12.]
         1. FSV Mainz 05  0-1  Bor. Mönchengladbach
         VfB Stuttgart  0-5  Bayern München
         VfL Wolfsburg  3-1  1. FC Union Berlin
@@ -142,7 +142,7 @@
         Hamburger SV  3-2  Werder Bremen
         Borussia Dortmund  2-0  TSG Hoffenheim
 14. SPIELTAG
-[Fri. 19.12.]
+[Fri. 12.12.]
         1. FC Union Berlin  3-1  RB Leipzig
         Eintracht Frankfurt  1-0  FC Augsburg
         Bor. Mönchengladbach  1-3  VfL Wolfsburg
@@ -153,7 +153,7 @@
         Bayern München  2-2  1. FSV Mainz 05
         Werder Bremen  0-4  VfB Stuttgart
 15. SPIELTAG
-[Fri. 09.1.]
+[Fri. 19.12.]
         Borussia Dortmund  2-0  Bor. Mönchengladbach
         VfB Stuttgart  0-0  TSG Hoffenheim
         VfL Wolfsburg  3-4  SC Freiburg
@@ -164,7 +164,7 @@
         1. FSV Mainz 05  0-0  FC St. Pauli
         1. FC Heidenheim  0-4  Bayern München
 16. SPIELTAG
-[Tue. 27.1.]
+[Fri. 09.1.]
         Eintracht Frankfurt  3-3  Borussia Dortmund
         SC Freiburg  2-1  Hamburger SV
         1. FC Union Berlin  2-2  1. FSV Mainz 05
@@ -174,7 +174,7 @@
         Bayern München  8-1  VfL Wolfsburg
         Werder Bremen  0-2  TSG Hoffenheim
 17. SPIELTAG
-[Wed. 04.3.]
+[Tue. 27.1.]
         FC St. Pauli  1-1  RB Leipzig
         VfB Stuttgart  3-2  Eintracht Frankfurt
         Borussia Dortmund  3-0  Werder Bremen
@@ -185,7 +185,7 @@
         1. FC Köln  1-3  Bayern München
         FC Augsburg  1-1  1. FC Union Berlin
 18. SPIELTAG
-[Fri. 23.1.]
+[Wed. 04.3.]
         Werder Bremen  3-3  Eintracht Frankfurt
         Borussia Dortmund  3-2  FC St. Pauli
         VfL Wolfsburg  1-1  1. FC Heidenheim
@@ -196,7 +196,7 @@
         VfB Stuttgart  1-1  1. FC Union Berlin
         FC Augsburg  2-2  SC Freiburg
 19. SPIELTAG
-[Tue. 27.1.]
+[Fri. 23.1.]
         FC St. Pauli  0-0  Hamburger SV
         Bayern München  1-2  FC Augsburg
         Bayer 04 Leverkusen  1-0  Werder Bremen
@@ -207,7 +207,7 @@
         Bor. Mönchengladbach  0-3  VfB Stuttgart
         SC Freiburg  2-1  1. FC Köln
 20. SPIELTAG
-[Fri. 30.1.]
+[Tue. 27.1.]
         1. FC Köln  1-0  VfL Wolfsburg
         Eintracht Frankfurt  1-3  Bayer 04 Leverkusen
         RB Leipzig  1-2  1. FSV Mainz 05
@@ -218,7 +218,7 @@
         VfB Stuttgart  1-0  SC Freiburg
         Borussia Dortmund  3-2  1. FC Heidenheim
 21. SPIELTAG
-[Fri. 06.2.]
+[Fri. 30.1.]
         1. FC Union Berlin  1-1  Eintracht Frankfurt
         SC Freiburg  1-0  Werder Bremen
         1. FSV Mainz 05  2-0  FC Augsburg
@@ -228,3 +228,14 @@
         Bor. Mönchengladbach  1-1  Bayer 04 Leverkusen
         1. FC Köln  1-2  RB Leipzig
         Bayern München  5-1  TSG Hoffenheim
+22. SPIELTAG
+[Fri. 06.2.]
+        Borussia Dortmund  4-0  1. FSV Mainz 05
+        Bayer 04 Leverkusen  4-0  FC St. Pauli
+        Eintracht Frankfurt  3-0  Bor. Mönchengladbach
+        Werder Bremen  0-3  Bayern München
+        TSG Hoffenheim  3-0  SC Freiburg
+        Hamburger SV  3-2  1. FC Union Berlin
+        VfB Stuttgart  3-1  1. FC Köln
+        FC Augsburg  1-0  1. FC Heidenheim
+        RB Leipzig  2-2  VfL Wolfsburg
