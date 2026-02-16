@@ -39,8 +39,8 @@ vereinslos=["Max Kruse", "Anwar El Ghazi", "Mats Heitmann", "Kevin Kampl"]
 #provisional para primera jornada
 no_games_season=["Tarek Buchmann", "Jonah Kusi-Asare", "Dmytro Bogdanov",\
  "Bouanani Badredine", "Love Ahrrov", "Andrik Markgraf", "Nick Rothweiler"]
-no_games_at_all=["Leon Klanac", "Cleiton ", "Paul Tschernuth","Jakub Zielinski"]
-no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka", "Jakub Zielinski", "Cleiton "]
+no_games_at_all=["Leon Klanac", "Cleiton ", "Paul Tschernuth","Jakub Zielinski", "Ayodele Thomas", "Suleman Sani"]
+no_complete=["Matija Marsenic", "Oluwaseun Ogbemudia", "Bungi Joyeux Masanka", "Jakub Zielinski", "Cleiton ", "Suleman Sani"]
 name_plus_complex_surname=["van den Berg Rav", "El Mala Said", "El Mala Malek", "Skov Olsen Andreas",\
  "Heuer Fernandes Daniel", "Ben Seghir Eliesse", "El Khannouss Bilal", "da Costa Danny", "Pereira Cardoso Tiago", "Moreno Fell Fabio"]
 complex_name_surname=["Johannesson Isak Bergmann", "Lokonga Albert Sambi", "Traoré Omar Haktab"]
