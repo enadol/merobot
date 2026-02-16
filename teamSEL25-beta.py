@@ -54,7 +54,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="1 FC Heidenheim"
+club="RB Leipzig"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
