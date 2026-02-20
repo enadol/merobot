@@ -54,7 +54,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="Borussia Dortmund"
+club="RB Leipzig"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -384,6 +384,10 @@ def get_player_data(knombre):
 
     if knombre=="Jonas Adjetey":
         player_for_url="jonas-adjei"
+
+    # Mientras debuta
+    if knombre=="Ayodele Thomas":
+        total_bundesliga="0"
 
 
 # Use URL elements to get to player page
