@@ -388,6 +388,9 @@ def get_player_data(knombre):
     # Mientras debuta
     if knombre=="Ayodele Thomas":
         total_bundesliga="0"
+        laenderspiele="No"
+        pplayed="0"
+        vertrag="31.06.2031"
 
 
 # Use URL elements to get to player page
