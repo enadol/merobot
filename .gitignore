@@ -14,3 +14,4 @@ requirements.txt
 *.md
 *.xlsx
 *.ps1
+transfer_server.py
