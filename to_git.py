@@ -6,7 +6,7 @@ import subprocess
 try:
     # Run the batch file to set up redirection
     # ON PC
-    subprocess.run(['F:\\blrobot26\\to_git.bat'], check=False)
+    subprocess.run(['C:\\Users\\enado\\Proyectos\\Python33\\merobot\\to_git.bat'], check=False)
     # ON LAPTOP
     #subprocess.run(['C:\\Users\\enado\\Proyectos\\Python33\\blrobot26\\redir.bat'], check=False)
     #subprocess.run(['C:\\Users\\enado\\blrobot25\\redir.bat'], check=False) #or your own path
