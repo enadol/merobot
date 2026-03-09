@@ -262,3 +262,12 @@
         VfB Stuttgart  4-0  VfL Wolfsburg
         Eintracht Frankfurt  2-0  SC Freiburg
         Hamburger SV  1-2  RB Leipzig
+        Bayern München  4-1  Bor. Mönchengladbach
+        SC Freiburg  3-3  Bayer 04 Leverkusen
+        1. FSV Mainz 05  2-2  VfB Stuttgart
+        RB Leipzig  2-1  FC Augsburg
+        VfL Wolfsburg  1-2  Hamburger SV
+        1. FC Heidenheim  2-4  TSG Hoffenheim
+        1. FC Köln  1-2  Borussia Dortmund
+        FC St. Pauli  0-0  Eintracht Frankfurt
+        1. FC Union Berlin  1-4  Werder Bremen
