@@ -532,7 +532,7 @@ Selección : No,
 
 Jugador : Samuele Inacio,
 Nacimiento : 02.04.2008,
-Edad : 17,
+Edad : 18,
 Nación : Italia,
 Altura : N.D.,
 Peso : N.D.,

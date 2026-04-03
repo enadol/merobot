@@ -54,7 +54,7 @@ name_leave=["Fabio Vieira", "Arthur Chaves", "Luis Diaz", "Aleix Garcia", "Tiago
 # 1 FC Köln FC Bayern München
 # 1 FSV Mainz 05 FC St Pauli VfL Bochum Hamburger SV
 
-club="Borussia Dortmund"
+club="VfB Stuttgart"
 torneo="2025-26"
 
 klassvita="kick__vita__header__person-detail-kvpair-info"
@@ -401,7 +401,7 @@ def get_player_data(knombre):
         url_player=f"https://kicker.de/{player_for_url}/spieler/bundesliga/{torneo}/{club_for_url}"
  # EJEMPLO https://www.kicker.de/niclas-fuellkrug/spieler/bundesliga/2022-23/werder-bremen
     driver.get(url_player)
-    print(f'Processing {knombre} at URL: {url_player}')
+    print(f' Processing {knombre} at URL: {url_player}')
 
     #para considerar chavales que vienen de inferiores o que solo han jugado en un equipo
     def past_club_index(pastclub):
