@@ -295,3 +295,14 @@
         1. FSV Mainz 05  2-1  Eintracht Frankfurt
         FC St. Pauli  1-2  SC Freiburg
         FC Augsburg  2-5  VfB Stuttgart
+28. SPIELTAG
+[Fri. 13.3.]
+        Bayer 04 Leverkusen  6-3  VfL Wolfsburg
+        SC Freiburg  2-3  Bayern München
+        Werder Bremen  1-2  RB Leipzig
+        Bor. Mönchengladbach  2-2  1. FC Heidenheim
+        TSG Hoffenheim  1-2  1. FSV Mainz 05
+        Hamburger SV  1-1  FC Augsburg
+        VfB Stuttgart  0-2  Borussia Dortmund
+        1. FC Union Berlin  1-1  FC St. Pauli
+        Eintracht Frankfurt  2-2  1. FC Köln
